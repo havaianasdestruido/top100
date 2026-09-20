@@ -7,6 +7,6 @@ What it writes:
 - `data/TOP_<LANGUAGE>_100.md` — a readable table: rank, name, stars, forks, open issues, license, last push, description.
 
 Notes:
-- Languages are set via the `languages` workflow input (comma-separated), defaulting to `Python,JavaScript,TypeScript,Go,Rust,Java,C++,C,C#,Ruby`.
+- Languages are set via the `languages` workflow input (comma-separated), defaulting to `TypeScript,Python,JavaScript,Java,C#,C++,PHP,Shell,C,Go,Rust,Ruby,Kotlin,Swift,Dart,HTML,CSS,SQL,Scala,Lua,Groovy,Objective-C,Perl,Haskell,Assembly,R,Julia,Elixir,PowerShell,Nix`.
 - The search-result item omits a handful of fields only the single-repo endpoint returns (e.g. `subscribers_count`, `network_count`).
 - The workflow needs `permissions: contents: write` (included) so it can commit the results back.
