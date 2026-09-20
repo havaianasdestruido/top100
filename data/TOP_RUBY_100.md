@@ -1,19 +1,19 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,330** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,329** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,066 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
 | 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,279 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
-| 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,674 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
+| 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,675 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,305 | 7,500 | 4,560 | AGPL-3.0 | 2026-09-20 | Your self-hosted, globally interconnected microblogging community |
 | 5 | [huginn/huginn](https://github.com/huginn/huginn) | 49,983 | 4,300 | 698 | MIT | 2026-09-20 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
 | 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,731 | 11,359 | 3 | BSD-2-Clause | 2026-09-20 | 🍺 The Package Manager for Everywhere |
 | 7 | [discourse/discourse](https://github.com/discourse/discourse) | 47,872 | 9,020 | 221 | GPL-2.0 | 2026-09-19 | A platform for community discussion. Free, open, simple. |
 | 8 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42,134 | 6,033 | 665 | MIT | 2026-09-20 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
 | 9 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39,469 | 2,645 | 196 | MPL-2.0 | 2026-09-19 | API Documentation Browser |
-| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,033 | 14,971 | 614 | NOASSERTION | 2026-09-17 | Metasploit Framework |
+| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,033 | 14,972 | 614 | NOASSERTION | 2026-09-17 | Metasploit Framework |
 | 11 | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | 38,680 | 2,043 | 151 | — | 2024-08-21 | A curated list of engineering blogs |
 | 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37,008 | 8,992 | 1,452 | NOASSERTION | 2026-09-19 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Clou... |
 | 13 | [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33,681 | 3,602 | 65 | — | 2024-06-02 | A curated list of awesome awesomeness |

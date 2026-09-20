@@ -10,12 +10,12 @@ Ranked by stars. GitHub reports **2,521,379** total repositories matching `langu
 | 4 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 127,856 | 44,748 | 3,085 | Apache-2.0 | 2026-09-20 | Production-Grade Container Scheduling and Management |
 | 5 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111,132 | 14,469 | 5,023 | Apache-2.0 | 2026-09-20 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 | 6 | [fatedier/frp](https://github.com/fatedier/frp) | 109,526 | 15,215 | 48 | Apache-2.0 | 2026-09-15 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
-| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 106,942 | 6,188 | 115 | NOASSERTION | 2026-09-20 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talkin... |
-| 8 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,064 | 10,791 | 1,465 | Apache-2.0 | 2026-09-20 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent c... |
+| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 106,942 | 6,189 | 115 | NOASSERTION | 2026-09-20 | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talkin... |
+| 8 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 91,065 | 10,791 | 1,465 | Apache-2.0 | 2026-09-20 | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent c... |
 | 9 | [gohugoio/hugo](https://github.com/gohugoio/hugo) | 89,870 | 8,379 | 221 | Apache-2.0 | 2026-09-19 | The world’s fastest framework for building websites. |
 | 10 | [gin-gonic/gin](https://github.com/gin-gonic/gin) | 89,241 | 8,702 | 757 | MIT | 2026-09-19 | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly bet... |
 | 11 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | 88,801 | 5,486 | 387 | MPL-2.0 | 2026-09-15 | Open Source Continuous File Synchronization |
-| 12 | [junegunn/fzf](https://github.com/junegunn/fzf) | 83,151 | 3,265 | 330 | MIT | 2026-09-14 | :cherry_blossom: A command-line fuzzy finder |
+| 12 | [junegunn/fzf](https://github.com/junegunn/fzf) | 83,151 | 3,266 | 330 | MIT | 2026-09-14 | :cherry_blossom: A command-line fuzzy finder |
 | 13 | [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 82,528 | 3,043 | 1,049 | MIT | 2026-09-20 | simple terminal UI for git commands |
 | 14 | [netdata/netdata](https://github.com/netdata/netdata) | 80,606 | 6,631 | 408 | GPL-3.0 | 2026-09-20 | The fastest path to AI-powered full stack observability, even for lean teams. |
 | 15 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | 75,889 | 4,980 | 293 | Apache-2.0 | 2026-09-19 | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
@@ -44,12 +44,12 @@ Ranked by stars. GitHub reports **2,521,379** total repositories matching `langu
 | 38 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 46,679 | 11,716 | 176 | GPL-3.0 | 2026-09-18 | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun... |
 | 39 | [cli/cli](https://github.com/cli/cli) | 46,342 | 9,054 | 1,088 | MIT | 2026-09-19 | GitHub’s official command line tool |
 | 40 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46,175 | 4,257 | 1,438 | Apache-2.0 | 2026-09-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 41 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 45,047 | 1,758 | 230 | MIT | 2026-09-17 | A powerful little TUI framework 🏗 |
-| 42 | [spf13/cobra](https://github.com/spf13/cobra) | 44,620 | 3,654 | 445 | Apache-2.0 | 2026-07-11 | A Commander for modern Go CLI interactions |
+| 41 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | 45,047 | 1,759 | 230 | MIT | 2026-09-17 | A powerful little TUI framework 🏗 |
+| 42 | [spf13/cobra](https://github.com/spf13/cobra) | 44,620 | 3,656 | 445 | Apache-2.0 | 2026-07-11 | A Commander for modern Go CLI interactions |
 | 43 | [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 44,020 | 4,273 | 72 | MIT | 2026-09-07 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific ... |
 | 44 | [juanfont/headscale](https://github.com/juanfont/headscale) | 43,995 | 2,578 | 149 | BSD-3-Clause | 2026-09-17 | An open source, self-hosted implementation of the Tailscale control server |
 | 45 | [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) | 43,899 | 10,404 | 139 | BSD-3-Clause | 2024-05-12 | A golang ebook intro how to build a web with golang |
-| 46 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 42,150 | 8,990 | 3,393 | LGPL-3.0 | 2026-09-20 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 46 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 42,151 | 8,990 | 3,393 | LGPL-3.0 | 2026-09-20 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | 47 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 41,691 | 5,898 | 54 | MPL-2.0 | 2026-09-20 | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 | 48 | [pingcap/tidb](https://github.com/pingcap/tidb) | 40,561 | 6,242 | 7,089 | Apache-2.0 | 2026-09-20 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions... |
 | 49 | [schollz/croc](https://github.com/schollz/croc) | 40,394 | 1,621 | 2 | MIT | 2026-09-20 | Easily and securely send things from one computer to another :crocodile: :package: |
@@ -59,7 +59,7 @@ Ranked by stars. GitHub reports **2,521,379** total repositories matching `langu
 | 53 | [go-gorm/gorm](https://github.com/go-gorm/gorm) | 39,962 | 4,186 | 537 | MIT | 2026-09-14 | The fantastic ORM library for Golang, aims to be developer friendly |
 | 54 | [harness/harness](https://github.com/harness/harness) | 38,407 | 3,403 | 111 | Apache-2.0 | 2026-09-18 | Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Devel... |
 | 55 | [istio/istio](https://github.com/istio/istio) | 38,400 | 8,375 | 517 | Apache-2.0 | 2026-09-20 | Connect, secure, control, and observe services. |
-| 56 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 38,321 | 2,732 | 266 | Apache-2.0 | 2026-09-20 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeli... |
+| 56 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 38,323 | 2,732 | 266 | Apache-2.0 | 2026-09-20 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipeli... |
 | 57 | [docker/compose](https://github.com/docker/compose) | 38,202 | 5,826 | 107 | Apache-2.0 | 2026-09-18 | Define and run multi-container applications with Docker |
 | 58 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 38,178 | 4,626 | 347 | NOASSERTION | 2026-09-20 | The universal proxy platform |
 | 59 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 37,993 | 699 | 271 | Apache-2.0 | 2026-09-18 | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
@@ -73,17 +73,17 @@ Ranked by stars. GitHub reports **2,521,379** total repositories matching `langu
 | 67 | [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) | 35,942 | 4,096 | 0 | Apache-2.0 | 2026-07-31 | File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, pr... |
 | 68 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35,647 | 2,415 | 1,974 | MIT | 2026-09-20 | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 | 69 | [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 35,016 | 8,473 | 46 | — | 2024-08-14 | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 |
-| 70 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 34,854 | 3,004 | 770 | Apache-2.0 | 2026-09-20 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to hand... |
+| 70 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | 34,854 | 3,004 | 771 | Apache-2.0 | 2026-09-20 | SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to hand... |
 | 71 | [derailed/k9s](https://github.com/derailed/k9s) | 34,633 | 2,285 | 78 | Apache-2.0 | 2026-09-18 | 🐶 Kubernetes CLI To Manage Your Clusters In Style! |
 | 72 | [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) | 34,606 | 5,068 | 29 | MIT | 2026-09-20 | A platform for building proxies to bypass network restrictions. |
 | 73 | [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 34,343 | 1,610 | 407 | Apache-2.0 | 2026-09-15 | Send push notifications to your phone or desktop using PUT/POST |
 | 74 | [ehang-io/nps](https://github.com/ehang-io/nps) | 34,226 | 6,070 | 526 | GPL-3.0 | 2024-05-30 | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的... |
-| 75 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 34,002 | 2,728 | 114 | Apache-2.0 | 2026-09-19 | Lightweight Kubernetes |
+| 75 | [k3s-io/k3s](https://github.com/k3s-io/k3s) | 34,002 | 2,728 | 113 | Apache-2.0 | 2026-09-19 | Lightweight Kubernetes |
 | 76 | [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | 33,809 | 5,703 | 4 | MIT | 2026-09-11 | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% \| LeetCode 题解 |
 | 77 | [zeromicro/go-zero](https://github.com/zeromicro/go-zero) | 33,340 | 4,316 | 247 | MIT | 2026-09-17 | A cloud-native Go microservices framework with cli tool for productivity. |
 | 78 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | 33,085 | 5,020 | 333 | MIT | 2026-09-16 | GitHub's official MCP Server |
 | 79 | [podman-container-tools/podman](https://github.com/podman-container-tools/podman) | 32,900 | 3,381 | 1,033 | Apache-2.0 | 2026-09-19 | Podman: A tool for managing OCI containers and pods. |
-| 80 | [labstack/echo](https://github.com/labstack/echo) | 32,716 | 2,786 | 46 | MIT | 2026-09-16 | High performance, minimalist Go web framework |
+| 80 | [labstack/echo](https://github.com/labstack/echo) | 32,716 | 2,787 | 46 | MIT | 2026-09-16 | High performance, minimalist Go web framework |
 | 81 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32,481 | 4,111 | 8,471 | NOASSERTION | 2026-09-16 | CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and contro... |
 | 82 | [beego/beego](https://github.com/beego/beego) | 32,425 | 5,571 | 21 | NOASSERTION | 2026-09-17 | beego is an open-source, high-performance web framework for the Go programming language. |
 | 83 | [dokku/dokku](https://github.com/dokku/dokku) | 32,148 | 2,075 | 29 | MIT | 2026-09-20 | A docker-powered PaaS that helps you build and manage the lifecycle of applications |

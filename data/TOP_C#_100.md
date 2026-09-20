@@ -1,6 +1,6 @@
 # Top 100 C# repositories on GitHub
 
-Ranked by stars. GitHub reports **7,670,644** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,670,646** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Ranked by stars. GitHub reports **7,670,644** total repositories matching `langu
 | 12 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 30,886 | 2,107 | 115 | Apache-2.0 | 2026-09-16 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
 | 13 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29,683 | 5,648 | 185 | — | 2020-12-20 | .NET debugger and assembly editor |
 | 14 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,581 | 4,777 | 311 | MIT | 2026-09-19 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,378 | 72,510 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,378 | 72,512 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
 | 16 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,672 | 2,362 | 334 | MS-PL | 2026-07-28 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
 | 17 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 26,901 | 1,713 | 1,161 | GPL-3.0 | 2026-08-31 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | 18 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 26,209 | 929 | 466 | MIT | 2026-09-20 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **7,670,644** total repositories matching `langu
 | 56 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14,434 | 3,108 | 774 | NOASSERTION | 2026-09-16 | One framework for creating powerful cross-platform games. |
 | 57 | [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) | 14,427 | 753 | 221 | NOASSERTION | 2026-09-20 | 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – bui... |
 | 58 | [Radarr/Radarr](https://github.com/Radarr/Radarr) | 14,401 | 1,224 | 527 | GPL-3.0 | 2026-09-20 | Movie organizer/manager for usenet and torrent users. |
-| 59 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 14,362 | 1,498 | 94 | MIT | 2026-09-19 | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control... |
+| 59 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 14,362 | 1,498 | 91 | MIT | 2026-09-20 | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control... |
 | 60 | [winsw/winsw](https://github.com/winsw/winsw) | 14,313 | 1,700 | 276 | MIT | 2026-07-30 | A wrapper executable that can run any executable as a Windows service, in a permissive license. |
 | 61 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 14,267 | 1,310 | 237 | MIT | 2026-09-20 | the subtitle editor :) |
 | 62 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | 14,235 | 1,290 | 1 | BSD-3-Clause | 2026-09-19 | Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Re... |

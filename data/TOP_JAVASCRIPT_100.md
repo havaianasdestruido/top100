@@ -1,16 +1,16 @@
 # Top 100 JavaScript repositories on GitHub
 
-Ranked by stars. GitHub reports **47,402,374** total repositories matching `language:JavaScript`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **47,402,424** total repositories matching `language:JavaScript`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263,588 | 39,443 | 207 | MIT | 2026-09-20 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
-| 2 | [react/react](https://github.com/react/react) | 250,608 | 51,380 | 1,381 | MIT | 2026-09-18 | The library for web and native user interfaces. |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263,590 | 39,443 | 207 | MIT | 2026-09-20 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
+| 2 | [react/react](https://github.com/react/react) | 250,609 | 51,380 | 1,381 | MIT | 2026-09-18 | The library for web and native user interfaces. |
 | 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,785 | 31,026 | 407 | MIT | 2026-07-26 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 | 4 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158,739 | 46,135 | 17 | Apache-2.0 | 2026-09-20 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
 | 5 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148,247 | 26,565 | 165 | MIT | 2026-04-16 | JavaScript Style Guide |
 | 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 142,987 | 7,669 | 287 | MIT | 2026-09-14 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
-| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 142,395 | 32,537 | 3,463 | MIT | 2026-09-20 | The React Framework |
+| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 142,395 | 32,538 | 3,463 | MIT | 2026-09-20 | The React Framework |
 | 8 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129,180 | 12,486 | 6 | CC-BY-4.0 | 2026-09-11 | Coding articles to level up your development skills |
 | 9 | [nodejs/node](https://github.com/nodejs/node) | 122,026 | 37,446 | 1,184 | NOASSERTION | 2026-09-20 | Node.js JavaScript runtime ✨🐢🚀✨ |
 | 10 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 115,682 | 36,552 | 383 | MIT | 2026-09-20 | JavaScript 3D Library. |
@@ -21,8 +21,8 @@ Ranked by stars. GitHub reports **47,402,374** total repositories matching `lang
 | 15 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 96,717 | 15,932 | 133 | MIT | 2026-09-19 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 | 16 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 94,761 | 12,596 | 123 | MIT | 2024-07-29 | Clean Code concepts adapted for JavaScript |
 | 17 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 91,608 | 8,447 | 813 | MIT | 2026-09-20 | A fancy self-hosted monitoring tool |
-| 18 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 88,780 | 6,043 | 70 | MIT | 2026-09-20 | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 19 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,156 | 5,864 | 1,086 | MIT | 2026-09-19 | web development for the rest of us |
+| 18 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 88,781 | 6,043 | 70 | MIT | 2026-09-20 | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| 19 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,156 | 5,865 | 1,086 | MIT | 2026-09-19 | web development for the rest of us |
 | 20 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 79,814 | 37,905 | 293 | MIT | 2026-08-31 | :zap: Dynamically generated stats for your github readmes |
 | 21 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 76,936 | 12,174 | 315 | NOASSERTION | 2026-07-15 | The iconic SVG, font, and CSS toolkit |
 | 22 | [typicode/json-server](https://github.com/typicode/json-server) | 75,714 | 7,267 | 721 | MIT | 2026-03-23 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
@@ -30,7 +30,7 @@ Ranked by stars. GitHub reports **47,402,374** total repositories matching `lang
 | 24 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,322 | 17,025 | 915 | MIT | 2026-09-18 | The HTML Presentation Framework |
 | 25 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 72,252 | 13,602 | 545 | MIT | 2026-09-19 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, ... |
 | 26 | [expressjs/express](https://github.com/expressjs/express) | 69,460 | 25,034 | 232 | MIT | 2026-09-15 | Fast, unopinionated, minimalist web framework for node. |
-| 27 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 69,364 | 4,235 | 44 | Apache-2.0 | 2026-09-20 | The design language that makes your AI harness better at design. |
+| 27 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 69,365 | 4,235 | 44 | Apache-2.0 | 2026-09-20 | The design language that makes your AI harness better at design. |
 | 28 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 68,171 | 4,559 | 141 | MIT | 2026-09-20 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contai... |
 | 29 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | 67,997 | 4,359 | 15 | GPL-3.0 | 2026-09-20 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 | 30 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 67,860 | 11,028 | 55 | CC0-1.0 | 2026-09-20 | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-... |
@@ -60,15 +60,15 @@ Ranked by stars. GitHub reports **47,402,374** total repositories matching `lang
 | 54 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 49,831 | 6,647 | 71 | — | 2023-10-23 | Based on a true story |
 | 55 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49,489 | 1,661 | 262 | NOASSERTION | 2026-09-18 | </> htmx - high power tools for HTML |
 | 56 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 48,734 | 7,573 | 80 | MIT | 2024-06-09 | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code |
-| 57 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 48,666 | 2,911 | 1,334 | MIT | 2026-09-15 | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API |
+| 57 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 48,666 | 2,912 | 1,334 | MIT | 2026-09-15 | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API |
 | 58 | [moment/moment](https://github.com/moment/moment) | 47,907 | 6,979 | 57 | MIT | 2026-09-15 | Parse, validate, manipulate, and display dates in javascript. |
-| 59 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 47,702 | 2,308 | 1 | NOASSERTION | 2026-09-20 | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
+| 59 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 47,701 | 2,308 | 1 | NOASSERTION | 2026-09-20 | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
 | 60 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47,075 | 2,896 | 1,850 | MIT | 2026-09-18 | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
 | 61 | [serverless/serverless](https://github.com/serverless/serverless) | 46,920 | 5,720 | 1,219 | NOASSERTION | 2026-09-17 | ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mai... |
 | 62 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46,832 | 10,459 | 369 | — | 2026-08-27 | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 da... |
 | 63 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46,782 | 4,133 | 863 | MIT | 2026-09-13 | A browser based code editor |
 | 64 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 46,482 | 6,689 | 134 | MIT | 2026-04-12 | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everythi... |
-| 65 | [google/zx](https://github.com/google/zx) | 45,755 | 1,298 | 60 | Apache-2.0 | 2026-08-14 | A tool for writing better scripts |
+| 65 | [google/zx](https://github.com/google/zx) | 45,756 | 1,298 | 60 | Apache-2.0 | 2026-08-14 | A tool for writing better scripts |
 | 66 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45,638 | 6,170 | 579 | BSD-2-Clause | 2026-09-19 | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
 | 67 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 45,050 | 3,205 | 6 | GPL-3.0 | 2021-10-19 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
 | 68 | [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | 44,815 | 10,381 | 13 | MIT | 2026-09-12 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! |
@@ -88,7 +88,7 @@ Ranked by stars. GitHub reports **47,402,374** total repositories matching `lang
 | 82 | [phaserjs/phaser](https://github.com/phaserjs/phaser) | 40,345 | 7,162 | 149 | MIT | 2026-08-21 | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti... |
 | 83 | [videojs/video.js](https://github.com/videojs/video.js) | 39,890 | 7,480 | 667 | NOASSERTION | 2026-09-16 | Video.js - open source HTML5 video player |
 | 84 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 39,602 | 3,252 | 243 | AGPL-3.0 | 2026-09-17 | Free, simple, and intuitive online database diagram editor and SQL generator. |
-| 85 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 39,433 | 7,979 | 226 | NOASSERTION | 2026-09-17 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photor... |
+| 85 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 39,435 | 7,982 | 226 | NOASSERTION | 2026-09-17 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photor... |
 | 86 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39,196 | 4,980 | 69 | MIT | 2026-09-19 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
 | 87 | [preactjs/preact](https://github.com/preactjs/preact) | 38,875 | 2,451 | 39 | MIT | 2026-09-15 | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. |
 | 88 | [Dogfalo/materialize](https://github.com/Dogfalo/materialize) | 38,805 | 4,594 | 792 | MIT | 2026-08-20 | Materialize, a CSS Framework based on Material Design |

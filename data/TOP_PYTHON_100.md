@@ -1,17 +1,17 @@
 # Top 100 Python repositories on GitHub
 
-Ranked by stars. GitHub reports **33,766,460** total repositories matching `language:Python`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **33,766,534** total repositories matching `language:Python`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 481,873 | 53,212 | 1,939 | MIT | 2026-09-20 | A collective list of free APIs |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 481,873 | 53,212 | 1,940 | MIT | 2026-09-20 | A collective list of free APIs |
 | 2 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 397,316 | 66,801 | 81 | CC-BY-4.0 | 2026-09-15 | :books: Freely available programming books |
 | 3 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 370,943 | 58,498 | 615 | NOASSERTION | 2026-09-15 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
 | 4 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 321,929 | 28,769 | 19 | NOASSERTION | 2026-09-20 | The definitive list that answers "I want to do X in Python, which tool should I use?" |
 | 5 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 284,039 | 36,323 | 252 | MIT | 2026-09-14 | Curated list of project-based tutorials |
-| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 247,439 | 52,045 | 43,281 | MIT | 2026-09-20 | The agent that grows with you |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 247,439 | 52,046 | 43,281 | MIT | 2026-09-20 | The agent that grows with you |
 | 7 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 224,809 | 51,101 | 288 | MIT | 2026-09-20 | All Algorithms implemented in Python |
-| 8 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 192,329 | 16,685 | 2,663 | Unlicense | 2026-09-16 | A feature-rich command-line audio/video downloader |
+| 8 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 192,330 | 16,685 | 2,663 | Unlicense | 2026-09-16 | A feature-rich command-line audio/video downloader |
 | 9 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,465 | 46,007 | 581 | NOASSERTION | 2026-09-20 | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so ... |
 | 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 185,917 | 13,689 | 695 | MIT | 2026-09-16 | Python tool for converting files and office documents to Markdown. |
 | 11 | [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 177,766 | 12,837 | 788 | — | 2026-09-20 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
@@ -22,34 +22,34 @@ Ranked by stars. GitHub reports **33,766,460** total repositories matching `lang
 | 16 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 152,625 | 22,337 | 328 | NOASSERTION | 2026-09-19 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | 17 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 146,746 | 24,541 | 536 | MIT | 2026-09-20 | The agent engineering platform. |
 | 18 | [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 141,287 | 10,656 | 4,126 | Unlicense | 2026-02-19 | Command-line program to download videos from YouTube.com and other video sites |
-| 19 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 139,145 | 20,454 | 17 | Apache-2.0 | 2026-09-20 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| 19 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 139,146 | 20,454 | 17 | Apache-2.0 | 2026-09-20 | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 | 20 | [github/spec-kit](https://github.com/github/spec-kit) | 138,068 | 12,372 | 310 | MIT | 2026-09-18 | 💫 Toolkit to help you get started with Spec-Driven Development |
-| 21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 134,096 | 15,883 | 4,898 | GPL-3.0 | 2026-09-20 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| 21 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 134,096 | 15,883 | 4,899 | GPL-3.0 | 2026-09-20 | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 | 22 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 129,303 | 13,779 | 84 | MIT | 2026-09-19 | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
 | 23 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 124,846 | 19,346 | 29 | MIT | 2026-09-20 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
-| 24 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 119,857 | 11,590 | 1,401 | Apache-2.0 | 2026-09-20 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill... |
+| 24 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 119,858 | 11,590 | 1,401 | Apache-2.0 | 2026-09-20 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill... |
 | 25 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 115,530 | 12,712 | 459 | MIT | 2026-09-18 | Agents that use the browser. |
 | 26 | [openai/whisper](https://github.com/openai/whisper) | 109,405 | 13,270 | 151 | MIT | 2026-08-31 | Robust Speech Recognition via Large-Scale Weak Supervision |
-| 27 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 107,763 | 20,626 | 161 | Apache-2.0 | 2026-09-18 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| 27 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 107,765 | 20,626 | 161 | Apache-2.0 | 2026-09-18 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | 28 | [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | 104,472 | 16,735 | 245 | MIT | 2025-08-28 |  |
-| 29 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 103,131 | 29,952 | 17,578 | NOASSERTION | 2026-09-20 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| 29 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 103,131 | 29,953 | 17,579 | NOASSERTION | 2026-09-20 | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 | 30 | [fastapi/fastapi](https://github.com/fastapi/fastapi) | 102,486 | 9,916 | 83 | MIT | 2026-09-18 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 | 31 | [nvbn/thefuck](https://github.com/nvbn/thefuck) | 97,860 | 3,960 | 459 | MIT | 2024-07-19 | Magnificent app which corrects your previous console command. |
 | 32 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96,743 | 14,117 | 49 | AGPL-3.0 | 2026-09-15 | real time face swap and one-click video deepfake with only a single image |
 | 33 | [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 96,426 | 13,504 | 194 | — | 2026-03-26 | AI agents running research on single-GPU nanochat training automatically |
 | 34 | [3b1b/manim](https://github.com/3b1b/manim) | 94,102 | 7,731 | 500 | MIT | 2026-09-09 | Animation engine for explanatory math videos |
-| 35 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 92,264 | 10,876 | 350 | MIT | 2026-09-20 | Hunt down social media accounts by username across social networks |
+| 35 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 92,266 | 10,876 | 350 | MIT | 2026-09-20 | Hunt down social media accounts by username across social networks |
 | 36 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 92,251 | 22,451 | 8,188 | Apache-2.0 | 2026-09-20 | A high-throughput and memory-efficient inference and serving engine for LLMs |
 | 37 | [django/django](https://github.com/django/django) | 91,145 | 34,956 | 502 | BSD-3-Clause | 2026-09-20 | The Web framework for perfectionists with deadlines. |
 | 38 | [home-assistant/core](https://github.com/home-assistant/core) | 90,882 | 38,715 | 3,603 | Apache-2.0 | 2026-09-20 | :house_with_garden: Open source home automation that puts local control and privacy first. |
-| 39 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 89,884 | 11,373 | 251 | Apache-2.0 | 2026-09-16 | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the... |
+| 39 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 89,885 | 11,373 | 251 | Apache-2.0 | 2026-09-16 | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the... |
 | 40 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | 87,428 | 930 | 1,259 | AGPL-3.0 | 2026-09-17 | Self-hosted AI workspace. |
 | 41 | [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 84,539 | 20,309 | 56 | NOASSERTION | 2025-12-27 | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azu... |
 | 42 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 83,963 | 8,687 | 201 | Apache-2.0 | 2026-09-18 | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
-| 43 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 83,800 | 7,345 | 155 | MIT | 2026-09-15 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHon... |
+| 43 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 83,801 | 7,345 | 155 | MIT | 2026-09-15 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHon... |
 | 44 | [fighting41love/funNLP](https://github.com/fighting41love/funNLP) | 83,280 | 15,282 | 53 | — | 2024-05-10 | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名... |
 | 45 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 82,755 | 11,432 | 884 | MIT | 2026-09-20 | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memor... |
-| 46 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 82,609 | 8,416 | 3 | BSD-3-Clause | 2026-09-19 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be s... |
+| 46 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 82,611 | 8,416 | 3 | BSD-3-Clause | 2026-09-19 | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be s... |
 | 47 | [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 80,999 | 17,387 | 36 | MIT | 2026-08-27 | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 | 48 | [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 80,856 | 12,395 | 126 | Apache-2.0 | 2024-07-30 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
 | 49 | [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 80,325 | 6,704 | 114 | NOASSERTION | 2026-09-20 | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. |
@@ -71,7 +71,7 @@ Ranked by stars. GitHub reports **33,766,460** total repositories matching `lang
 | 65 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 73,245 | 5,636 | 692 | Apache-2.0 | 2026-09-19 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-... |
 | 66 | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 71,367 | 8,316 | 330 | GPL-3.0 | 2026-01-25 | 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种L... |
 | 67 | [ansible/ansible](https://github.com/ansible/ansible) | 70,750 | 24,334 | 836 | GPL-3.0 | 2026-09-18 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and ma... |
-| 68 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 70,525 | 8,960 | 135 | MIT | 2026-01-21 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
+| 68 | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 70,525 | 8,961 | 135 | MIT | 2026-01-21 | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming |
 | 69 | [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 67,472 | 6,758 | 33 | MIT | 2026-01-22 | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original... |
 | 70 | [docling-project/docling](https://github.com/docling-project/docling) | 67,412 | 4,860 | 942 | MIT | 2026-09-20 | Get your documents ready for gen AI |
 | 71 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67,329 | 27,427 | 2,161 | BSD-3-Clause | 2026-09-19 | scikit-learn: machine learning in Python |
@@ -84,7 +84,7 @@ Ranked by stars. GitHub reports **33,766,460** total repositories matching `lang
 | 78 | [keras-team/keras](https://github.com/keras-team/keras) | 64,324 | 19,801 | 216 | Apache-2.0 | 2026-09-19 | Deep Learning for humans |
 | 79 | [usestrix/strix](https://github.com/usestrix/strix) | 63,856 | 6,984 | 399 | Apache-2.0 | 2026-09-20 | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 | 80 | [commaai/openpilot](https://github.com/commaai/openpilot) | 63,694 | 11,376 | 143 | MIT | 2026-09-20 | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported ... |
-| 81 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 63,619 | 11,153 | 165 | MIT | 2026-09-18 | An AI Hedge Fund Team |
+| 81 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 63,620 | 11,153 | 165 | MIT | 2026-09-18 | An AI Hedge Fund Team |
 | 82 | [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 63,256 | 10,873 | 349 | MIT | 2025-11-12 | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 | 83 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 62,440 | 24,876 | 58 | GPL-3.0 | 2026-09-13 | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助... |
 | 84 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 62,418 | 5,440 | 114 | MIT | 2026-09-20 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a ... |
@@ -93,7 +93,7 @@ Ranked by stars. GitHub reports **33,766,460** total repositories matching `lang
 | 87 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 61,828 | 8,046 | 54 | Apache-2.0 | 2026-09-20 | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 | 88 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 61,820 | 11,787 | 74 | AGPL-3.0 | 2026-09-20 | Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image cl... |
 | 89 | [microsoft/autogen](https://github.com/microsoft/autogen) | 61,078 | 9,238 | 1,086 | CC-BY-4.0 | 2026-04-15 | A programming framework for agentic AI |
-| 90 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 60,407 | 7,655 | 329 | AGPL-3.0 | 2026-09-06 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and... |
+| 90 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 60,407 | 7,656 | 329 | AGPL-3.0 | 2026-09-06 | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and... |
 | 91 | [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | 60,143 | 9,382 | 177 | NOASSERTION | 2026-03-09 | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | 92 | [meta-llama/llama](https://github.com/meta-llama/llama) | 59,616 | 9,774 | 533 | NOASSERTION | 2025-01-26 | Inference code for Llama models |
 | 93 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 59,240 | 11,617 | 5,207 | NOASSERTION | 2026-09-20 | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost ... |

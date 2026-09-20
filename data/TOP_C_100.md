@@ -1,6 +1,6 @@
 # Top 100 C repositories on GitHub
 
-Ranked by stars. GitHub reports **4,325,757** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,325,760** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -69,7 +69,7 @@ Ranked by stars. GitHub reports **4,325,757** total repositories matching `langu
 | 63 | [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 19,967 | 3,260 | 52 | — | 2024-07-19 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
 | 64 | [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19,787 | 840 | 10 | NOASSERTION | 2026-08-11 | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with z... |
 | 65 | [videolan/vlc](https://github.com/videolan/vlc) | 19,715 | 6,202 | 2 | GPL-2.0 | 2026-09-20 | VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc |
-| 66 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19,494 | 2,067 | 752 | GPL-3.0 | 2026-09-19 | Sandboxie Plus & Classic |
+| 66 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19,494 | 2,066 | 752 | GPL-3.0 | 2026-09-19 | Sandboxie Plus & Classic |
 | 67 | [brunodev85/winlator](https://github.com/brunodev85/winlator) | 19,091 | 1,755 | 404 | LGPL-2.1 | 2026-09-14 | Android application for running Windows applications with Wine and Box86/Box64 |
 | 68 | [espressif/esp-idf](https://github.com/espressif/esp-idf) | 19,060 | 8,486 | 1,681 | Apache-2.0 | 2026-09-20 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
 | 69 | [nicbarker/clay](https://github.com/nicbarker/clay) | 18,148 | 721 | 280 | Zlib | 2026-05-20 | High performance UI layout library in C. |
