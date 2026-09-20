@@ -4,7 +4,7 @@ TOP 100 GitHub repositories for each major programming language, listed by stars
 
 ## Demo
 
-Check [LISTS.MD](LISTS.MD).
+Check [LISTS.md](LISTS.md).
 
 ## About
 What it writes:
