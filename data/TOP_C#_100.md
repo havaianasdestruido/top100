@@ -1,6 +1,6 @@
 # Top 100 C# repositories on GitHub
 
-Ranked by stars. GitHub reports **7,670,646** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,670,653** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,14 +11,14 @@ Ranked by stars. GitHub reports **7,670,646** total repositories matching `langu
 | 5 | [files-community/Files](https://github.com/files-community/Files) | 45,568 | 2,923 | 458 | MIT | 2026-09-20 | A modern file manager that helps users organize their files and folders. |
 | 6 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 39,666 | 3,914 | 644 | GPL-3.0 | 2026-09-20 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a ... |
 | 7 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 38,806 | 4,065 | 58 | GPL-3.0 | 2026-08-16 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
-| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,456 | 11,595 | 4,187 | MIT | 2026-09-20 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
+| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,456 | 11,596 | 4,187 | MIT | 2026-09-20 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
 | 9 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 32,017 | 1,757 | 340 | MIT | 2026-02-25 | A Swiss Army knife for developers. |
 | 10 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31,533 | 2,826 | 1,884 | MIT | 2026-09-20 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI |
 | 11 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31,056 | 5,803 | 474 | MIT | 2026-09-16 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
 | 12 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 30,886 | 2,107 | 115 | Apache-2.0 | 2026-09-16 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
 | 13 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29,683 | 5,648 | 185 | — | 2020-12-20 | .NET debugger and assembly editor |
 | 14 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,581 | 4,777 | 311 | MIT | 2026-09-19 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,378 | 72,512 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,378 | 72,516 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
 | 16 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,672 | 2,362 | 334 | MS-PL | 2026-07-28 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
 | 17 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 26,901 | 1,713 | 1,161 | GPL-3.0 | 2026-08-31 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | 18 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 26,209 | 929 | 466 | MIT | 2026-09-20 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
@@ -70,8 +70,8 @@ Ranked by stars. GitHub reports **7,670,646** total repositories matching `langu
 | 64 | [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | 14,042 | 688 | 714 | MIT | 2026-09-13 | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing o... |
 | 65 | [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 14,027 | 2,191 | 68 | MIT | 2024-06-04 | Full Modular Monolith application with Domain-Driven Design approach. |
 | 66 | [nilaoda/BBDown](https://github.com/nilaoda/BBDown) | 13,883 | 1,738 | 245 | MIT | 2026-05-14 | Bilibili Downloader. 一个命令行式哔哩哔哩下载器. |
-| 67 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | 13,691 | 1,117 | 5 | Apache-2.0 | 2026-09-20 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
-| 68 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,613 | 1,178 | 70 | MIT | 2026-04-18 |  |
+| 67 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | 13,692 | 1,117 | 5 | Apache-2.0 | 2026-09-20 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
+| 68 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,613 | 1,178 | 71 | MIT | 2026-04-18 |  |
 | 69 | [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | 13,135 | 24,582 | 539 | CC-BY-4.0 | 2026-09-20 | Documentation for ASP.NET Core |
 | 70 | [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | 13,103 | 642 | 78 | NOASSERTION | 2026-09-18 | Application designed to optimize, customize and enhance your Windows experience. |
 | 71 | [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) | 12,995 | 2,557 | 19 | NOASSERTION | 2026-09-18 | Unity C# reference source code. |

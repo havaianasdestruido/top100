@@ -1,19 +1,19 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,329** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,330** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,066 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
+| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,067 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
 | 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,279 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
 | 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,675 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,305 | 7,500 | 4,560 | AGPL-3.0 | 2026-09-20 | Your self-hosted, globally interconnected microblogging community |
 | 5 | [huginn/huginn](https://github.com/huginn/huginn) | 49,983 | 4,300 | 698 | MIT | 2026-09-20 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
-| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,731 | 11,359 | 3 | BSD-2-Clause | 2026-09-20 | 🍺 The Package Manager for Everywhere |
+| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,732 | 11,359 | 3 | BSD-2-Clause | 2026-09-20 | 🍺 The Package Manager for Everywhere |
 | 7 | [discourse/discourse](https://github.com/discourse/discourse) | 47,872 | 9,020 | 221 | GPL-2.0 | 2026-09-19 | A platform for community discussion. Free, open, simple. |
-| 8 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42,134 | 6,033 | 665 | MIT | 2026-09-20 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
+| 8 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42,134 | 6,033 | 666 | MIT | 2026-09-20 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
 | 9 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39,469 | 2,645 | 196 | MPL-2.0 | 2026-09-19 | API Documentation Browser |
-| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,033 | 14,972 | 614 | NOASSERTION | 2026-09-17 | Metasploit Framework |
+| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,033 | 14,971 | 614 | NOASSERTION | 2026-09-17 | Metasploit Framework |
 | 11 | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | 38,680 | 2,043 | 151 | — | 2024-08-21 | A curated list of engineering blogs |
 | 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37,008 | 8,992 | 1,452 | NOASSERTION | 2026-09-19 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Clou... |
 | 13 | [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33,681 | 3,602 | 65 | — | 2024-06-02 | A curated list of awesome awesomeness |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **2,969,329** total repositories matching `langu
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,817 | 1,291 | 92 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
 | 24 | [opf/openproject](https://github.com/opf/openproject) | 16,165 | 3,496 | 242 | GPL-3.0 | 2026-09-20 | OpenProject is the leading open source project management software for product, project and portfolio management. A p... |
 | 25 | [spree/spree](https://github.com/spree/spree) | 15,713 | 5,303 | 155 | BSD-3-Clause | 2026-09-20 | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-re... |
-| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,578 | 13,858 | 103 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
+| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,578 | 13,858 | 105 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
 | 27 | [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) | 15,119 | 1,245 | 0 | CC0-1.0 | 2026-09-18 | Awesome list of GraphQL |
 | 28 | [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | 14,831 | 2,676 | 838 | NOASSERTION | 2026-07-06 | The Cocoa Dependency Manager. |
 | 29 | [mame/quine-relay](https://github.com/mame/quine-relay) | 14,605 | 567 | 18 | — | 2026-09-01 | An uroboros program with 100+ programming languages |
@@ -75,7 +75,7 @@ Ranked by stars. GitHub reports **2,969,329** total repositories matching `langu
 | 69 | [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) | 8,169 | 2,556 | 83 | MIT | 2026-08-21 | A library for setting up Ruby objects as test data. |
 | 70 | [omniauth/omniauth](https://github.com/omniauth/omniauth) | 8,099 | 975 | 105 | MIT | 2026-02-27 | OmniAuth is a flexible authentication system utilizing Rack middleware. |
 | 71 | [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) | 7,955 | 2,229 | 175 | MIT | 2026-09-20 | RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data |
-| 72 | [puppetlabs/puppet](https://github.com/puppetlabs/puppet) | 7,932 | 2,209 | 96 | Apache-2.0 | 2026-08-06 | Server automation framework and application |
+| 72 | [puppetlabs/puppet](https://github.com/puppetlabs/puppet) | 7,932 | 2,208 | 96 | Apache-2.0 | 2026-08-06 | Server automation framework and application |
 | 73 | [puma/puma](https://github.com/puma/puma) | 7,916 | 1,493 | 112 | BSD-3-Clause | 2026-09-16 | A Ruby/Rack web server built for parallelism |
 | 74 | [github/scientist](https://github.com/github/scientist) | 7,755 | 504 | 15 | MIT | 2026-09-18 | :microscope: A Ruby library for carefully refactoring critical paths. |
 | 75 | [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) | 7,538 | 842 | 129 | MIT | 2026-03-18 | Automatically generate change log from your tags, issues, labels and pull requests on GitHub. |
