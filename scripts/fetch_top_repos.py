@@ -178,6 +178,26 @@ def write_markdown(language, items, total_count):
     return path
 
 
+def write_lists_md():
+    """Write LISTS.md at the repo root, linking to every markdown file
+    under data/ (and only markdown files -- the JSONL data is excluded)."""
+    md_files = sorted(
+        p for p in DATA_DIR.glob("*.md") if p.name != "LISTS.md"
+    )
+    lines = ["# Data Index\n", "Markdown files available under `data/`:\n"]
+    if md_files:
+        for p in md_files:
+            title = p.stem.replace("_", " ").title()
+            rel = p.relative_to(ROOT).as_posix()
+            lines.append(f"- [{title}]({rel})")
+    else:
+        lines.append("_No markdown files found in `data/` yet._")
+    path = ROOT / "LISTS.md"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"  -> {path.relative_to(ROOT)} ({len(md_files)} markdown file(s))")
+    return path
+
+
 def fetch_language(language, token):
     print(f"Fetching top {PER_PAGE} '{language}' repos...")
     req = build_search_request(language, token)
@@ -232,6 +252,8 @@ def main():
         else:
             # Search API allows 30 req/min authenticated; small buffer.
             time.sleep(2)
+
+    write_lists_md()
 
 
 if __name__ == "__main__":
