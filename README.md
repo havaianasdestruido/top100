@@ -2,6 +2,11 @@
 
 TOP 100 GitHub repositories for each major programming language, listed by stars.
 
+## Demo
+
+Check [LISTS.MD](LISTS.MD).
+
+## About
 What it writes:
 - `data/JSONL/<language>.jsonl` — one line per repo, each line is the **full, untouched** repo object GitHub's search API returns (owner, license, topics, stats, timestamps, everything).
 - `data/TOP_<LANGUAGE>_100.md` — a readable table: rank, name, stars, forks, open issues, license, last push, description.
