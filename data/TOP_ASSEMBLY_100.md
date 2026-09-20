@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **213,864** total repositories matching `languag
 | 55 | [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit) | 1,184 | 197 | 0 | MIT | 2024-01-12 | 🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about... |
 | 56 | [RibShark/OmniDrive](https://github.com/RibShark/OmniDrive) | 1,148 | 60 | 26 | NOASSERTION | 2026-07-18 |  |
 | 57 | [espressif/esp-dl](https://github.com/espressif/esp-dl) | 1,146 | 226 | 45 | MIT | 2026-09-18 | Espressif deep-learning library for AIoT applications |
-| 58 | [z88dk/z88dk](https://github.com/z88dk/z88dk) | 1,138 | 206 | 183 | NOASSERTION | 2026-09-20 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries. |
+| 58 | [z88dk/z88dk](https://github.com/z88dk/z88dk) | 1,138 | 206 | 182 | NOASSERTION | 2026-09-20 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries. |
 | 59 | [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings) | 1,136 | 137 | 3 | MIT | 2026-09-06 | Transcription of Tim Paterson's DOS printouts. |
 | 60 | [nornagon/jonesforth](https://github.com/nornagon/jonesforth) | 1,131 | 157 | 5 | — | 2023-04-04 | Mirror of JONESFORTH |
 | 61 | [adriancable/8086tiny](https://github.com/adriancable/8086tiny) | 1,122 | 222 | 13 | MIT | 2022-09-07 | Official repository for 8086tiny: a tiny PC emulator/virtual machine |

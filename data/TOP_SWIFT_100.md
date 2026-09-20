@@ -1,6 +1,6 @@
 # Top 100 Swift repositories on GitHub
 
-Ranked by stars. GitHub reports **1,697,097** total repositories matching `language:Swift`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,697,103** total repositories matching `language:Swift`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 5 | [iina/iina](https://github.com/iina/iina) | 46,417 | 2,925 | 1,935 | GPL-3.0 | 2026-09-19 | The modern video player for macOS. |
 | 6 | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 42,417 | 7,655 | 42 | MIT | 2026-09-14 | Elegant HTTP Networking in Swift |
 | 7 | [exelban/stats](https://github.com/exelban/stats) | 41,981 | 1,543 | 25 | MIT | 2026-09-20 | macOS system monitor in your menu bar |
-| 8 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 36,261 | 5,739 | 147 | Unlicense | 2026-09-20 | bluetooth mesh chat, IRC vibes |
+| 8 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 36,260 | 5,739 | 147 | Unlicense | 2026-09-20 | bluetooth mesh chat, IRC vibes |
 | 9 | [utmapp/UTM](https://github.com/utmapp/UTM) | 35,562 | 1,828 | 1,109 | Apache-2.0 | 2026-09-20 | Virtual machines for iOS and macOS |
 | 10 | [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) | 34,263 | 1,011 | 19 | MIT | 2026-09-15 | 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys... |
 | 11 | [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) | 32,881 | 7,745 | 307 | GPL-3.0 | 2024-10-29 | Next Generation of ShadowsocksX |
@@ -19,8 +19,8 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 13 | [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | 29,683 | 936 | 434 | GPL-3.0 | 2025-09-20 | Powerful menu bar manager for macOS |
 | 14 | [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) | 29,085 | 4,941 | 62 | MIT | 2024-12-06 | Algorithms and data structures in Swift, with explanations! |
 | 15 | [ChartsOrg/Charts](https://github.com/ChartsOrg/Charts) | 28,008 | 5,992 | 977 | Apache-2.0 | 2026-03-07 | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. |
-| 16 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27,284 | 2,380 | 5,219 | NOASSERTION | 2026-09-20 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multita... |
-| 17 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 26,881 | 3,840 | 44 | Apache-2.0 | 2026-09-19 | An iOS library to natively render After Effects vector animations |
+| 16 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27,285 | 2,380 | 5,219 | NOASSERTION | 2026-09-20 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multita... |
+| 17 | [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 26,882 | 3,840 | 44 | Apache-2.0 | 2026-09-19 | An iOS library to natively render After Effects vector animations |
 | 18 | [vapor/vapor](https://github.com/vapor/vapor) | 26,212 | 1,530 | 85 | MIT | 2026-09-19 | 💧 A server-side Swift HTTP web framework. |
 | 19 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 24,638 | 4,152 | 15 | MIT | 2026-09-04 | Reactive Programming in Swift |
 | 20 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 24,405 | 2,771 | 175 | MIT | 2026-09-15 | A lightweight, pure-Swift library for downloading and caching images from the web. |
@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 27 | [Caldis/Mos](https://github.com/Caldis/Mos) | 21,446 | 687 | 408 | NOASSERTION | 2026-08-20 | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll dire... |
 | 28 | [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) | 20,962 | 1,031 | 17 | MIT | 2026-05-16 | Apple TV Aerial Screensaver for Mac |
 | 29 | [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) | 20,346 | 2,043 | 9 | MIT | 2026-07-13 | A Swift Autolayout DSL for iOS & OS X |
-| 30 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 20,208 | 737 | 484 | GPL-3.0 | 2026-09-20 | Free and open-source macOS menu bar toolkit. |
+| 30 | [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | 20,209 | 737 | 484 | GPL-3.0 | 2026-09-20 | Free and open-source macOS menu bar toolkit. |
 | 31 | [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 19,802 | 3,410 | 12 | MIT | 2025-09-12 | Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. |
 | 32 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 19,739 | 2,330 | 507 | MIT | 2026-09-20 | A tool to enforce Swift style and conventions. |
 | 33 | [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) | 17,782 | 1,358 | 426 | — | 2025-10-22 | 🕹 Retro video game emulation for macOS |
@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 47 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 14,438 | 1,122 | 95 | GPL-3.0 | 2026-09-09 | macOS video editor built for AI |
 | 48 | [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | 14,416 | 1,523 | 704 | AGPL-3.0 | 2026-09-17 | AltStore is an alternative app store for non-jailbroken iOS devices. |
 | 49 | [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) | 14,220 | 1,457 | 15 | MIT | 2026-06-03 | Promises for Swift & ObjC. |
-| 50 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 14,069 | 1,661 | 39 | MIT | 2026-09-18 |  |
+| 50 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 14,071 | 1,662 | 40 | MIT | 2026-09-18 |  |
 | 51 | [MengTo/Spring](https://github.com/MengTo/Spring) | 14,059 | 1,806 | 164 | MIT | 2023-07-03 | A library to simplify iOS animations in Swift. |
 | 52 | [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) | 13,835 | 1,664 | 116 | AGPL-3.0 | 2026-02-08 | A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨 |
 | 53 | [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) | 13,787 | 1,549 | 131 | MIT | 2026-09-09 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
@@ -68,7 +68,7 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 62 | [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) | 11,804 | 1,309 | 179 | MIT | 2024-09-12 | Elegant iOS form builder in Swift |
 | 63 | [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) | 11,776 | 992 | 563 | GPL-3.0 | 2026-09-20 | Community fork of PlayCover |
 | 64 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11,666 | 835 | 85 | GPL-3.0 | 2026-09-18 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build av... |
-| 65 | [mrkai77/Loop](https://github.com/mrkai77/Loop) | 11,639 | 272 | 69 | GPL-3.0 | 2026-09-11 | Window management made elegant. |
+| 65 | [mrkai77/Loop](https://github.com/mrkai77/Loop) | 11,640 | 272 | 69 | GPL-3.0 | 2026-09-11 | Window management made elegant. |
 | 66 | [allenwong/30DaysofSwift](https://github.com/allenwong/30DaysofSwift) | 11,468 | 1,999 | 11 | — | 2022-05-21 | A self-taught project to learn Swift. |
 | 67 | [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) | 11,460 | 1,620 | 7 | MIT | 2026-07-26 | Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS |
 | 68 | [thaw-app/Thaw](https://github.com/thaw-app/Thaw) | 11,338 | 271 | 68 | GPL-3.0 | 2026-09-20 | The open source menu bar manager |
@@ -77,7 +77,7 @@ Ranked by stars. GitHub reports **1,697,097** total repositories matching `langu
 | 71 | [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) | 10,709 | 1,156 | 1 | MIT | 2026-03-18 | A collection of awesome loading animations |
 | 72 | [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) | 10,576 | 1,806 | 4 | NOASSERTION | 2026-08-19 | CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift |
 | 73 | [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | 10,396 | 755 | 638 | MIT | 2026-09-20 | RSS reader for macOS and iOS. |
-| 74 | [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10,219 | 1,525 | 1,319 | Apache-2.0 | 2026-09-19 | The Package Manager for the Swift Programming Language |
+| 74 | [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) | 10,219 | 1,525 | 1,321 | Apache-2.0 | 2026-09-19 | The Package Manager for the Swift Programming Language |
 | 75 | [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) | 10,189 | 1,610 | 140 | MIT | 2026-09-13 | A type-safe, Swift-language layer over SQLite3. |
 | 76 | [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) | 10,174 | 1,136 | 12 | MIT | 2024-04-28 | :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion |
 | 77 | [pock/pock](https://github.com/pock/pock) | 10,155 | 380 | 73 | MIT | 2022-11-12 | Widgets manager for MacBook Touch Bar |

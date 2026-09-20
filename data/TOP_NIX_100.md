@@ -45,14 +45,14 @@ Ranked by stars. GitHub reports **85,938** total repositories matching `language
 | 39 | [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) | 1,385 | 69 | 32 | AGPL-3.0 | 2026-09-12 | The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] |
 | 40 | [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1,335 | 57 | 17 | MIT | 2026-09-20 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
 | 41 | [nix-community/dream2nix](https://github.com/nix-community/dream2nix) | 1,268 | 147 | 202 | MIT | 2026-08-19 | Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau] |
-| 42 | [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) | 1,234 | 122 | 111 | MIT | 2026-09-18 | Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] |
+| 42 | [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) | 1,234 | 123 | 112 | MIT | 2026-09-18 | Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] |
 | 43 | [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) | 1,169 | 109 | 28 | — | 2023-09-22 | Nix and Haskell in production |
 | 44 | [AdisonCavani/distro-grub-themes](https://github.com/AdisonCavani/distro-grub-themes) | 1,157 | 60 | 19 | GPL-3.0 | 2026-03-28 | A pack of GRUB2 themes for each Linux distribution |
 | 45 | [fufexan/dotfiles](https://github.com/fufexan/dotfiles) | 1,144 | 55 | 0 | MIT | 2026-09-18 | NixOS system config & Home-Manager user config |
 | 46 | [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) | 1,137 | 32 | 2 | — | 2025-06-27 | NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language. |
 | 47 | [nix-community/fenix](https://github.com/nix-community/fenix) | 1,120 | 67 | 38 | MPL-2.0 | 2026-09-20 | Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @eureka-cpu] |
 | 48 | [gvolpe/nix-config](https://github.com/gvolpe/nix-config) | 1,112 | 81 | 1 | Apache-2.0 | 2026-09-19 | :space_invader: NixOS configuration :space_invader: |
-| 49 | [max-baz/dotfiles](https://github.com/max-baz/dotfiles) | 1,082 | 92 | 0 | ISC | 2026-09-19 | Configuration for NixOS, sway, kitty, helix, zsh and more |
+| 49 | [max-baz/dotfiles](https://github.com/max-baz/dotfiles) | 1,082 | 92 | 0 | ISC | 2026-09-20 | Configuration for NixOS, sway, kitty, helix, zsh and more |
 | 50 | [nix-community/nixbsd](https://github.com/nix-community/nixbsd) | 1,051 | 39 | 21 | MIT | 2026-09-11 | An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot] |
 | 51 | [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | 1,042 | 50 | 30 | — | 2026-09-17 | SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, h... |
 | 52 | [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) | 1,028 | 66 | 7 | GPL-3.0 | 2025-12-27 | Nix noob trying to build his system |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **85,938** total repositories matching `language
 | 88 | [reflex-frp/reflex-platform](https://github.com/reflex-frp/reflex-platform) | 743 | 166 | 53 | BSD-3-Clause | 2025-12-17 | A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms.... |
 | 89 | [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) | 739 | 65 | 0 | — | 2026-09-19 | My Personal Nix, NixOS and Nix-Darwin System Configuration Flake |
 | 90 | [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) | 735 | 36 | 0 | — | 2025-04-09 | A bare-bones Twitter clone implemented in a single file |
-| 91 | [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) | 721 | 24 | 9 | GPL-2.0 | 2026-09-19 | CachyOS kernel for NixOS |
+| 91 | [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) | 721 | 24 | 9 | GPL-2.0 | 2026-09-20 | CachyOS kernel for NixOS |
 | 92 | [MatthewCroughan/NixThePlanet](https://github.com/MatthewCroughan/NixThePlanet) | 713 | 22 | 11 | MIT | 2026-02-07 | Run macOS, Windows and more via a single Nix command, or simple nixosModules |
 | 93 | [openclaw/nix-openclaw](https://github.com/openclaw/nix-openclaw) | 710 | 226 | 1 | NOASSERTION | 2026-09-13 | Packages OpenClaw for nix. |
 | 94 | [BirdeeHub/nixCats-nvim](https://github.com/BirdeeHub/nixCats-nvim) | 698 | 22 | 3 | MIT | 2026-09-14 | the predecessor to nix-wrapper-modules#neovim |

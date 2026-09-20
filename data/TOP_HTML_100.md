@@ -1,12 +1,12 @@
 # Top 100 HTML repositories on GitHub
 
-Ranked by stars. GitHub reports **47,784,257** total repositories matching `language:HTML`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **47,784,499** total repositories matching `language:HTML`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ossu/computer-science](https://github.com/ossu/computer-science) | 209,225 | 25,884 | 28 | MIT | 2026-07-14 | 🎓 Path to a free self-taught education in Computer Science! |
+| 1 | [ossu/computer-science](https://github.com/ossu/computer-science) | 209,224 | 25,884 | 28 | MIT | 2026-07-14 | 🎓 Path to a free self-taught education in Computer Science! |
 | 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 170,834 | 21,950 | 78 | NOASSERTION | 2026-09-09 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-... |
-| 3 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 137,877 | 14,535 | 12 | — | 2026-09-20 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| 3 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 137,878 | 14,535 | 11 | — | 2026-09-20 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 | 4 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 75,756 | 7,997 | 161 | MIT | 2026-09-17 | 计算机自学指南 |
 | 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 66,129 | 6,564 | 37 | MIT | 2026-09-20 | from vibe coding to agentic engineering - practice makes claude perfect |
 | 6 | [docker/awesome-compose](https://github.com/docker/awesome-compose) | 46,380 | 8,330 | 430 | CC0-1.0 | 2026-09-19 | Awesome Docker Compose samples |
@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **47,784,257** total repositories matching `lang
 | 26 | [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) | 25,318 | 6,174 | 191 | NOASSERTION | 2024-12-26 | Mastering Bitcoin 3rd Edition - Programming the Open Blockchain |
 | 27 | [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) | 25,240 | 1,594 | 538 | — | 2026-09-18 | Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 |
 | 28 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 25,082 | 2,847 | 20 | Apache-2.0 | 2026-07-19 | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
-| 29 | [trycua/cua](https://github.com/trycua/cua) | 25,065 | 1,725 | 1,027 | MIT | 2026-09-20 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data g... |
+| 29 | [trycua/cua](https://github.com/trycua/cua) | 25,065 | 1,726 | 1,027 | MIT | 2026-09-20 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data g... |
 | 30 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 24,312 | 2,785 | 3 | MIT | 2026-09-18 | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲... |
 | 31 | [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) | 22,605 | 2,940 | 56 | — | 2025-03-22 | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
 | 32 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 22,139 | 2,831 | 49 | NOASSERTION | 2026-07-16 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step ... |

@@ -1,16 +1,16 @@
 # Top 100 Lua repositories on GitHub
 
-Ranked by stars. GitHub reports **742,709** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **742,710** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [Kong/kong](https://github.com/Kong/kong) | 44,161 | 5,210 | 200 | Apache-2.0 | 2026-09-07 | 🦍 The API and AI Gateway |
-| 2 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31,494 | 46,564 | 18 | MIT | 2026-09-14 | A launch point for your personal nvim configuration |
+| 2 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31,493 | 46,564 | 18 | MIT | 2026-09-14 | A launch point for your personal nvim configuration |
 | 3 | [koreader/koreader](https://github.com/koreader/koreader) | 29,817 | 1,912 | 1,345 | AGPL-3.0 | 2026-09-20 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo... |
 | 4 | [NvChad/NvChad](https://github.com/NvChad/NvChad) | 28,492 | 2,218 | 3 | GPL-3.0 | 2026-07-03 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. |
 | 5 | [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) | 28,229 | 2,663 | 154 | MIT | 2023-05-04 | Image Super-Resolution for Anime-Style Art |
 | 6 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 27,515 | 1,822 | 77 | Apache-2.0 | 2026-09-08 | Neovim config for the lazy |
-| 7 | [folke/lazy.nvim](https://github.com/folke/lazy.nvim) | 21,575 | 592 | 68 | Apache-2.0 | 2026-06-29 | 💤 A modern plugin manager for Neovim |
+| 7 | [folke/lazy.nvim](https://github.com/folke/lazy.nvim) | 21,574 | 592 | 68 | Apache-2.0 | 2026-06-29 | 💤 A modern plugin manager for Neovim |
 | 8 | [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 19,793 | 966 | 464 | MIT | 2026-08-17 | Find, Filter, Preview, Pick. All lua, all the time. |
 | 9 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 19,440 | 1,187 | 5 | GPL-3.0 | 2026-09-19 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 |
 | 10 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | 19,263 | 1,485 | 33 | GPL-3.0 | 2025-06-05 | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. |

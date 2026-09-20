@@ -1,15 +1,15 @@
 # Top 100 Java repositories on GitHub
 
-Ranked by stars. GitHub reports **21,659,469** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **21,659,498** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,313 | 15,520 | 40 | NOASSERTION | 2026-08-17 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS... |
 | 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,708 | 27,374 | 128 | NOASSERTION | 2026-09-13 | Design patterns implemented in Java |
-| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,655 | 9,061 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,655 | 9,062 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | 4 | [macrozheng/mall](https://github.com/macrozheng/mall) | 84,805 | 29,830 | 19 | Apache-2.0 | 2026-09-15 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮... |
-| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,479 | 42,761 | 473 | Apache-2.0 | 2026-09-18 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 79,156 | 8,772 | 1,964 | Apache-2.0 | 2026-09-18 | Ghidra is a software reverse engineering (SRE) framework |
+| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,479 | 42,763 | 473 | Apache-2.0 | 2026-09-18 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 79,158 | 8,773 | 1,964 | Apache-2.0 | 2026-09-18 | Ghidra is a software reverse engineering (SRE) framework |
 | 7 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 79,121 | 19,148 | 0 | CC-BY-SA-4.0 | 2026-09-12 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微... |
 | 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77,946 | 26,075 | 6,099 | NOASSERTION | 2026-09-20 | Free and Open Source, Distributed, RESTful Search Engine |
 | 9 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76,705 | 13,861 | 22 | — | 2026-06-12 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.... |
@@ -57,7 +57,7 @@ Ranked by stars. GitHub reports **21,659,469** total repositories matching `lang
 | 51 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,175 | 8,479 | 74 | Apache-2.0 | 2026-09-09 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab... |
 | 52 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | 29,055 | 3,784 | 11 | GPL-3.0 | 2026-09-20 | The automation tower defense RTS |
 | 53 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28,942 | 8,080 | 35 | MIT | 2024-05-31 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Securi... |
-| 54 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28,190 | 3,005 | 660 | Apache-2.0 | 2026-09-18 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 54 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28,190 | 3,005 | 660 | Apache-2.0 | 2026-09-20 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
 | 55 | [alibaba/druid](https://github.com/alibaba/druid) | 28,175 | 8,556 | 2,336 | Apache-2.0 | 2026-08-01 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 |
 | 56 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,162 | 3,037 | 235 | NOASSERTION | 2026-09-20 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and ... |
 | 57 | [lenve/vhr](https://github.com/lenve/vhr) | 28,056 | 10,150 | 216 | — | 2024-11-25 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 |

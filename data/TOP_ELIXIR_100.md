@@ -1,12 +1,12 @@
 # Top 100 Elixir repositories on GitHub
 
-Ranked by stars. GitHub reports **132,133** total repositories matching `language:Elixir`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **132,134** total repositories matching `language:Elixir`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [anoma/anoma](https://github.com/anoma/anoma) | 33,605 | 4,112 | 122 | MIT | 2026-06-15 | Reference implementation of Anoma |
 | 2 | [plausible/analytics](https://github.com/plausible/analytics) | 29,166 | 1,869 | 63 | AGPL-3.0 | 2026-09-17 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. |
-| 3 | [openai/symphony](https://github.com/openai/symphony) | 27,310 | 2,822 | 8 | Apache-2.0 | 2026-09-15 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of s... |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | 27,311 | 2,822 | 8 | Apache-2.0 | 2026-09-15 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of s... |
 | 4 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | 26,665 | 3,671 | 38 | Apache-2.0 | 2026-09-20 | Simple from zero to scale |
 | 5 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | 23,166 | 3,110 | 49 | MIT | 2026-09-17 | Peace of mind from prototype to production |
 | 6 | [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) | 13,167 | 1,192 | 36 | MIT | 2025-10-12 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: |

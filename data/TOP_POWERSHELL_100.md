@@ -1,12 +1,12 @@
 # Top 100 PowerShell repositories on GitHub
 
-Ranked by stars. GitHub reports **368,674** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **368,679** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 62,914 | 3,688 | 34 | MIT | 2026-09-19 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
 | 2 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 57,403 | 2,451 | 31 | MIT | 2026-09-10 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... |
-| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 36,687 | 5,078 | 26 | MIT | 2026-09-03 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
+| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 36,689 | 5,078 | 26 | MIT | 2026-09-03 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
 | 4 | [cmderdev/cmder](https://github.com/cmderdev/cmder) | 27,008 | 2,074 | 67 | MIT | 2026-09-14 | Lovely console emulator package for Windows |
 | 5 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | 24,680 | 1,536 | 527 | NOASSERTION | 2026-09-20 | A command-line installer for Windows. |
 | 6 | [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) | 22,408 | 1,127 | 3 | MIT | 2026-09-09 | SpotX patcher used for patching the desktop version of Spotify |
@@ -58,7 +58,7 @@ Ranked by stars. GitHub reports **368,674** total repositories matching `languag
 | 52 | [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) | 2,942 | 139 | 63 | MIT | 2024-08-06 | A PowerShell module to show file and folder icons in the terminal |
 | 53 | [pbatard/Fido](https://github.com/pbatard/Fido) | 2,890 | 256 | 1 | GPL-3.0 | 2026-03-30 | A PowerShell script to download Windows or UEFI Shell ISOs |
 | 54 | [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) | 2,882 | 743 | 19 | MIT | 2026-09-03 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) |
-| 55 | [dataplat/dbatools](https://github.com/dataplat/dbatools) | 2,840 | 864 | 39 | MIT | 2026-09-20 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer |
+| 55 | [dataplat/dbatools](https://github.com/dataplat/dbatools) | 2,840 | 864 | 40 | MIT | 2026-09-20 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer |
 | 56 | [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2,792 | 331 | 164 | Apache-2.0 | 2017-03-03 | [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows. |
 | 57 | [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) | 2,767 | 519 | 2 | MIT | 2025-07-06 | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. |
 | 58 | [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 2,741 | 471 | 26 | NOASSERTION | 2024-12-12 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server |

@@ -1,6 +1,6 @@
 # Top 100 C# repositories on GitHub
 
-Ranked by stars. GitHub reports **7,670,596** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,670,609** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Ranked by stars. GitHub reports **7,670,596** total repositories matching `langu
 | 12 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 30,886 | 2,107 | 115 | Apache-2.0 | 2026-09-16 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
 | 13 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29,683 | 5,648 | 185 | — | 2020-12-20 | .NET debugger and assembly editor |
 | 14 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,581 | 4,777 | 311 | MIT | 2026-09-19 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,373 | 72,493 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,376 | 72,495 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
 | 16 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,672 | 2,362 | 334 | MS-PL | 2026-07-28 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
 | 17 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 26,901 | 1,713 | 1,161 | GPL-3.0 | 2026-08-31 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | 18 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 26,209 | 929 | 466 | MIT | 2026-09-20 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
@@ -79,7 +79,7 @@ Ranked by stars. GitHub reports **7,670,596** total repositories matching `langu
 | 73 | [dotnet/csharplang](https://github.com/dotnet/csharplang) | 12,708 | 1,078 | 289 | — | 2026-09-18 | The official repo for the design of the C# programming language |
 | 74 | [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) | 12,688 | 1,581 | 106 | — | 2026-08-31 | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
 | 75 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | 12,038 | 1,025 | 16 | MIT | 2026-09-01 | Saves Discord chat logs to a file |
-| 76 | [microsoft/garnet](https://github.com/microsoft/garnet) | 12,023 | 703 | 72 | MIT | 2026-09-20 | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scala... |
+| 76 | [microsoft/garnet](https://github.com/microsoft/garnet) | 12,023 | 703 | 73 | MIT | 2026-09-20 | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scala... |
 | 77 | [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 12,001 | 3,815 | 63 | MIT | 2026-09-18 | ASP.NET Boilerplate - Web Application Framework |
 | 78 | [LuckyPennySoftware/MediatR](https://github.com/LuckyPennySoftware/MediatR) | 11,859 | 2,183 | 0 | NOASSERTION | 2026-07-02 | Simple, unambitious mediator implementation in .NET |
 | 79 | [lucasg/Dependencies](https://github.com/lucasg/Dependencies) | 11,846 | 949 | 142 | MIT | 2024-05-15 | A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. |

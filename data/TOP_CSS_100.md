@@ -1,6 +1,6 @@
 # Top 100 CSS repositories on GitHub
 
-Ranked by stars. GitHub reports **11,301,471** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **11,301,508** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|

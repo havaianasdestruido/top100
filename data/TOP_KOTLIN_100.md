@@ -1,6 +1,6 @@
 # Top 100 Kotlin repositories on GitHub
 
-Ranked by stars. GitHub reports **2,336,570** total repositories matching `language:Kotlin`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,336,575** total repositories matching `language:Kotlin`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -14,14 +14,14 @@ Ranked by stars. GitHub reports **2,336,570** total repositories matching `langu
 | 8 | [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 42,026 | 1,987 | 13 | GPL-3.0 | 2026-09-06 | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors,... |
 | 9 | [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) | 36,799 | 11,440 | 78 | NOASSERTION | 2026-08-09 | A shadowsocks client for Android |
 | 10 | [alibaba/p3c](https://github.com/alibaba/p3c) | 30,850 | 7,965 | 185 | Apache-2.0 | 2024-08-06 | Alibaba Java Coding Guidelines pmd implements and IDE plugin |
-| 11 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | 30,367 | 3,146 | 605 | Apache-2.0 | 2025-06-18 | Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. |
+| 11 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | 30,368 | 3,146 | 605 | Apache-2.0 | 2025-06-18 | Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. |
 | 12 | [square/leakcanary](https://github.com/square/leakcanary) | 29,995 | 3,993 | 134 | Apache-2.0 | 2026-09-18 | A memory leak detection library for Android. |
 | 13 | [librepods-org/librepods](https://github.com/librepods-org/librepods) | 29,957 | 1,749 | 294 | GPL-3.0 | 2026-09-01 | AirPods liberated from Apple's ecosystem. |
 | 14 | [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 29,593 | 1,154 | 193 | GPL-3.0 | 2026-07-29 | 💊 Application to use ReVanced on Android |
 | 15 | [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | 29,366 | 6,891 | 505 | AGPL-3.0 | 2026-09-18 | A private messenger for Android. |
 | 16 | [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 29,114 | 1,423 | 724 | GPL-3.0 | 2026-08-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
 | 17 | [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) | 28,063 | 3,422 | 14 | BSD-2-Clause | 2026-09-20 | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、S... |
-| 18 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 24,740 | 2,686 | 379 | Apache-2.0 | 2026-09-18 | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| 18 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 24,740 | 2,686 | 380 | Apache-2.0 | 2026-09-18 | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 | 19 | [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) | 24,579 | 5,170 | 338 | MIT | 2026-06-26 | BRVAH:Powerful and flexible RecyclerAdapter |
 | 20 | [mihonapp/mihon](https://github.com/mihonapp/mihon) | 23,718 | 1,529 | 737 | Apache-2.0 | 2026-09-20 | Free and open source manga reader for Android |
 | 21 | [android/compose-samples](https://github.com/android/compose-samples) | 23,468 | 5,484 | 9 | Apache-2.0 | 2026-09-18 | Official Jetpack Compose samples. |
@@ -85,7 +85,7 @@ Ranked by stars. GitHub reports **2,336,570** total repositories matching `langu
 | 79 | [florisboard/florisboard](https://github.com/florisboard/florisboard) | 8,660 | 734 | 488 | Apache-2.0 | 2026-09-17 | An open-source keyboard for Android which respects your privacy. Currently in beta. |
 | 80 | [skydoves/Pokedex](https://github.com/skydoves/Pokedex) | 8,359 | 1,111 | 26 | Apache-2.0 | 2026-09-19 | 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewM... |
 | 81 | [javalin/javalin](https://github.com/javalin/javalin) | 8,349 | 648 | 20 | Apache-2.0 | 2026-09-15 | A simple and modern Java and Kotlin web framework |
-| 82 | [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) | 8,205 | 189 | 24 | GPL-3.0 | 2026-09-20 | Morphe app patcher for Android |
+| 82 | [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) | 8,206 | 189 | 24 | GPL-3.0 | 2026-09-20 | Morphe app patcher for Android |
 | 83 | [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) | 8,144 | 1,081 | 61 | GPL-3.0 | 2022-03-14 | Vanced Installer |
 | 84 | [AAswordman/Operit](https://github.com/AAswordman/Operit) | 8,032 | 661 | 106 | LGPL-3.0 | 2026-09-20 | The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent |
 | 85 | [bmax121/APatch](https://github.com/bmax121/APatch) | 7,966 | 776 | 52 | GPL-3.0 | 2026-09-18 | The patching of Android kernel and Android system |
@@ -96,7 +96,7 @@ Ranked by stars. GitHub reports **2,336,570** total repositories matching `langu
 | 90 | [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) | 7,785 | 720 | 13 | Apache-2.0 | 2026-05-08 | 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems. |
 | 91 | [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) | 7,750 | 692 | 280 | AGPL-3.0 | 2026-09-20 | RikkaHub is an Android APP that supports for multiple LLM providers. |
 | 92 | [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) | 7,698 | 655 | 376 | Apache-2.0 | 2026-09-14 | An app for manga and anime |
-| 93 | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) | 7,644 | 1,867 | 338 | GPL-3.0 | 2026-09-20 | decentralized mesh chat |
+| 93 | [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) | 7,645 | 1,867 | 338 | GPL-3.0 | 2026-09-20 | decentralized mesh chat |
 | 94 | [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) | 7,636 | 1,777 | 18 | Apache-2.0 | 2020-12-07 | Demos the new Android Design library. |
 | 95 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | 7,563 | 821 | 18 | GPL-3.0 | 2026-09-16 | SD Maid 2/SE is Android's most thorough cleaning tool. |
 | 96 | [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) | 7,533 | 331 | 477 | GPL-3.0 | 2026-08-11 | An Android RSS reader presented in Material You style. |

@@ -1,10 +1,10 @@
 # Top 100 Dart repositories on GitHub
 
-Ranked by stars. GitHub reports **2,115,931** total repositories matching `language:Dart`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,115,932** total repositories matching `language:Dart`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [flutter/flutter](https://github.com/flutter/flutter) | 179,023 | 31,754 | 13,249 | BSD-3-Clause | 2026-09-20 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| 1 | [flutter/flutter](https://github.com/flutter/flutter) | 179,023 | 31,756 | 13,249 | BSD-3-Clause | 2026-09-20 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | 2 | [localsend/localsend](https://github.com/localsend/localsend) | 92,236 | 5,142 | 1,130 | Apache-2.0 | 2026-09-14 | An open-source cross-platform alternative to AirDrop |
 | 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 76,860 | 6,027 | 1,029 | AGPL-3.0 | 2026-09-19 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more ... |
 | 4 | [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | 61,255 | 6,917 | 27 | — | 2026-09-03 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. |

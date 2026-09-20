@@ -1,6 +1,6 @@
 # Top 100 C repositories on GitHub
 
-Ranked by stars. GitHub reports **4,325,702** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,325,718** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -10,18 +10,18 @@ Ranked by stars. GitHub reports **4,325,702** total repositories matching `langu
 | 4 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 79,410 | 4,944 | 1,032 | GPL-3.0 | 2026-08-06 | A new bootable USB solution. |
 | 5 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 76,454 | 10,256 | 1,144 | GPL-2.0 | 2026-09-19 | OBS Studio - Free and open source software for live streaming and screen recording |
 | 6 | [redis/redis](https://github.com/redis/redis) | 76,422 | 24,814 | 2,959 | NOASSERTION | 2026-09-20 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most featur... |
-| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,585 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
+| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,586 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
 | 8 | [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | 64,378 | 14,282 | 3 | NOASSERTION | 2026-09-20 | Mirror of https://git.ffmpeg.org/ffmpeg.git |
 | 9 | [git/git](https://github.com/git/git) | 63,252 | 28,426 | 394 | NOASSERTION | 2026-09-17 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailin... |
 | 10 | [tmux/tmux](https://github.com/tmux/tmux) | 49,387 | 2,906 | 46 | ISC | 2026-09-20 | tmux source code |
-| 11 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 43,901 | 3,579 | 594 | MIT | 2026-09-20 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
+| 11 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 43,902 | 3,579 | 595 | MIT | 2026-09-20 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
 | 12 | [curl/curl](https://github.com/curl/curl) | 42,902 | 7,370 | 51 | NOASSERTION | 2026-09-20 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPH... |
 | 13 | [wg/wrk](https://github.com/wg/wrk) | 40,407 | 3,031 | 203 | NOASSERTION | 2023-12-30 | Modern HTTP benchmarking tool |
 | 14 | [php/php-src](https://github.com/php/php-src) | 40,398 | 8,153 | 2,086 | BSD-3-Clause | 2026-09-20 | The PHP Interpreter |
 | 15 | [pbatard/rufus](https://github.com/pbatard/rufus) | 37,693 | 3,169 | 13 | GPL-3.0 | 2026-09-16 | The Reliable USB Formatting Utility |
 | 16 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37,042 | 3,532 | 1,160 | NOASSERTION | 2026-09-20 | 🎥 Command line media player |
-| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,566 | 3,892 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
-| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,246 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
+| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,568 | 3,892 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
+| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,248 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
 | 19 | [raysan5/raylib](https://github.com/raysan5/raylib) | 34,800 | 3,301 | 15 | Zlib | 2026-09-20 | A simple and easy-to-use library to enjoy videogames programming |
 | 20 | [nothings/stb](https://github.com/nothings/stb) | 34,682 | 8,089 | 430 | NOASSERTION | 2026-08-02 | stb single-file public domain libraries for C/C++ |
 | 21 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 33,938 | 1,377 | 372 | GPL-2.0 | 2026-07-06 | This project aims to enhance the working environment on Windows |
@@ -30,7 +30,7 @@ Ranked by stars. GitHub reports **4,325,702** total repositories matching `langu
 | 24 | [lizongying/my-tv](https://github.com/lizongying/my-tv) | 31,974 | 3,586 | 146 | — | 2024-06-20 | 我的电视 电视直播软件，安装即可使用 |
 | 25 | [nginx/nginx](https://github.com/nginx/nginx) | 31,694 | 8,307 | 470 | BSD-2-Clause | 2026-09-16 | The official NGINX Open Source repository. |
 | 26 | [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) | 31,577 | 19,149 | 7 | NOASSERTION | 2026-09-16 | Lean's LEDE source |
-| 27 | [openssl/openssl](https://github.com/openssl/openssl) | 30,810 | 11,470 | 1,561 | Apache-2.0 | 2026-09-18 | General purpose TLS and crypto library |
+| 27 | [openssl/openssl](https://github.com/openssl/openssl) | 30,811 | 11,470 | 1,561 | Apache-2.0 | 2026-09-18 | General purpose TLS and crypto library |
 | 28 | [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) | 30,717 | 3,552 | 129 | BSD-3-Clause | 2026-02-04 | How to create an OS from scratch |
 | 29 | [asmvik/yabai](https://github.com/asmvik/yabai) | 29,638 | 761 | 257 | MIT | 2026-06-14 | A tiling window manager for macOS based on binary space partitioning |
 | 30 | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | 28,653 | 2,218 | 153 | Apache-2.0 | 2026-01-19 | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
@@ -63,7 +63,7 @@ Ranked by stars. GitHub reports **4,325,702** total repositories matching `langu
 | 57 | [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) | 21,505 | 6,955 | 64 | — | 2023-02-26 | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 |
 | 58 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | 21,295 | 778 | 228 | ISC | 2026-07-20 | build-once run-anywhere c library |
 | 59 | [allinurl/goaccess](https://github.com/allinurl/goaccess) | 20,939 | 1,193 | 449 | MIT | 2026-09-19 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through yo... |
-| 60 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20,713 | 44,313 | 551 | GPL-2.0 | 2026-09-10 | Open-source keyboard firmware for Atmel AVR and Arm USB families |
+| 60 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20,713 | 44,312 | 550 | GPL-2.0 | 2026-09-20 | Open-source keyboard firmware for Atmel AVR and Arm USB families |
 | 61 | [ish-app/ish](https://github.com/ish-app/ish) | 20,491 | 1,529 | 675 | NOASSERTION | 2026-09-20 | Linux shell for iOS |
 | 62 | [karpathy/llama2.c](https://github.com/karpathy/llama2.c) | 20,093 | 2,630 | 191 | MIT | 2024-08-06 | Inference Llama 2 in one file of pure C |
 | 63 | [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 19,967 | 3,260 | 52 | — | 2024-07-19 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |

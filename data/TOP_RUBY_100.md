@@ -1,10 +1,10 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,330** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,327** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,061 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
+| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,063 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
 | 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,279 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
 | 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,674 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,305 | 7,500 | 4,560 | AGPL-3.0 | 2026-09-20 | Your self-hosted, globally interconnected microblogging community |
@@ -21,9 +21,9 @@ Ranked by stars. GitHub reports **2,969,330** total repositories matching `langu
 | 15 | [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | 26,266 | 3,146 | 14 | CC0-1.0 | 2026-09-01 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
 | 16 | [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | 24,546 | 5,982 | 36 | NOASSERTION | 2026-09-20 | GitLab CE Mirror \| Please open new issues in our issue tracker on GitLab.com |
 | 17 | [heartcombo/devise](https://github.com/heartcombo/devise) | 24,358 | 5,472 | 235 | MIT | 2026-06-22 | Flexible authentication solution for Rails with Warden. |
-| 18 | [ruby/ruby](https://github.com/ruby/ruby) | 23,747 | 5,644 | 737 | NOASSERTION | 2026-09-20 | The Ruby Programming Language |
+| 18 | [ruby/ruby](https://github.com/ruby/ruby) | 23,747 | 5,644 | 738 | NOASSERTION | 2026-09-20 | The Ruby Programming Language |
 | 19 | [forem/forem](https://github.com/forem/forem) | 22,780 | 4,183 | 139 | AGPL-3.0 | 2026-09-19 | For empowering community 🌱 |
-| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,218 | 11,924 | 33 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
+| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,218 | 11,924 | 31 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
 | 21 | [lewagon/setup](https://github.com/lewagon/setup) | 19,618 | 1,575 | 6 | — | 2026-09-20 | Setup instructions for Le Wagon's students on their first day of AI Software Development Bootcamp |
 | 22 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,582 | 1,871 | 124 | AGPL-3.0 | 2026-09-14 | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,817 | 1,291 | 92 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
@@ -50,10 +50,10 @@ Ranked by stars. GitHub reports **2,969,330** total repositories matching `langu
 | 44 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 11,757 | 893 | 1 | MIT | 2026-09-09 | 收集整理远程工作相关的资料 |
 | 45 | [jordansissel/fpm](https://github.com/jordansissel/fpm) | 11,508 | 1,064 | 789 | NOASSERTION | 2026-09-14 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. |
 | 46 | [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) | 11,275 | 1,524 | 1 | — | 2026-06-26 | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 |
-| 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,452 | 376 | 146 | AGPL-3.0 | 2026-09-20 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,453 | 376 | 146 | AGPL-3.0 | 2026-09-20 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | 48 | [teamcapybara/capybara](https://github.com/teamcapybara/capybara) | 10,172 | 1,469 | 22 | MIT | 2026-07-13 | Acceptance test framework for web applications |
 | 49 | [ruby-grape/grape](https://github.com/ruby-grape/grape) | 10,006 | 1,232 | 238 | MIT | 2026-09-20 | An opinionated framework for creating REST-like APIs in Ruby. |
-| 50 | [we-promise/sure](https://github.com/we-promise/sure) | 9,990 | 500 | 553 | AGPL-3.0 | 2026-09-20 | The personal finance app for everyone (by everyone) |
+| 50 | [we-promise/sure](https://github.com/we-promise/sure) | 9,990 | 501 | 554 | AGPL-3.0 | 2026-09-20 | The personal finance app for everyone (by everyone) |
 | 51 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 9,778 | 1,343 | 1 | NOASSERTION | 2026-09-18 | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of th... |
 | 52 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | 9,713 | 2,038 | 8 | MIT | 2026-09-20 | See what sticks |
 | 53 | [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) | 9,709 | 3,326 | 29 | MIT | 2026-09-20 | The administration framework for Ruby on Rails applications. |
