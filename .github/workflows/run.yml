@@ -16,6 +16,9 @@ on:
         default: "TypeScript,Python,JavaScript,Java,C#,C++,PHP,Shell,C,Go,Rust,Ruby,Kotlin,Swift,Dart,HTML,CSS,SQL,Scala,Lua,Groovy,Objective-C,Perl,Haskell,Assembly,R,Julia,Elixir,PowerShell,Nix"
   schedule:
     - cron: "0 0/1 * * *"
+  push:
+      branches:
+        - main
 
 permissions:
   contents: write # needed for writing files
