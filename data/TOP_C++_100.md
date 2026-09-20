@@ -1,15 +1,15 @@
 # Top 100 C++ repositories on GitHub
 
-Ranked by stars. GitHub reports **7,122,168** total repositories matching `language:C++`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,122,190** total repositories matching `language:C++`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,215 | 76,995 | 3,207 | Apache-2.0 | 2026-09-20 | An Open Source Machine Learning Framework for Everyone |
+| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,215 | 77,001 | 3,207 | Apache-2.0 | 2026-09-20 | An Open Source Machine Learning Framework for Everyone |
 | 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 128,959 | 23,498 | 2,528 | MIT | 2026-09-20 | LLM inference in C/C++ |
 | 3 | [react/react-native](https://github.com/react/react-native) | 126,670 | 25,281 | 1,153 | MIT | 2026-09-20 | A framework for building native applications using React |
-| 4 | [electron/electron](https://github.com/electron/electron) | 123,168 | 17,541 | 759 | MIT | 2026-09-20 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
-| 5 | [godotengine/godot](https://github.com/godotengine/godot) | 117,515 | 26,814 | 18,910 | MIT | 2026-09-20 | Godot Engine – Multi-platform 2D and 3D game engine |
-| 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 104,948 | 9,605 | 1,763 | MIT | 2026-09-18 | The new Windows Terminal and the original Windows console host, all in the same place! |
+| 4 | [electron/electron](https://github.com/electron/electron) | 123,169 | 17,541 | 759 | MIT | 2026-09-20 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
+| 5 | [godotengine/godot](https://github.com/godotengine/godot) | 117,516 | 26,814 | 18,910 | MIT | 2026-09-20 | Godot Engine – Multi-platform 2D and 3D game engine |
+| 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 104,948 | 9,605 | 1,764 | MIT | 2026-09-18 | The new Windows Terminal and the original Windows console host, all in the same place! |
 | 7 | [opencv/opencv](https://github.com/opencv/opencv) | 90,904 | 57,034 | 2,768 | Apache-2.0 | 2026-09-19 | Open Source Computer Vision Library |
 | 8 | [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) | 90,217 | 39,400 | 728 | MIT | 2026-09-19 | Bitcoin Core integration/staging tree |
 | 9 | [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 77,390 | 8,287 | 771 | MIT | 2025-05-27 | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
@@ -24,7 +24,7 @@ Ranked by stars. GitHub reports **7,122,168** total repositories matching `langu
 | 18 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | 49,563 | 2,844 | 573 | NOASSERTION | 2026-09-19 | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. |
 | 19 | [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | 46,236 | 3,796 | 1,355 | NOASSERTION | 2026-08-31 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 |
 | 20 | [grpc/grpc](https://github.com/grpc/grpc) | 45,327 | 11,373 | 1,349 | Apache-2.0 | 2026-09-18 | C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
-| 21 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44,525 | 1,762 | 700 | MPL-2.0 | 2026-09-20 | Welcome to a calmer internet |
+| 21 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44,526 | 1,762 | 700 | MPL-2.0 | 2026-09-20 | Welcome to a calmer internet |
 | 22 | [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) | 43,466 | 8,796 | 10 | — | 2026-05-16 | C++那些事 |
 | 23 | [aria2/aria2](https://github.com/aria2/aria2) | 42,563 | 3,924 | 1,178 | GPL-2.0 | 2026-06-25 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It su... |
 | 24 | [duckdb/duckdb](https://github.com/duckdb/duckdb) | 41,580 | 3,807 | 911 | MIT | 2026-09-20 | DuckDB is an analytical in-process SQL database management system |
@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **7,122,168** total repositories matching `langu
 | 26 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | 40,945 | 4,527 | 326 | MIT | 2026-09-19 | A library for efficient similarity search and clustering of dense vectors. |
 | 27 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | 40,287 | 3,739 | 330 | MIT | 2026-07-27 | Official inference framework for 1-bit LLMs |
 | 28 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 40,223 | 4,880 | 2,700 | NOASSERTION | 2026-09-16 | qBittorrent BitTorrent client |
-| 29 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | 39,579 | 9,056 | 2,003 | — | 2026-09-18 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
+| 29 | [aseprite/aseprite](https://github.com/aseprite/aseprite) | 39,580 | 9,056 | 2,003 | — | 2026-09-18 | Animated sprite editor & pixel art tool (Windows, macOS, Linux) |
 | 30 | [google/googletest](https://github.com/google/googletest) | 39,560 | 10,899 | 509 | BSD-3-Clause | 2026-09-17 | GoogleTest - Google Testing and Mocking Framework |
 | 31 | [google/leveldb](https://github.com/google/leveldb) | 39,431 | 8,220 | 409 | BSD-3-Clause | 2026-03-11 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to st... |
 | 32 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 38,616 | 2,014 | 195 | BSD-3-Clause | 2026-09-19 | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **7,122,168** total repositories matching `langu
 | 37 | [BVLC/caffe](https://github.com/BVLC/caffe) | 34,553 | 18,407 | 1,175 | NOASSERTION | 2024-07-31 | Caffe: a fast open framework for deep learning. |
 | 38 | [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | 34,457 | 8,040 | 359 | NOASSERTION | 2024-08-03 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation |
 | 39 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | 33,897 | 1,710 | 255 | NOASSERTION | 2026-09-20 | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is ex... |
-| 40 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity) | 33,848 | 3,544 | 740 | BSD-2-Clause | 2026-09-20 | The Serenity Operating System 🐞 |
+| 40 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity) | 33,848 | 3,544 | 739 | BSD-2-Clause | 2026-09-20 | The Serenity Operating System 🐞 |
 | 41 | [microsoft/WSL](https://github.com/microsoft/WSL) | 33,737 | 1,829 | 985 | MIT | 2026-09-20 | Windows Subsystem for Linux |
 | 42 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33,669 | 6,057 | 4,043 | LGPL-2.1 | 2026-09-20 | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
 | 43 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 32,972 | 7,225 | 1,024 | GPL-3.0 | 2026-09-18 | Telegram Desktop messaging app |
@@ -80,7 +80,7 @@ Ranked by stars. GitHub reports **7,122,168** total repositories matching `langu
 | 74 | [argotorg/solidity](https://github.com/argotorg/solidity) | 25,737 | 6,161 | 829 | GPL-3.0 | 2026-09-20 | Solidity, the Smart Contract Programming Language |
 | 75 | [v8/v8](https://github.com/v8/v8) | 25,256 | 4,336 | 23 | NOASSERTION | 2026-09-20 | The official mirror of the V8 Git repository |
 | 76 | [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | 24,612 | 2,377 | 840 | NOASSERTION | 2026-09-20 | Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Databas... |
-| 77 | [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | 24,268 | 2,300 | 4 | NOASSERTION | 2026-07-29 | A brief computer graphics / rendering course |
+| 77 | [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | 24,269 | 2,300 | 4 | NOASSERTION | 2026-07-29 | A brief computer graphics / rendering course |
 | 78 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24,264 | 1,289 | 141 | Apache-2.0 | 2026-09-20 | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Ap... |
 | 79 | [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) | 24,098 | 6,024 | 1,489 | Apache-2.0 | 2026-09-20 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训... |
 | 80 | [Tencent/ncnn](https://github.com/Tencent/ncnn) | 23,845 | 4,504 | 1,204 | NOASSERTION | 2026-09-20 | ncnn is a high-performance neural network inference framework optimized for the mobile platform |
@@ -97,10 +97,10 @@ Ranked by stars. GitHub reports **7,122,168** total repositories matching `langu
 | 91 | [imputnet/helium](https://github.com/imputnet/helium) | 20,819 | 588 | 504 | GPL-3.0 | 2026-09-17 | Private, fast, and honest web browser |
 | 92 | [apache/mxnet](https://github.com/apache/mxnet) | 20,809 | 6,685 | 2,007 | Apache-2.0 | 2023-10-25 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;... |
 | 93 | [google/filament](https://github.com/google/filament) | 20,513 | 2,264 | 213 | Apache-2.0 | 2026-09-20 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| 94 | [blender/blender](https://github.com/blender/blender) | 20,442 | 3,265 | 0 | NOASSERTION | 2026-09-19 | Official mirror of Blender |
+| 94 | [blender/blender](https://github.com/blender/blender) | 20,442 | 3,265 | 0 | NOASSERTION | 2026-09-20 | Official mirror of Blender |
 | 95 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20,381 | 1,261 | 328 | GPL-3.0 | 2026-09-20 | A lightweight utility that makes the Windows taskbar translucent/transparent. |
 | 96 | [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) | 19,913 | 1,479 | 18 | — | 2023-06-25 | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. |
 | 97 | [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) | 19,811 | 2,451 | 1,083 | GPL-2.0 | 2026-09-20 | PlayStation 3 emulator and debugger |
 | 98 | [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) | 19,763 | 3,016 | 99 | GPL-3.0 | 2024-08-21 | An unidentifiable mechanism that helps you bypass GFW. |
-| 99 | [rizinorg/cutter](https://github.com/rizinorg/cutter) | 19,754 | 1,467 | 494 | GPL-3.0 | 2026-09-11 | Free and Open Source Reverse Engineering Platform powered by rizin |
+| 99 | [rizinorg/cutter](https://github.com/rizinorg/cutter) | 19,755 | 1,467 | 494 | GPL-3.0 | 2026-09-11 | Free and Open Source Reverse Engineering Platform powered by rizin |
 | 100 | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) | 19,750 | 1,481 | 15 | GPL-2.0 | 2026-09-18 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |

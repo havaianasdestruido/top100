@@ -1,28 +1,28 @@
 # Top 100 C repositories on GitHub
 
-Ranked by stars. GitHub reports **4,325,718** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,325,738** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,625 | 65,250 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
+| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,625 | 65,251 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
 | 2 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 150,074 | 13,781 | 2,904 | Apache-2.0 | 2026-09-19 | Display and control your Android device |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 138,868 | 8,588 | 7,743 | MIT | 2026-09-20 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 | 4 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 79,410 | 4,944 | 1,032 | GPL-3.0 | 2026-08-06 | A new bootable USB solution. |
 | 5 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 76,454 | 10,256 | 1,144 | GPL-2.0 | 2026-09-19 | OBS Studio - Free and open source software for live streaming and screen recording |
 | 6 | [redis/redis](https://github.com/redis/redis) | 76,422 | 24,814 | 2,959 | NOASSERTION | 2026-09-20 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most featur... |
-| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,586 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
+| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,587 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
 | 8 | [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | 64,378 | 14,282 | 3 | NOASSERTION | 2026-09-20 | Mirror of https://git.ffmpeg.org/ffmpeg.git |
 | 9 | [git/git](https://github.com/git/git) | 63,252 | 28,426 | 394 | NOASSERTION | 2026-09-17 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailin... |
 | 10 | [tmux/tmux](https://github.com/tmux/tmux) | 49,387 | 2,906 | 46 | ISC | 2026-09-20 | tmux source code |
 | 11 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 43,902 | 3,579 | 595 | MIT | 2026-09-20 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
 | 12 | [curl/curl](https://github.com/curl/curl) | 42,902 | 7,370 | 51 | NOASSERTION | 2026-09-20 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPH... |
 | 13 | [wg/wrk](https://github.com/wg/wrk) | 40,407 | 3,031 | 203 | NOASSERTION | 2023-12-30 | Modern HTTP benchmarking tool |
-| 14 | [php/php-src](https://github.com/php/php-src) | 40,398 | 8,153 | 2,086 | BSD-3-Clause | 2026-09-20 | The PHP Interpreter |
-| 15 | [pbatard/rufus](https://github.com/pbatard/rufus) | 37,693 | 3,169 | 13 | GPL-3.0 | 2026-09-16 | The Reliable USB Formatting Utility |
-| 16 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37,042 | 3,532 | 1,160 | NOASSERTION | 2026-09-20 | 🎥 Command line media player |
-| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,568 | 3,892 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
+| 14 | [php/php-src](https://github.com/php/php-src) | 40,398 | 8,153 | 2,087 | BSD-3-Clause | 2026-09-20 | The PHP Interpreter |
+| 15 | [pbatard/rufus](https://github.com/pbatard/rufus) | 37,694 | 3,169 | 13 | GPL-3.0 | 2026-09-16 | The Reliable USB Formatting Utility |
+| 16 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37,043 | 3,532 | 1,160 | NOASSERTION | 2026-09-20 | 🎥 Command line media player |
+| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,569 | 3,893 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
 | 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,248 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
-| 19 | [raysan5/raylib](https://github.com/raysan5/raylib) | 34,800 | 3,301 | 15 | Zlib | 2026-09-20 | A simple and easy-to-use library to enjoy videogames programming |
+| 19 | [raysan5/raylib](https://github.com/raysan5/raylib) | 34,800 | 3,302 | 15 | Zlib | 2026-09-20 | A simple and easy-to-use library to enjoy videogames programming |
 | 20 | [nothings/stb](https://github.com/nothings/stb) | 34,682 | 8,089 | 430 | NOASSERTION | 2026-08-02 | stb single-file public domain libraries for C/C++ |
 | 21 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 33,938 | 1,377 | 372 | GPL-2.0 | 2026-07-06 | This project aims to enhance the working environment on Windows |
 | 22 | [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) | 33,208 | 8,242 | 2,900 | GPL-2.0 | 2024-08-13 | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **4,325,718** total repositories matching `langu
 | 28 | [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) | 30,717 | 3,552 | 129 | BSD-3-Clause | 2026-02-04 | How to create an OS from scratch |
 | 29 | [asmvik/yabai](https://github.com/asmvik/yabai) | 29,638 | 761 | 257 | MIT | 2026-06-14 | A tiling window manager for macOS based on binary space partitioning |
 | 30 | [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | 28,653 | 2,218 | 153 | Apache-2.0 | 2026-01-19 | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) |
-| 31 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | 28,470 | 12,994 | 4,484 | NOASSERTION | 2026-09-20 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active... |
+| 31 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | 28,471 | 12,994 | 4,485 | NOASSERTION | 2026-09-20 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active... |
 | 32 | [facebook/zstd](https://github.com/facebook/zstd) | 27,908 | 2,609 | 381 | NOASSERTION | 2026-09-18 | Zstandard - Fast real-time compression algorithm |
 | 33 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27,262 | 1,318 | 911 | BSD-3-Clause | 2026-09-20 | A flexible distributed key-value database that is optimized for caching and other realtime workloads. |
 | 34 | [libuv/libuv](https://github.com/libuv/libuv) | 27,182 | 3,930 | 235 | MIT | 2026-09-16 | Cross-platform asynchronous I/O |
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **4,325,718** total repositories matching `langu
 | 55 | [jarun/nnn](https://github.com/jarun/nnn) | 21,970 | 819 | 2 | BSD-2-Clause | 2026-09-19 | n³ The unorthodox terminal file manager |
 | 56 | [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) | 21,853 | 4,166 | 197 | — | 2026-04-17 | A little tool to play with Windows security |
 | 57 | [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) | 21,505 | 6,955 | 64 | — | 2023-02-26 | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 |
-| 58 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | 21,295 | 778 | 228 | ISC | 2026-07-20 | build-once run-anywhere c library |
+| 58 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | 21,296 | 778 | 228 | ISC | 2026-07-20 | build-once run-anywhere c library |
 | 59 | [allinurl/goaccess](https://github.com/allinurl/goaccess) | 20,939 | 1,193 | 449 | MIT | 2026-09-19 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through yo... |
 | 60 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20,713 | 44,312 | 550 | GPL-2.0 | 2026-09-20 | Open-source keyboard firmware for Atmel AVR and Arm USB families |
 | 61 | [ish-app/ish](https://github.com/ish-app/ish) | 20,491 | 1,529 | 675 | NOASSERTION | 2026-09-20 | Linux shell for iOS |
@@ -75,19 +75,19 @@ Ranked by stars. GitHub reports **4,325,718** total repositories matching `langu
 | 69 | [nicbarker/clay](https://github.com/nicbarker/clay) | 18,148 | 721 | 280 | Zlib | 2026-05-20 | High performance UI layout library in C. |
 | 70 | [reactos/reactos](https://github.com/reactos/reactos) | 18,101 | 2,219 | 205 | GPL-2.0 | 2026-09-20 | A free Windows-compatible Operating System |
 | 71 | [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | 17,810 | 1,112 | 425 | MIT | 2026-02-01 | FFmpeg for browser, powered by WebAssembly |
-| 72 | [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | 17,614 | 2,040 | 66 | GPL-3.0 | 2026-09-20 | SumatraPDF reader |
+| 72 | [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | 17,614 | 2,040 | 65 | GPL-3.0 | 2026-09-20 | SumatraPDF reader |
 | 73 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | 17,561 | 3,915 | 8 | GPL-3.0 | 2026-07-28 | Playground (and dump) of stuff I make or modify for the Flipper Zero |
 | 74 | [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) | 17,486 | 1,659 | 163 | NOASSERTION | 2026-09-20 | ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It suppor... |
 | 75 | [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 17,406 | 1,867 | 534 | NOASSERTION | 2026-09-09 | NVIDIA Linux open GPU kernel module source |
 | 76 | [swaywm/sway](https://github.com/swaywm/sway) | 17,341 | 1,301 | 1,387 | MIT | 2026-09-14 | i3-compatible Wayland compositor |
-| 77 | [tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 17,222 | 532 | 455 | MIT | 2026-09-16 | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
+| 77 | [tursodatabase/libsql](https://github.com/tursodatabase/libsql) | 17,223 | 532 | 455 | MIT | 2026-09-16 | libSQL is a fork of SQLite that is both Open Source, and Open Contributions. |
 | 78 | [woltapp/blurhash](https://github.com/woltapp/blurhash) | 17,071 | 379 | 50 | MIT | 2024-07-08 | A very compact representation of a placeholder for an image. |
 | 79 | [skywind3000/kcp](https://github.com/skywind3000/kcp) | 16,912 | 2,630 | 196 | MIT | 2026-06-23 | :zap: KCP - A Fast and Reliable ARQ Protocol |
 | 80 | [systemd/systemd](https://github.com/systemd/systemd) | 16,709 | 4,688 | 3,484 | GPL-2.0 | 2026-09-20 | The systemd System and Service Manager |
 | 81 | [semgrep/semgrep](https://github.com/semgrep/semgrep) | 16,704 | 1,063 | 927 | LGPL-2.1 | 2026-09-18 | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
 | 82 | [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 16,623 | 3,001 | 846 | Zlib | 2026-09-20 | Simple DirectMedia Layer |
 | 83 | [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | 16,621 | 3,472 | 247 | GPL-3.0 | 2026-09-04 | Flipper Zero firmware source code |
-| 84 | [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 16,569 | 10,003 | 3,957 | Apache-2.0 | 2026-09-20 | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multi... |
+| 84 | [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 16,569 | 10,003 | 3,956 | Apache-2.0 | 2026-09-20 | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multi... |
 | 85 | [davatorium/rofi](https://github.com/davatorium/rofi) | 16,401 | 696 | 115 | NOASSERTION | 2026-09-17 | Rofi: A window switcher, application launcher and dmenu replacement |
 | 86 | [shadowsocks/shadowsocks-c](https://github.com/shadowsocks/shadowsocks-c) | 16,176 | 6,222 | 31 | GPL-3.0 | 2026-09-13 | Self-contained Shadowsocks implementation in C with libuv, asynchronous DNS, and portable static builds for Linux, ma... |
 | 87 | [bol-van/zapret](https://github.com/bol-van/zapret) | 16,161 | 1,126 | 3 | — | 2026-09-18 | DPI bypass multi platform |

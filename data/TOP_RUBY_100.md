@@ -1,10 +1,10 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,327** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,329** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,063 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
+| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,065 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
 | 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,279 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
 | 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,674 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,305 | 7,500 | 4,560 | AGPL-3.0 | 2026-09-20 | Your self-hosted, globally interconnected microblogging community |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **2,969,327** total repositories matching `langu
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,817 | 1,291 | 92 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
 | 24 | [opf/openproject](https://github.com/opf/openproject) | 16,165 | 3,496 | 242 | GPL-3.0 | 2026-09-20 | OpenProject is the leading open source project management software for product, project and portfolio management. A p... |
 | 25 | [spree/spree](https://github.com/spree/spree) | 15,713 | 5,303 | 155 | BSD-3-Clause | 2026-09-20 | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-re... |
-| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,577 | 13,858 | 96 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
+| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,577 | 13,858 | 98 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
 | 27 | [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) | 15,119 | 1,245 | 0 | CC0-1.0 | 2026-09-18 | Awesome list of GraphQL |
 | 28 | [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | 14,831 | 2,676 | 838 | NOASSERTION | 2026-07-06 | The Cocoa Dependency Manager. |
 | 29 | [mame/quine-relay](https://github.com/mame/quine-relay) | 14,605 | 567 | 18 | — | 2026-09-01 | An uroboros program with 100+ programming languages |
@@ -37,7 +37,7 @@ Ranked by stars. GitHub reports **2,969,327** total repositories matching `langu
 | 31 | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | 14,553 | 819 | 86 | CC0-1.0 | 2026-02-11 | :city_sunrise: A collection of links for free stock photography, video and Illustration websites |
 | 32 | [gollum/gollum](https://github.com/gollum/gollum) | 14,325 | 1,560 | 91 | MIT | 2025-11-24 | A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content. |
 | 33 | [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) | 13,726 | 627 | 97 | MIT | 2026-07-10 | Manage complex tmux sessions easily |
-| 34 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13,695 | 5,421 | 236 | MIT | 2026-09-20 | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |
+| 34 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13,695 | 5,422 | 236 | MIT | 2026-09-20 | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |
 | 35 | [diaspora/diaspora](https://github.com/diaspora/diaspora) | 13,650 | 2,864 | 425 | AGPL-3.0 | 2026-07-28 | A privacy-aware, distributed, open source social network. |
 | 36 | [fluent/fluentd](https://github.com/fluent/fluentd) | 13,588 | 1,404 | 134 | Apache-2.0 | 2026-09-20 | Fluentd: Unified Logging Layer (project under CNCF) |
 | 37 | [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) | 13,561 | 2,480 | 21 | NOASSERTION | 2026-09-15 | Simple, efficient background processing for Ruby |

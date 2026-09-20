@@ -1,24 +1,24 @@
 # Top 100 Java repositories on GitHub
 
-Ranked by stars. GitHub reports **21,659,498** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **21,659,563** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,313 | 15,520 | 40 | NOASSERTION | 2026-08-17 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS... |
 | 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,708 | 27,374 | 128 | NOASSERTION | 2026-09-13 | Design patterns implemented in Java |
-| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,655 | 9,062 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,654 | 9,062 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | 4 | [macrozheng/mall](https://github.com/macrozheng/mall) | 84,805 | 29,830 | 19 | Apache-2.0 | 2026-09-15 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮... |
-| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,479 | 42,763 | 473 | Apache-2.0 | 2026-09-18 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,479 | 42,765 | 473 | Apache-2.0 | 2026-09-18 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
 | 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 79,158 | 8,773 | 1,964 | Apache-2.0 | 2026-09-18 | Ghidra is a software reverse engineering (SRE) framework |
 | 7 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 79,121 | 19,148 | 0 | CC-BY-SA-4.0 | 2026-09-12 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微... |
 | 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77,946 | 26,075 | 6,099 | NOASSERTION | 2026-09-20 | Free and Open Source, Distributed, RESTful Search Engine |
 | 9 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76,705 | 13,861 | 22 | — | 2026-06-12 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.... |
 | 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 66,283 | 21,265 | 11 | MIT | 2026-09-19 | All Algorithms implemented in Java |
 | 11 | [kdn251/interviews](https://github.com/kdn251/interviews) | 65,246 | 12,890 | 122 | MIT | 2025-05-12 | Everything you need to know to get the job. |
-| 12 | [termux/termux-app](https://github.com/termux/termux-app) | 61,129 | 7,587 | 614 | NOASSERTION | 2026-09-16 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 12 | [termux/termux-app](https://github.com/termux/termux-app) | 61,129 | 7,588 | 614 | NOASSERTION | 2026-09-16 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 | 13 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | 60,254 | 38,773 | 460 | Apache-2.0 | 2026-09-20 | Spring Framework |
 | 14 | [google/guava](https://github.com/google/guava) | 51,907 | 11,199 | 757 | Apache-2.0 | 2026-09-18 | Google core libraries for Java |
-| 15 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51,814 | 4,375 | 3,332 | Apache-2.0 | 2026-09-20 | Free universal database tool and SQL client |
+| 15 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51,814 | 4,375 | 3,333 | Apache-2.0 | 2026-09-20 | Free universal database tool and SQL client |
 | 16 | [skylot/jadx](https://github.com/skylot/jadx) | 50,541 | 5,762 | 449 | Apache-2.0 | 2026-09-12 | Dex to Java decompiler |
 | 17 | [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) | 48,194 | 7,585 | 11 | Apache-2.0 | 2026-09-17 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observ... |
 | 18 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 47,911 | 16,195 | 50 | Apache-2.0 | 2026-09-17 | 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大... |
@@ -91,7 +91,7 @@ Ranked by stars. GitHub reports **21,659,498** total repositories matching `lang
 | 85 | [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) | 23,132 | 4,227 | 0 | CC-BY-SA-4.0 | 2026-09-12 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
 | 86 | [apache/rocketmq](https://github.com/apache/rocketmq) | 22,613 | 12,017 | 673 | Apache-2.0 | 2026-09-20 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
 | 87 | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 22,449 | 6,459 | 316 | Apache-2.0 | 2026-09-18 | Open-source IoT Platform - Device management, data collection, processing and visualization. |
-| 88 | [google/ExoPlayer](https://github.com/google/ExoPlayer) | 21,938 | 5,997 | 627 | Apache-2.0 | 2025-12-23 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media |
+| 88 | [google/ExoPlayer](https://github.com/google/ExoPlayer) | 21,937 | 5,997 | 627 | Apache-2.0 | 2025-12-23 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media |
 | 89 | [elunez/eladmin](https://github.com/elunez/eladmin) | 21,911 | 7,332 | 23 | Apache-2.0 | 2026-05-09 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数... |
 | 90 | [oracle/graal](https://github.com/oracle/graal) | 21,705 | 1,824 | 848 | NOASSERTION | 2026-09-20 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resourc... |
 | 91 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 21,493 | 4,316 | 16 | Apache-2.0 | 2026-09-01 | Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subt... |
