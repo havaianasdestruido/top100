@@ -1,0 +1,56 @@
+name: Top Repos by Language
+
+# Fetches the top 100 GitHub repos (by stars) for each configured language
+# using the GitHub Search API, and commits the results back to the repo.
+#
+# API usage: exactly 1 search request per language (per_page=100 gets the
+# top 100 in a single call), plus small pauses to stay inside the search
+# API's rate limit. N languages configured = N API calls per run.
+
+on:
+  workflow_dispatch:
+    inputs:
+      languages:
+        description: "Comma-separated list of languages to fetch"
+        required: false
+        default: "Python,JavaScript,TypeScript,Go,Rust,Java,C++,C,C#,Ruby"
+  schedule:
+    - cron: "0 3 * * 1" # weekly, Monday 03:00 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: top-repos
+  cancel-in-progress: false
+
+jobs:
+  fetch-top-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch top repos per language
+        env:
+          # GITHUB_TOKEN is auto-provided by Actions; no secret setup needed.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LANGUAGES: ${{ github.event.inputs.languages || 'Python,JavaScript,TypeScript,Go,Rust,Java,C++,C,C#,Ruby' }}
+        run: python scripts/fetch_top_repos.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: update top repos data ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
