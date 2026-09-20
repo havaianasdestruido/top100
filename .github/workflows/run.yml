@@ -48,9 +48,11 @@ jobs:
 
       - name: Commit results
         run: |
+          ls
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
+          git add LISTS.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
