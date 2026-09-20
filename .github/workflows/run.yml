@@ -12,10 +12,10 @@ on:
     inputs:
       languages:
         description: "Comma-separated list of languages to fetch"
-        required: false
-        default: "Python,JavaScript,TypeScript,Go,Rust,Java,C++,C,C#,Ruby"
+        required: true
+        default: "TypeScript,Python,JavaScript,Java,C#,C++,PHP,Shell,C,Go,Rust,Ruby,Kotlin,Swift,Dart,HTML,CSS,SQL,Scala,Lua,Groovy,Objective-C,Perl,Haskell,Assembly,R,Julia,Elixir,PowerShell,Nix"
   schedule:
-    - cron: "0 3 * * 1" # weekly, Monday 03:00 UTC
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
