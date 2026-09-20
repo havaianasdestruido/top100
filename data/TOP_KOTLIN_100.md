@@ -1,6 +1,6 @@
 # Top 100 Kotlin repositories on GitHub
 
-Ranked by stars. GitHub reports **2,336,564** total repositories matching `language:Kotlin`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,336,570** total repositories matching `language:Kotlin`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **2,336,564** total repositories matching `langu
 | 11 | [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | 30,367 | 3,146 | 605 | Apache-2.0 | 2025-06-18 | Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process. |
 | 12 | [square/leakcanary](https://github.com/square/leakcanary) | 29,995 | 3,993 | 134 | Apache-2.0 | 2026-09-18 | A memory leak detection library for Android. |
 | 13 | [librepods-org/librepods](https://github.com/librepods-org/librepods) | 29,957 | 1,749 | 294 | GPL-3.0 | 2026-09-01 | AirPods liberated from Apple's ecosystem. |
-| 14 | [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 29,592 | 1,154 | 193 | GPL-3.0 | 2026-07-29 | 💊 Application to use ReVanced on Android |
+| 14 | [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) | 29,593 | 1,154 | 193 | GPL-3.0 | 2026-07-29 | 💊 Application to use ReVanced on Android |
 | 15 | [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | 29,366 | 6,891 | 505 | AGPL-3.0 | 2026-09-18 | A private messenger for Android. |
 | 16 | [JunkFood02/Seal](https://github.com/JunkFood02/Seal) | 29,114 | 1,423 | 724 | GPL-3.0 | 2026-08-25 | 🦭 Video/Audio Downloader for Android, based on yt-dlp |
 | 17 | [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) | 28,063 | 3,422 | 14 | BSD-2-Clause | 2026-09-20 | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、S... |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **2,336,564** total repositories matching `langu
 | 59 | [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) | 11,272 | 820 | 571 | GPL-3.0 | 2024-10-06 | Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud. |
 | 60 | [JakeWharton/timber](https://github.com/JakeWharton/timber) | 10,849 | 995 | 63 | Apache-2.0 | 2026-09-18 | A logger with a small, extensible API which provides utility on top of Android's normal Log class. |
 | 61 | [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) | 10,710 | 1,067 | 566 | GPL-3.0 | 2026-09-20 | Android app for streaming and downloading media. |
-| 62 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | 10,657 | 425 | 137 | GPL-3.0 | 2026-09-20 | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
+| 62 | [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) | 10,657 | 426 | 137 | GPL-3.0 | 2026-09-20 | Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android |
 | 63 | [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) | 10,568 | 1,762 | 41 | Apache-2.0 | 2026-09-19 | Make a cool intro for your Android app. |
 | 64 | [JetBrains/ideavim](https://github.com/JetBrains/ideavim) | 10,267 | 812 | 9 | MIT | 2026-09-20 | IdeaVim – A Vim engine for JetBrains IDEs |
 | 65 | [iSoron/uhabits](https://github.com/iSoron/uhabits) | 10,265 | 1,254 | 52 | GPL-3.0 | 2026-07-21 | Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits |
@@ -79,7 +79,7 @@ Ranked by stars. GitHub reports **2,336,564** total repositories matching `langu
 | 73 | [firebase/quickstart-android](https://github.com/firebase/quickstart-android) | 9,320 | 7,397 | 59 | Apache-2.0 | 2026-09-19 | Firebase Quickstart Samples for Android |
 | 74 | [JetBrains/Exposed](https://github.com/JetBrains/Exposed) | 9,289 | 799 | 167 | Apache-2.0 | 2026-09-18 | Kotlin SQL Framework |
 | 75 | [lysine-dev/okio](https://github.com/lysine-dev/okio) | 9,044 | 1,236 | 103 | Apache-2.0 | 2026-09-17 | A modern I/O library for Android, Java, and Kotlin Multiplatform. |
-| 76 | [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) | 8,989 | 737 | 610 | GPL-3.0 | 2026-09-20 | Material Design file manager for Android |
+| 76 | [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) | 8,990 | 737 | 610 | GPL-3.0 | 2026-09-20 | Material Design file manager for Android |
 | 77 | [Ackites/Nrfr](https://github.com/Ackites/Nrfr) | 8,942 | 657 | 108 | Apache-2.0 | 2025-07-16 | 🌍 免 Root 的 SIM 卡国家码修改工具 \| 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
 | 78 | [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | 8,864 | 926 | 579 | GPL-3.0 | 2025-11-04 | Manga reader for Android |
 | 79 | [florisboard/florisboard](https://github.com/florisboard/florisboard) | 8,660 | 734 | 488 | Apache-2.0 | 2026-09-17 | An open-source keyboard for Android which respects your privacy. Currently in beta. |

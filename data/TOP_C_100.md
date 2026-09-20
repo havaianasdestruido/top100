@@ -1,10 +1,10 @@
 # Top 100 C repositories on GitHub
 
-Ranked by stars. GitHub reports **4,325,690** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,325,702** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,626 | 65,252 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
+| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,625 | 65,250 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
 | 2 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 150,074 | 13,781 | 2,904 | Apache-2.0 | 2026-09-19 | Display and control your Android device |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 138,868 | 8,588 | 7,743 | MIT | 2026-09-20 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 | 4 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 79,410 | 4,944 | 1,032 | GPL-3.0 | 2026-08-06 | A new bootable USB solution. |
@@ -21,7 +21,7 @@ Ranked by stars. GitHub reports **4,325,690** total repositories matching `langu
 | 15 | [pbatard/rufus](https://github.com/pbatard/rufus) | 37,693 | 3,169 | 13 | GPL-3.0 | 2026-09-16 | The Reliable USB Formatting Utility |
 | 16 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37,042 | 3,532 | 1,160 | NOASSERTION | 2026-09-20 | 🎥 Command line media player |
 | 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,566 | 3,892 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
-| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,247 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
+| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,246 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
 | 19 | [raysan5/raylib](https://github.com/raysan5/raylib) | 34,800 | 3,301 | 15 | Zlib | 2026-09-20 | A simple and easy-to-use library to enjoy videogames programming |
 | 20 | [nothings/stb](https://github.com/nothings/stb) | 34,682 | 8,089 | 430 | NOASSERTION | 2026-08-02 | stb single-file public domain libraries for C/C++ |
 | 21 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 33,938 | 1,377 | 372 | GPL-2.0 | 2026-07-06 | This project aims to enhance the working environment on Windows |
@@ -40,7 +40,7 @@ Ranked by stars. GitHub reports **4,325,690** total repositories matching `langu
 | 34 | [libuv/libuv](https://github.com/libuv/libuv) | 27,182 | 3,930 | 235 | MIT | 2026-09-16 | Cross-platform asynchronous I/O |
 | 35 | [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 27,121 | 1,439 | 563 | Apache-2.0 | 2024-06-16 | A code-searching tool similar to ack, but faster. |
 | 36 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 26,999 | 711 | 547 | NOASSERTION | 2026-09-03 | ehviewer，用爱发电，快乐前行 |
-| 37 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | 26,814 | 3,564 | 315 | — | 2026-09-20 | World's fastest and most advanced password recovery utility |
+| 37 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | 26,815 | 3,564 | 315 | — | 2026-09-20 | World's fastest and most advanced password recovery utility |
 | 38 | [pjreddie/darknet](https://github.com/pjreddie/darknet) | 26,503 | 20,992 | 1,978 | NOASSERTION | 2024-05-03 | Convolutional Neural Networks |
 | 39 | [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) | 26,025 | 3,241 | 414 | AGPL-3.0 | 2026-04-23 | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
 | 40 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25,131 | 5,021 | 435 | AGPL-3.0 | 2026-09-17 | High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios |
@@ -52,14 +52,14 @@ Ranked by stars. GitHub reports **4,325,690** total repositories matching `langu
 | 46 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23,552 | 1,154 | 390 | NOASSERTION | 2026-09-20 | A time-series database for high-performance real-time analytics packaged as a Postgres extension |
 | 47 | [pgvector/pgvector](https://github.com/pgvector/pgvector) | 23,105 | 1,327 | 16 | NOASSERTION | 2026-09-10 | Open-source vector similarity search for Postgres |
 | 48 | [iovisor/bcc](https://github.com/iovisor/bcc) | 22,666 | 4,076 | 1,078 | Apache-2.0 | 2026-09-19 | BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more |
-| 49 | [antirez/ds4](https://github.com/antirez/ds4) | 22,565 | 2,160 | 697 | MIT | 2026-09-20 | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
+| 49 | [antirez/ds4](https://github.com/antirez/ds4) | 22,565 | 2,160 | 696 | MIT | 2026-09-20 | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
 | 50 | [TheAlgorithms/C](https://github.com/TheAlgorithms/C) | 22,453 | 4,772 | 22 | GPL-3.0 | 2024-08-07 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C fo... |
 | 51 | [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) | 22,403 | 3,449 | 86 | Apache-2.0 | 2021-12-16 | How to Make a Computer Operating System in C++ |
 | 52 | [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) | 22,309 | 1,946 | 29 | GPL-3.0 | 2026-09-20 | Flipper Zero Unleashed Firmware |
 | 53 | [postgres/postgres](https://github.com/postgres/postgres) | 22,163 | 5,922 | 0 | NOASSERTION | 2026-09-20 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull request... |
 | 54 | [micropython/micropython](https://github.com/micropython/micropython) | 22,076 | 8,973 | 1,533 | NOASSERTION | 2026-09-19 | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems |
 | 55 | [jarun/nnn](https://github.com/jarun/nnn) | 21,970 | 819 | 2 | BSD-2-Clause | 2026-09-19 | n³ The unorthodox terminal file manager |
-| 56 | [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) | 21,854 | 4,166 | 197 | — | 2026-04-17 | A little tool to play with Windows security |
+| 56 | [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) | 21,853 | 4,166 | 197 | — | 2026-04-17 | A little tool to play with Windows security |
 | 57 | [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) | 21,505 | 6,955 | 64 | — | 2023-02-26 | 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售 |
 | 58 | [jart/cosmopolitan](https://github.com/jart/cosmopolitan) | 21,295 | 778 | 228 | ISC | 2026-07-20 | build-once run-anywhere c library |
 | 59 | [allinurl/goaccess](https://github.com/allinurl/goaccess) | 20,939 | 1,193 | 449 | MIT | 2026-09-19 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through yo... |

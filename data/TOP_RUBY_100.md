@@ -1,6 +1,6 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,332** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,330** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Ranked by stars. GitHub reports **2,969,332** total repositories matching `langu
 | 17 | [heartcombo/devise](https://github.com/heartcombo/devise) | 24,358 | 5,472 | 235 | MIT | 2026-06-22 | Flexible authentication solution for Rails with Warden. |
 | 18 | [ruby/ruby](https://github.com/ruby/ruby) | 23,747 | 5,644 | 737 | NOASSERTION | 2026-09-20 | The Ruby Programming Language |
 | 19 | [forem/forem](https://github.com/forem/forem) | 22,780 | 4,183 | 139 | AGPL-3.0 | 2026-09-19 | For empowering community 🌱 |
-| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,218 | 11,924 | 40 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
+| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,218 | 11,924 | 33 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
 | 21 | [lewagon/setup](https://github.com/lewagon/setup) | 19,618 | 1,575 | 6 | — | 2026-09-20 | Setup instructions for Le Wagon's students on their first day of AI Software Development Bootcamp |
 | 22 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,582 | 1,871 | 124 | AGPL-3.0 | 2026-09-14 | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,817 | 1,291 | 92 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
@@ -52,7 +52,7 @@ Ranked by stars. GitHub reports **2,969,332** total repositories matching `langu
 | 46 | [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) | 11,275 | 1,524 | 1 | — | 2026-06-26 | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 |
 | 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,452 | 376 | 146 | AGPL-3.0 | 2026-09-20 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | 48 | [teamcapybara/capybara](https://github.com/teamcapybara/capybara) | 10,172 | 1,469 | 22 | MIT | 2026-07-13 | Acceptance test framework for web applications |
-| 49 | [ruby-grape/grape](https://github.com/ruby-grape/grape) | 10,006 | 1,232 | 239 | MIT | 2026-09-20 | An opinionated framework for creating REST-like APIs in Ruby. |
+| 49 | [ruby-grape/grape](https://github.com/ruby-grape/grape) | 10,006 | 1,232 | 238 | MIT | 2026-09-20 | An opinionated framework for creating REST-like APIs in Ruby. |
 | 50 | [we-promise/sure](https://github.com/we-promise/sure) | 9,990 | 500 | 553 | AGPL-3.0 | 2026-09-20 | The personal finance app for everyone (by everyone) |
 | 51 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 9,778 | 1,343 | 1 | NOASSERTION | 2026-09-18 | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of th... |
 | 52 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | 9,713 | 2,038 | 8 | MIT | 2026-09-20 | See what sticks |

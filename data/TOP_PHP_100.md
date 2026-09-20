@@ -1,12 +1,12 @@
 # Top 100 PHP repositories on GitHub
 
-Ranked by stars. GitHub reports **6,389,935** total repositories matching `language:PHP`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **6,389,939** total repositories matching `language:PHP`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | 73,636 | 25,125 | 10 | MIT | 2026-09-20 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assess... |
 | 2 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 62,076 | 5,506 | 712 | Apache-2.0 | 2026-09-20 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, ... |
-| 3 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 57,424 | 5,732 | 994 | BSD-3-Clause | 2026-09-20 | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Funct... |
+| 3 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 57,423 | 5,732 | 994 | BSD-3-Clause | 2026-09-20 | Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Funct... |
 | 4 | [nextcloud/server](https://github.com/nextcloud/server) | 36,871 | 5,232 | 3,652 | AGPL-3.0 | 2026-09-20 | ☁️ Nextcloud server, a safe home for all your data |
 | 5 | [laravel/framework](https://github.com/laravel/framework) | 34,927 | 11,992 | 90 | MIT | 2026-09-20 | Laravel is a web application framework with expressive, elegant syntax. |
 | 6 | [filamentphp/filament](https://github.com/filamentphp/filament) | 32,092 | 4,207 | 23 | MIT | 2026-09-20 | A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire |
@@ -44,7 +44,7 @@ Ranked by stars. GitHub reports **6,389,935** total repositories matching `langu
 | 38 | [Intervention/image](https://github.com/Intervention/image) | 14,372 | 1,494 | 22 | MIT | 2026-09-19 | PHP Image Processing |
 | 39 | [Qloapps/QloApps](https://github.com/Qloapps/QloApps) | 14,363 | 812 | 119 | OSL-3.0 | 2026-09-18 | QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps of... |
 | 40 | [yiisoft/yii2](https://github.com/yiisoft/yii2) | 14,290 | 6,761 | 337 | BSD-3-Clause | 2026-09-20 | Yii 2: The Fast, Secure and Professional PHP Framework |
-| 41 | [phpstan/phpstan](https://github.com/phpstan/phpstan) | 14,106 | 958 | 1,096 | MIT | 2026-09-20 | PHP Static Analysis Tool - discover bugs in your code without running it! |
+| 41 | [phpstan/phpstan](https://github.com/phpstan/phpstan) | 14,106 | 958 | 1,094 | MIT | 2026-09-20 | PHP Static Analysis Tool - discover bugs in your code without running it! |
 | 42 | [PHPOffice/PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) | 13,989 | 3,628 | 99 | MIT | 2026-09-19 | A pure PHP library for reading and writing spreadsheet files |
 | 43 | [digininja/DVWA](https://github.com/digininja/DVWA) | 13,693 | 5,122 | 7 | GPL-3.0 | 2026-09-07 | Damn Vulnerable Web Application (DVWA) |
 | 44 | [thephpleague/flysystem](https://github.com/thephpleague/flysystem) | 13,587 | 863 | 103 | MIT | 2026-09-02 | Abstraction for local and remote filesystems |

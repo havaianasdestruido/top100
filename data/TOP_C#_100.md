@@ -1,6 +1,6 @@
 # Top 100 C# repositories on GitHub
 
-Ranked by stars. GitHub reports **7,670,579** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,670,596** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,14 +11,14 @@ Ranked by stars. GitHub reports **7,670,579** total repositories matching `langu
 | 5 | [files-community/Files](https://github.com/files-community/Files) | 45,568 | 2,923 | 458 | MIT | 2026-09-20 | A modern file manager that helps users organize their files and folders. |
 | 6 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 39,666 | 3,914 | 644 | GPL-3.0 | 2026-09-20 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a ... |
 | 7 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 38,806 | 4,065 | 58 | GPL-3.0 | 2026-08-16 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
-| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,456 | 11,590 | 4,187 | MIT | 2026-09-20 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
+| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,456 | 11,591 | 4,187 | MIT | 2026-09-20 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
 | 9 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 32,017 | 1,757 | 340 | MIT | 2026-02-25 | A Swiss Army knife for developers. |
 | 10 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31,533 | 2,826 | 1,884 | MIT | 2026-09-20 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI |
 | 11 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31,056 | 5,803 | 474 | MIT | 2026-09-16 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
 | 12 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 30,886 | 2,107 | 115 | Apache-2.0 | 2026-09-16 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
 | 13 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29,683 | 5,648 | 185 | — | 2020-12-20 | .NET debugger and assembly editor |
 | 14 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,581 | 4,777 | 311 | MIT | 2026-09-19 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,373 | 72,492 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 15 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 28,373 | 72,493 | 67 | Apache-2.0 | 2026-09-09 | Advanced UX and interoperability extension for Wand (WeMod) app |
 | 16 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,672 | 2,362 | 334 | MS-PL | 2026-07-28 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
 | 17 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 26,901 | 1,713 | 1,161 | GPL-3.0 | 2026-08-31 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
 | 18 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 26,209 | 929 | 466 | MIT | 2026-09-20 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
@@ -55,7 +55,7 @@ Ranked by stars. GitHub reports **7,670,579** total repositories matching `langu
 | 49 | [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 15,603 | 648 | 310 | MIT | 2026-09-20 | :mag: Quick file search & app launcher for Windows with community-made plugins |
 | 50 | [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) | 15,596 | 2,964 | 182 | MIT | 2022-12-08 | AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. |
 | 51 | [seerge/g-helper](https://github.com/seerge/g-helper) | 15,289 | 596 | 109 | GPL-3.0 | 2026-09-20 | Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, F... |
-| 52 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | 15,222 | 924 | 353 | GPL-3.0 | 2026-02-27 | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows... |
+| 52 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | 15,223 | 924 | 353 | GPL-3.0 | 2026-02-27 | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows... |
 | 53 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15,016 | 1,073 | 630 | NOASSERTION | 2026-09-19 | Store securely encrypted backups in the cloud! |
 | 54 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14,791 | 3,420 | 2,352 | MIT | 2026-09-20 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema m... |
 | 55 | [abpframework/abp](https://github.com/abpframework/abp) | 14,436 | 3,717 | 310 | LGPL-3.0 | 2026-09-19 | Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise softwa... |
@@ -86,13 +86,13 @@ Ranked by stars. GitHub reports **7,670,579** total repositories matching `langu
 | 80 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 11,714 | 665 | 174 | GPL-3.0 | 2026-09-20 | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all y... |
 | 81 | [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | 11,699 | 558 | 25 | GPL-2.0 | 2026-09-16 | Driver Store Explorer |
 | 82 | [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | 11,681 | 837 | 212 | LGPL-3.0 | 2022-04-15 | Yet Another System Region and Language Simulator |
-| 83 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11,627 | 675 | 184 | MIT | 2026-09-19 | A .NET library that makes it easier to create beautiful console applications. |
+| 83 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11,628 | 675 | 184 | MIT | 2026-09-19 | A .NET library that makes it easier to create beautiful console applications. |
 | 84 | [chocolatey/choco](https://github.com/chocolatey/choco) | 11,514 | 961 | 522 | NOASSERTION | 2026-08-19 | Chocolatey - the package manager for Windows |
 | 85 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11,497 | 1,071 | 165 | MIT | 2026-09-20 | Powerful .NET library for benchmarking |
 | 86 | [mono/mono](https://github.com/mono/mono) | 11,466 | 3,803 | 2,267 | NOASSERTION | 2024-08-27 | Mono open source ECMA CLI, C# and .NET implementation. |
 | 87 | [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | 11,372 | 603 | 114 | NOASSERTION | 2026-09-20 | EarTrumpet - Volume Control for Windows |
 | 88 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 11,315 | 3,300 | 831 | MIT | 2026-09-20 | Json.NET is a popular high-performance JSON framework for .NET |
-| 89 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 11,218 | 789 | 48 | MIT | 2026-09-16 | Cross Platform Terminal UI toolkit for .NET |
+| 89 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 11,219 | 789 | 48 | MIT | 2026-09-16 | Cross Platform Terminal UI toolkit for .NET |
 | 90 | [Cysharp/UniTask](https://github.com/Cysharp/UniTask) | 11,201 | 1,014 | 19 | MIT | 2026-07-08 | Provides an efficient allocation free async/await integration for Unity. |
 | 91 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 11,111 | 1,611 | 848 | GPL-2.0 | 2026-09-19 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. |
 | 92 | [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) | 11,095 | 1,346 | 14 | Unlicense | 2026-02-15 | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMO... |

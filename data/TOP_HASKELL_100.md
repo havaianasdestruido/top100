@@ -4,7 +4,7 @@ Ranked by stars. GitHub reports **164,026** total repositories matching `languag
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,349 | 4,369 | 1,038 | GPL-2.0 | 2026-09-20 | Universal markup converter |
+| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,349 | 4,370 | 1,038 | GPL-2.0 | 2026-09-20 | Universal markup converter |
 | 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,059 | 1,946 | 1,137 | GPL-3.0 | 2026-09-17 | ShellCheck, a static analysis tool for shell scripts |
 | 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,674 | 1,227 | 403 | MIT | 2026-09-20 | REST API for any Postgres database |
 | 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,463 | 1,356 | 1,256 | AGPL-3.0 | 2026-09-20 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
@@ -56,7 +56,7 @@ Ranked by stars. GitHub reports **164,026** total repositories matching `languag
 | 50 | [lamdu/lamdu](https://github.com/lamdu/lamdu) | 1,899 | 78 | 25 | GPL-3.0 | 2026-08-21 | lamdu - towards the next generation IDE |
 | 51 | [BurntSushi/erd](https://github.com/BurntSushi/erd) | 1,864 | 153 | 19 | Unlicense | 2024-09-09 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. |
 | 52 | [nmattia/niv](https://github.com/nmattia/niv) | 1,860 | 75 | 87 | MIT | 2026-09-11 | Easy dependency management for Nix projects |
-| 53 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 1,818 | 75 | 36 | AGPL-3.0 | 2026-09-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
+| 53 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 1,819 | 75 | 36 | AGPL-3.0 | 2026-09-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
 | 54 | [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) | 1,783 | 76 | 54 | BSD-3-Clause | 2023-10-03 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects |
 | 55 | [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1,779 | 392 | 58 | MIT | 2023-11-08 | Informative git prompt for zsh |
 | 56 | [scotty-web/scotty](https://github.com/scotty-web/scotty) | 1,774 | 134 | 29 | BSD-3-Clause | 2026-06-26 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |

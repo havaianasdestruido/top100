@@ -68,7 +68,7 @@ Ranked by stars. GitHub reports **94,197** total repositories matching `language
 | 62 | [JuliaData/JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl) | 763 | 59 | 134 | NOASSERTION | 2023-10-29 | Parallel analytical database in pure Julia |
 | 63 | [JuliaInterop/Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) | 762 | 106 | 115 | NOASSERTION | 2024-05-12 | The Julia C++ Interface |
 | 64 | [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 745 | 261 | 181 | MIT | 2026-08-19 | Julia implementation of Data structures |
-| 65 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | 734 | 606 | 157 | MIT | 2026-09-20 | The official registry of general Julia packages |
+| 65 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | 734 | 606 | 160 | MIT | 2026-09-20 | The official registry of general Julia packages |
 | 66 | [LuxDL/Lux.jl](https://github.com/LuxDL/Lux.jl) | 731 | 90 | 102 | MIT | 2026-09-09 | Elegant and Performant Deep Learning |
 | 67 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 731 | 166 | 397 | MIT | 2026-09-20 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
 | 68 | [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 724 | 73 | 179 | MIT | 2026-07-02 | A framework for applied category theory in the Julia language |

@@ -1,17 +1,17 @@
 # Top 100 Java repositories on GitHub
 
-Ranked by stars. GitHub reports **21,659,436** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **21,659,469** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,313 | 15,520 | 40 | NOASSERTION | 2026-08-17 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS... |
 | 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,708 | 27,374 | 128 | NOASSERTION | 2026-09-13 | Design patterns implemented in Java |
-| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,655 | 9,063 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| 3 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 92,655 | 9,061 | 625 | NOASSERTION | 2026-09-20 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | 4 | [macrozheng/mall](https://github.com/macrozheng/mall) | 84,805 | 29,830 | 19 | Apache-2.0 | 2026-09-15 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮... |
 | 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,479 | 42,761 | 473 | Apache-2.0 | 2026-09-18 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
 | 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 79,156 | 8,772 | 1,964 | Apache-2.0 | 2026-09-18 | Ghidra is a software reverse engineering (SRE) framework |
 | 7 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 79,121 | 19,148 | 0 | CC-BY-SA-4.0 | 2026-09-12 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微... |
-| 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77,946 | 26,075 | 6,098 | NOASSERTION | 2026-09-20 | Free and Open Source, Distributed, RESTful Search Engine |
+| 8 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77,946 | 26,075 | 6,099 | NOASSERTION | 2026-09-20 | Free and Open Source, Distributed, RESTful Search Engine |
 | 9 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76,705 | 13,861 | 22 | — | 2026-06-12 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.... |
 | 10 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 66,283 | 21,265 | 11 | MIT | 2026-09-19 | All Algorithms implemented in Java |
 | 11 | [kdn251/interviews](https://github.com/kdn251/interviews) | 65,246 | 12,890 | 122 | MIT | 2025-05-12 | Everything you need to know to get the job. |
@@ -40,7 +40,7 @@ Ranked by stars. GitHub reports **21,659,436** total repositories matching `lang
 | 34 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34,503 | 8,716 | 190 | Apache-2.0 | 2026-09-20 | A browser automation framework and ecosystem. |
 | 35 | [zxing/zxing](https://github.com/zxing/zxing) | 34,105 | 9,434 | 3 | Apache-2.0 | 2026-09-07 | ZXing ("Zebra Crossing") barcode scanning library for Java, Android |
 | 36 | [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 34,081 | 10,874 | 143 | MIT | 2024-07-24 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
-| 37 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33,938 | 2,076 | 726 | MIT | 2026-09-20 | Browse media content with your own rules on Android TV |
+| 37 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33,939 | 2,076 | 726 | MIT | 2026-09-20 | Browse media content with your own rules on Android TV |
 | 38 | [apache/kafka](https://github.com/apache/kafka) | 33,766 | 15,524 | 580 | Apache-2.0 | 2026-09-20 | Apache Kafka - A distributed event streaming platform |
 | 39 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 33,634 | 7,544 | 569 | Apache-2.0 | 2024-10-29 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
 | 40 | [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 33,623 | 10,606 | 328 | Apache-2.0 | 2024-08-15 | :fire: Android developers should collect the following utils(updating). |
@@ -76,7 +76,7 @@ Ranked by stars. GitHub reports **21,659,436** total repositories matching `lang
 | 70 | [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | 25,321 | 5,350 | 61 | — | 2024-01-03 | To Be Top Javaer - Java工程师成神之路 |
 | 71 | [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 25,116 | 4,958 | 341 | Apache-2.0 | 2024-12-04 | 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。 |
 | 72 | [apache/skywalking](https://github.com/apache/skywalking) | 24,958 | 6,633 | 47 | Apache-2.0 | 2026-09-20 | APM, Application Performance Monitoring System |
-| 73 | [floci-io/floci](https://github.com/floci-io/floci) | 24,801 | 2,685 | 130 | MIT | 2026-09-20 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 73 | [floci-io/floci](https://github.com/floci-io/floci) | 24,802 | 2,685 | 130 | MIT | 2026-09-20 | Light, fluffy, and always free - The AWS Local Emulator alternative |
 | 74 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) | 24,759 | 3,581 | 5 | GPL-3.0 | 2026-09-14 | LSPosed Framework |
 | 75 | [greenrobot/EventBus](https://github.com/greenrobot/EventBus) | 24,709 | 4,637 | 147 | Apache-2.0 | 2024-02-21 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. L... |
 | 76 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 24,653 | 4,331 | 214 | Apache-2.0 | 2024-07-16 | http下载工具，基于http代理，支持多连接分块下载 |

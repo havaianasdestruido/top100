@@ -1,11 +1,11 @@
 # Top 100 PowerShell repositories on GitHub
 
-Ranked by stars. GitHub reports **368,675** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **368,674** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 62,914 | 3,688 | 34 | MIT | 2026-09-19 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
-| 2 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 57,404 | 2,451 | 31 | MIT | 2026-09-10 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... |
+| 2 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 57,403 | 2,451 | 31 | MIT | 2026-09-10 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... |
 | 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 36,687 | 5,078 | 26 | MIT | 2026-09-03 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
 | 4 | [cmderdev/cmder](https://github.com/cmderdev/cmder) | 27,008 | 2,074 | 67 | MIT | 2026-09-14 | Lovely console emulator package for Windows |
 | 5 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | 24,680 | 1,536 | 527 | NOASSERTION | 2026-09-20 | A command-line installer for Windows. |
@@ -19,7 +19,7 @@ Ranked by stars. GitHub reports **368,675** total repositories matching `languag
 | 13 | [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) | 13,062 | 457 | 10 | MIT | 2026-09-19 | Force Remove Copilot, Recall and More in Windows 11 |
 | 14 | [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) | 11,228 | 9,087 | 286 | NOASSERTION | 2026-09-11 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azur... |
 | 15 | [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) | 10,615 | 1,791 | 93 | GPL-3.0 | 2026-03-02 | Six Degrees of Domain Admin |
-| 16 | [samratashok/nishang](https://github.com/samratashok/nishang) | 10,112 | 2,543 | 22 | NOASSERTION | 2024-04-25 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security. |
+| 16 | [samratashok/nishang](https://github.com/samratashok/nishang) | 10,111 | 2,543 | 22 | NOASSERTION | 2024-04-25 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security. |
 | 17 | [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9,755 | 645 | 1 | MIT | 2026-09-20 | :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub |
 | 18 | [dotnet/blazor](https://github.com/dotnet/blazor) | 9,262 | 640 | 0 | Apache-2.0 | 2021-02-23 | Blazor moved to https://github.com/dotnet/aspnetcore |
 | 19 | [mandiant/flare-vm](https://github.com/mandiant/flare-vm) | 9,058 | 1,117 | 26 | Apache-2.0 | 2026-06-23 | A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a rev... |

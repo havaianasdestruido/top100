@@ -1,16 +1,16 @@
 # Top 100 Dart repositories on GitHub
 
-Ranked by stars. GitHub reports **2,115,924** total repositories matching `language:Dart`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,115,931** total repositories matching `language:Dart`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [flutter/flutter](https://github.com/flutter/flutter) | 179,023 | 31,752 | 13,249 | BSD-3-Clause | 2026-09-20 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| 1 | [flutter/flutter](https://github.com/flutter/flutter) | 179,023 | 31,754 | 13,249 | BSD-3-Clause | 2026-09-20 | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 | 2 | [localsend/localsend](https://github.com/localsend/localsend) | 92,236 | 5,142 | 1,130 | Apache-2.0 | 2026-09-14 | An open-source cross-platform alternative to AirDrop |
 | 3 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 76,860 | 6,027 | 1,029 | AGPL-3.0 | 2026-09-19 | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more ... |
 | 4 | [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) | 61,255 | 6,917 | 27 | — | 2026-09-03 | An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. |
-| 5 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | 52,815 | 3,337 | 378 | GPL-3.0 | 2026-09-19 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
+| 5 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | 52,816 | 3,338 | 378 | GPL-3.0 | 2026-09-19 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
 | 6 | [KRTirtho/spotube](https://github.com/KRTirtho/spotube) | 49,303 | 2,301 | 865 | NOASSERTION | 2026-09-12 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| 7 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | 32,821 | 3,036 | 30 | NOASSERTION | 2026-08-10 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-... |
+| 7 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | 32,822 | 3,037 | 30 | NOASSERTION | 2026-08-10 | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-... |
 | 8 | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30,100 | 899 | 521 | GPL-3.0 | 2026-09-20 | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 |
 | 9 | [ente/ente](https://github.com/ente/ente) | 28,982 | 1,809 | 227 | AGPL-3.0 | 2026-09-20 | 💚 End-to-end encrypted cloud for everything. |
 | 10 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 26,419 | 1,723 | 315 | GPL-3.0 | 2026-09-20 | A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **2,115,924** total repositories matching `langu
 | 96 | [lukepighetti/fluro](https://github.com/lukepighetti/fluro) | 3,712 | 410 | 43 | MIT | 2023-03-22 | Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear rout... |
 | 97 | [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) | 3,686 | 241 | 343 | AGPL-3.0 | 2026-08-29 | KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flu... |
 | 98 | [roughike/inKino](https://github.com/roughike/inKino) | 3,684 | 697 | 28 | Apache-2.0 | 2022-03-30 | A multiplatform Dart movie app with 40% of code sharing between Flutter and the Web. |
-| 99 | [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 3,655 | 360 | 37 | AGPL-3.0 | 2026-09-18 | Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 |
+| 99 | [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) | 3,656 | 360 | 37 | AGPL-3.0 | 2026-09-18 | Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过精听、跟读、盲听、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。 |
 | 100 | [best-flutter/flutter_swiper](https://github.com/best-flutter/flutter_swiper) | 3,524 | 729 | 238 | MIT | 2023-04-23 | The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS. |

@@ -1,6 +1,6 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **213,865** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **213,864** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -13,7 +13,7 @@ Ranked by stars. GitHub reports **213,865** total repositories matching `languag
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,735 | 2,710 | 55 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
 | 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,264 | 502 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
 | 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,866 | 740 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
-| 10 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | 6,442 | 482 | 201 | Apache-2.0 | 2026-09-10 | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
+| 10 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | 6,443 | 482 | 201 | Apache-2.0 | 2026-09-10 | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
 | 11 | [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | 5,369 | 431 | 7 | NOASSERTION | 2022-07-18 | Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and rea... |
 | 12 | [below/HelloSilicon](https://github.com/below/HelloSilicon) | 4,999 | 330 | 9 | MIT | 2026-05-15 | An introduction to ARM64 assembly on Apple Silicon Macs |
 | 13 | [pret/pokered](https://github.com/pret/pokered) | 4,934 | 1,308 | 22 | — | 2026-08-27 | Disassembly of Pokémon Red/Blue |

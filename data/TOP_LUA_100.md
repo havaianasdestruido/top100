@@ -1,6 +1,6 @@
 # Top 100 Lua repositories on GitHub
 
-Ranked by stars. GitHub reports **742,704** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **742,709** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **742,704** total repositories matching `languag
 | 21 | [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) | 10,485 | 338 | 277 | Apache-2.0 | 2026-06-19 | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP serv... |
 | 22 | [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) | 10,088 | 6,529 | 3 | MIT | 2026-09-16 | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML... |
 | 23 | [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall) | 9,933 | 2,980 | 2 | GPL-3.0 | 2026-09-20 |  |
-| 24 | [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) | 9,532 | 310 | 37 | MIT | 2026-09-20 | Library of 45+ independent Lua modules improving Neovim experience with minimal effort |
+| 24 | [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) | 9,533 | 310 | 37 | MIT | 2026-09-20 | Library of 45+ independent Lua modules improving Neovim experience with minimal effort |
 | 25 | [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 9,484 | 438 | 304 | MIT | 2026-07-09 | A completion plugin for neovim coded in Lua. |
 | 26 | [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) | 9,226 | 490 | 147 | MIT | 2025-10-31 |  |
 | 27 | [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) | 8,649 | 638 | 102 | NOASSERTION | 2026-09-18 | A file explorer tree for neovim written in lua |
@@ -49,7 +49,7 @@ Ranked by stars. GitHub reports **742,704** total repositories matching `languag
 | 43 | [folke/trouble.nvim](https://github.com/folke/trouble.nvim) | 6,894 | 212 | 19 | Apache-2.0 | 2025-10-31 | 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble y... |
 | 44 | [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | 6,864 | 457 | 15 | Apache-2.0 | 2026-09-20 | ✨ AI Coding, Vim Style |
 | 45 | [saghen/blink.cmp](https://github.com/saghen/blink.cmp) | 6,582 | 362 | 99 | MIT | 2026-09-10 | Performant, batteries-included completion plugin for Neovim |
-| 46 | [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) | 6,398 | 236 | 91 | MIT | 2026-05-10 | NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. |
+| 46 | [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) | 6,399 | 236 | 91 | MIT | 2026-05-10 | NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. |
 | 47 | [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) | 6,391 | 318 | 332 | MIT | 2026-03-11 | A lightweight text editor written in Lua |
 | 48 | [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) | 6,195 | 250 | 196 | Apache-2.0 | 2026-06-04 | Obsidian 🤝 Neovim |
 | 49 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) | 6,065 | 478 | 181 | GPL-2.0 | 2024-11-27 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets |

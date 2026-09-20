@@ -1,10 +1,10 @@
 # Top 100 C++ repositories on GitHub
 
-Ranked by stars. GitHub reports **7,122,140** total repositories matching `language:C++`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,122,157** total repositories matching `language:C++`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,215 | 76,992 | 3,207 | Apache-2.0 | 2026-09-20 | An Open Source Machine Learning Framework for Everyone |
+| 1 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200,215 | 76,994 | 3,207 | Apache-2.0 | 2026-09-20 | An Open Source Machine Learning Framework for Everyone |
 | 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 128,958 | 23,498 | 2,527 | MIT | 2026-09-20 | LLM inference in C/C++ |
 | 3 | [react/react-native](https://github.com/react/react-native) | 126,670 | 25,281 | 1,153 | MIT | 2026-09-20 | A framework for building native applications using React |
 | 4 | [electron/electron](https://github.com/electron/electron) | 123,168 | 17,541 | 759 | MIT | 2026-09-20 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
@@ -45,10 +45,10 @@ Ranked by stars. GitHub reports **7,122,140** total repositories matching `langu
 | 39 | [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) | 33,897 | 1,710 | 255 | NOASSERTION | 2026-09-20 | Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is ex... |
 | 40 | [SerenityOS/serenity](https://github.com/SerenityOS/serenity) | 33,848 | 3,544 | 740 | BSD-2-Clause | 2026-09-20 | The Serenity Operating System 🐞 |
 | 41 | [microsoft/WSL](https://github.com/microsoft/WSL) | 33,737 | 1,829 | 985 | MIT | 2026-09-20 | Windows Subsystem for Linux |
-| 42 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33,667 | 6,057 | 4,043 | LGPL-2.1 | 2026-09-20 | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
+| 42 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33,668 | 6,057 | 4,043 | LGPL-2.1 | 2026-09-20 | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
 | 43 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 32,972 | 7,225 | 1,024 | GPL-3.0 | 2026-09-18 | Telegram Desktop messaging app |
 | 44 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 32,910 | 2,542 | 236 | GPL-2.0 | 2026-09-20 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| 45 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) | 32,846 | 1,622 | 5,196 | NOASSERTION | 2026-09-20 | Compatibility tool for Steam Play based on Wine and additional components |
+| 45 | [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) | 32,846 | 1,622 | 5,195 | NOASSERTION | 2026-09-20 | Compatibility tool for Steam Play based on Wine and additional components |
 | 46 | [facebook/rocksdb](https://github.com/facebook/rocksdb) | 32,117 | 6,934 | 1,659 | GPL-2.0 | 2026-09-18 | A library that provides an embeddable, persistent key-value store for fast storage. |
 | 47 | [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 32,035 | 3,775 | 622 | Apache-2.0 | 2026-09-19 | Android real-time display control software |
 | 48 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 31,849 | 4,519 | 9 | NOASSERTION | 2026-09-19 | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic... |
@@ -93,8 +93,8 @@ Ranked by stars. GitHub reports **7,122,140** total repositories matching `langu
 | 87 | [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | 21,721 | 1,875 | 133 | AGPL-3.0 | 2026-03-07 | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. |
 | 88 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | 21,485 | 3,505 | 440 | BSL-1.0 | 2026-09-14 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in ... |
 | 89 | [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 21,390 | 5,449 | 0 | NOASSERTION | 2025-01-16 | Command & Conquer: Remastered Collection |
-| 90 | [xbmc/xbmc](https://github.com/xbmc/xbmc) | 21,236 | 6,603 | 477 | NOASSERTION | 2026-09-20 | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital me... |
-| 91 | [imputnet/helium](https://github.com/imputnet/helium) | 20,817 | 588 | 504 | GPL-3.0 | 2026-09-17 | Private, fast, and honest web browser |
+| 90 | [xbmc/xbmc](https://github.com/xbmc/xbmc) | 21,236 | 6,603 | 476 | NOASSERTION | 2026-09-20 | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital me... |
+| 91 | [imputnet/helium](https://github.com/imputnet/helium) | 20,818 | 588 | 504 | GPL-3.0 | 2026-09-17 | Private, fast, and honest web browser |
 | 92 | [apache/mxnet](https://github.com/apache/mxnet) | 20,809 | 6,685 | 2,007 | Apache-2.0 | 2023-10-25 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;... |
 | 93 | [google/filament](https://github.com/google/filament) | 20,513 | 2,264 | 213 | Apache-2.0 | 2026-09-20 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
 | 94 | [blender/blender](https://github.com/blender/blender) | 20,441 | 3,265 | 0 | NOASSERTION | 2026-09-19 | Official mirror of Blender |

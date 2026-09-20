@@ -1,6 +1,6 @@
 # Top 100 CSS repositories on GitHub
 
-Ranked by stars. GitHub reports **11,301,433** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **11,301,471** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **11,301,433** total repositories matching `lang
 | 5 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45,320 | 5,555 | 247 | NOASSERTION | 2026-08-06 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 | 6 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 40,647 | 9,722 | 48 | MIT | 2025-02-26 | 50+ mini web projects using HTML, CSS & JS |
 | 7 | [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37,793 | 1,419 | 159 | NOASSERTION | 2023-07-16 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. |
-| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 36,702 | 3,061 | 0 | — | 2026-09-18 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 36,703 | 3,061 | 0 | — | 2026-09-18 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
 | 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 28,947 | 1,488 | 47 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | 10 | [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26,858 | 5,170 | 103 | — | 2022-02-28 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the exper... |
 | 11 | [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20,449 | 1,645 | 87 | OFL-1.1 | 2025-10-28 | Monospaced font family for user interface and coding environments |
@@ -26,7 +26,7 @@ Ranked by stars. GitHub reports **11,301,433** total repositories matching `lang
 | 20 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13,988 | 3,093 | 88 | NOASSERTION | 2022-07-09 | Tomorrow Theme |
 | 21 | [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12,912 | 979 | 38 | MIT | 2022-12-03 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. |
 | 22 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12,894 | 1,320 | 333 | — | 2024-06-18 | The simplest way to run LLaMA on your local machine |
-| 23 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,545 | 1,513 | 18 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
+| 23 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,546 | 1,513 | 18 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
 | 24 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 12,284 | 3,179 | 58 | — | 2026-09-20 | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and read... |
 | 25 | [devicons/devicon](https://github.com/devicons/devicon) | 11,830 | 2,444 | 467 | MIT | 2026-09-19 | Set of icons representing programming languages, designing & development tools |
 | 26 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11,723 | 665 | 90 | MIT | 2026-07-20 | Functional css for humans |

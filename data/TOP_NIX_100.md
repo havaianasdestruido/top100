@@ -1,10 +1,10 @@
 # Top 100 Nix repositories on GitHub
 
-Ranked by stars. GitHub reports **85,937** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **85,938** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,199 | 20,143 | 21,341 | MIT | 2026-09-20 | Nix Packages collection & NixOS |
+| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,199 | 20,143 | 21,340 | MIT | 2026-09-20 | Nix Packages collection & NixOS |
 | 2 | [nix-community/home-manager](https://github.com/nix-community/home-manager) | 10,365 | 2,477 | 984 | MIT | 2026-09-20 | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] |
 | 3 | [zardus/ctf-tools](https://github.com/zardus/ctf-tools) | 9,516 | 1,908 | 2 | BSD-3-Clause | 2026-09-09 | Some setup scripts for security research tools. |
 | 4 | [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) | 5,942 | 658 | 479 | MIT | 2026-08-16 | Manage your macOS using Nix |
@@ -12,7 +12,7 @@ Ranked by stars. GitHub reports **85,937** total repositories matching `language
 | 6 | [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) | 3,836 | 176 | 16 | CC0-1.0 | 2026-04-24 | Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplat... |
 | 7 | [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) | 3,624 | 202 | 29 | BSD-3-Clause | 2026-09-16 | General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions |
 | 8 | [nix-community/disko](https://github.com/nix-community/disko) | 3,330 | 332 | 248 | MIT | 2026-09-18 | Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] |
-| 9 | [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) | 3,304 | 977 | 321 | CC0-1.0 | 2026-09-18 | A collection of NixOS modules covering hardware quirks. |
+| 9 | [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) | 3,304 | 978 | 321 | CC0-1.0 | 2026-09-18 | A collection of NixOS modules covering hardware quirks. |
 | 10 | [Mic92/sops-nix](https://github.com/Mic92/sops-nix) | 3,172 | 236 | 112 | MIT | 2026-09-20 | Atomic secret provisioning for NixOS based on sops |
 | 11 | [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) | 3,105 | 250 | 15 | MIT | 2026-09-05 | My NixOS configurations. |
 | 12 | [Aylur/dotfiles](https://github.com/Aylur/dotfiles) | 3,099 | 137 | 0 | NOASSERTION | 2026-08-05 | My personal config files |
