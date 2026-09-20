@@ -31,6 +31,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Git Pull before anything
+        run: git pull
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
