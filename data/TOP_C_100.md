@@ -1,27 +1,27 @@
 # Top 100 C repositories on GitHub
 
-Ranked by stars. GitHub reports **4,325,738** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,325,757** total repositories matching `language:C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,625 | 65,251 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
+| 1 | [torvalds/linux](https://github.com/torvalds/linux) | 249,626 | 65,251 | 3 | NOASSERTION | 2026-09-20 | Linux kernel source tree |
 | 2 | [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 150,074 | 13,781 | 2,904 | Apache-2.0 | 2026-09-19 | Display and control your Android device |
 | 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 138,868 | 8,588 | 7,743 | MIT | 2026-09-20 | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 | 4 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 79,410 | 4,944 | 1,032 | GPL-3.0 | 2026-08-06 | A new bootable USB solution. |
-| 5 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 76,454 | 10,256 | 1,144 | GPL-2.0 | 2026-09-19 | OBS Studio - Free and open source software for live streaming and screen recording |
-| 6 | [redis/redis](https://github.com/redis/redis) | 76,422 | 24,814 | 2,959 | NOASSERTION | 2026-09-20 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most featur... |
-| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,587 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
+| 5 | [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 76,455 | 10,256 | 1,144 | GPL-2.0 | 2026-09-19 | OBS Studio - Free and open source software for live streaming and screen recording |
+| 6 | [redis/redis](https://github.com/redis/redis) | 76,422 | 24,814 | 2,958 | NOASSERTION | 2026-09-20 | For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most featur... |
+| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 71,588 | 4,602 | 527 | MIT | 2026-09-16 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiG... |
 | 8 | [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) | 64,378 | 14,282 | 3 | NOASSERTION | 2026-09-20 | Mirror of https://git.ffmpeg.org/ffmpeg.git |
 | 9 | [git/git](https://github.com/git/git) | 63,252 | 28,426 | 394 | NOASSERTION | 2026-09-17 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailin... |
 | 10 | [tmux/tmux](https://github.com/tmux/tmux) | 49,387 | 2,906 | 46 | ISC | 2026-09-20 | tmux source code |
-| 11 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 43,902 | 3,579 | 595 | MIT | 2026-09-20 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
+| 11 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 43,902 | 3,579 | 596 | MIT | 2026-09-20 | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in ... |
 | 12 | [curl/curl](https://github.com/curl/curl) | 42,902 | 7,370 | 51 | NOASSERTION | 2026-09-20 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPH... |
 | 13 | [wg/wrk](https://github.com/wg/wrk) | 40,407 | 3,031 | 203 | NOASSERTION | 2023-12-30 | Modern HTTP benchmarking tool |
-| 14 | [php/php-src](https://github.com/php/php-src) | 40,398 | 8,153 | 2,087 | BSD-3-Clause | 2026-09-20 | The PHP Interpreter |
+| 14 | [php/php-src](https://github.com/php/php-src) | 40,398 | 8,153 | 2,086 | BSD-3-Clause | 2026-09-20 | The PHP Interpreter |
 | 15 | [pbatard/rufus](https://github.com/pbatard/rufus) | 37,694 | 3,169 | 13 | GPL-3.0 | 2026-09-16 | The Reliable USB Formatting Utility |
 | 16 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37,043 | 3,532 | 1,160 | NOASSERTION | 2026-09-20 | 🎥 Command line media player |
-| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,569 | 3,893 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
-| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,248 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
+| 17 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 36,570 | 3,893 | 149 | Apache-2.0 | 2026-09-20 | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, imm... |
+| 18 | [jqlang/jq](https://github.com/jqlang/jq) | 35,647 | 2,250 | 450 | NOASSERTION | 2026-09-19 | Command-line JSON processor |
 | 19 | [raysan5/raylib](https://github.com/raysan5/raylib) | 34,800 | 3,302 | 15 | Zlib | 2026-09-20 | A simple and easy-to-use library to enjoy videogames programming |
 | 20 | [nothings/stb](https://github.com/nothings/stb) | 34,682 | 8,089 | 430 | NOASSERTION | 2026-08-02 | stb single-file public domain libraries for C/C++ |
 | 21 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | 33,938 | 1,377 | 372 | GPL-2.0 | 2026-07-06 | This project aims to enhance the working environment on Windows |
@@ -39,7 +39,7 @@ Ranked by stars. GitHub reports **4,325,738** total repositories matching `langu
 | 33 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27,262 | 1,318 | 911 | BSD-3-Clause | 2026-09-20 | A flexible distributed key-value database that is optimized for caching and other realtime workloads. |
 | 34 | [libuv/libuv](https://github.com/libuv/libuv) | 27,182 | 3,930 | 235 | MIT | 2026-09-16 | Cross-platform asynchronous I/O |
 | 35 | [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | 27,121 | 1,439 | 563 | Apache-2.0 | 2024-06-16 | A code-searching tool similar to ack, but faster. |
-| 36 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 26,999 | 711 | 547 | NOASSERTION | 2026-09-03 | ehviewer，用爱发电，快乐前行 |
+| 36 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 26,999 | 711 | 548 | NOASSERTION | 2026-09-03 | ehviewer，用爱发电，快乐前行 |
 | 37 | [hashcat/hashcat](https://github.com/hashcat/hashcat) | 26,815 | 3,564 | 315 | — | 2026-09-20 | World's fastest and most advanced password recovery utility |
 | 38 | [pjreddie/darknet](https://github.com/pjreddie/darknet) | 26,503 | 20,992 | 1,978 | NOASSERTION | 2024-05-03 | Convolutional Neural Networks |
 | 39 | [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) | 26,025 | 3,241 | 414 | AGPL-3.0 | 2026-04-23 | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **4,325,738** total repositories matching `langu
 | 42 | [arendst/Tasmota](https://github.com/arendst/Tasmota) | 24,769 | 5,183 | 24 | GPL-3.0 | 2026-09-20 | Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation... |
 | 43 | [lvgl/lvgl](https://github.com/lvgl/lvgl) | 24,729 | 4,363 | 135 | MIT | 2026-09-19 | LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pr... |
 | 44 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 24,707 | 899 | 94 | MIT | 2026-09-20 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
-| 45 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | 24,444 | 1,706 | 303 | NOASSERTION | 2026-09-19 | HandBrake's development repository |
+| 45 | [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | 24,444 | 1,707 | 303 | NOASSERTION | 2026-09-19 | HandBrake's development repository |
 | 46 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23,552 | 1,154 | 390 | NOASSERTION | 2026-09-20 | A time-series database for high-performance real-time analytics packaged as a Postgres extension |
 | 47 | [pgvector/pgvector](https://github.com/pgvector/pgvector) | 23,105 | 1,327 | 16 | NOASSERTION | 2026-09-10 | Open-source vector similarity search for Postgres |
 | 48 | [iovisor/bcc](https://github.com/iovisor/bcc) | 22,666 | 4,076 | 1,078 | Apache-2.0 | 2026-09-19 | BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more |
@@ -67,16 +67,16 @@ Ranked by stars. GitHub reports **4,325,738** total repositories matching `langu
 | 61 | [ish-app/ish](https://github.com/ish-app/ish) | 20,491 | 1,529 | 675 | NOASSERTION | 2026-09-20 | Linux shell for iOS |
 | 62 | [karpathy/llama2.c](https://github.com/karpathy/llama2.c) | 20,093 | 2,630 | 191 | MIT | 2024-08-06 | Inference Llama 2 in one file of pure C |
 | 63 | [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) | 19,967 | 3,260 | 52 | — | 2024-07-19 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
-| 64 | [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19,786 | 840 | 10 | NOASSERTION | 2026-08-11 | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with z... |
+| 64 | [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) | 19,787 | 840 | 10 | NOASSERTION | 2026-08-11 | BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with z... |
 | 65 | [videolan/vlc](https://github.com/videolan/vlc) | 19,715 | 6,202 | 2 | GPL-2.0 | 2026-09-20 | VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc |
-| 66 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19,494 | 2,066 | 752 | GPL-3.0 | 2026-09-19 | Sandboxie Plus & Classic |
+| 66 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19,494 | 2,067 | 752 | GPL-3.0 | 2026-09-19 | Sandboxie Plus & Classic |
 | 67 | [brunodev85/winlator](https://github.com/brunodev85/winlator) | 19,091 | 1,755 | 404 | LGPL-2.1 | 2026-09-14 | Android application for running Windows applications with Wine and Box86/Box64 |
 | 68 | [espressif/esp-idf](https://github.com/espressif/esp-idf) | 19,060 | 8,486 | 1,681 | Apache-2.0 | 2026-09-20 | Espressif IoT Development Framework. Official development framework for Espressif SoCs. |
 | 69 | [nicbarker/clay](https://github.com/nicbarker/clay) | 18,148 | 721 | 280 | Zlib | 2026-05-20 | High performance UI layout library in C. |
 | 70 | [reactos/reactos](https://github.com/reactos/reactos) | 18,101 | 2,219 | 205 | GPL-2.0 | 2026-09-20 | A free Windows-compatible Operating System |
 | 71 | [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) | 17,810 | 1,112 | 425 | MIT | 2026-02-01 | FFmpeg for browser, powered by WebAssembly |
 | 72 | [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | 17,614 | 2,040 | 65 | GPL-3.0 | 2026-09-20 | SumatraPDF reader |
-| 73 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | 17,561 | 3,915 | 8 | GPL-3.0 | 2026-07-28 | Playground (and dump) of stuff I make or modify for the Flipper Zero |
+| 73 | [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) | 17,562 | 3,915 | 8 | GPL-3.0 | 2026-07-28 | Playground (and dump) of stuff I make or modify for the Flipper Zero |
 | 74 | [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) | 17,486 | 1,659 | 163 | NOASSERTION | 2026-09-20 | ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It suppor... |
 | 75 | [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) | 17,406 | 1,867 | 534 | NOASSERTION | 2026-09-09 | NVIDIA Linux open GPU kernel module source |
 | 76 | [swaywm/sway](https://github.com/swaywm/sway) | 17,341 | 1,301 | 1,387 | MIT | 2026-09-14 | i3-compatible Wayland compositor |

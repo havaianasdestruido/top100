@@ -1,15 +1,15 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,329** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,330** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,065 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
+| 1 | [rails/rails](https://github.com/rails/rails) | 58,779 | 23,066 | 1,644 | MIT | 2026-09-20 | Ruby on Rails |
 | 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,279 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
 | 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,674 | 10,299 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
 | 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,305 | 7,500 | 4,560 | AGPL-3.0 | 2026-09-20 | Your self-hosted, globally interconnected microblogging community |
 | 5 | [huginn/huginn](https://github.com/huginn/huginn) | 49,983 | 4,300 | 698 | MIT | 2026-09-20 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
-| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,730 | 11,359 | 3 | BSD-2-Clause | 2026-09-20 | 🍺 The Package Manager for Everywhere |
+| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,731 | 11,359 | 3 | BSD-2-Clause | 2026-09-20 | 🍺 The Package Manager for Everywhere |
 | 7 | [discourse/discourse](https://github.com/discourse/discourse) | 47,872 | 9,020 | 221 | GPL-2.0 | 2026-09-19 | A platform for community discussion. Free, open, simple. |
 | 8 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42,134 | 6,033 | 665 | MIT | 2026-09-20 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
 | 9 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39,469 | 2,645 | 196 | MPL-2.0 | 2026-09-19 | API Documentation Browser |
@@ -23,13 +23,13 @@ Ranked by stars. GitHub reports **2,969,329** total repositories matching `langu
 | 17 | [heartcombo/devise](https://github.com/heartcombo/devise) | 24,358 | 5,472 | 235 | MIT | 2026-06-22 | Flexible authentication solution for Rails with Warden. |
 | 18 | [ruby/ruby](https://github.com/ruby/ruby) | 23,747 | 5,644 | 738 | NOASSERTION | 2026-09-20 | The Ruby Programming Language |
 | 19 | [forem/forem](https://github.com/forem/forem) | 22,780 | 4,183 | 139 | AGPL-3.0 | 2026-09-19 | For empowering community 🌱 |
-| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,218 | 11,924 | 31 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
+| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,219 | 11,924 | 31 | BSD-2-Clause | 2026-09-20 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
 | 21 | [lewagon/setup](https://github.com/lewagon/setup) | 19,618 | 1,575 | 6 | — | 2026-09-20 | Setup instructions for Le Wagon's students on their first day of AI Software Development Bootcamp |
 | 22 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,582 | 1,871 | 124 | AGPL-3.0 | 2026-09-14 | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,817 | 1,291 | 92 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
 | 24 | [opf/openproject](https://github.com/opf/openproject) | 16,165 | 3,496 | 242 | GPL-3.0 | 2026-09-20 | OpenProject is the leading open source project management software for product, project and portfolio management. A p... |
 | 25 | [spree/spree](https://github.com/spree/spree) | 15,713 | 5,303 | 155 | BSD-3-Clause | 2026-09-20 | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-re... |
-| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,577 | 13,858 | 98 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
+| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,578 | 13,858 | 103 | BSD-2-Clause | 2026-09-20 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
 | 27 | [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) | 15,119 | 1,245 | 0 | CC0-1.0 | 2026-09-18 | Awesome list of GraphQL |
 | 28 | [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | 14,831 | 2,676 | 838 | NOASSERTION | 2026-07-06 | The Cocoa Dependency Manager. |
 | 29 | [mame/quine-relay](https://github.com/mame/quine-relay) | 14,605 | 567 | 18 | — | 2026-09-01 | An uroboros program with 100+ programming languages |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **2,969,329** total repositories matching `langu
 | 42 | [faker-ruby/faker](https://github.com/faker-ruby/faker) | 11,938 | 3,213 | 36 | MIT | 2026-09-17 | A library for generating fake data such as names, addresses, and phone numbers. |
 | 43 | [Shopify/liquid](https://github.com/Shopify/liquid) | 11,888 | 1,542 | 427 | MIT | 2026-09-17 | Liquid markup language. Safe, customer facing template language for flexible web apps. |
 | 44 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 11,757 | 893 | 1 | MIT | 2026-09-09 | 收集整理远程工作相关的资料 |
-| 45 | [jordansissel/fpm](https://github.com/jordansissel/fpm) | 11,508 | 1,064 | 789 | NOASSERTION | 2026-09-14 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. |
+| 45 | [jordansissel/fpm](https://github.com/jordansissel/fpm) | 11,509 | 1,064 | 789 | NOASSERTION | 2026-09-14 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. |
 | 46 | [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) | 11,275 | 1,524 | 1 | — | 2026-06-26 | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 |
 | 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,453 | 376 | 146 | AGPL-3.0 | 2026-09-20 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | 48 | [teamcapybara/capybara](https://github.com/teamcapybara/capybara) | 10,172 | 1,469 | 22 | MIT | 2026-07-13 | Acceptance test framework for web applications |

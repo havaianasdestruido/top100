@@ -1,74 +1,74 @@
 # Top 100 TypeScript repositories on GitHub
 
-Ranked by stars. GitHub reports **18,625,229** total repositories matching `language:TypeScript`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **18,625,440** total repositories matching `language:TypeScript`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 455,849 | 46,873 | 211 | BSD-3-Clause | 2026-09-20 | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
-| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390,152 | 82,048 | 8,179 | NOASSERTION | 2026-09-20 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| 3 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367,767 | 44,969 | 1 | NOASSERTION | 2026-09-18 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
-| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 231,117 | 27,702 | 0 | MIT | 2026-09-17 | DeepSeek Harness: Everything is a Plugin. |
+| 2 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390,153 | 82,049 | 8,193 | NOASSERTION | 2026-09-20 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| 3 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | 367,766 | 44,969 | 1 | NOASSERTION | 2026-09-18 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| 4 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 231,121 | 27,703 | 0 | MIT | 2026-09-17 | DeepSeek Harness: Everything is a Plugin. |
 | 5 | [vuejs/vue](https://github.com/vuejs/vue) | 212,824 | 33,722 | 640 | MIT | 2024-10-10 | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
 | 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 208,850 | 27,502 | 6,009 | MIT | 2026-09-20 | The open source coding agent. |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 205,467 | 60,807 | 1,180 | NOASSERTION | 2026-09-20 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-ho... |
-| 8 | [microsoft/vscode](https://github.com/microsoft/vscode) | 192,723 | 42,859 | 21,194 | MIT | 2026-09-20 | Visual Studio Code |
-| 9 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 182,541 | 9,863 | 641 | AGPL-3.0 | 2026-09-20 | The web data API to search, scrape, and interact at scale. 🔥 |
-| 10 | [langgenius/dify](https://github.com/langgenius/dify) | 156,612 | 24,694 | 1,080 | NOASSERTION | 2026-09-20 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on... |
-| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 147,041 | 24,034 | 12,291 | — | 2026-09-20 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
+| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 205,468 | 60,808 | 1,180 | NOASSERTION | 2026-09-20 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-ho... |
+| 8 | [microsoft/vscode](https://github.com/microsoft/vscode) | 192,723 | 42,861 | 21,194 | MIT | 2026-09-20 | Visual Studio Code |
+| 9 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 182,544 | 9,863 | 641 | AGPL-3.0 | 2026-09-20 | The web data API to search, scrape, and interact at scale. 🔥 |
+| 10 | [langgenius/dify](https://github.com/langgenius/dify) | 156,613 | 24,694 | 1,080 | NOASSERTION | 2026-09-20 | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on... |
+| 11 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 147,043 | 24,036 | 12,295 | — | 2026-09-20 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code fast... |
 | 12 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 142,845 | 16,828 | 37 | MIT | 2026-08-07 | Curated coding interview preparation materials for busy software engineers |
-| 13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 139,128 | 8,103 | 34 | Unlicense | 2026-09-20 | Collection of publicly available IPTV channels from all over the world |
-| 14 | [garrytan/gstack](https://github.com/garrytan/gstack) | 133,781 | 19,935 | 919 | MIT | 2026-09-20 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manag... |
+| 13 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | 139,129 | 8,103 | 34 | Unlicense | 2026-09-20 | Collection of publicly available IPTV channels from all over the world |
+| 14 | [garrytan/gstack](https://github.com/garrytan/gstack) | 133,782 | 19,935 | 919 | MIT | 2026-09-20 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manag... |
 | 15 | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | 132,528 | 15,384 | 3,490 | MIT | 2026-09-19 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| 16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 124,256 | 10,848 | 1,852 | MIT | 2026-09-17 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can custom... |
-| 17 | [immich-app/immich](https://github.com/immich-app/immich) | 114,673 | 7,005 | 733 | AGPL-3.0 | 2026-09-20 | High performance self-hosted photo and video management solution. |
-| 18 | [supabase/supabase](https://github.com/supabase/supabase) | 110,418 | 14,459 | 1,143 | Apache-2.0 | 2026-09-20 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... |
-| 19 | [earendil-works/pi](https://github.com/earendil-works/pi) | 107,694 | 13,611 | 213 | MIT | 2026-09-20 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| 16 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 124,256 | 10,849 | 1,852 | MIT | 2026-09-17 | Composable, accessible components with thoughtful defaults. Build your own component library with code you can custom... |
+| 17 | [immich-app/immich](https://github.com/immich-app/immich) | 114,674 | 7,005 | 733 | AGPL-3.0 | 2026-09-20 | High performance self-hosted photo and video management solution. |
+| 18 | [supabase/supabase](https://github.com/supabase/supabase) | 110,419 | 14,459 | 1,143 | Apache-2.0 | 2026-09-20 | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI... |
+| 19 | [earendil-works/pi](https://github.com/earendil-works/pi) | 107,698 | 13,611 | 213 | MIT | 2026-09-20 | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 | 20 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107,098 | 14,607 | 843 | Apache-2.0 | 2026-09-20 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| 21 | [angular/angular](https://github.com/angular/angular) | 101,017 | 28,129 | 1,194 | MIT | 2026-09-18 | Deliver web apps with confidence 🚀 |
+| 21 | [angular/angular](https://github.com/angular/angular) | 101,017 | 28,129 | 1,195 | MIT | 2026-09-18 | Deliver web apps with confidence 🚀 |
 | 22 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99,564 | 54,715 | 1,072 | MIT | 2026-09-20 | An enterprise-class UI design language and React UI library |
 | 23 | [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 97,636 | 6,217 | 74 | MIT | 2026-09-08 | A utility-first CSS framework for rapid UI development. |
-| 24 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 97,275 | 11,296 | 1,098 | Apache-2.0 | 2026-09-20 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your... |
-| 25 | [microsoft/playwright](https://github.com/microsoft/playwright) | 96,411 | 6,472 | 219 | Apache-2.0 | 2026-09-20 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a singl... |
+| 24 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 97,276 | 11,297 | 1,098 | Apache-2.0 | 2026-09-20 | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your... |
+| 25 | [microsoft/playwright](https://github.com/microsoft/playwright) | 96,412 | 6,472 | 219 | Apache-2.0 | 2026-09-20 | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a singl... |
 | 26 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 95,598 | 9,580 | 265 | Apache-2.0 | 2026-09-20 | JavaScript API for Chrome and Firefox |
-| 27 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94,332 | 8,330 | 237 | Apache-2.0 | 2026-09-20 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses... |
+| 27 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 94,333 | 8,330 | 237 | Apache-2.0 | 2026-09-20 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses... |
 | 28 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91,107 | 10,455 | 1,850 | MIT | 2026-09-20 | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
 | 29 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 90,500 | 11,668 | 550 | NOASSERTION | 2026-09-03 | Model Context Protocol Servers |
 | 30 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | 90,324 | 9,273 | 1,793 | MIT | 2026-09-18 | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
-| 31 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 89,985 | 8,889 | 378 | MIT | 2026-08-10 | The open-source CapCut alternative |
-| 32 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 88,793 | 59,025 | 865 | MIT | 2026-08-11 | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, Dee... |
+| 31 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 89,989 | 8,889 | 378 | MIT | 2026-08-10 | The open-source CapCut alternative |
+| 32 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 88,793 | 59,024 | 865 | MIT | 2026-08-11 | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, Dee... |
 | 33 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 88,639 | 11,660 | 867 | MIT | 2026-09-20 | 🙌 OpenHands: AI-Driven Development |
-| 34 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,090 | 13,236 | 405 | AGPL-3.0 | 2026-09-20 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tra... |
-| 35 | [realworld-apps/realworld](https://github.com/realworld-apps/realworld) | 84,227 | 7,660 | 28 | NOASSERTION | 2026-08-26 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and man... |
-| 36 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 83,418 | 7,041 | 306 | MIT | 2026-09-12 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
+| 34 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 87,090 | 13,235 | 405 | AGPL-3.0 | 2026-09-20 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tra... |
+| 35 | [realworld-apps/realworld](https://github.com/realworld-apps/realworld) | 84,226 | 7,660 | 28 | NOASSERTION | 2026-08-26 | "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and man... |
+| 36 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 83,420 | 7,041 | 306 | MIT | 2026-09-12 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, a... |
 | 37 | [vitejs/vite](https://github.com/vitejs/vite) | 82,916 | 8,758 | 788 | MIT | 2026-09-19 | Next generation frontend tooling. It's fast! |
 | 38 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 82,680 | 15,900 | 944 | NOASSERTION | 2026-09-20 | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and report... |
 | 39 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 81,130 | 14,911 | 5,562 | MIT | 2026-09-20 | The open-source app everyone uses to manage agents at work |
 | 40 | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 80,424 | 6,118 | 827 | MIT | 2026-09-20 | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-... |
-| 41 | [coder/code-server](https://github.com/coder/code-server) | 79,370 | 6,864 | 149 | MIT | 2026-09-20 | VS Code in the browser |
-| 42 | [grafana/grafana](https://github.com/grafana/grafana) | 76,819 | 14,762 | 3,297 | AGPL-3.0 | 2026-09-20 | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multi... |
-| 43 | [nestjs/nest](https://github.com/nestjs/nest) | 76,690 | 8,556 | 26 | MIT | 2026-09-20 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with ... |
+| 41 | [coder/code-server](https://github.com/coder/code-server) | 79,371 | 6,864 | 149 | MIT | 2026-09-20 | VS Code in the browser |
+| 42 | [grafana/grafana](https://github.com/grafana/grafana) | 76,820 | 14,762 | 3,297 | AGPL-3.0 | 2026-09-20 | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multi... |
+| 43 | [nestjs/nest](https://github.com/nestjs/nest) | 76,691 | 8,556 | 26 | MIT | 2026-09-20 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with ... |
 | 44 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | 74,607 | 4,258 | 2,836 | MIT | 2026-09-16 | A terminal for a more modern age |
-| 45 | [stablyai/orca](https://github.com/stablyai/orca) | 73,450 | 4,810 | 6,314 | MIT | 2026-09-20 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Availab... |
-| 46 | [strapi/strapi](https://github.com/strapi/strapi) | 73,199 | 9,879 | 557 | NOASSERTION | 2026-09-18 | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-... |
-| 47 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 72,922 | 8,657 | 1,002 | MIT | 2026-09-20 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conv... |
-| 48 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 72,794 | 5,286 | 744 | NOASSERTION | 2026-09-20 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning... |
+| 45 | [stablyai/orca](https://github.com/stablyai/orca) | 73,460 | 4,810 | 6,316 | MIT | 2026-09-20 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Availab... |
+| 46 | [strapi/strapi](https://github.com/strapi/strapi) | 73,200 | 9,879 | 557 | NOASSERTION | 2026-09-18 | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-... |
+| 47 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 72,923 | 8,657 | 1,002 | MIT | 2026-09-20 | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conv... |
+| 48 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 72,794 | 5,286 | 745 | NOASSERTION | 2026-09-20 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning... |
 | 49 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 69,663 | 4,772 | 241 | MIT | 2026-09-18 | Spec-driven development (SDD) for AI coding assistants. |
 | 50 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69,226 | 5,706 | 1,058 | NOASSERTION | 2026-09-20 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 51 | [cline/cline](https://github.com/cline/cline) | 68,878 | 7,461 | 1,391 | Apache-2.0 | 2026-09-20 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
-| 52 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 68,561 | 9,706 | 520 | MIT | 2026-09-19 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemi... |
+| 51 | [cline/cline](https://github.com/cline/cline) | 68,879 | 7,461 | 1,393 | Apache-2.0 | 2026-09-20 | Autonomous coding agent as an SDK, IDE extension, or CLI assistant. |
+| 52 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 68,561 | 9,705 | 522 | MIT | 2026-09-19 | Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemi... |
 | 53 | [apache/echarts](https://github.com/apache/echarts) | 67,356 | 19,819 | 1,504 | Apache-2.0 | 2026-09-16 | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
 | 54 | [facebook/docusaurus](https://github.com/facebook/docusaurus) | 66,304 | 10,039 | 400 | MIT | 2026-09-18 | Easy to maintain open source documentation websites. |
 | 55 | [nocodb/nocodb](https://github.com/nocodb/nocodb) | 65,017 | 5,058 | 715 | NOASSERTION | 2026-09-20 | 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative |
 | 56 | [socketio/socket.io](https://github.com/socketio/socket.io) | 63,201 | 10,297 | 190 | MIT | 2026-09-18 | Bidirectional and low-latency communication for every platform |
 | 57 | [withastro/astro](https://github.com/withastro/astro) | 62,721 | 3,798 | 67 | NOASSERTION | 2026-09-19 | The web framework for content-driven websites. ⭐️ Star to support our work! |
 | 58 | [upstash/context7](https://github.com/upstash/context7) | 62,251 | 3,016 | 65 | MIT | 2026-09-20 | Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors |
-| 59 | [marktext/marktext](https://github.com/marktext/marktext) | 61,648 | 4,561 | 482 | MIT | 2026-09-20 | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| 59 | [marktext/marktext](https://github.com/marktext/marktext) | 61,649 | 4,561 | 482 | MIT | 2026-09-20 | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
 | 60 | [reduxjs/redux](https://github.com/reduxjs/redux) | 61,490 | 15,173 | 20 | MIT | 2026-09-20 | A JS library for predictable global state management |
 | 61 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 60,882 | 5,799 | 479 | MIT | 2026-09-20 | The full-stack Vue framework. |
-| 62 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 59,863 | 4,594 | 181 | NOASSERTION | 2026-09-20 | 🎥      Make videos programmatically with React |
+| 62 | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 59,864 | 4,594 | 181 | NOASSERTION | 2026-09-20 | 🎥      Make videos programmatically with React |
 | 63 | [makeplane/plane](https://github.com/makeplane/plane) | 59,669 | 5,814 | 1,094 | AGPL-3.0 | 2026-09-18 | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manag... |
 | 64 | [pmndrs/zustand](https://github.com/pmndrs/zustand) | 58,707 | 2,189 | 7 | MIT | 2026-09-18 | 🐻 Bear necessities for state management in React |
-| 65 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 57,152 | 9,209 | 193 | NOASSERTION | 2026-09-20 | The open alternative to Salesforce, designed for AI. |
+| 65 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | 57,153 | 9,209 | 192 | NOASSERTION | 2026-09-20 | The open alternative to Salesforce, designed for AI. |
 | 66 | [remix-run/react-router](https://github.com/remix-run/react-router) | 56,583 | 10,920 | 179 | MIT | 2026-09-17 | Declarative routing for React |
 | 67 | [laurent22/joplin](https://github.com/laurent22/joplin) | 56,451 | 6,300 | 630 | NOASSERTION | 2026-09-20 | Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. |
 | 68 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | 55,701 | 5,035 | 139 | NOASSERTION | 2026-09-20 | A full-featured download manager. |
@@ -78,10 +78,10 @@ Ranked by stars. GitHub reports **18,625,229** total repositories matching `lang
 | 72 | [vuejs/core](https://github.com/vuejs/core) | 54,418 | 9,202 | 885 | MIT | 2026-09-20 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. |
 | 73 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 53,787 | 7,021 | 1,271 | Apache-2.0 | 2026-09-19 | 一个基于 Electron 的音乐软件 |
 | 74 | [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) | 52,671 | 13,298 | 590 | MIT | 2026-09-18 | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CS... |
-| 75 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 52,366 | 4,332 | 123 | Apache-2.0 | 2026-09-20 | Chrome DevTools for coding agents |
-| 76 | [expo/expo](https://github.com/expo/expo) | 52,353 | 14,104 | 902 | MIT | 2026-09-20 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
-| 77 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52,025 | 4,984 | 1,608 | AGPL-3.0 | 2026-09-20 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| 78 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 51,913 | 4,727 | 196 | Apache-2.0 | 2026-09-20 | Write HTML. Render video. Built for agents. |
+| 75 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 52,369 | 4,332 | 124 | Apache-2.0 | 2026-09-20 | Chrome DevTools for coding agents |
+| 76 | [expo/expo](https://github.com/expo/expo) | 52,354 | 14,104 | 903 | MIT | 2026-09-20 | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| 77 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52,026 | 4,984 | 1,608 | AGPL-3.0 | 2026-09-20 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| 78 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 51,915 | 4,727 | 196 | Apache-2.0 | 2026-09-20 | Write HTML. Render video. Built for agents. |
 | 79 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | 51,437 | 30,378 | 704 | NOASSERTION | 2026-09-19 | The repository for high quality TypeScript type definitions. |
 | 80 | [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) | 51,195 | 8,989 | 3 | GPL-3.0 | 2026-08-07 | :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具 |
 | 81 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | 51,016 | 3,641 | 1,086 | MIT | 2026-09-20 | Fast, easy and reliable testing for anything that runs in a browser. |
@@ -93,7 +93,7 @@ Ranked by stars. GitHub reports **18,625,229** total repositories matching `lang
 | 87 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | 48,754 | 2,195 | 203 | MIT | 2026-09-16 | Presentation Slides for Developers |
 | 88 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | 48,575 | 15,178 | 1,422 | MIT | 2026-09-20 | Scheduling infrastructure for absolutely everyone. |
 | 89 | [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) | 48,509 | 5,265 | 33,285 | MIT | 2026-05-16 | Collection of TypeScript type challenges with online judge |
-| 90 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48,223 | 5,531 | 23 | AGPL-3.0 | 2026-09-08 | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, an... |
+| 90 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 48,223 | 5,532 | 23 | AGPL-3.0 | 2026-09-08 | Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, an... |
 | 91 | [pixijs/pixijs](https://github.com/pixijs/pixijs) | 48,196 | 5,070 | 338 | MIT | 2026-09-17 | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. |
 | 92 | [prisma/orm](https://github.com/prisma/orm) | 47,641 | 2,539 | 2,649 | Apache-2.0 | 2026-09-18 | Next-generation ORM for Node.js & TypeScript \| PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
 | 93 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 47,466 | 5,175 | 282 | NOASSERTION | 2026-09-20 | GitNexus: The Zero-Server Code Intelligence Engine |
