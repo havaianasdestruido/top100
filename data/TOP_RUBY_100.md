@@ -1,43 +1,43 @@
 # Top 100 Ruby repositories on GitHub
 
-Ranked by stars. GitHub reports **2,969,496** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **2,969,512** total repositories matching `language:Ruby`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [rails/rails](https://github.com/rails/rails) | 58,782 | 23,110 | 1,642 | MIT | 2026-09-21 | Ruby on Rails |
-| 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,275 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
-| 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,678 | 10,300 | 251 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
-| 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,310 | 7,503 | 4,570 | AGPL-3.0 | 2026-09-21 | Your self-hosted, globally interconnected microblogging community |
-| 5 | [huginn/huginn](https://github.com/huginn/huginn) | 49,983 | 4,300 | 698 | MIT | 2026-09-21 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
-| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,737 | 11,361 | 7 | BSD-2-Clause | 2026-09-21 | 🍺 The Package Manager for Everywhere |
-| 7 | [discourse/discourse](https://github.com/discourse/discourse) | 47,873 | 9,021 | 263 | GPL-2.0 | 2026-09-21 | A platform for community discussion. Free, open, simple. |
+| 1 | [rails/rails](https://github.com/rails/rails) | 58,781 | 23,111 | 1,643 | MIT | 2026-09-21 | Ruby on Rails |
+| 2 | [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 54,274 | 5,690 | 0 | AGPL-3.0 | 2025-07-24 | The personal finance app for everyone |
+| 3 | [jekyll/jekyll](https://github.com/jekyll/jekyll) | 51,678 | 10,300 | 252 | MIT | 2026-09-17 | :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby |
+| 4 | [mastodon/mastodon](https://github.com/mastodon/mastodon) | 50,310 | 7,503 | 4,570 | AGPL-3.0 | 2026-09-22 | Your self-hosted, globally interconnected microblogging community |
+| 5 | [huginn/huginn](https://github.com/huginn/huginn) | 49,984 | 4,300 | 698 | MIT | 2026-09-21 | Create agents that monitor and act on your behalf.  Your agents are standing by! |
+| 6 | [Homebrew/brew](https://github.com/Homebrew/brew) | 49,737 | 11,362 | 8 | BSD-2-Clause | 2026-09-21 | 🍺 The Package Manager for Everywhere |
+| 7 | [discourse/discourse](https://github.com/discourse/discourse) | 47,876 | 9,021 | 260 | GPL-2.0 | 2026-09-22 | A platform for community discussion. Free, open, simple. |
 | 8 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42,143 | 6,033 | 668 | MIT | 2026-09-20 | 🚀 The easiest way to automate building and releasing your iOS and Android apps |
 | 9 | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39,476 | 2,645 | 196 | MPL-2.0 | 2026-09-19 | API Documentation Browser |
-| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,037 | 14,973 | 611 | NOASSERTION | 2026-09-21 | Metasploit Framework |
+| 10 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 39,037 | 14,974 | 611 | NOASSERTION | 2026-09-21 | Metasploit Framework |
 | 11 | [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) | 38,682 | 2,042 | 151 | — | 2024-08-21 | A curated list of engineering blogs |
-| 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37,040 | 9,008 | 1,457 | NOASSERTION | 2026-09-21 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Clou... |
+| 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37,042 | 9,010 | 1,457 | NOASSERTION | 2026-09-22 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Clou... |
 | 13 | [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | 33,679 | 3,602 | 65 | — | 2024-06-02 | A curated list of awesome awesomeness |
 | 14 | [hashicorp/vagrant](https://github.com/hashicorp/vagrant) | 27,210 | 4,397 | 757 | NOASSERTION | 2026-09-21 | Vagrant is a tool for building and distributing development environments. |
 | 15 | [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | 26,265 | 3,145 | 14 | CC0-1.0 | 2026-09-01 | A collaborative list of awesome Swift libraries and resources. Feel free to contribute! |
-| 16 | [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | 24,546 | 5,983 | 36 | NOASSERTION | 2026-09-21 | GitLab CE Mirror \| Please open new issues in our issue tracker on GitLab.com |
+| 16 | [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) | 24,546 | 5,983 | 36 | NOASSERTION | 2026-09-22 | GitLab CE Mirror \| Please open new issues in our issue tracker on GitLab.com |
 | 17 | [heartcombo/devise](https://github.com/heartcombo/devise) | 24,357 | 5,471 | 235 | MIT | 2026-06-22 | Flexible authentication solution for Rails with Warden. |
 | 18 | [ruby/ruby](https://github.com/ruby/ruby) | 23,750 | 5,643 | 736 | NOASSERTION | 2026-09-21 | The Ruby Programming Language |
 | 19 | [forem/forem](https://github.com/forem/forem) | 22,778 | 4,183 | 139 | AGPL-3.0 | 2026-09-21 | For empowering community 🌱 |
-| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,222 | 11,925 | 35 | BSD-2-Clause | 2026-09-21 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
+| 20 | [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 22,223 | 11,925 | 40 | BSD-2-Clause | 2026-09-22 | 🍻 Default casks (upstream binary packages) for the package manager for everywhere |
 | 21 | [lewagon/setup](https://github.com/lewagon/setup) | 19,616 | 1,575 | 2 | — | 2026-09-21 | Setup instructions for Le Wagon's students on their first day of AI Software Development Bootcamp |
 | 22 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | 18,593 | 1,873 | 123 | AGPL-3.0 | 2026-09-21 | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 | 23 | [postalserver/postal](https://github.com/postalserver/postal) | 16,820 | 1,291 | 94 | MIT | 2026-09-19 | 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail |
-| 24 | [opf/openproject](https://github.com/opf/openproject) | 16,176 | 3,495 | 226 | GPL-3.0 | 2026-09-21 | OpenProject is the leading open source project management software for product, project and portfolio management. A p... |
+| 24 | [opf/openproject](https://github.com/opf/openproject) | 16,177 | 3,495 | 226 | GPL-3.0 | 2026-09-21 | OpenProject is the leading open source project management software for product, project and portfolio management. A p... |
 | 25 | [spree/spree](https://github.com/spree/spree) | 15,715 | 5,302 | 153 | BSD-3-Clause | 2026-09-21 | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-re... |
-| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,579 | 13,861 | 106 | BSD-2-Clause | 2026-09-21 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
+| 26 | [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 15,580 | 13,861 | 95 | BSD-2-Clause | 2026-09-22 | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere |
 | 27 | [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) | 15,118 | 1,245 | 0 | CC0-1.0 | 2026-09-18 | Awesome list of GraphQL |
 | 28 | [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) | 14,832 | 2,676 | 838 | NOASSERTION | 2026-07-06 | The Cocoa Dependency Manager. |
 | 29 | [mame/quine-relay](https://github.com/mame/quine-relay) | 14,605 | 567 | 18 | — | 2026-09-01 | An uroboros program with 100+ programming languages |
 | 30 | [basecamp/kamal](https://github.com/basecamp/kamal) | 14,594 | 752 | 151 | MIT | 2026-09-16 | Deploy web apps anywhere. |
 | 31 | [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) | 14,554 | 819 | 87 | CC0-1.0 | 2026-02-11 | :city_sunrise: A collection of links for free stock photography, video and Illustration websites |
-| 32 | [gollum/gollum](https://github.com/gollum/gollum) | 14,327 | 1,560 | 91 | MIT | 2025-11-24 | A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content. |
+| 32 | [gollum/gollum](https://github.com/gollum/gollum) | 14,328 | 1,560 | 91 | MIT | 2025-11-24 | A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content. |
 | 33 | [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) | 13,728 | 627 | 97 | MIT | 2026-07-10 | Manage complex tmux sessions easily |
-| 34 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13,695 | 5,432 | 234 | MIT | 2026-09-21 | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |
+| 34 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13,695 | 5,432 | 235 | MIT | 2026-09-21 | Language Savant. If your repository's language is being reported incorrectly, send us a pull request! |
 | 35 | [diaspora/diaspora](https://github.com/diaspora/diaspora) | 13,649 | 2,864 | 425 | AGPL-3.0 | 2026-07-28 | A privacy-aware, distributed, open source social network. |
 | 36 | [fluent/fluentd](https://github.com/fluent/fluentd) | 13,588 | 1,404 | 134 | Apache-2.0 | 2026-09-20 | Fluentd: Unified Logging Layer (project under CNCF) |
 | 37 | [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) | 13,562 | 2,480 | 21 | NOASSERTION | 2026-09-15 | Simple, efficient background processing for Ruby |
@@ -45,18 +45,18 @@ Ranked by stars. GitHub reports **2,969,496** total repositories matching `langu
 | 39 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12,905 | 3,141 | 147 | MIT | 2026-09-21 | A Ruby static code analyzer and formatter, based on the community Ruby style guide. |
 | 40 | [sinatra/sinatra](https://github.com/sinatra/sinatra) | 12,452 | 2,071 | 46 | MIT | 2026-07-20 | Classy web-development dressed in a DSL (official / canonical repo) |
 | 41 | [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 12,273 | 589 | 102 | AGPL-3.0 | 2026-09-21 | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed ... |
-| 42 | [faker-ruby/faker](https://github.com/faker-ruby/faker) | 11,939 | 3,212 | 36 | MIT | 2026-09-17 | A library for generating fake data such as names, addresses, and phone numbers. |
+| 42 | [faker-ruby/faker](https://github.com/faker-ruby/faker) | 11,939 | 3,212 | 37 | MIT | 2026-09-21 | A library for generating fake data such as names, addresses, and phone numbers. |
 | 43 | [Shopify/liquid](https://github.com/Shopify/liquid) | 11,891 | 1,542 | 427 | MIT | 2026-09-17 | Liquid markup language. Safe, customer facing template language for flexible web apps. |
-| 44 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 11,757 | 893 | 1 | MIT | 2026-09-09 | 收集整理远程工作相关的资料 |
+| 44 | [greatghoul/remote-working](https://github.com/greatghoul/remote-working) | 11,756 | 893 | 1 | MIT | 2026-09-09 | 收集整理远程工作相关的资料 |
 | 45 | [jordansissel/fpm](https://github.com/jordansissel/fpm) | 11,509 | 1,064 | 789 | NOASSERTION | 2026-09-14 | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. |
 | 46 | [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) | 11,279 | 1,524 | 1 | — | 2026-06-26 | MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。 |
-| 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,467 | 379 | 161 | AGPL-3.0 | 2026-09-21 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| 47 | [Freika/dawarich](https://github.com/Freika/dawarich) | 10,466 | 379 | 162 | AGPL-3.0 | 2026-09-21 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | 48 | [teamcapybara/capybara](https://github.com/teamcapybara/capybara) | 10,172 | 1,469 | 22 | MIT | 2026-07-13 | Acceptance test framework for web applications |
 | 49 | [ruby-grape/grape](https://github.com/ruby-grape/grape) | 10,007 | 1,232 | 236 | MIT | 2026-09-21 | An opinionated framework for creating REST-like APIs in Ruby. |
-| 50 | [we-promise/sure](https://github.com/we-promise/sure) | 10,000 | 508 | 568 | AGPL-3.0 | 2026-09-21 | The personal finance app for everyone (by everyone) |
-| 51 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 9,777 | 1,343 | 1 | NOASSERTION | 2026-09-21 | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of th... |
-| 52 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | 9,721 | 2,037 | 9 | MIT | 2026-09-21 | See what sticks |
-| 53 | [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) | 9,709 | 3,326 | 29 | MIT | 2026-09-21 | The administration framework for Ruby on Rails applications. |
+| 50 | [we-promise/sure](https://github.com/we-promise/sure) | 10,000 | 508 | 569 | AGPL-3.0 | 2026-09-21 | The personal finance app for everyone (by everyone) |
+| 51 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | 9,776 | 1,343 | 1 | NOASSERTION | 2026-09-21 | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of th... |
+| 52 | [antiwork/gumroad](https://github.com/antiwork/gumroad) | 9,721 | 2,037 | 6 | MIT | 2026-09-22 | See what sticks |
+| 53 | [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) | 9,709 | 3,326 | 31 | MIT | 2026-09-22 | The administration framework for Ruby on Rails applications. |
 | 54 | [thoughtbot/guides](https://github.com/thoughtbot/guides) | 9,563 | 1,347 | 10 | — | 2026-08-21 | A guide for programming in style. |
 | 55 | [resque/resque](https://github.com/resque/resque) | 9,473 | 1,658 | 72 | MIT | 2026-09-16 | Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing t... |
 | 56 | [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) | 9,338 | 1,861 | 94 | CC-BY-SA-4.0 | 2025-05-30 | A guide to contributing to open source |
@@ -72,7 +72,7 @@ Ranked by stars. GitHub reports **2,969,496** total repositories matching `langu
 | 66 | [chef/chef](https://github.com/chef/chef) | 8,242 | 2,519 | 410 | Apache-2.0 | 2026-09-21 | Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is ... |
 | 67 | [heartcombo/simple_form](https://github.com/heartcombo/simple_form) | 8,228 | 1,294 | 37 | MIT | 2026-04-01 | Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup. |
 | 68 | [basecamp/fizzy](https://github.com/basecamp/fizzy) | 8,215 | 1,197 | 70 | NOASSERTION | 2026-09-19 | Kanban as it should be. Not as it has been. |
-| 69 | [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) | 8,169 | 2,555 | 83 | MIT | 2026-08-21 | A library for setting up Ruby objects as test data. |
+| 69 | [thoughtbot/factory_bot](https://github.com/thoughtbot/factory_bot) | 8,169 | 2,554 | 83 | MIT | 2026-08-21 | A library for setting up Ruby objects as test data. |
 | 70 | [omniauth/omniauth](https://github.com/omniauth/omniauth) | 8,099 | 975 | 105 | MIT | 2026-02-27 | OmniAuth is a flexible authentication system utilizing Rack middleware. |
 | 71 | [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) | 7,955 | 2,229 | 161 | MIT | 2026-09-21 | RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data |
 | 72 | [puppetlabs/puppet](https://github.com/puppetlabs/puppet) | 7,932 | 2,207 | 96 | Apache-2.0 | 2026-08-06 | Server automation framework and application |
@@ -85,12 +85,12 @@ Ranked by stars. GitHub reports **2,969,496** total repositories matching `langu
 | 79 | [middleman/middleman](https://github.com/middleman/middleman) | 7,111 | 754 | 19 | MIT | 2026-08-24 | Hand-crafted frontend development |
 | 80 | [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) | 7,029 | 908 | 8 | MIT | 2026-05-08 | Track changes to your rails models |
 | 81 | [skwp/dotfiles](https://github.com/skwp/dotfiles) | 6,968 | 1,354 | 4 | BSD-2-Clause | 2026-01-17 | YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen |
-| 82 | [midudev/autoskills](https://github.com/midudev/autoskills) | 6,885 | 620 | 32 | NOASSERTION | 2026-07-19 | One command. Your entire AI skill stack. Installed. |
+| 82 | [midudev/autoskills](https://github.com/midudev/autoskills) | 6,886 | 620 | 32 | NOASSERTION | 2026-07-19 | One command. Your entire AI skill stack. Installed. |
 | 83 | [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) | 6,866 | 1,200 | 10 | NOASSERTION | 2023-08-22 | Nodejs学习笔记以及经验总结，公众号"程序猿小卡" |
 | 84 | [BetterErrors/better_errors](https://github.com/BetterErrors/better_errors) | 6,861 | 430 | 68 | MIT | 2024-07-09 | Better error page for Rack apps |
-| 85 | [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) | 6,848 | 1,014 | 51 | GPL-2.0 | 2026-04-02 | Next generation web scanner |
+| 85 | [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) | 6,847 | 1,014 | 51 | GPL-2.0 | 2026-04-02 | Next generation web scanner |
 | 86 | [pry/pry](https://github.com/pry/pry) | 6,836 | 611 | 126 | NOASSERTION | 2026-09-20 | A runtime developer console and IRB alternative with powerful introspection capabilities. |
-| 87 | [instructure/canvas-lms](https://github.com/instructure/canvas-lms) | 6,827 | 3,027 | 467 | AGPL-3.0 | 2026-04-30 | The open LMS by Instructure, Inc. |
+| 87 | [instructure/canvas-lms](https://github.com/instructure/canvas-lms) | 6,828 | 3,027 | 467 | AGPL-3.0 | 2026-04-30 | The open LMS by Instructure, Inc. |
 | 88 | [sj26/mailcatcher](https://github.com/sj26/mailcatcher) | 6,780 | 605 | 43 | MIT | 2026-09-16 | Catches mail and serves it through a dream. |
 | 89 | [bkeepers/dotenv](https://github.com/bkeepers/dotenv) | 6,764 | 517 | 19 | MIT | 2026-06-22 | A Ruby gem to load environment variables from `.env`. |
 | 90 | [ankane/searchkick](https://github.com/ankane/searchkick) | 6,719 | 762 | 9 | MIT | 2026-09-17 | Intelligent search made easy |
