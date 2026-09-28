@@ -9,6 +9,14 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # The data workflow commits with the automatic GITHUB_TOKEN, and commits made
+  # with that token do NOT trigger other workflows. Without this trigger the
+  # published site would stay frozen at whatever was last pushed by a human.
+  workflow_run:
+    workflows: ["Top Repos by Language"]
+    types: [completed]
+    branches: [main]
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -24,10 +32,17 @@ concurrency:
 jobs:
   # Build job
   build:
+    # When triggered by the data workflow, only deploy if that run succeeded.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # For workflow_run events the default ref is the default branch;
+          # use the exact commit the data workflow pushed so the site and the
+          # committed data can never drift apart.
+          ref: ${{ github.event.workflow_run.head_sha || github.ref }}
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -40,6 +55,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

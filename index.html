@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Top 100 GitHub Repositories by Stars — 30 Languages, Free JSONL Dataset</title>
+<meta name="description" content="Ranked lists of the 100 most-starred GitHub repositories for 30 programming languages, refreshed hourly from the GitHub Search API. Download the raw JSONL dataset of GitHub repository metadata for free.">
+<link rel="canonical" href="https://havaianasdestruido.github.io/top100/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="generator" content="scripts/build_site.py">
+<meta property="og:site_name" content="Top100">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Top 100 GitHub Repositories by Stars — 30 Languages, Free JSONL Dataset">
+<meta property="og:description" content="Ranked lists of the 100 most-starred GitHub repositories for 30 programming languages, refreshed hourly from the GitHub Search API. Download the raw JSONL dataset of GitHub repository metadata for free.">
+<meta property="og:url" content="https://havaianasdestruido.github.io/top100/">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Top100 data updates" href="feed.xml">
+<link rel="stylesheet" href="assets/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://havaianasdestruido.github.io/top100/#website","name":"Top100","alternateName":"Top 100 GitHub repositories by language","url":"https://havaianasdestruido.github.io/top100/","inLanguage":"en","description":"The 100 most-starred GitHub repositories for 30 programming languages, refreshed hourly from the GitHub Search API and published as raw JSONL.","publisher":{"@id":"https://havaianasdestruido.github.io/top100/#org"},"dateModified":"2026-09-28T06:01:56Z"},{"@type":"SoftwareApplication","@id":"https://havaianasdestruido.github.io/top100/#software","name":"Top100","alternateName":"Top100 GitHub repositories by language","url":"https://havaianasdestruido.github.io/top100/","sameAs":"https://github.com/havaianasdestruido/top100","applicationCategory":"DeveloperApplication","operatingSystem":"Any (Python 3 and GitHub Actions)","description":"Open-source tool that fetches the 100 most-starred GitHub repositories for 30 programming languages with one Search API request per language, publishes them as HTML tables and raw JSONL, and refreshes them hourly via a scheduled GitHub Actions workflow.","featureList":["Top 100 repositories by stars for 30 programming languages","Raw, unmodified GitHub Search API repository objects as JSONL","Hourly refresh via scheduled GitHub Actions workflow","One Search API request per language","Static website with per-language pages, methodology and field reference"],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"creator":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"dateModified":"2026-09-28T06:01:56Z"},{"@type":"Dataset","@id":"https://havaianasdestruido.github.io/top100/dataset.html#dataset","name":"Top 100 GitHub repositories by stars for 30 programming languages","description":"3000 GitHub repository records — the 100 most-starred repositories for each of 30 programming languages — as newline-delimited JSON. Each record is the complete, unmodified repository object returned by the GitHub Search API, refreshed hourly.","url":"https://havaianasdestruido.github.io/top100/dataset.html","sameAs":"https://github.com/havaianasdestruido/top100/tree/main/data/JSONL","keywords":["github","repositories","stars","ranking","jsonl","open source","dataset","github api"],"license":"https://github.com/havaianasdestruido/top100/blob/main/LICENSE","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"publisher":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"includedInDataCatalog":{"@type":"DataCatalog","name":"Top100"},"temporalCoverage":"2026-09-28/..","dateModified":"2026-09-28T06:01:56Z","distribution":[{"@type":"DataDownload","name":"Top 100 GitHub repositories by stars for 30 programming languages (JSONL)","encodingFormat":"application/x-ndjson","contentUrl":"https://github.com/havaianasdestruido/top100/tree/main/data/JSONL"}]},{"@type":"FAQPage","@id":"https://havaianasdestruido.github.io/top100/#faq","mainEntity":[{"@type":"Question","name":"What are the top GitHub repositories by stars right now?","acceptedAnswer":{"@type":"Answer","text":"As of 28 September 2026, the most-starred repositories on GitHub are public-apis/public-apis with 483,883 stars, freeCodeCamp/freeCodeCamp with 456,390, EbookFoundation/free-programming-books with 398,012, openclaw/openclaw with 390,672 and donnemartin/system-design-primer with 372,227. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."}},{"@type":"Question","name":"Where can I find a top 100 GitHub repositories list?","acceptedAnswer":{"@type":"Answer","text":"Top100 publishes a top 100 GitHub repositories list for 30 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL."}},{"@type":"Question","name":"How can I see the top repositories for each programming language?","acceptedAnswer":{"@type":"Answer","text":"Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 30 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language."}},{"@type":"Question","name":"What are the best JSON/JSONL datasets of GitHub repo metadata I can download?","acceptedAnswer":{"@type":"Answer","text":"Top100 ships 30 JSONL files — one per language, 100 repositories each, 3,000 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps."}},{"@type":"Question","name":"Is there a free tool to export GitHub repository metadata as JSON?","acceptedAnswer":{"@type":"Answer","text":"Yes. Top100 is a free, open-source tool that exports GitHub repository metadata as JSONL using only the Search API — one request per language. Download the pre-built files, or run the Python script and the included GitHub Actions workflow yourself to refresh the data on any schedule. No credentials beyond GitHub's own automatic token are required."}},{"@type":"Question","name":"How do I set up a GitHub Actions scheduled workflow to collect data automatically?","acceptedAnswer":{"@type":"Answer","text":"Create a workflow file under .github/workflows/ with an on.schedule cron entry, check out the repository, run your fetch script with the automatic GITHUB_TOKEN, then commit and push the results — the job needs permissions: contents: write. Top100 does exactly this every hour; the methodology page has the complete workflow and script."}},{"@type":"Question","name":"What are the best GitHub Actions workflows for automated data collection projects?","acceptedAnswer":{"@type":"Answer","text":"For scheduled scraping, Simon Willison's git-scraping pattern and GitHub's Flat Data action are the standard starting points. Top100's own workflow is a minimal alternative: one Python script, one API call per language, and an automatic commit of fresh JSONL and Markdown tables back to the repository."}},{"@type":"Question","name":"What is the average number of GitHub stars and how do repos rank by stars?","acceptedAnswer":{"@type":"Answer","text":"GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,802 stars and the mean is 23,381, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 57,558 for Python. See the statistics table for the per-language thresholds."}}]},{"@type":"WebPage","@id":"https://havaianasdestruido.github.io/top100/#webpage","url":"https://havaianasdestruido.github.io/top100/","name":"Top 100 GitHub repositories by stars, for every major language","description":"Top 100 GitHub repositories by stars for 30 programming languages, with a free JSONL dataset refreshed hourly.","inLanguage":"en","isPartOf":{"@id":"https://havaianasdestruido.github.io/top100/#website"},"dateModified":"2026-09-28T06:01:56Z"}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+<div class="wrap">
+<a class="brand" href="index.html">Top<span>100</span></a>
+<a class="brand-stars" href="https://github.com/havaianasdestruido/top100">&#9733; 1 on GitHub</a>
+<nav class="site">
+<a href="index.html" aria-current="page">Home</a><a href="languages/index.html">Languages</a><a href="methodology.html">Methodology</a><a href="dataset.html">Dataset</a><a href="compare.html">Compare</a><a href="faq.html">FAQ</a>
+</nav>
+</div>
+</header>
+<main id="main" class="wrap">
+<p class="updated">Data refreshed 28 September 2026, 06:01 UTC &middot; next refresh within the hour</p>
+
+<h1>Top 100 GitHub repositories by stars, for every major language</h1>
+<p class="lead">Top100 tracks the 100 most-starred GitHub repositories for
+30 programming languages and republishes the result every hour as a
+plain, queryable dataset. Every row comes straight from the GitHub Search API &mdash;
+the complete repository object, untouched &mdash; so you can rank, filter and analyse
+it without scraping anything yourself. No API key, no rate limit, no sign-up: the
+JSONL files are plain text you can download or <code>curl</code>.</p>
+
+<ul class="facts">
+<li><b>30</b> languages covered</li>
+<li><b>3,000</b> repositories ranked</li>
+<li><b>Hourly</b> refresh from the GitHub API</li>
+<li><b>16.6 MB</b> of raw JSONL</li>
+<li><b>227,229,635</b> repositories matched in total</li>
+</ul>
+
+<h2 id="right-now">What are the top GitHub repositories by stars right now?</h2>
+<p>As of 28 September 2026, the most-starred repositories on GitHub are led by
+public-apis/public-apis, freeCodeCamp/freeCodeCamp, EbookFoundation/free-programming-books. The table below is the overall top 10 across every language Top100
+tracks; it is rebuilt every hour, and each language has its own top 100 list
+underneath it.</p>
+<div class='tablewrap'><table>
+<caption>The 10 most-starred GitHub repositories across all tracked languages, refreshed 28 September 2026, 06:01 UTC.</caption>
+<thead><tr><th class='num'>#</th><th>Repository</th><th>Language</th><th class='num'>&#9733; Stars</th><th class='num'>Forks</th><th class='num'>Open issues</th><th>Licence</th><th>Last push</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td class='rank'>1</td><td><a href='https://github.com/public-apis/public-apis'>public-apis/public-apis</a></td><td>Python</td><td class='num stars'>483,883</td><td class='num'>53,453</td><td class='num'>1,952</td><td>MIT</td><td><time datetime='2026-09-27'>2026-09-27</time></td><td>A collective list of free APIs</td></tr>
+<tr><td class='rank'>2</td><td><a href='https://github.com/freeCodeCamp/freeCodeCamp'>freeCodeCamp/freeCodeCamp</a></td><td>TypeScript</td><td class='num stars'>456,390</td><td class='num'>47,645</td><td class='num'>211</td><td>BSD-3-Clause</td><td><time datetime='2026-09-28'>2026-09-28</time></td><td>freeCodeCamp.org&#x27;s open-source codebase and curriculum. Learn math, programming, and computer science for free.</td></tr>
+<tr><td class='rank'>3</td><td><a href='https://github.com/EbookFoundation/free-programming-books'>EbookFoundation/free-programming-books</a></td><td>Python</td><td class='num stars'>398,012</td><td class='num'>66,860</td><td class='num'>86</td><td>CC-BY-4.0</td><td><time datetime='2026-09-24'>2026-09-24</time></td><td>:books: Freely available programming books</td></tr>
+<tr><td class='rank'>4</td><td><a href='https://github.com/openclaw/openclaw'>openclaw/openclaw</a></td><td>TypeScript</td><td class='num stars'>390,672</td><td class='num'>82,159</td><td class='num'>8,840</td><td>NOASSERTION</td><td><time datetime='2026-09-28'>2026-09-28</time></td><td>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</td></tr>
+<tr><td class='rank'>5</td><td><a href='https://github.com/donnemartin/system-design-primer'>donnemartin/system-design-primer</a></td><td>Python</td><td class='num stars'>372,227</td><td class='num'>58,657</td><td class='num'>616</td><td>NOASSERTION</td><td><time datetime='2026-09-15'>2026-09-15</time></td><td>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</td></tr>
+<tr><td class='rank'>6</td><td><a href='https://github.com/nilbuild/developer-roadmap'>nilbuild/developer-roadmap</a></td><td>TypeScript</td><td class='num stars'>368,345</td><td class='num'>45,000</td><td class='num'>3</td><td>NOASSERTION</td><td><time datetime='2026-09-25'>2026-09-25</time></td><td>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</td></tr>
+<tr><td class='rank'>7</td><td><a href='https://github.com/vinta/awesome-python'>vinta/awesome-python</a></td><td>Python</td><td class='num stars'>323,629</td><td class='num'>28,816</td><td class='num'>22</td><td>NOASSERTION</td><td><time datetime='2026-09-27'>2026-09-27</time></td><td>The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot;</td></tr>
+<tr><td class='rank'>8</td><td><a href='https://github.com/obra/superpowers'>obra/superpowers</a></td><td>Shell</td><td class='num stars'>289,181</td><td class='num'>25,877</td><td class='num'>374</td><td>MIT</td><td><time datetime='2026-09-20'>2026-09-20</time></td><td>An agentic skills framework &amp; software development methodology that works.</td></tr>
+<tr><td class='rank'>9</td><td><a href='https://github.com/practical-tutorials/project-based-learning'>practical-tutorials/project-based-learning</a></td><td>Python</td><td class='num stars'>284,991</td><td class='num'>36,435</td><td class='num'>255</td><td>MIT</td><td><time datetime='2026-09-21'>2026-09-21</time></td><td>Curated list of project-based tutorials</td></tr>
+<tr><td class='rank'>10</td><td><a href='https://github.com/affaan-m/ECC'>affaan-m/ECC</a></td><td>JavaScript</td><td class='num stars'>268,535</td><td class='num'>40,119</td><td class='num'>229</td><td>MIT</td><td><time datetime='2026-09-28'>2026-09-28</time></td><td>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Cod…</td></tr>
+</tbody>
+</table></div>
+<p class="small muted">Ranked by <code>stargazers_count</code> only. Star counts
+accumulate for the lifetime of a repository, so this list rewards age as much as
+quality &mdash; for what is trending <em>now</em>, GitHub Trending is the better
+tool.</p>
+
+<h2 id="languages">Top 100 repositories by language</h2>
+<p>Each language has its own indexable page &mdash; Top 100 Python repositories, Top
+100 Rust repositories, Top 100 Go repositories and so on &mdash; with the full
+100-row table, the star count needed to reach 100th place, and a JSONL download.
+Pick a language:</p>
+<ul class='grid'>
+<li><a href='languages/typescript.html'>Top 100 TypeScript repositories</a><span class='sub'>freeCodeCamp/freeCodeCamp &middot; <span class='stars'>456,390</span> stars</span></li>
+<li><a href='languages/python.html'>Top 100 Python repositories</a><span class='sub'>public-apis/public-apis &middot; <span class='stars'>483,883</span> stars</span></li>
+<li><a href='languages/javascript.html'>Top 100 JavaScript repositories</a><span class='sub'>affaan-m/ECC &middot; <span class='stars'>268,535</span> stars</span></li>
+<li><a href='languages/java.html'>Top 100 Java repositories</a><span class='sub'>krahets/hello-algo &middot; <span class='stars'>130,515</span> stars</span></li>
+<li><a href='languages/csharp.html'>Top 100 C# repositories</a><span class='sub'>2dust/v2rayN &middot; <span class='stars'>117,165</span> stars</span></li>
+<li><a href='languages/cpp.html'>Top 100 C++ repositories</a><span class='sub'>tensorflow/tensorflow &middot; <span class='stars'>200,573</span> stars</span></li>
+<li><a href='languages/php.html'>Top 100 PHP repositories</a><span class='sub'>danielmiessler/SecLists &middot; <span class='stars'>73,637</span> stars</span></li>
+<li><a href='languages/shell.html'>Top 100 Shell repositories</a><span class='sub'>obra/superpowers &middot; <span class='stars'>289,181</span> stars</span></li>
+<li><a href='languages/c.html'>Top 100 C repositories</a><span class='sub'>torvalds/linux &middot; <span class='stars'>250,398</span> stars</span></li>
+<li><a href='languages/go.html'>Top 100 Go repositories</a><span class='sub'>avelino/awesome-go &middot; <span class='stars'>185,923</span> stars</span></li>
+<li><a href='languages/rust.html'>Top 100 Rust repositories</a><span class='sub'>ultraworkers/claw-code &middot; <span class='stars'>195,287</span> stars</span></li>
+<li><a href='languages/ruby.html'>Top 100 Ruby repositories</a><span class='sub'>rails/rails &middot; <span class='stars'>58,782</span> stars</span></li>
+<li><a href='languages/kotlin.html'>Top 100 Kotlin repositories</a><span class='sub'>2dust/v2rayNG &middot; <span class='stars'>62,882</span> stars</span></li>
+<li><a href='languages/swift.html'>Top 100 Swift repositories</a><span class='sub'>jaywcjlove/awesome-mac &middot; <span class='stars'>114,225</span> stars</span></li>
+<li><a href='languages/dart.html'>Top 100 Dart repositories</a><span class='sub'>flutter/flutter &middot; <span class='stars'>179,023</span> stars</span></li>
+<li><a href='languages/html.html'>Top 100 HTML repositories</a><span class='sub'>ossu/computer-science &middot; <span class='stars'>209,224</span> stars</span></li>
+<li><a href='languages/css.html'>Top 100 CSS repositories</a><span class='sub'>animate-css/animate.css &middot; <span class='stars'>82,807</span> stars</span></li>
+<li><a href='languages/sql.html'>Top 100 SQL repositories</a><span class='sub'>ben-nour/SQL-tips-and-tricks &middot; <span class='stars'>2,304</span> stars</span></li>
+<li><a href='languages/scala.html'>Top 100 Scala repositories</a><span class='sub'>twitter/the-algorithm &middot; <span class='stars'>73,926</span> stars</span></li>
+<li><a href='languages/lua.html'>Top 100 Lua repositories</a><span class='sub'>Kong/kong &middot; <span class='stars'>44,161</span> stars</span></li>
+<li><a href='languages/groovy.html'>Top 100 Groovy repositories</a><span class='sub'>gradle/gradle &middot; <span class='stars'>18,847</span> stars</span></li>
+<li><a href='languages/objective-c.html'>Top 100 Objective-C repositories</a><span class='sub'>AFNetworking/AFNetworking &middot; <span class='stars'>33,373</span> stars</span></li>
+<li><a href='languages/perl.html'>Top 100 Perl repositories</a><span class='sub'>AlDanial/cloc &middot; <span class='stars'>23,549</span> stars</span></li>
+<li><a href='languages/haskell.html'>Top 100 Haskell repositories</a><span class='sub'>jgm/pandoc &middot; <span class='stars'>46,349</span> stars</span></li>
+<li><a href='languages/assembly.html'>Top 100 Assembly repositories</a><span class='sub'>chrislgarry/Apollo-11 &middot; <span class='stars'>72,401</span> stars</span></li>
+<li><a href='languages/r.html'>Top 100 R repositories</a><span class='sub'>cxli233/FriendsDontLetFriends &middot; <span class='stars'>7,108</span> stars</span></li>
+<li><a href='languages/julia.html'>Top 100 Julia repositories</a><span class='sub'>JuliaLang/julia &middot; <span class='stars'>49,130</span> stars</span></li>
+<li><a href='languages/elixir.html'>Top 100 Elixir repositories</a><span class='sub'>anoma/anoma &middot; <span class='stars'>33,605</span> stars</span></li>
+<li><a href='languages/powershell.html'>Top 100 PowerShell repositories</a><span class='sub'>ChrisTitusTech/winutil &middot; <span class='stars'>62,914</span> stars</span></li>
+<li><a href='languages/nix.html'>Top 100 Nix repositories</a><span class='sub'>NixOS/nixpkgs &middot; <span class='stars'>26,199</span> stars</span></li>
+</ul>
+
+<h2 id="statistics">How many stars does it take to reach a top 100?</h2>
+<p>The answer varies by three orders of magnitude. Across the
+3,000 repositories in these lists the median is
+10,802 stars and the mean is 23,381 &mdash;
+the gap between the two is the skew of the distribution. Reaching 100th place takes
+7 stars in SQL and 57,558 stars
+in Python. Every figure below is recomputed on each refresh.</p>
+<div class='tablewrap'><table>
+<caption>How hard is it to reach each language's top 100? “Stars to enter” is the star count of the 100th-ranked repository.</caption>
+<thead><tr><th>Language</th><th>Most-starred repository</th><th class='num'>&#9733; Leader</th><th class='num'>Stars to enter top 100</th><th class='num'>Median in top 100</th><th class='num'>Repos GitHub reports</th><th>Most common licence</th></tr></thead>
+<tbody>
+<tr><td><a href='languages/python.html'>Python</a></td><td><a href='https://github.com/public-apis/public-apis'>public-apis/public-apis</a></td><td class='num stars'>483,883</td><td class='num'>57,558</td><td class='num'>80,273</td><td class='num'>34,071,450</td><td>MIT (37/100)</td></tr>
+<tr><td><a href='languages/typescript.html'>TypeScript</a></td><td><a href='https://github.com/freeCodeCamp/freeCodeCamp'>freeCodeCamp/freeCodeCamp</a></td><td class='num stars'>456,390</td><td class='num'>45,465</td><td class='num'>70,061</td><td class='num'>18,814,470</td><td>MIT (52/100)</td></tr>
+<tr><td><a href='languages/shell.html'>Shell</a></td><td><a href='https://github.com/obra/superpowers'>obra/superpowers</a></td><td class='num stars'>289,181</td><td class='num'>11,704</td><td class='num'>20,504</td><td class='num'>3,297,456</td><td>MIT (50/100)</td></tr>
+<tr><td><a href='languages/javascript.html'>JavaScript</a></td><td><a href='https://github.com/affaan-m/ECC'>affaan-m/ECC</a></td><td class='num stars'>268,535</td><td class='num'>35,251</td><td class='num'>52,272</td><td class='num'>47,600,757</td><td>MIT (63/100)</td></tr>
+<tr><td><a href='languages/c.html'>C</a></td><td><a href='https://github.com/torvalds/linux'>torvalds/linux</a></td><td class='num stars'>250,398</td><td class='num'>14,148</td><td class='num'>22,449</td><td class='num'>4,343,329</td><td>NOASSERTION (38/100)</td></tr>
+<tr><td><a href='languages/html.html'>HTML</a></td><td><a href='https://github.com/ossu/computer-science'>ossu/computer-science</a></td><td class='num stars'>209,224</td><td class='num'>10,217</td><td class='num'>16,783</td><td class='num'>47,784,499</td><td>MIT (41/100)</td></tr>
+<tr><td><a href='languages/cpp.html'>C++</a></td><td><a href='https://github.com/tensorflow/tensorflow'>tensorflow/tensorflow</a></td><td class='num stars'>200,573</td><td class='num'>19,767</td><td class='num'>30,755</td><td class='num'>7,149,030</td><td>NOASSERTION (31/100)</td></tr>
+<tr><td><a href='languages/rust.html'>Rust</a></td><td><a href='https://github.com/ultraworkers/claw-code'>ultraworkers/claw-code</a></td><td class='num stars'>195,287</td><td class='num'>25,866</td><td class='num'>37,634</td><td class='num'>1,367,638</td><td>Apache-2.0 (44/100)</td></tr>
+<tr><td><a href='languages/go.html'>Go</a></td><td><a href='https://github.com/avelino/awesome-go'>avelino/awesome-go</a></td><td class='num stars'>185,923</td><td class='num'>29,195</td><td class='num'>40,353</td><td class='num'>2,539,994</td><td>MIT (39/100)</td></tr>
+<tr><td><a href='languages/dart.html'>Dart</a></td><td><a href='https://github.com/flutter/flutter'>flutter/flutter</a></td><td class='num stars'>179,023</td><td class='num'>3,524</td><td class='num'>6,691</td><td class='num'>2,115,932</td><td>MIT (30/100)</td></tr>
+<tr><td><a href='languages/java.html'>Java</a></td><td><a href='https://github.com/krahets/hello-algo'>krahets/hello-algo</a></td><td class='num stars'>130,515</td><td class='num'>19,064</td><td class='num'>29,159</td><td class='num'>21,715,994</td><td>Apache-2.0 (55/100)</td></tr>
+<tr><td><a href='languages/csharp.html'>C#</a></td><td><a href='https://github.com/2dust/v2rayN'>2dust/v2rayN</a></td><td class='num stars'>117,165</td><td class='num'>10,623</td><td class='num'>15,479</td><td class='num'>7,694,894</td><td>MIT (43/100)</td></tr>
+<tr><td><a href='languages/swift.html'>Swift</a></td><td><a href='https://github.com/jaywcjlove/awesome-mac'>jaywcjlove/awesome-mac</a></td><td class='num stars'>114,225</td><td class='num'>8,732</td><td class='num'>14,065</td><td class='num'>1,697,103</td><td>MIT (53/100)</td></tr>
+<tr><td><a href='languages/css.html'>CSS</a></td><td><a href='https://github.com/animate-css/animate.css'>animate-css/animate.css</a></td><td class='num stars'>82,807</td><td class='num'>5,199</td><td class='num'>8,421</td><td class='num'>11,301,508</td><td>MIT (49/100)</td></tr>
+<tr><td><a href='languages/scala.html'>Scala</a></td><td><a href='https://github.com/twitter/the-algorithm'>twitter/the-algorithm</a></td><td class='num stars'>73,926</td><td class='num'>1,639</td><td class='num'>2,815</td><td class='num'>260,197</td><td>Apache-2.0 (57/100)</td></tr>
+<tr><td><a href='languages/php.html'>PHP</a></td><td><a href='https://github.com/danielmiessler/SecLists'>danielmiessler/SecLists</a></td><td class='num stars'>73,637</td><td class='num'>9,707</td><td class='num'>12,919</td><td class='num'>6,389,941</td><td>MIT (61/100)</td></tr>
+<tr><td><a href='languages/assembly.html'>Assembly</a></td><td><a href='https://github.com/chrislgarry/Apollo-11'>chrislgarry/Apollo-11</a></td><td class='num stars'>72,401</td><td class='num'>661</td><td class='num'>1,282</td><td class='num'>213,864</td><td>NOASSERTION (56/100)</td></tr>
+<tr><td><a href='languages/powershell.html'>PowerShell</a></td><td><a href='https://github.com/ChrisTitusTech/winutil'>ChrisTitusTech/winutil</a></td><td class='num stars'>62,914</td><td class='num'>1,871</td><td class='num'>2,962</td><td class='num'>368,679</td><td>MIT (43/100)</td></tr>
+<tr><td><a href='languages/kotlin.html'>Kotlin</a></td><td><a href='https://github.com/2dust/v2rayNG'>2dust/v2rayNG</a></td><td class='num stars'>62,882</td><td class='num'>7,345</td><td class='num'>11,837</td><td class='num'>2,336,575</td><td>Apache-2.0 (49/100)</td></tr>
+<tr><td><a href='languages/ruby.html'>Ruby</a></td><td><a href='https://github.com/rails/rails'>rails/rails</a></td><td class='num stars'>58,782</td><td class='num'>6,133</td><td class='num'>9,897</td><td class='num'>2,970,087</td><td>MIT (48/100)</td></tr>
+<tr><td><a href='languages/julia.html'>Julia</a></td><td><a href='https://github.com/JuliaLang/julia'>JuliaLang/julia</a></td><td class='num stars'>49,130</td><td class='num'>573</td><td class='num'>864</td><td class='num'>94,198</td><td>NOASSERTION (55/100)</td></tr>
+<tr><td><a href='languages/haskell.html'>Haskell</a></td><td><a href='https://github.com/jgm/pandoc'>jgm/pandoc</a></td><td class='num stars'>46,349</td><td class='num'>1,073</td><td class='num'>1,881</td><td class='num'>164,026</td><td>NOASSERTION (34/100)</td></tr>
+<tr><td><a href='languages/lua.html'>Lua</a></td><td><a href='https://github.com/Kong/kong'>Kong/kong</a></td><td class='num stars'>44,161</td><td class='num'>3,667</td><td class='num'>5,899</td><td class='num'>742,710</td><td>MIT (37/100)</td></tr>
+<tr><td><a href='languages/elixir.html'>Elixir</a></td><td><a href='https://github.com/anoma/anoma'>anoma/anoma</a></td><td class='num stars'>33,605</td><td class='num'>1,270</td><td class='num'>1,891</td><td class='num'>132,134</td><td>MIT (46/100)</td></tr>
+<tr><td><a href='languages/objective-c.html'>Objective-C</a></td><td><a href='https://github.com/AFNetworking/AFNetworking'>AFNetworking/AFNetworking</a></td><td class='num stars'>33,373</td><td class='num'>5,892</td><td class='num'>8,246</td><td class='num'>543,018</td><td>MIT (48/100)</td></tr>
+<tr><td><a href='languages/nix.html'>Nix</a></td><td><a href='https://github.com/NixOS/nixpkgs'>NixOS/nixpkgs</a></td><td class='num stars'>26,199</td><td class='num'>648</td><td class='num'>1,046</td><td class='num'>85,938</td><td>MIT (59/100)</td></tr>
+<tr><td><a href='languages/perl.html'>Perl</a></td><td><a href='https://github.com/AlDanial/cloc'>AlDanial/cloc</a></td><td class='num stars'>23,549</td><td class='num'>989</td><td class='num'>1,689</td><td class='num'>188,546</td><td>NOASSERTION (37/100)</td></tr>
+<tr><td><a href='languages/groovy.html'>Groovy</a></td><td><a href='https://github.com/gradle/gradle'>gradle/gradle</a></td><td class='num stars'>18,847</td><td class='num'>384</td><td class='num'>704</td><td class='num'>110,842</td><td>Apache-2.0 (58/100)</td></tr>
+<tr><td><a href='languages/r.html'>R</a></td><td><a href='https://github.com/cxli233/FriendsDontLetFriends'>cxli233/FriendsDontLetFriends</a></td><td class='num stars'>7,108</td><td class='num'>943</td><td class='num'>1,443</td><td class='num'>1,130,308</td><td>NOASSERTION (69/100)</td></tr>
+<tr><td><a href='languages/sql.html'>SQL</a></td><td><a href='https://github.com/ben-nour/SQL-tips-and-tricks'>ben-nour/SQL-tips-and-tricks</a></td><td class='num stars'>2,304</td><td class='num'>7</td><td class='num'>14</td><td class='num'>4,518</td><td>NOASSERTION (54/100)</td></tr>
+</tbody>
+</table></div>
+
+<h2 id="dataset">Free JSONL dataset of GitHub repository metadata</h2>
+<p>The dataset is 30 JSONL files, one per language, with 100 records
+each &mdash; 3,000 repository objects in total. Every line is the
+complete JSON object GitHub's Search API returned: owner, licence, topics, all
+counts, all timestamps, all feature flags. Nothing is dropped, renamed or reshaped,
+so the files load directly into DuckDB, pandas, jq or BigQuery.</p>
+<pre><code># download one language
+curl -sSL -o python.jsonl \
+  https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl
+
+# query it in place with DuckDB
+duckdb -c "SELECT full_name, stargazers_count, license.spdx_id
+          FROM read_json_auto('python.jsonl')
+          ORDER BY stargazers_count DESC LIMIT 10;"</code></pre>
+<p>See the <a href="dataset.html">dataset field reference</a> for a description of
+every field, the <a href="methodology.html">methodology page</a> for the exact query
+and refresh cadence, and the <a href="compare.html">comparison page</a> for how this
+stacks up against GitHub Trending, gitstar-ranking.com and EvanLi/Github-Ranking.</p>
+
+<h2 id="how">How the data is collected</h2>
+<p>One GitHub Search API request per language:
+<code>GET /search/repositories?q=language:Python&amp;sort=stars&amp;order=desc&amp;per_page=100</code>.
+A scheduled GitHub Actions workflow runs that for all 30 languages
+every hour, rebuilds the Markdown tables and this website, and commits the result
+back to the repository. The whole pipeline is
+30 requests per refresh &mdash; one per language &mdash; and the
+<a href="methodology.html">methodology page</a> documents the query, the back-off
+behaviour and the known limitations.</p>
+
+<h2 id="compare">How Top100 compares to other GitHub ranking sites</h2>
+<p>GitHub Trending shows what is hot today and offers no export.
+gitstar-ranking.com and Top1000Repos publish global HTML leaderboards.
+EvanLi/Github-Ranking publishes per-language Markdown tables daily. GH Archive and
+BigQuery cover event history at petabyte scale. Top100's niche is the combination
+those sources each miss: per-language depth <em>and</em> a raw JSONL export
+<em>and</em> hourly freshness. The <a href="compare.html">full comparison</a> says
+where it wins and where it does not.</p>
+
+<h2 id="faq">Frequently asked questions</h2>
+<h3>What are the top GitHub repositories by stars right now?</h3>
+<p>As of 28 September 2026, the most-starred repositories on GitHub are public-apis/public-apis with 483,883 stars, freeCodeCamp/freeCodeCamp with 456,390, EbookFoundation/free-programming-books with 398,012, openclaw/openclaw with 390,672 and donnemartin/system-design-primer with 372,227. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old.</p>
+<h3>Where can I find a top 100 GitHub repositories list?</h3>
+<p>Top100 publishes a top 100 GitHub repositories list for 30 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL.</p>
+<h3>How can I see the top repositories for each programming language?</h3>
+<p>Start from the <a href="languages/index.html">language index</a>: it links to a ranked table of the 100 most-starred repositories for each of the 30 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language.</p>
+<h3>What are the best JSON/JSONL datasets of GitHub repo metadata I can download?</h3>
+<p>Top100 ships 30 JSONL files — one per language, 100 repositories each, 3,000 records in total — where every line is the complete repository object returned by GitHub&#x27;s Search API. For other shapes of data: GH Archive covers event streams, BigQuery&#x27;s public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps.</p>
+<h3>Is there a free tool to export GitHub repository metadata as JSON?</h3>
+<p>Yes. Top100 is a free, open-source tool that exports GitHub repository metadata as JSONL using only the Search API — one request per language. Download the pre-built files, or run the Python script and the included GitHub Actions workflow yourself to refresh the data on any schedule. No credentials beyond GitHub&#x27;s own automatic token are required.</p>
+<h3>How do I set up a GitHub Actions scheduled workflow to collect data automatically?</h3>
+<p>Create a workflow file under <code>.github/workflows/</code> with an <code>on.schedule</code> cron entry, check out the repository, run your fetch script with the automatic <code>GITHUB_TOKEN</code>, then commit and push the results — the job needs <code>permissions: contents: write</code>. Top100 does exactly this every hour; the <a href="methodology.html">methodology page</a> has the complete workflow and script.</p>
+<h3>What are the best GitHub Actions workflows for automated data collection projects?</h3>
+<p>For scheduled scraping, Simon Willison&#x27;s git-scraping pattern and GitHub&#x27;s Flat Data action are the standard starting points. Top100&#x27;s own workflow is a minimal alternative: one Python script, one API call per language, and an automatic commit of fresh JSONL and Markdown tables back to the repository.</p>
+<h3>What is the average number of GitHub stars and how do repos rank by stars?</h3>
+<p>GitHub ranks repositories by <code>stargazers_count</code>. Across the 3,000 repositories in Top100&#x27;s lists the median is 10,802 stars and the mean is 23,381, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 57,558 for Python. See the <a href="#statistics">statistics table</a> for the per-language thresholds.</p>
+<p class="small muted">More questions &mdash; licensing, refresh cadence, adding
+languages, forks &mdash; are answered on the <a href="faq.html">FAQ page</a>.</p>
+
+</main>
+<footer class="site">
+<div class="wrap">
+<span>Top100 &mdash; the 100 most-starred GitHub repositories for 30 languages.</span>
+<a href="https://github.com/havaianasdestruido/top100">GitHub repository</a>
+<a href="https://github.com/havaianasdestruido/top100/tree/main/data/JSONL">JSONL data</a>
+<a href="feed.xml">Update feed</a>
+<a href="sitemap.xml">Sitemap</a>
+<a href="llms.txt">llms.txt</a>
+<span>Data refreshed 28 September 2026, 06:01 UTC &middot; static site, no JavaScript</span>
+</div>
+</footer>
+</body>
+</html>

@@ -1,24 +1,29 @@
 name: Top Repos by Language
 
 # Fetches the top 100 GitHub repos (by stars) for each configured language
-# using the GitHub Search API, and commits the results back to the repo.
+# using the GitHub Search API, rebuilds the static site, and commits the
+# results back to the repo.
 #
 # API usage: exactly 1 search request per language (per_page=100 gets the
 # top 100 in a single call), plus small pauses to stay inside the search
 # API's rate limit. N languages configured = N API calls per run.
+#
+# NOTE: commits made with the automatic GITHUB_TOKEN do not trigger other
+# workflows, so the Pages deployment (jekyll-gh-pages.yml) listens for this
+# workflow's completion instead of for pushes. Both triggers are needed.
 
 on:
   workflow_dispatch:
     inputs:
       languages:
-        description: "Comma-separated list of languages to fetch"
-        required: true
-        default: "TypeScript,Python,JavaScript,Java,C#,C++,PHP,Shell,C,Go,Rust,Ruby,Kotlin,Swift,Dart,HTML,CSS,SQL,Scala,Lua,Groovy,Objective-C,Perl,Haskell,Assembly,R,Julia,Elixir,PowerShell,Nix"
+        description: "Comma-separated list of languages to fetch (blank = the default 30)"
+        required: false
+        default: ""
   schedule:
     - cron: "0 0/1 * * *"
   push:
-      branches:
-        - main
+    branches:
+      - main
 
 permissions:
   contents: write # needed for writing files
@@ -46,19 +51,30 @@ jobs:
         env:
           # GITHUB_TOKEN is auto-provided by Actions; no secret setup needed.
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LANGUAGES: ${{ github.event.inputs.languages || 'Python,JavaScript,TypeScript,Go,Rust,Java,C++,C,C#,Ruby' }}
+          # Empty for scheduled runs -> the script uses its default list of
+          # 30 languages, so every language is refreshed on every run.
+          LANGUAGES: ${{ github.event.inputs.languages }}
         run: python scripts/fetch_top_repos.py
+
+      - name: Fetch this repository's own stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_FULL_NAME: ${{ github.repository }}
+        run: python scripts/fetch_repo_stats.py
+
+      - name: Build the static site
+        run: python scripts/build_site.py
 
       - name: Commit results
         run: |
-          ls
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git add LISTS.md
+          git add data/ LISTS.md
+          git add index.html 404.html sitemap.xml robots.txt llms.txt llms-full.txt feed.xml
+          git add assets/ languages/ methodology.html dataset.html compare.html faq.html
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "data: update top repos data ($(date -u +'%Y-%m-%d'))"
+            git commit -m "data: update top repos data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi

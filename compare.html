@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Top100 vs GitHub Trending, gitstar-ranking, EvanLi/Github-Ranking and other sources</title>
+<meta name="description" content="An honest comparison of Top100 against GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery.">
+<link rel="canonical" href="https://havaianasdestruido.github.io/top100/compare.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="generator" content="scripts/build_site.py">
+<meta property="og:site_name" content="Top100">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Top100 vs GitHub Trending, gitstar-ranking, EvanLi/Github-Ranking and other sources">
+<meta property="og:description" content="An honest comparison of Top100 against GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery.">
+<meta property="og:url" content="https://havaianasdestruido.github.io/top100/compare.html">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Top100 data updates" href="feed.xml">
+<link rel="stylesheet" href="assets/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"TechArticle","@id":"https://havaianasdestruido.github.io/top100/compare.html#webpage","url":"https://havaianasdestruido.github.io/top100/compare.html","name":"How Top100 compares to other GitHub ranking sources","description":"An honest comparison of Top100 against GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery.","inLanguage":"en","isPartOf":{"@id":"https://havaianasdestruido.github.io/top100/#website"},"dateModified":"2026-09-28T06:01:56Z"},{"@type":"BreadcrumbList","@id":"https://havaianasdestruido.github.io/top100/compare.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Top100","item":"https://havaianasdestruido.github.io/top100/"},{"@type":"ListItem","position":2,"name":"Comparison","item":"https://havaianasdestruido.github.io/top100/compare.html"}]},{"@type":"SoftwareApplication","@id":"https://havaianasdestruido.github.io/top100/#software","name":"Top100","alternateName":"Top100 GitHub repositories by language","url":"https://havaianasdestruido.github.io/top100/","sameAs":"https://github.com/havaianasdestruido/top100","applicationCategory":"DeveloperApplication","operatingSystem":"Any (Python 3 and GitHub Actions)","description":"Open-source tool that fetches the 100 most-starred GitHub repositories for 30 programming languages with one Search API request per language, publishes them as HTML tables and raw JSONL, and refreshes them hourly via a scheduled GitHub Actions workflow.","featureList":["Top 100 repositories by stars for 30 programming languages","Raw, unmodified GitHub Search API repository objects as JSONL","Hourly refresh via scheduled GitHub Actions workflow","One Search API request per language","Static website with per-language pages, methodology and field reference"],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"creator":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"dateModified":"2026-09-28T06:01:56Z"},{"@type":"Dataset","@id":"https://havaianasdestruido.github.io/top100/dataset.html#dataset","name":"Top 100 GitHub repositories by stars for 30 programming languages","description":"3000 GitHub repository records — the 100 most-starred repositories for each of 30 programming languages — as newline-delimited JSON. Each record is the complete, unmodified repository object returned by the GitHub Search API, refreshed hourly.","url":"https://havaianasdestruido.github.io/top100/dataset.html","sameAs":"https://github.com/havaianasdestruido/top100/tree/main/data/JSONL","keywords":["github","repositories","stars","ranking","jsonl","open source","dataset","github api"],"license":"https://github.com/havaianasdestruido/top100/blob/main/LICENSE","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"publisher":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"includedInDataCatalog":{"@type":"DataCatalog","name":"Top100"},"temporalCoverage":"2026-09-28/..","dateModified":"2026-09-28T06:01:56Z","distribution":[{"@type":"DataDownload","name":"Top 100 GitHub repositories by stars for 30 programming languages (JSONL)","encodingFormat":"application/x-ndjson","contentUrl":"https://github.com/havaianasdestruido/top100/tree/main/data/JSONL"}]}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+<div class="wrap">
+<a class="brand" href="index.html">Top<span>100</span></a>
+<a class="brand-stars" href="https://github.com/havaianasdestruido/top100">&#9733; 1 on GitHub</a>
+<nav class="site">
+<a href="index.html">Home</a><a href="languages/index.html">Languages</a><a href="methodology.html">Methodology</a><a href="dataset.html">Dataset</a><a href="compare.html" aria-current="page">Compare</a><a href="faq.html">FAQ</a>
+</nav>
+</div>
+</header>
+<main id="main" class="wrap">
+<p class="updated">Data refreshed 28 September 2026, 06:01 UTC</p>
+
+<h1>How Top100 compares to other GitHub ranking sources</h1>
+
+<p>There are two families of GitHub ranking tools: <em>human-facing leaderboards</em>
+that answer "what is popular?" and <em>data platforms</em> that answer "what
+happened?". Top100 deliberately sits in a narrow gap between them: a
+leaderboard-shaped view of a data-platform-shaped export. This page says exactly
+where it wins and where it does not, because the honest answer is usually "use
+both".</p>
+
+<div class='tablewrap'><table>
+<caption>GitHub ranking and dataset sources, checked September 2026.</caption>
+<thead><tr><th>Source</th><th>What you get</th><th>Format</th><th>Refresh</th>
+<th>Per-language top 100</th><th>Machine-readable export</th></tr></thead>
+<tbody>
+<tr><td><strong>Top100</strong> (this site)</td><td>Top 100 repositories by stars for 30 languages, plus raw JSONL of every record.</td><td>HTML tables + JSONL + Markdown</td><td>Hourly</td><td>Yes — 30 languages</td><td>Yes — direct JSONL download</td></tr>
+<tr><td><a href="https://github.com/EvanLi/Github-Ranking">EvanLi/Github-Ranking</a></td><td>Top 100 by stars and top 100 by forks per language, published as Markdown tables in the repo README.</td><td>Markdown only</td><td>Daily</td><td>Yes</td><td>No — tables only</td></tr>
+<tr><td><a href="https://gitstar-ranking.com/">gitstar-ranking.com</a></td><td>Unofficial star ranking of 10,000 users, organizations and repositories.</td><td>HTML tables</td><td>Regularly</td><td>No — global list</td><td>No</td></tr>
+<tr><td><a href="https://top1000repos.com/">Top1000Repos.com</a></td><td>Top 1,000 repositories sortable by stars, pull requests and issues.</td><td>HTML table</td><td>Daily</td><td>No — global list</td><td>No</td></tr>
+<tr><td><a href="https://github.com/trending">GitHub Trending</a></td><td>What is gaining stars today, this week or this month; a couple of dozen repositories.</td><td>HTML only, no API</td><td>Daily</td><td>Yes — filterable</td><td>No</td></tr>
+<tr><td><a href="https://github.com/search?q=stars%3A%3E0&amp;s=stars&amp;type=repositories">GitHub Search</a></td><td>Any query you can express, including stars, language, topics and dates.</td><td>HTML + REST API</td><td>Live</td><td>Yes</td><td>Yes — via the API</td></tr>
+<tr><td><a href="https://ossinsight.io/">OSS Insight</a></td><td>Deep analytics: star velocity, contributor trends, collections and SQL playground over GitHub Archive.</td><td>HTML + SQL</td><td>Hourly</td><td>Partly</td><td>Query results only</td></tr>
+<tr><td><a href="https://star-history.com/">Star History</a></td><td>Star curves over time for any set of repositories.</td><td>Charts + images</td><td>On demand</td><td>No</td><td>No</td></tr>
+<tr><td><a href="https://www.gharchive.org/">GH Archive</a></td><td>Every public GitHub event since 2011, hour by hour, as gzipped JSON.</td><td>JSON (events)</td><td>Hourly</td><td>No — event stream</td><td>Yes — bulk download</td></tr>
+<tr><td><a href="https://cloud.google.com/bigquery/docs/github-public-dataset">BigQuery public GitHub datasets</a></td><td>Petabyte-scale GitHub data queryable in SQL, including repository snapshots.</td><td>SQL tables</td><td>Hourly / daily</td><td>Partly</td><td>Query results only</td></tr>
+</tbody>
+</table></div>
+<h2>Use Top100 when&hellip;</h2>
+<ul>
+<li>You want the top 100 for a specific language, not the global top 10.</li>
+<li>You need the <em>raw</em> repository object — topics, licence, timestamps, counts — not a screenshot of a table.</li>
+<li>You want a file you can <code>curl</code>, cache, mirror or load into DuckDB without an API key or a rate limit.</li>
+<li>You are building something that must stay current, and hourly is often enough.</li>
+<li>You want a worked example of scheduled GitHub Actions data collection you can fork.</li>
+</ul>
+<h2>Use something else when&hellip;</h2>
+<ul>
+<li>You need star <em>trends</em> over months or years → Star History or OSS Insight.</li>
+<li>You want to know what is hot <em>right now</em> → GitHub Trending.</li>
+<li>You need event-level history (commits, issues, PRs) → GH Archive or BigQuery.</li>
+<li>You need every repository, not the top 100 → GitHub Search, GH Archive or GHTorrent.</li>
+<li>You want rankings of users and organizations, not repositories → gitstar-ranking.com.</li>
+</ul>
+
+<p>Checked against those sources in September 2026. If a comparison row has gone
+stale, the <a href="https://github.com/havaianasdestruido/top100/issues">issue
+tracker</a> is the fastest way to correct it.</p>
+
+
+</main>
+<footer class="site">
+<div class="wrap">
+<span>Top100 &mdash; the 100 most-starred GitHub repositories for 30 languages.</span>
+<a href="https://github.com/havaianasdestruido/top100">GitHub repository</a>
+<a href="https://github.com/havaianasdestruido/top100/tree/main/data/JSONL">JSONL data</a>
+<a href="feed.xml">Update feed</a>
+<a href="sitemap.xml">Sitemap</a>
+<a href="llms.txt">llms.txt</a>
+<span>Data refreshed 28 September 2026, 06:01 UTC &middot; static site, no JavaScript</span>
+</div>
+</footer>
+</body>
+</html>
