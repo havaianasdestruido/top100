@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology — how Top100 collects the top 100 GitHub repositories by language</title>
+<meta name="description" content="The exact GitHub Search API query, sort order, refresh cadence and known limitations behind every top 100 list on this site.">
+<link rel="canonical" href="https://havaianasdestruido.github.io/top100/methodology.html">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="generator" content="scripts/build_site.py">
+<meta property="og:site_name" content="Top100">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Methodology — how Top100 collects the top 100 GitHub repositories by language">
+<meta property="og:description" content="The exact GitHub Search API query, sort order, refresh cadence and known limitations behind every top 100 list on this site.">
+<meta property="og:url" content="https://havaianasdestruido.github.io/top100/methodology.html">
+<meta name="twitter:card" content="summary">
+<link rel="alternate" type="application/rss+xml" title="Top100 data updates" href="feed.xml">
+<link rel="stylesheet" href="assets/style.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"TechArticle","@id":"https://havaianasdestruido.github.io/top100/methodology.html#webpage","url":"https://havaianasdestruido.github.io/top100/methodology.html","name":"Methodology: how the top 100 GitHub repositories are collected","description":"The exact GitHub Search API query, sort order, refresh cadence and known limitations behind every top 100 list on this site.","inLanguage":"en","isPartOf":{"@id":"https://havaianasdestruido.github.io/top100/#website"},"dateModified":"2026-09-28T06:01:56Z"},{"@type":"BreadcrumbList","@id":"https://havaianasdestruido.github.io/top100/methodology.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Top100","item":"https://havaianasdestruido.github.io/top100/"},{"@type":"ListItem","position":2,"name":"Methodology","item":"https://havaianasdestruido.github.io/top100/methodology.html"}]},{"@type":"SoftwareApplication","@id":"https://havaianasdestruido.github.io/top100/#software","name":"Top100","alternateName":"Top100 GitHub repositories by language","url":"https://havaianasdestruido.github.io/top100/","sameAs":"https://github.com/havaianasdestruido/top100","applicationCategory":"DeveloperApplication","operatingSystem":"Any (Python 3 and GitHub Actions)","description":"Open-source tool that fetches the 100 most-starred GitHub repositories for 30 programming languages with one Search API request per language, publishes them as HTML tables and raw JSONL, and refreshes them hourly via a scheduled GitHub Actions workflow.","featureList":["Top 100 repositories by stars for 30 programming languages","Raw, unmodified GitHub Search API repository objects as JSONL","Hourly refresh via scheduled GitHub Actions workflow","One Search API request per language","Static website with per-language pages, methodology and field reference"],"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"isAccessibleForFree":true,"creator":{"@type":"Organization","name":"havaianasdestruido","url":"https://github.com/havaianasdestruido"},"dateModified":"2026-09-28T06:01:56Z"}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site">
+<div class="wrap">
+<a class="brand" href="index.html">Top<span>100</span></a>
+<a class="brand-stars" href="https://github.com/havaianasdestruido/top100">&#9733; 1 on GitHub</a>
+<nav class="site">
+<a href="index.html">Home</a><a href="languages/index.html">Languages</a><a href="methodology.html" aria-current="page">Methodology</a><a href="dataset.html">Dataset</a><a href="compare.html">Compare</a><a href="faq.html">FAQ</a>
+</nav>
+</div>
+</header>
+<main id="main" class="wrap">
+<p class="updated">Data refreshed 28 September 2026, 06:01 UTC</p>
+
+<h1>Methodology: how the top 100 GitHub repositories are collected</h1>
+<p class="lead">Everything on this site is the output of one script, one workflow and
+one API endpoint. This page documents exactly what happens, so that any number here
+can be reproduced or challenged.</p>
+<h2>The query</h2>
+
+<p>Every list on this site is the result of a single GitHub Search API request per
+language:</p>
+<pre><code>GET https://api.github.com/search/repositories
+    ?q=language:Python
+    &amp;sort=stars
+    &amp;order=desc
+    &amp;per_page=100
+    &amp;page=1</code></pre>
+<p>GitHub returns at most 100 results per page for this endpoint, so
+<code>per_page=100</code> is exactly what makes a "top 100" list possible in one
+call. <code>sort=stars&amp;order=desc</code> ranks by
+<code>stargazers_count</code>; no other ordering is applied anywhere on the site.</p>
+
+<h2>One API request per language</h2>
+
+<p>There are no per-repository follow-up calls. A naive implementation would call
+<code>GET /repos/{owner}/{repo}</code> for every row to "complete" the data, which
+would multiply API usage by roughly 100×. The search-result item already contains
+almost everything GitHub knows about a repository — owner, licence, topics, every
+count, all timestamps — so the script keeps it as-is and stays at
+<strong>one request per language per run</strong>.</p>
+<p>For the default list of 30 languages that is 30 requests per refresh, comfortably
+inside the authenticated Search API limit of 30 requests per minute.</p>
+
+<h2>The data is never reshaped</h2>
+
+<p>Each line of <code>data/JSONL/&lt;language&gt;.jsonl</code> is the full JSON
+object GitHub returned, serialised back to JSON with no fields dropped, renamed,
+rounded or reordered. If GitHub adds a field tomorrow, it appears in the next
+refresh automatically. The <a href="dataset.html">field reference</a> documents
+what is in there and what is not.</p>
+
+<h2>Refresh cadence and automation</h2>
+
+<p>A scheduled GitHub Actions workflow runs at minute zero of every hour
+(<code>cron: "0 0/1 * * *"</code>), re-fetches all 30 languages, rebuilds the
+Markdown tables, rebuilds this website and commits everything back to the
+repository. The job needs <code>permissions: contents: write</code> so the bot can
+commit, and the resulting commit does not re-trigger the Pages deployment, so the
+deploy job is wired to the data workflow's completion instead.</p>
+<p>You can also trigger a run by hand from the Actions tab and pass any
+comma-separated list of languages.</p>
+
+<h2>Rate limits and back-off</h2>
+
+<p>Authenticated requests get 30 Search API requests per minute; unauthenticated
+requests get 10. The script reads <code>X-RateLimit-Remaining</code> after each
+language and, when it is nearly exhausted, sleeps until
+<code>X-RateLimit-Reset</code>. HTTP 403 and 429 responses are retried with
+exponential back-off using <code>Retry-After</code> when GitHub sends it.</p>
+
+<h2>What the Search API does not return</h2>
+
+<p>A handful of fields exist only on the single-repository endpoint:
+<code>subscribers_count</code>, <code>network_count</code>, the
+<code>parent</code>/<code>source</code> objects for forks,
+<code>code_of_conduct</code> and <code>security_and_analysis</code>. The script can
+optionally merge them by calling
+<code>GET /repos/{owner}/{repo}</code> for every result — set
+<code>ENRICH_WITH_REPO_DETAILS = True</code> in
+<code>scripts/fetch_top_repos.py</code> — but that turns one request per language
+into about 101, so it is off by default.</p>
+
+<h2>Known limitations</h2>
+
+<ul>
+<li><strong>Language is a single label.</strong> GitHub assigns each repository one
+detected primary language. A project written half in Python and half in C appears
+in only one list.</li>
+<li><strong>Forks are excluded by default.</strong> GitHub's repository search leaves
+forks out unless the query adds <code>fork:true</code> or <code>fork:only</code>, so a
+fork never displaces the repository it was copied from, however many stars it has.
+Archived repositories, by contrast, <em>are</em> included: they are read-only but
+public, and a few of them rank highly.</li>
+<li><strong><code>total_count</code> is approximate for very broad queries.</strong>
+GitHub reports a number that can be much larger than the 1,000 results it will
+actually page through, and occasionally answers with
+<code>incomplete_results: true</code>. The site reports the number GitHub returned
+rather than pretending it is exact.</li>
+<li><strong>No history.</strong> This is a snapshot refreshed hourly, not a time
+series. For star trends over time use Star History or OSS Insight; for event-level
+history use GH Archive or BigQuery.</li>
+<li><strong>Ranking by stars only.</strong> Stars are a popularity signal, not a
+quality signal, and they accumulate forever — which is why a 2014 tutorial can
+outrank a better 2026 tool.</li>
+</ul>
+
+<h2>Run it yourself</h2>
+
+<pre><code># locally (needs a token with public_repo / no scope for public data)
+GH_TOKEN=ghp_xxx LANGUAGES=Python,Rust python scripts/fetch_top_repos.py
+
+# or let GitHub do it: Actions → "Top Repos by Language" → Run workflow
+# and pass the languages you want as a comma-separated input.</code></pre>
+<p>The workflow is self-contained: <code>actions/checkout</code>, Python 3.12, the
+script, and a commit step. Fork the repository and it will refresh your own copy
+every hour.</p>
+
+
+<p>Every number on this site is reproducible: the workflow, the script and the
+resulting data all live in the same
+<a href="https://github.com/havaianasdestruido/top100">repository</a>, and the
+<a href="https://github.com/havaianasdestruido/top100/commits/main">commit
+history</a> is the changelog.</p>
+
+
+</main>
+<footer class="site">
+<div class="wrap">
+<span>Top100 &mdash; the 100 most-starred GitHub repositories for 30 languages.</span>
+<a href="https://github.com/havaianasdestruido/top100">GitHub repository</a>
+<a href="https://github.com/havaianasdestruido/top100/tree/main/data/JSONL">JSONL data</a>
+<a href="feed.xml">Update feed</a>
+<a href="sitemap.xml">Sitemap</a>
+<a href="llms.txt">llms.txt</a>
+<span>Data refreshed 28 September 2026, 06:01 UTC &middot; static site, no JavaScript</span>
+</div>
+</footer>
+</body>
+</html>

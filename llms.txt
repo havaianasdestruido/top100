@@ -1,0 +1,63 @@
+# Top100
+
+> The 100 most-starred GitHub repositories for 30 programming languages, rebuilt every hour from the GitHub Search API and published as raw newline-delimited JSON you can download without an API key.
+
+Top100 answers "what are the top GitHub repositories by stars right now?" for 30 languages. Every page carries the timestamp of the refresh that produced it. Each JSONL line is the complete, unmodified repository object GitHub returned: owner, licence, topics, every count and every timestamp.
+
+## Start here
+
+- [Homepage](https://havaianasdestruido.github.io/top100/index.html): the current overall top 10, the language index, star-threshold statistics and the FAQ
+- [All 30 languages](https://havaianasdestruido.github.io/top100/languages/index.html): every top 100 list with entry star counts and medians
+
+## Top 100 lists by language
+
+- [Top 100 TypeScript repositories](https://havaianasdestruido.github.io/top100/languages/typescript.html): led by freeCodeCamp/freeCodeCamp with 456,390 stars
+- [Top 100 Python repositories](https://havaianasdestruido.github.io/top100/languages/python.html): led by public-apis/public-apis with 483,883 stars
+- [Top 100 JavaScript repositories](https://havaianasdestruido.github.io/top100/languages/javascript.html): led by affaan-m/ECC with 268,535 stars
+- [Top 100 Java repositories](https://havaianasdestruido.github.io/top100/languages/java.html): led by krahets/hello-algo with 130,515 stars
+- [Top 100 C# repositories](https://havaianasdestruido.github.io/top100/languages/csharp.html): led by 2dust/v2rayN with 117,165 stars
+- [Top 100 C++ repositories](https://havaianasdestruido.github.io/top100/languages/cpp.html): led by tensorflow/tensorflow with 200,573 stars
+- [Top 100 PHP repositories](https://havaianasdestruido.github.io/top100/languages/php.html): led by danielmiessler/SecLists with 73,637 stars
+- [Top 100 Shell repositories](https://havaianasdestruido.github.io/top100/languages/shell.html): led by obra/superpowers with 289,181 stars
+- [Top 100 C repositories](https://havaianasdestruido.github.io/top100/languages/c.html): led by torvalds/linux with 250,398 stars
+- [Top 100 Go repositories](https://havaianasdestruido.github.io/top100/languages/go.html): led by avelino/awesome-go with 185,923 stars
+- [Top 100 Rust repositories](https://havaianasdestruido.github.io/top100/languages/rust.html): led by ultraworkers/claw-code with 195,287 stars
+- [Top 100 Ruby repositories](https://havaianasdestruido.github.io/top100/languages/ruby.html): led by rails/rails with 58,782 stars
+- [Top 100 Kotlin repositories](https://havaianasdestruido.github.io/top100/languages/kotlin.html): led by 2dust/v2rayNG with 62,882 stars
+- [Top 100 Swift repositories](https://havaianasdestruido.github.io/top100/languages/swift.html): led by jaywcjlove/awesome-mac with 114,225 stars
+- [Top 100 Dart repositories](https://havaianasdestruido.github.io/top100/languages/dart.html): led by flutter/flutter with 179,023 stars
+- [Top 100 HTML repositories](https://havaianasdestruido.github.io/top100/languages/html.html): led by ossu/computer-science with 209,224 stars
+- [Top 100 CSS repositories](https://havaianasdestruido.github.io/top100/languages/css.html): led by animate-css/animate.css with 82,807 stars
+- [Top 100 SQL repositories](https://havaianasdestruido.github.io/top100/languages/sql.html): led by ben-nour/SQL-tips-and-tricks with 2,304 stars
+- [Top 100 Scala repositories](https://havaianasdestruido.github.io/top100/languages/scala.html): led by twitter/the-algorithm with 73,926 stars
+- [Top 100 Lua repositories](https://havaianasdestruido.github.io/top100/languages/lua.html): led by Kong/kong with 44,161 stars
+- [Top 100 Groovy repositories](https://havaianasdestruido.github.io/top100/languages/groovy.html): led by gradle/gradle with 18,847 stars
+- [Top 100 Objective-C repositories](https://havaianasdestruido.github.io/top100/languages/objective-c.html): led by AFNetworking/AFNetworking with 33,373 stars
+- [Top 100 Perl repositories](https://havaianasdestruido.github.io/top100/languages/perl.html): led by AlDanial/cloc with 23,549 stars
+- [Top 100 Haskell repositories](https://havaianasdestruido.github.io/top100/languages/haskell.html): led by jgm/pandoc with 46,349 stars
+- [Top 100 Assembly repositories](https://havaianasdestruido.github.io/top100/languages/assembly.html): led by chrislgarry/Apollo-11 with 72,401 stars
+- [Top 100 R repositories](https://havaianasdestruido.github.io/top100/languages/r.html): led by cxli233/FriendsDontLetFriends with 7,108 stars
+- [Top 100 Julia repositories](https://havaianasdestruido.github.io/top100/languages/julia.html): led by JuliaLang/julia with 49,130 stars
+- [Top 100 Elixir repositories](https://havaianasdestruido.github.io/top100/languages/elixir.html): led by anoma/anoma with 33,605 stars
+- [Top 100 PowerShell repositories](https://havaianasdestruido.github.io/top100/languages/powershell.html): led by ChrisTitusTech/winutil with 62,914 stars
+- [Top 100 Nix repositories](https://havaianasdestruido.github.io/top100/languages/nix.html): led by NixOS/nixpkgs with 26,199 stars
+
+## Reference
+
+- [Methodology](https://havaianasdestruido.github.io/top100/methodology.html): the exact Search API query, refresh cadence, rate limits and known limitations
+- [Dataset field reference](https://havaianasdestruido.github.io/top100/dataset.html): every field in the JSONL files, plus download and DuckDB/pandas/jq examples
+- [Comparison](https://havaianasdestruido.github.io/top100/compare.html): Top100 vs GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery
+- [FAQ](https://havaianasdestruido.github.io/top100/faq.html): sixteen questions with direct answers
+
+## Data
+
+- JSONL files (30 files, 100 records each, 3,000 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
+- Raw download pattern: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl
+- Markdown tables: https://github.com/havaianasdestruido/top100/tree/main/data
+- Update feed (RSS): https://havaianasdestruido.github.io/top100/feed.xml
+
+## Notes
+
+- Refreshed hourly by a scheduled GitHub Actions workflow; the data is GitHub API output and every repository keeps its own licence.
+- Source code and workflow: https://github.com/havaianasdestruido/top100
+- No JavaScript, no tracking, no cookies, no external requests.

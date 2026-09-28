@@ -41,11 +41,22 @@ import os
 import sys
 import time
 import urllib.parse
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib import request, error
 
 API_URL = "https://api.github.com/search/repositories"
 PER_PAGE = 100  # GitHub's max per page -> "top 100" in a single call
+
+# The canonical language list. Used whenever the LANGUAGES environment
+# variable is empty, so that scheduled runs refresh *every* language
+# instead of silently falling back to a short list.
+DEFAULT_LANGUAGES = [
+    "TypeScript", "Python", "JavaScript", "Java", "C#", "C++", "PHP", "Shell",
+    "C", "Go", "Rust", "Ruby", "Kotlin", "Swift", "Dart", "HTML", "CSS", "SQL",
+    "Scala", "Lua", "Groovy", "Objective-C", "Perl", "Haskell", "Assembly",
+    "R", "Julia", "Elixir", "PowerShell", "Nix",
+]
 
 # Set to True to additionally call GET /repos/{owner}/{repo} for every
 # result, which returns a few extra fields the search endpoint omits.
@@ -225,12 +236,37 @@ def fetch_language(language, token):
     return remaining, reset
 
 
+def write_meta(items_by_language):
+    """Write data/meta.json describing this run: when it happened, how many
+    records were produced, and the newest repository update GitHub reported.
+    The site builder uses this to stamp every page with a real refresh date."""
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    all_items = [r for items in items_by_language.values() for r in items]
+    data_as_of = max(
+        (r.get("updated_at") or r.get("pushed_at") or "" for r in all_items),
+        default="",
+    )
+    meta = {
+        "fetched_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "data_as_of": data_as_of,
+        "languages": sorted(items_by_language),
+        "records": len(all_items),
+    }
+    path = DATA_DIR / "meta.json"
+    path.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
+    return path
+
+
 def main():
     languages_env = os.environ.get("LANGUAGES", "")
     languages = [l.strip() for l in languages_env.split(",") if l.strip()]
     if not languages:
-        print("No languages provided via LANGUAGES env var.", file=sys.stderr)
-        sys.exit(1)
+        # Fall back to the canonical list so scheduled runs cover everything.
+        languages = list(DEFAULT_LANGUAGES)
+        print(
+            "No LANGUAGES env var set; using the default list of "
+            f"{len(languages)} languages."
+        )
 
     token = get_token()
     if not token:
@@ -240,8 +276,10 @@ def main():
             file=sys.stderr,
         )
 
+    items_by_language = {}
     for idx, lang in enumerate(languages):
         remaining, reset = fetch_language(lang, token)
+        items_by_language[lang.lower()] = read_jsonl(lang)
         is_last = idx == len(languages) - 1
         if is_last:
             continue
@@ -254,6 +292,16 @@ def main():
             time.sleep(2)
 
     write_lists_md()
+    meta_path = write_meta(items_by_language)
+    print(f"  -> {meta_path.relative_to(ROOT)}")
+
+
+def read_jsonl(language):
+    """Read back the JSONL we just wrote (used for the run summary)."""
+    path = JSONL_DIR / f"{language.lower()}.jsonl"
+    if not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
 
 if __name__ == "__main__":
