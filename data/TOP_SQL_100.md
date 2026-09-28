@@ -1,18 +1,18 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,518** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,545** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,304 | 107 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,302 | 429 | 1 | MIT | 2026-09-15 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
-| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
-| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 423 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,309 | 107 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,312 | 430 | 1 | MIT | 2026-09-25 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
+| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 424 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 421 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
-| 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 400 | 167 | 60 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
+| 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 401 | 167 | 60 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 308 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 293 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
-| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 280 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
+| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 283 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 228 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
 | 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 177 | 42 | 13 | Apache-2.0 | 2026-09-03 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 132 | 18 | 10 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
@@ -21,20 +21,20 @@ Ranked by stars. GitHub reports **4,518** total repositories matching `language:
 | 15 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 111 | 36 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 88 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
-| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 78 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
+| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 80 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
-| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 60 | 29 | 1 | MIT | 2026-08-20 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
+| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 61 | 29 | 1 | MIT | 2026-08-20 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 22 | [TrinityCore/TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | 59 | 111 | 0 | — | 2014-10-18 | If you are looking for TDB for 4.3.4 go to: |
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 51 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
-| 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 46 | 17 | 2 | — | 2024-01-29 |  |
+| 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 17 | 2 | — | 2024-01-29 |  |
 | 26 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
 | 27 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
 | 28 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 41 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
-| 29 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 40 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
-| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 0 | AGPL-3.0 | 2026-09-17 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
-| 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 33 | 33 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
+| 29 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 41 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
+| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 1 | AGPL-3.0 | 2026-09-17 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
+| 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 32 | 33 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
 | 32 | [ritakalach/sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions) | 30 | 9 | 1 | — | 2024-07-22 | SQL practice problems and solutions. |
 | 33 | [fab-geocommuns/RNB](https://github.com/fab-geocommuns/RNB) | 29 | 6 | 7 | Apache-2.0 | 2026-06-03 | Construire le Référentiel National des Bâtiments (RNB) en France |
 | 34 | [shivamgarg444/Cyclistic-Case-Study](https://github.com/shivamgarg444/Cyclistic-Case-Study) | 24 | 3 | 0 | — | 2021-06-10 | Case study under capstone project of Google Data Analytics Certificate |
@@ -67,7 +67,7 @@ Ranked by stars. GitHub reports **4,518** total repositories matching `language:
 | 61 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
 | 62 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
 | 63 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
-| 64 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 12 | 4 | 5 | MIT | 2026-09-16 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
+| 64 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 12 | 4 | 5 | MIT | 2026-09-24 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
 | 65 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
 | 66 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
 | 67 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
