@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,133,860** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,133,936** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Ranked by stars. GitHub reports **1,133,860** total repositories matching `langu
 | 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 0 | — | 2026-09-03 | Additional themes, scales, and geoms for ggplot2 |
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,343 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
-| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,296 | 202 | 305 | NOASSERTION | 2026-09-28 | Static Code Analysis for R |
+| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,296 | 202 | 303 | NOASSERTION | 2026-09-28 | Static Code Analysis for R |
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,277 | 89 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,277 | 183 | 5 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
@@ -80,12 +80,12 @@ Ranked by stars. GitHub reports **1,133,860** total repositories matching `langu
 | 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,180 | 337 | 7 | — | 2026-09-27 | Forecasting Functions for Time Series and Linear Models |
 | 75 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,171 | 194 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,165 | 127 | 27 | NOASSERTION | 2026-09-17 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
-| 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,165 | 170 | 219 | MIT | 2026-09-25 | renv: Project environments for R. |
+| 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,165 | 170 | 220 | MIT | 2026-09-28 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,160 | 88 | 45 | NOASSERTION | 2026-09-10 | :milky_way: The R easystats-project |
 | 79 | [easystats/performance](https://github.com/easystats/performance) | 1,157 | 109 | 101 | GPL-3.0 | 2026-09-28 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,119 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,096 | 85 | 1 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
-| 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,086 | 267 | 354 | — | 2026-09-27 | RStan, the R interface to Stan |
+| 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,086 | 267 | 354 | — | 2026-09-28 | RStan, the R interface to Stan |
 | 83 | [mlr-org/mlr3](https://github.com/mlr-org/mlr3) | 1,080 | 97 | 33 | LGPL-3.0 | 2026-09-28 | mlr3: Machine Learning in R - next generation |
 | 84 | [rstudio/pointblank](https://github.com/rstudio/pointblank) | 1,046 | 60 | 103 | NOASSERTION | 2026-08-21 | Data quality assessment and metadata reporting for data frames and database tables |
 | 85 | [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) | 1,041 | 53 | 4 | NOASSERTION | 2026-01-08 | 🎨🎨🎨 Collection of most color palettes in a single R package |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **1,133,860** total repositories matching `langu
 | 96 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 956 | 108 | 75 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
 | 97 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 955 | 646 | 65 | NOASSERTION | 2026-09-28 | Building R packages |
 | 98 | [easystats/see](https://github.com/easystats/see) | 954 | 47 | 32 | NOASSERTION | 2026-09-28 | :art: Visualisation toolbox for beautiful and publication-ready figures |
-| 99 | [ThinkR-open/golem](https://github.com/ThinkR-open/golem) | 946 | 137 | 21 | NOASSERTION | 2026-09-15 | A Framework for Building Robust Shiny Apps |
-| 100 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 946 | 107 | 5 | CC0-1.0 | 2026-07-26 | A list of awesome resources for Computational Social Science |
+| 99 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 947 | 107 | 5 | CC0-1.0 | 2026-07-26 | A list of awesome resources for Computational Social Science |
+| 100 | [ThinkR-open/golem](https://github.com/ThinkR-open/golem) | 946 | 137 | 21 | NOASSERTION | 2026-09-15 | A Framework for Building Robust Shiny Apps |

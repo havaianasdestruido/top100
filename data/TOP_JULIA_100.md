@@ -1,19 +1,19 @@
 # Top 100 Julia repositories on GitHub
 
-Ranked by stars. GitHub reports **94,413** total repositories matching `language:Julia`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **94,422** total repositories matching `language:Julia`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49,158 | 5,981 | 4,715 | MIT | 2026-09-28 | The Julia Programming Language |
+| 1 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49,157 | 5,981 | 4,714 | MIT | 2026-09-28 | The Julia Programming Language |
 | 2 | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | 4,751 | 624 | 45 | NOASSERTION | 2026-09-24 | Relax! Flux is the ML library that doesn't make you tensor |
 | 3 | [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) | 3,163 | 255 | 115 | NOASSERTION | 2026-09-11 | Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) c... |
 | 4 | [JuliaLang/IJulia.jl](https://github.com/JuliaLang/IJulia.jl) | 2,906 | 427 | 37 | MIT | 2026-06-23 | Julia kernel for Jupyter |
 | 5 | [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking) | 2,836 | 502 | 6 | NOASSERTION | 2026-08-12 | Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia |
 | 6 | [MakieOrg/Makie.jl](https://github.com/MakieOrg/Makie.jl) | 2,815 | 396 | 956 | MIT | 2026-09-28 | Interactive data visualizations and plotting in Julia |
 | 7 | [jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl) | 2,481 | 428 | 12 | NOASSERTION | 2026-09-27 | Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear) |
-| 8 | [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) | 2,413 | 186 | 125 | MIT | 2026-09-28 | 🧞The highly productive Julia web framework |
+| 8 | [GenieFramework/Genie.jl](https://github.com/GenieFramework/Genie.jl) | 2,413 | 186 | 124 | MIT | 2026-09-28 | 🧞The highly productive Julia web framework |
 | 9 | [TuringLang/Turing.jl](https://github.com/TuringLang/Turing.jl) | 2,257 | 245 | 14 | MIT | 2026-09-27 | Bayesian inference with probabilistic programming. |
-| 10 | [JuliaPlots/Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1,952 | 386 | 922 | — | 2026-09-28 | Powerful convenience for Julia visualizations and data analysis |
+| 10 | [JuliaPlots/Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 1,952 | 386 | 919 | — | 2026-09-28 | Powerful convenience for Julia visualizations and data analysis |
 | 11 | [JuliaAI/MLJ.jl](https://github.com/JuliaAI/MLJ.jl) | 1,941 | 159 | 84 | NOASSERTION | 2026-09-17 | A Julia machine learning framework |
 | 12 | [GiovineItalia/Gadfly.jl](https://github.com/GiovineItalia/Gadfly.jl) | 1,927 | 248 | 276 | NOASSERTION | 2025-10-04 | Crafty statistical graphics for Julia. |
 | 13 | [probcomp/Gen.jl](https://github.com/probcomp/Gen.jl) | 1,851 | 164 | 168 | Apache-2.0 | 2026-06-09 | A general-purpose probabilistic programming system with programmable inference |
@@ -22,7 +22,7 @@ Ranked by stars. GitHub reports **94,413** total repositories matching `language
 | 16 | [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl) | 1,572 | 221 | 222 | NOASSERTION | 2026-09-22 | 21st century AD |
 | 17 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1,556 | 205 | 155 | MIT | 2026-09-24 | Compile your Julia Package |
 | 18 | [JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) | 1,549 | 87 | 15 | NOASSERTION | 2026-09-21 | Unicode-based scientific plotting for working in the terminal |
-| 19 | [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 1,531 | 189 | 514 | NOASSERTION | 2026-09-26 | Symbolic programming for the next generation of numerical software |
+| 19 | [JuliaSymbolics/Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) | 1,531 | 190 | 515 | NOASSERTION | 2026-09-26 | Symbolic programming for the next generation of numerical software |
 | 20 | [svaksha/Julia.jl](https://github.com/svaksha/Julia.jl) | 1,516 | 206 | 24 | NOASSERTION | 2023-12-07 | Curated decibans of Julia programming language. |
 | 21 | [JuliaPy/PyCall.jl](https://github.com/JuliaPy/PyCall.jl) | 1,511 | 186 | 295 | MIT | 2026-08-06 | Package to call Python functions from the Julia language |
 | 22 | [JuliaGPU/CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) | 1,428 | 283 | 262 | NOASSERTION | 2026-09-28 | CUDA programming in Julia. |
@@ -41,7 +41,7 @@ Ranked by stars. GitHub reports **94,413** total repositories matching `language
 | 35 | [JuliaDocs/Franklin.jl](https://github.com/JuliaDocs/Franklin.jl) | 1,069 | 118 | 191 | MIT | 2026-08-01 | (yet another) static site generator. Simple, customisable, fast, maths with KaTeX, code evaluation, optional pre-rend... |
 | 36 | [svaksha/pythonidae](https://github.com/svaksha/pythonidae) | 1,043 | 197 | 4 | NOASSERTION | 2023-07-04 | Curated decibans of scientific programming resources in Python. |
 | 37 | [QuantumBFS/Yao.jl](https://github.com/QuantumBFS/Yao.jl) | 1,042 | 132 | 30 | NOASSERTION | 2026-09-09 | Extensible, Efficient Quantum Algorithm Design for Humans. |
-| 38 | [JuliaDiff/ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) | 1,004 | 161 | 178 | NOASSERTION | 2026-09-18 | Forward Mode Automatic Differentiation for Julia |
+| 38 | [JuliaDiff/ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) | 1,004 | 161 | 179 | NOASSERTION | 2026-09-28 | Forward Mode Automatic Differentiation for Julia |
 | 39 | [cvxgrp/cvxbook_additional_exercises](https://github.com/cvxgrp/cvxbook_additional_exercises) | 978 | 226 | 0 | — | 2026-07-31 | Additional exercises and data for EE364a. No solutions; for public consumption. |
 | 40 | [FRBNY-DSGE/DSGE.jl](https://github.com/FRBNY-DSGE/DSGE.jl) | 958 | 240 | 127 | BSD-3-Clause | 2026-09-21 | Solve and estimate Dynamic Stochastic General Equilibrium models (including the New York Fed DSGE) |
 | 41 | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 952 | 105 | 12 | NOASSERTION | 2026-08-05 | Award winning software library for nonlinear dynamics and nonlinear timeseries analysis |
@@ -56,7 +56,7 @@ Ranked by stars. GitHub reports **94,413** total repositories matching `language
 | 50 | [gridap/Gridap.jl](https://github.com/gridap/Gridap.jl) | 880 | 120 | 114 | MIT | 2026-09-23 | Grid-based approximation of partial differential equations in Julia |
 | 51 | [JunoLab/Weave.jl](https://github.com/JunoLab/Weave.jl) | 851 | 101 | 161 | MIT | 2026-03-23 | Scientific reports/literate programming for Julia |
 | 52 | [JuliaArrays/StaticArrays.jl](https://github.com/JuliaArrays/StaticArrays.jl) | 847 | 161 | 226 | NOASSERTION | 2026-09-25 | Statically sized arrays for Julia |
-| 53 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 846 | 114 | 31 | NOASSERTION | 2026-09-28 | Fast and simple fluid simulator in Julia |
+| 53 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 846 | 115 | 31 | NOASSERTION | 2026-09-28 | Fast and simple fluid simulator in Julia |
 | 54 | [JuliaAnimators/Javis.jl](https://github.com/JuliaAnimators/Javis.jl) | 844 | 52 | 76 | MIT | 2024-04-16 | Julia Animations and Visualizations |
 | 55 | [SciML/Optimization.jl](https://github.com/SciML/Optimization.jl) | 842 | 101 | 148 | MIT | 2026-09-27 | Mathematical Optimization in Julia. Local, global, gradient-based and derivative-free. Linear, Quadratic, Convex, Mix... |
 | 56 | [KristofferC/OhMyREPL.jl](https://github.com/KristofferC/OhMyREPL.jl) | 824 | 62 | 5 | NOASSERTION | 2026-09-11 | Syntax highlighting and other enhancements for the Julia REPL |
@@ -68,20 +68,20 @@ Ranked by stars. GitHub reports **94,413** total repositories matching `language
 | 62 | [JuliaData/JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl) | 763 | 59 | 134 | NOASSERTION | 2023-10-29 | Parallel analytical database in pure Julia |
 | 63 | [JuliaInterop/Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) | 762 | 106 | 115 | NOASSERTION | 2024-05-12 | The Julia C++ Interface |
 | 64 | [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) | 746 | 260 | 182 | MIT | 2026-08-19 | Julia implementation of Data structures |
-| 65 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | 735 | 610 | 145 | MIT | 2026-09-28 | The official registry of general Julia packages |
+| 65 | [JuliaRegistries/General](https://github.com/JuliaRegistries/General) | 735 | 610 | 143 | MIT | 2026-09-28 | The official registry of general Julia packages |
 | 66 | [LuxDL/Lux.jl](https://github.com/LuxDL/Lux.jl) | 733 | 90 | 103 | MIT | 2026-09-28 | Elegant and Performant Deep Learning |
-| 67 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 732 | 168 | 409 | MIT | 2026-09-28 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
+| 67 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 732 | 168 | 407 | MIT | 2026-09-28 | Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia |
 | 68 | [JuliaParallel/Dagger.jl](https://github.com/JuliaParallel/Dagger.jl) | 727 | 90 | 126 | NOASSERTION | 2026-09-28 | A framework for out-of-core and parallel execution |
 | 69 | [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) | 727 | 73 | 179 | MIT | 2026-07-02 | A framework for applied category theory in the Julia language |
 | 70 | [KristofferC/TimerOutputs.jl](https://github.com/KristofferC/TimerOutputs.jl) | 722 | 60 | 15 | NOASSERTION | 2026-09-28 | Formatted output of timed sections in Julia |
 | 71 | [JuliaDebug/Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl) | 709 | 46 | 110 | MIT | 2026-08-22 | The slow descent into madness |
 | 72 | [JuliaCI/PkgTemplates.jl](https://github.com/JuliaCI/PkgTemplates.jl) | 702 | 112 | 107 | MIT | 2026-09-28 | Create new Julia packages, the easy way |
 | 73 | [adambom/dictionary](https://github.com/adambom/dictionary) | 698 | 173 | 7 | NOASSERTION | 2021-04-23 | A JSON representation of Webster's Unabridged Dictionary |
-| 74 | [JuliaWeb/HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 687 | 192 | 5 | NOASSERTION | 2026-09-28 | HTTP for Julia |
+| 74 | [JuliaWeb/HTTP.jl](https://github.com/JuliaWeb/HTTP.jl) | 687 | 192 | 4 | NOASSERTION | 2026-09-28 | HTTP for Julia |
 | 75 | [JuliaCI/BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) | 686 | 109 | 93 | NOASSERTION | 2026-08-07 | A benchmarking framework for the Julia language |
 | 76 | [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl) | 686 | 277 | 490 | NOASSERTION | 2026-09-28 | High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including ne... |
 | 77 | [ITensor/ITensors.jl](https://github.com/ITensor/ITensors.jl) | 685 | 146 | 94 | Apache-2.0 | 2026-09-27 | A Julia library for efficient tensor computations and tensor network calculations. ITensors.jl is supported by the Si... |
-| 78 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 675 | 304 | 515 | NOASSERTION | 2026-09-28 | Pkg - Package manager for the Julia programming language |
+| 78 | [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl) | 675 | 304 | 516 | NOASSERTION | 2026-09-28 | Pkg - Package manager for the Julia programming language |
 | 79 | [JuliaPhysics/Unitful.jl](https://github.com/JuliaPhysics/Unitful.jl) | 675 | 124 | 194 | NOASSERTION | 2026-09-04 | Physical quantities with arbitrary units |
 | 80 | [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) | 674 | 49 | 4 | MIT | 2023-04-20 | An unofficial collection of Plugins for ChatGPT, in any programming language! |
 | 81 | [mcabbott/Tullio.jl](https://github.com/mcabbott/Tullio.jl) | 668 | 30 | 74 | MIT | 2026-06-21 | ⅀ |
@@ -98,7 +98,7 @@ Ranked by stars. GitHub reports **94,413** total repositories matching `language
 | 92 | [jump-dev/Convex.jl](https://github.com/jump-dev/Convex.jl) | 597 | 123 | 12 | NOASSERTION | 2026-08-19 | A Julia package for disciplined convex programming |
 | 93 | [FluxML/FastAI.jl](https://github.com/FluxML/FastAI.jl) | 591 | 49 | 32 | MIT | 2025-08-26 | Repository of best practices for deep learning in Julia, inspired by fastai |
 | 94 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 591 | 66 | 5 | MIT | 2026-09-27 | An extensible framework for geospatial data science and geostatistical modeling fully written in Julia |
-| 95 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 588 | 110 | 450 | MIT | 2026-09-28 | Julia bindings for the Enzyme automatic differentiator |
+| 95 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 588 | 110 | 451 | MIT | 2026-09-28 | Julia bindings for the Enzyme automatic differentiator |
 | 96 | [fredrikekre/Literate.jl](https://github.com/fredrikekre/Literate.jl) | 587 | 68 | 46 | NOASSERTION | 2026-07-08 | Simple package for literate programming in Julia |
 | 97 | [JuliaControl/ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) | 583 | 92 | 42 | NOASSERTION | 2026-09-19 | A Control Systems Toolbox for Julia |
 | 98 | [QuantumKitHub/TensorOperations.jl](https://github.com/QuantumKitHub/TensorOperations.jl) | 581 | 73 | 9 | NOASSERTION | 2026-09-26 | Julia package for tensor contractions and related operations |
