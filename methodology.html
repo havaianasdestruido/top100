@@ -107,9 +107,11 @@ into about 101, so it is off by default.</p>
 <li><strong>Language is a single label.</strong> GitHub assigns each repository one
 detected primary language. A project written half in Python and half in C appears
 in only one list.</li>
-<li><strong>Forks and archived repositories are not filtered out.</strong> The query
-is a plain <code>language:</code> search; they simply rarely rank high enough to
-appear.</li>
+<li><strong>Forks are excluded by default.</strong> GitHub's repository search leaves
+forks out unless the query adds <code>fork:true</code> or <code>fork:only</code>, so a
+fork never displaces the repository it was copied from, however many stars it has.
+Archived repositories, by contrast, <em>are</em> included: they are read-only but
+public, and a few of them rank highly.</li>
 <li><strong><code>total_count</code> is approximate for very broad queries.</strong>
 GitHub reports a number that can be much larger than the 1,000 results it will
 actually page through, and occasionally answers with

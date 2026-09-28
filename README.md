@@ -80,6 +80,10 @@ python scripts/fetch_top_repos.py
 # or pick your own
 LANGUAGES=Rust,Zig,Elixir python scripts/fetch_top_repos.py
 
+# NB: fetching a language is free-form, but publishing it on the site is a config
+# step - the builder reads LANGUAGES in scripts/site_content.py, so add a line there
+# for any new language.
+
 # rebuild the website from whatever is in data/
 python scripts/build_site.py
 ```

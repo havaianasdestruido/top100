@@ -65,8 +65,6 @@ git push
 
 ```markdown
 ---
-license: other
-license_name: github-api-terms
 task_categories:
   - text-classification
 language:
@@ -79,7 +77,7 @@ tags:
   - jsonl
   - open-data
 size_categories:
-  - n<1K
+  - 1K<n<10K
 pretty_name: Top 100 GitHub repositories by language
 ---
 
@@ -117,13 +115,17 @@ duckdb -c "SELECT full_name, stargazers_count, license.spdx_id
            ORDER BY stargazers_count DESC LIMIT 10;"
 ```
 
-## Provenance and refresh
+## Provenance, refresh and licensing
 
 Collected with one GitHub Search API request per language
 (`?q=language:<name>&sort=stars&order=desc&per_page=100`) by a scheduled GitHub
-Actions workflow that commits the results hourly. The data is GitHub API output:
-each listed project keeps its own licence. Check the `license` field before reusing
-anyone's code.
+Actions workflow that commits the results hourly.
+
+There is no single dataset-wide licence for the records: they are GitHub API output,
+reuse is subject to GitHub's API Terms of Service, and every listed repository's code
+remains under its own licence. Check the `license` field of each record before reusing
+anything. The collection script and generated site are MIT licensed; see
+https://github.com/havaianasdestruido/top100/blob/main/LICENSE.
 
 Full tables, statistics, methodology and field reference:
 **https://havaianasdestruido.github.io/top100/**

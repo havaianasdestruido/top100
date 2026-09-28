@@ -38,7 +38,8 @@ def main():
     try:
         with request.urlopen(req, timeout=30) as resp:
             body = json.loads(resp.read().decode("utf-8"))
-    except (error.URLError, error.HTTPError, TimeoutError) as exc:
+    except (error.URLError, error.HTTPError, TimeoutError, ValueError,
+            UnicodeDecodeError) as exc:  # ValueError covers JSONDecodeError
         print(f"Could not fetch repo stats ({exc}); keeping existing file.", file=sys.stderr)
         return 0
 

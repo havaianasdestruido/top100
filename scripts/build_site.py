@@ -27,6 +27,7 @@ import sys
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
+from urllib.parse import quote
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_content as C  # noqa: E402
@@ -97,6 +98,18 @@ def human_datetime(dt: datetime) -> str:
 
 def iso_date(dt: datetime) -> str:
     return dt.strftime("%Y-%m-%d")
+
+
+def jsonl_url(key: str) -> str:
+    """Raw download URL for a language's JSONL file. '#' and '+' are
+    percent-encoded so that c#.jsonl and c++.jsonl survive URL parsing
+    instead of being read as a fragment."""
+    return f"{C.RAW_URL}/data/JSONL/{quote(key, safe='')}.jsonl"
+
+
+def md_file_url(key: str) -> str:
+    """GitHub blob URL for a language's Markdown table (same encoding)."""
+    return f"{C.BLOB_URL}/data/TOP_{quote(key.upper(), safe='')}_100.md"
 
 
 def truncate(text, limit=140) -> str:
@@ -489,6 +502,15 @@ def jsonld_dataset(ctx, key=None):
         keywords = ["github", "repositories", "stars", "ranking", "jsonl",
                     "open source", "dataset", "github api"]
         dist_url = f"{C.TREE_URL}/data/JSONL"
+        distribution = [
+            {
+                "@type": "DataDownload",
+                "name": f"Top 100 {i['display']} repositories (JSONL)",
+                "encodingFormat": "application/x-ndjson",
+                "contentUrl": jsonl_url(k),
+            }
+            for k, i in ctx["langs"].items()
+        ]
     else:
         info = ctx["langs"][key]
         name = f"Top 100 {info['display']} repositories on GitHub by stars"
@@ -501,7 +523,15 @@ def jsonld_dataset(ctx, key=None):
         page = url
         keywords = ["github", info["display"].lower(), "repositories", "stars",
                     "ranking", "jsonl", "dataset"]
-        dist_url = f"{C.RAW_URL}/data/JSONL/{key}.jsonl"
+        dist_url = jsonl_url(key)
+        distribution = [
+            {
+                "@type": "DataDownload",
+                "name": f"Top 100 {info['display']} repositories (JSONL)",
+                "encodingFormat": "application/x-ndjson",
+                "contentUrl": dist_url,
+            }
+        ]
     return {
         "@type": "Dataset",
         "@id": f"{page}#dataset",
@@ -517,14 +547,7 @@ def jsonld_dataset(ctx, key=None):
         "includedInDataCatalog": {"@type": "DataCatalog", "name": "Top100"},
         "temporalCoverage": f"{ctx['iso_date']}/..",
         "dateModified": ctx["fetched"].strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "distribution": [
-            {
-                "@type": "DataDownload",
-                "name": f"{name} (JSONL)",
-                "encodingFormat": "application/x-ndjson",
-                "contentUrl": dist_url,
-            }
-        ],
+        "distribution": distribution,
     }
 
 
@@ -720,7 +743,7 @@ def page_languages_index(ctx):
             f"<td class='num'>{fmt(info['min_stars'])}</td>"
             f"<td class='num'>{fmt(info['median_stars'])}</td>"
             f"<td class='num'>{fmt(info['total_count'])}</td>"
-            f"<td><a href='{C.RAW_URL}/data/JSONL/{key}.jsonl'>JSONL</a></td></tr>"
+            f"<td><a href='{jsonl_url(key)}'>JSONL</a></td></tr>"
         )
     body = f"""
 <h1>Top 100 GitHub repositories for all {ctx['languages']} languages</h1>
@@ -744,11 +767,16 @@ is filed under whichever language GitHub detected as dominant, which is why the
 per-language totals on this page do not add up to the number of repositories on
 GitHub.</p>
 <h2>Adding a language</h2>
-<p>No code changes are needed. Trigger the workflow from the Actions tab with a
+<p>Fetching is free-form: trigger the workflow from the Actions tab with a
 comma-separated list of languages, or run
 <code>LANGUAGES=Rust,Zig python scripts/fetch_top_repos.py</code> locally. Each
-language costs one Search API request, and the site rebuilds itself from whatever
-is in <code>data/</code>. The <a href="../methodology.html">methodology page</a> has the
+language costs one Search API request.</p>
+<p>Publishing it is a configuration step, not an automatic one. The site builder reads
+the language list in <code>scripts/site_content.py</code>, so add a line there &mdash;
+key, display name, URL slug and a one-line note &mdash; and the next build generates the
+page. Until then the JSONL and Markdown files exist in the repository but no page is
+published for them. Changing the builder to discover <code>data/</code> automatically
+would remove that step. The <a href="../methodology.html">methodology page</a> has the
 details.</p>
 """
     jsonld = [
@@ -780,21 +808,24 @@ def page_language(ctx, key):
     info = ctx["langs"][key]
     repos = info["repos"]
     url = f"{C.BASE_URL}/languages/{info['slug']}.html"
-    first, second, third = repos[0], repos[1], repos[2]
+    first = repos[0]
     lic_share = info["top_license_n"]
 
     intro = (
         f"GitHub reports {fmt(info['total_count'])} repositories whose detected "
-        f"primary language is {info['display']}. The 100 most-starred of them are "
+        f"primary language is {info['display']}. The {len(repos)} most-starred of them are "
         f"listed below, ranked by <code>stargazers_count</code>. "
         f"<a href='{esc(first.get('html_url', ''))}'>{esc(first['full_name'])}</a> leads "
         f"with {fmt(info['max_stars'])} stars, and the bar for 100th place is "
         f"{fmt(info['min_stars'])} stars. The median repository in this top 100 has "
         f"{fmt(info['median_stars'])} stars, and the most common licence is "
-        f"{esc(info['top_license'])} ({lic_share} of 100 repositories)."
+        f"{esc(info['top_license'])} ({lic_share} of {len(repos)} repositories)."
     )
 
-    faq = [
+    faq = []
+    if len(repos) >= 3:
+        second, third = repos[1], repos[2]
+        faq = [
         (
             f"What is the most-starred {info['display']} repository on GitHub?",
             f"{esc(first['full_name'])} is the most-starred {info['display']} repository "
@@ -805,24 +836,25 @@ def page_language(ctx, key):
         (
             f"How many {info['display']} repositories are on GitHub?",
             f"GitHub reports {fmt(info['total_count'])} public repositories whose detected "
-            f"primary language is {info['display']}. Top100 ranks the 100 most-starred of "
-            f"them; 100th place currently needs {fmt(info['min_stars'])} stars.",
+            f"primary language is {info['display']}. Top100 ranks the {len(repos)} "
+            f"most-starred of them; {len(repos)}th place currently needs "
+            f"{fmt(info['min_stars'])} stars.",
         ),
         (
             f"How do I download the top 100 {info['display']} repositories as JSON?",
-            f"Download <code>data/JSONL/{key}.jsonl</code> &mdash; 100 lines, each the "
+            f"Download `data/JSONL/{key}.jsonl` \u2014 {len(repos)} lines, each the "
             "complete GitHub Search API object for one repository, including topics, "
             "licence, every count and every timestamp. A readable Markdown table of the "
             "same ranking is also published.",
         ),
-    ]
+        ]
 
     others = [
         k for k in ctx["langs"] if k != key
     ][:8]
     lang_snippet = code_block(
         f"curl -sSL -o {key}.jsonl \\\n"
-        f"  {C.RAW_URL}/data/JSONL/{key}.jsonl\n"
+        f"  {jsonl_url(key)}\n"
         "jq -r '.full_name + \"  \" + (.stargazers_count|tostring)' "
         f"{key}.jsonl | head -10"
     )
@@ -854,9 +886,9 @@ download.</p>
 
 <h2>Download the {esc(info['display'])} data</h2>
 <ul>
-<li><a href="{C.RAW_URL}/data/JSONL/{key}.jsonl">JSONL &mdash; raw GitHub Search API objects</a>
-({round(info['size_bytes'] / 1024, 1)} KB, 100 lines)</li>
-<li><a href="{C.BLOB_URL}/data/TOP_{key.upper()}_100.md">Markdown table</a> of the same ranking</li>
+<li><a href="{jsonl_url(key)}">JSONL &mdash; raw GitHub Search API objects</a>
+({round(info['size_bytes'] / 1024, 1)} KB, {len(repos)} lines)</li>
+<li><a href="{md_file_url(key)}">Markdown table</a> of the same ranking</li>
 <li><a href="{C.TREE_URL}/data/JSONL">All {ctx['languages']} JSONL files</a></li>
 </ul>
 {lang_snippet}
@@ -947,9 +979,9 @@ def page_dataset(ctx):
         file_rows.append(
             f"<tr><td><a href='languages/{info['slug']}.html'>{esc(info['display'])}</a></td>"
             f"<td><code>data/JSONL/{key}.jsonl</code></td>"
-            f"<td class='num'>100</td>"
+            f"<td class='num'>{info['n']}</td>"
             f"<td class='num'>{round(info['size_bytes'] / 1024, 1)} KB</td>"
-            f"<td><a href='{C.RAW_URL}/data/JSONL/{key}.jsonl'>download</a></td></tr>"
+            f"<td><a href='{jsonl_url(key)}'>download</a></td></tr>"
         )
     field_rows = []
     for name, ftype, desc in C.DATASET_FIELDS:
@@ -1423,7 +1455,7 @@ def update_readme_leaders(ctx):
     src = path.read_text(encoding="utf-8")
     start = src.find("<!-- LEADERS:START -->")
     end = src.find("<!-- LEADERS:END -->")
-    if start == -1 or end == -1:
+    if start == -1 or end == -1 or end < start:
         return None
 
     lines = [

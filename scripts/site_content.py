@@ -233,20 +233,27 @@ def faq_entries(ctx):
     """The eight buying questions, each answered in 40-70 words of quotable
     prose. Answers may contain [text](url) links."""
     top5 = ctx["top_overall"][:5]
-    names = [r["full_name"] for r in top5]
-    listing_text = (
-        f"{names[0]} with {ctx['fmt'](top5[0]['stargazers_count'])} stars, "
-        f"{names[1]} with {ctx['fmt'](top5[1]['stargazers_count'])}, "
-        f"{names[2]} with {ctx['fmt'](top5[2]['stargazers_count'])}, "
-        f"{names[3]} with {ctx['fmt'](top5[3]['stargazers_count'])} and "
-        f"{names[4]} with {ctx['fmt'](top5[4]['stargazers_count'])}"
-    )
+    if len(top5) >= 5:
+        top_answer = (
+            f"As of {ctx['date_long']}, the most-starred repositories on GitHub are "
+            f"{top5[0]['full_name']} with {ctx['fmt'](top5[0]['stargazers_count'])} stars, "
+            f"{top5[1]['full_name']} with {ctx['fmt'](top5[1]['stargazers_count'])}, "
+            f"{top5[2]['full_name']} with {ctx['fmt'](top5[2]['stargazers_count'])}, "
+            f"{top5[3]['full_name']} with {ctx['fmt'](top5[3]['stargazers_count'])} and "
+            f"{top5[4]['full_name']} with {ctx['fmt'](top5[4]['stargazers_count'])}. "
+            "Top100 rebuilds this ranking every hour from the GitHub Search API, so the "
+            "table above is never more than an hour old."
+        )
+    else:
+        top_answer = (
+            f"As of {ctx['date_long']}, the most-starred repositories on GitHub are "
+            "listed in the table above. Top100 rebuilds this ranking every hour from "
+            "the GitHub Search API, so the table is never more than an hour old."
+        )
     return [
         (
             "What are the top GitHub repositories by stars right now?",
-            f"As of {ctx['date_long']}, the most-starred repositories on GitHub are "
-            f"{listing_text}. Top100 rebuilds this ranking every hour from the "
-            "GitHub Search API, so the table above is never more than an hour old.",
+            top_answer,
         ),
         (
             "Where can I find a top 100 GitHub repositories list?",
@@ -305,8 +312,10 @@ def faq_entries(ctx):
             f"{ctx['fmt'](ctx['median_stars'])} stars and the mean is "
             f"{ctx['fmt'](ctx['mean_stars'])}, but the distribution is heavily skewed: "
             f"the bar to enter a top 100 ranges from {ctx['fmt'](ctx['min_bar'])} stars "
-            f"for SQL to {ctx['fmt'](ctx['max_bar'])} for Python. See the "
-            "[statistics table](#statistics) for the per-language thresholds.",
+            f"for {ctx['min_bar_lang']} to {ctx['fmt'](ctx['max_bar'])} for "
+            f"{ctx['max_bar_lang']}. See the "
+            "[statistics table](index.html#statistics) for the per-language "
+            "thresholds.",
         ),
     ]
 
@@ -332,19 +341,20 @@ def extra_faq_entries(ctx):
         ),
         (
             "Can I add another language to the list?",
-            "Yes — no code changes are needed. Trigger the workflow manually from the "
-            "Actions tab and pass a comma-separated list of languages, or run "
-            "`LANGUAGES=Rust,Zig python scripts/fetch_top_repos.py` locally. "
-            "Each language costs exactly one Search API request, and the site rebuilds "
-            "itself from whatever files are in `data/`.",
+            "Yes, but it takes one line of configuration. Trigger the workflow from the "
+            "Actions tab with a comma-separated list of languages, or run "
+            "`LANGUAGES=Rust,Zig python scripts/fetch_top_repos.py` locally — each "
+            "language costs exactly one Search API request. To publish the new language "
+            "on the site, also add it to `LANGUAGES` in `scripts/site_content.py`: the "
+            "site builder reads that list rather than scanning `data/`.",
         ),
         (
             "Do the lists include forks and archived repositories?",
-            f"Generally yes. The query is a plain `language:&lt;name&gt;` "
-            f"search, so forks and archived repositories are not filtered out: "
-            f"{ctx['forks_in_data']} of the {ctx['fmt'](ctx['records'])} listed "
-            f"repositories are forks and {ctx['archived_in_data']} are archived. They "
-            "usually rank too low to reach a top 100, but they are not excluded.",
+            f"Forks, no; archived repositories, yes. GitHub's repository search excludes "
+            f"forks unless the query adds `fork:true` or `fork:only`, which is why "
+            f"{ctx['forks_in_data']} of the {ctx['fmt'](ctx['records'])} listed repositories "
+            f"are forks. Archived repositories are included, and "
+            f"{ctx['archived_in_data']} of them are archived and read-only.",
         ),
         (
             "Why is my repository missing from a top 100 list?",
@@ -476,9 +486,11 @@ into about 101, so it is off by default.</p>
 <li><strong>Language is a single label.</strong> GitHub assigns each repository one
 detected primary language. A project written half in Python and half in C appears
 in only one list.</li>
-<li><strong>Forks and archived repositories are not filtered out.</strong> The query
-is a plain <code>language:</code> search; they simply rarely rank high enough to
-appear.</li>
+<li><strong>Forks are excluded by default.</strong> GitHub's repository search leaves
+forks out unless the query adds <code>fork:true</code> or <code>fork:only</code>, so a
+fork never displaces the repository it was copied from, however many stars it has.
+Archived repositories, by contrast, <em>are</em> included: they are read-only but
+public, and a few of them rank highly.</li>
 <li><strong><code>total_count</code> is approximate for very broad queries.</strong>
 GitHub reports a number that can be much larger than the 1,000 results it will
 actually page through, and occasionally answers with
@@ -557,16 +569,16 @@ DATASET_FIELDS = [
     ("Identity", None, None),
     ("id", "integer", "GitHub's numeric repository ID. Stable across renames and transfers."),
     ("node_id", "string", "GraphQL global node ID for the repository."),
-    ("name", "string", "Repository name without the owner, e.g. <code>top100</code>."),
-    ("full_name", "string", "<code>owner/repo</code>. The canonical identifier used in every URL and API path on this site."),
-    ("private", "boolean", "Always <code>false</code> here: the Search API only returns public repositories for an unauthenticated caller."),
-    ("visibility", "string", "Always <code>public</code>."),
-    ("owner", "object", "The owning account: <code>login</code>, <code>id</code>, <code>type</code> (<code>User</code> or <code>Organization</code>), avatar URLs and API URLs."),
+    ("name", "string", "Repository name without the owner, e.g. `top100`."),
+    ("full_name", "string", "`owner/repo`. The canonical identifier used in every URL and API path on this site."),
+    ("private", "boolean", "Always `false` here: the Search API only returns public repositories for an unauthenticated caller."),
+    ("visibility", "string", "Always `public`."),
+    ("owner", "object", "The owning account: `login`, `id`, `type` (`User` or `Organization`), avatar URLs and API URLs."),
     ("URLs", None, None),
-    ("html_url", "string", "Human URL, e.g. <code>https://github.com/owner/repo</code>."),
-    ("url", "string", "API URL, e.g. <code>https://api.github.com/repos/owner/repo</code>."),
-    ("*_url", "string", "API endpoints for sub-resources: <code>forks_url</code>, <code>issues_url</code>, <code>pulls_url</code>, <code>labels_url</code>, <code>releases_url</code>, <code>deployments_url</code>, <code>languages_url</code>, <code>stargazers_url</code>, <code>contributors_url</code>, <code>commits_url</code>, <code>contents_url</code>, <code>compare_url</code>, <code>archive_url</code>, <code>downloads_url</code>, <code>branches_url</code>, <code>tags_url</code>, <code>blobs_url</code>, <code>git_refs_url</code>, <code>trees_url</code>, <code>statuses_url</code>, <code>keys_url</code>, <code>collaborators_url</code>, <code>teams_url</code>, <code>hooks_url</code>, <code>issue_events_url</code>, <code>events_url</code>, <code>assignees_url</code>, <code>comments_url</code>, <code>issue_comment_url</code>, <code>commits_url</code>, <code>git_commits_url</code>, <code>merges_url</code>, <code>milestones_url</code>, <code>subscription_url</code>, <code>subscribers_url</code>. Templates contain placeholders such as <code>{/branch}</code> or <code>{/sha}</code>."),
-    ("git_url", "string", "<code>git://</code> URL."),
+    ("html_url", "string", "Human URL, e.g. `https://github.com/owner/repo`."),
+    ("url", "string", "API URL, e.g. `https://api.github.com/repos/owner/repo`."),
+    ("*_url", "string", "API endpoints for sub-resources: `forks_url`, `issues_url`, `pulls_url`, `labels_url`, `releases_url`, `deployments_url`, `languages_url`, `stargazers_url`, `contributors_url`, `commits_url`, `contents_url`, `compare_url`, `archive_url`, `downloads_url`, `branches_url`, `tags_url`, `blobs_url`, `git_refs_url`, `trees_url`, `statuses_url`, `keys_url`, `collaborators_url`, `teams_url`, `hooks_url`, `issue_events_url`, `events_url`, `assignees_url`, `comments_url`, `issue_comment_url`, `commits_url`, `git_commits_url`, `merges_url`, `milestones_url`, `subscription_url`, `subscribers_url`. Templates contain placeholders such as `{/branch}` or `{/sha}`."),
+    ("git_url", "string", "`git://` URL."),
     ("ssh_url", "string", "SSH clone URL."),
     ("clone_url", "string", "HTTPS clone URL."),
     ("svn_url", "string", "Subversion URL."),
@@ -575,14 +587,14 @@ DATASET_FIELDS = [
     ("Timestamps (ISO 8601, UTC)", None, None),
     ("created_at", "string", "When the repository was created. Useful for age-normalising star counts."),
     ("updated_at", "string", "When any repository metadata last changed (description, topics, stars, …)."),
-    ("pushed_at", "string", "When code was last pushed. For archived or abandoned repositories this can be years older than <code>updated_at</code>."),
+    ("pushed_at", "string", "When code was last pushed. For archived or abandoned repositories this can be years older than `updated_at`."),
     ("Counts", None, None),
     ("stargazers_count", "integer", "Number of stars. The ranking key for every list on this site."),
-    ("watchers_count", "integer", "Number of watchers (subscribers)."),
+    ("watchers_count", "integer", "Number of users who starred the repository. GitHub returns the same value as `stargazers_count` here; the true subscriber count is `subscribers_count`, which this endpoint does not return."),
     ("forks_count", "integer", "Number of forks."),
     ("open_issues_count", "integer", "Open issues plus open pull requests."),
     ("size", "integer", "Repository size in kilobytes, as GitHub accounts it. Lags behind aggressive history rewrites."),
-    ("forks / open_issues / watchers", "integer", "Duplicates of the <code>*_count</code> fields, kept because the raw object contains both spellings."),
+    ("forks / open_issues / watchers", "integer", "Duplicates of the `*_count` fields, kept because the raw object contains both spellings."),
     ("Flags", None, None),
     ("has_issues", "boolean", "Whether the issues tab is enabled."),
     ("has_projects", "boolean", "Whether the projects tab is enabled."),
@@ -596,15 +608,15 @@ DATASET_FIELDS = [
     ("is_template", "boolean", "Whether the repository can be used as a template."),
     ("web_commit_signoff_required", "boolean", "Whether commits must be signed off."),
     ("has_pull_requests", "boolean", "Whether pull requests are enabled."),
-    ("pull_request_creation_policy", "string", "Who may open pull requests (<code>all</code> or <code>collaborators_only</code>)."),
+    ("pull_request_creation_policy", "string", "Who may open pull requests (`all` or `collaborators_only`)."),
     ("Classification", None, None),
-    ("license", "object|null", "<code>{key, name, spdx_id, url, node_id}</code>. <code>spdx_id</code> is the machine-readable identifier (<code>MIT</code>, <code>Apache-2.0</code>, <code>GPL-3.0</code>, …); <code>NOASSERTION</code> means GitHub could not map the licence to an SPDX ID."),
+    ("license", "object|null", "`{key, name, spdx_id, url, node_id}`. `spdx_id` is the machine-readable identifier (`MIT`, `Apache-2.0`, `GPL-3.0`, …); `NOASSERTION` means GitHub could not map the licence to an SPDX ID."),
     ("language", "string|null", "GitHub's detected primary language. Every list on this site filters on this field."),
-    ("topics", "array&lt;string&gt;", "Repository topics — the closest thing GitHub has to keywords, and a useful join key for your own analysis."),
-    ("default_branch", "string", "Usually <code>main</code> or <code>master</code>."),
+    ("topics", "array<string>", "Repository topics — the closest thing GitHub has to keywords, and a useful join key for your own analysis."),
+    ("default_branch", "string", "Usually `main` or `master`."),
     ("Search API artifacts", None, None),
-    ("score", "number", "The Search API's internal relevance score for this result. With <code>sort=stars</code> it is mostly monotonic, but it is not a meaningful quantity — ignore it."),
-    ("permissions", "object", "The calling token's permissions on this repository (<code>admin</code>, <code>push</code>, <code>pull</code>). An artifact of the authenticated request, not repository metadata."),
+    ("score", "number", "The Search API's internal relevance score for this result. With `sort=stars` it is mostly monotonic, but it is not a meaningful quantity — ignore it."),
+    ("permissions", "object", "The calling token's permissions on this repository (`admin`, `push`, `pull`). An artifact of the authenticated request, not repository metadata."),
 ]
 
 DATASET_MISSING = """
