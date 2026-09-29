@@ -1,98 +1,98 @@
 # Top 100 Shell repositories on GitHub
 
-Ranked by stars. GitHub reports **3,313,958** total repositories matching `language:Shell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,314,214** total repositories matching `language:Shell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 292,470 | 26,182 | 274 | MIT | 2026-09-27 | An agentic skills framework & software development methodology that works. |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 271,278 | 22,836 | 534 | MIT | 2026-09-24 | Skills for Real Engineers. Straight from my .agents directory. |
-| 3 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189,979 | 27,951 | 297 | MIT | 2026-09-28 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes ... |
-| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 155,080 | 25,017 | 169 | MIT | 2026-09-28 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to ... |
-| 5 | [d3/d3](https://github.com/d3/d3) | 113,776 | 22,643 | 19 | ISC | 2026-05-28 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| 6 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | 110,062 | 6,441 | 5 | — | 2026-09-17 | Papers from the computer science community to read and discuss. |
-| 7 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95,202 | 10,479 | 389 | MIT | 2026-09-28 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
-| 8 | [tw93/Mole](https://github.com/tw93/Mole) | 68,680 | 2,436 | 2 | GPL-3.0 | 2026-09-28 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. |
-| 9 | [base/node](https://github.com/base/node) | 68,364 | 3,264 | 0 | MIT | 2026-09-08 | Everything required to run your own Base node |
-| 10 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 62,578 | 12,299 | 263 | — | 2026-08-03 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，... |
-| 11 | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 61,102 | 3,320 | 47 | NOASSERTION | 2026-09-26 | A black hole for Internet advertisements |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | 292,510 | 26,184 | 277 | MIT | 2026-09-27 | An agentic skills framework & software development methodology that works. |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | 271,327 | 22,843 | 535 | MIT | 2026-09-24 | Skills for Real Engineers. Straight from my .agents directory. |
+| 3 | [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 189,982 | 27,971 | 297 | MIT | 2026-09-28 | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes ... |
+| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 155,110 | 25,020 | 169 | MIT | 2026-09-28 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to ... |
+| 5 | [d3/d3](https://github.com/d3/d3) | 113,775 | 22,643 | 19 | ISC | 2026-05-28 | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
+| 6 | [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) | 110,063 | 6,441 | 5 | — | 2026-09-17 | Papers from the computer science community to read and discuss. |
+| 7 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95,204 | 10,480 | 389 | MIT | 2026-09-28 | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
+| 8 | [tw93/Mole](https://github.com/tw93/Mole) | 68,689 | 2,437 | 9 | GPL-3.0 | 2026-09-28 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app. |
+| 9 | [base/node](https://github.com/base/node) | 68,363 | 3,264 | 0 | MIT | 2026-09-08 | Everything required to run your own Base node |
+| 10 | [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 62,578 | 12,298 | 262 | — | 2026-08-03 | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，... |
+| 11 | [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 61,103 | 3,319 | 47 | NOASSERTION | 2026-09-26 | A black hole for Internet advertisements |
 | 12 | [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) | 55,168 | 2,444 | 152 | MIT | 2026-09-14 | A Zsh theme |
-| 13 | [dockur/windows](https://github.com/dockur/windows) | 53,428 | 4,902 | 23 | MIT | 2026-09-27 | Windows inside a Docker container. |
+| 13 | [dockur/windows](https://github.com/dockur/windows) | 53,428 | 4,903 | 24 | MIT | 2026-09-27 | Windows inside a Docker container. |
 | 14 | [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) | 52,950 | 2,884 | 419 | GPL-3.0 | 2025-11-11 | Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker... |
-| 15 | [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) | 47,749 | 5,677 | 101 | GPL-3.0 | 2026-09-27 | A pure Unix shell script ACME client for SSL / TLS certificate automation |
-| 16 | [pyenv/pyenv](https://github.com/pyenv/pyenv) | 45,117 | 3,270 | 57 | MIT | 2026-09-28 | Simple Python version management |
-| 17 | [omacom/omarchy](https://github.com/omacom/omarchy) | 43,502 | 5,089 | 4,819 | MIT | 2026-09-28 | Beautiful, Modern & Opinionated Linux |
+| 15 | [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) | 47,751 | 5,677 | 102 | GPL-3.0 | 2026-09-27 | A pure Unix shell script ACME client for SSL / TLS certificate automation |
+| 16 | [pyenv/pyenv](https://github.com/pyenv/pyenv) | 45,117 | 3,270 | 54 | MIT | 2026-09-28 | Simple Python version management |
+| 17 | [omacom/omarchy](https://github.com/omacom/omarchy) | 43,508 | 5,090 | 4,828 | MIT | 2026-09-28 | Beautiful, Modern & Opinionated Linux |
 | 18 | [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 41,715 | 3,650 | 62 | MIT | 2023-11-28 | 📖 A collection of pure bash alternatives to external processes. |
 | 19 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | 36,471 | 3,880 | 158 | CC-BY-4.0 | 2024-08-16 | 📙 Amazon Web Services — a practical guide |
 | 20 | [inkonchain/node](https://github.com/inkonchain/node) | 36,444 | 643 | 31 | MIT | 2026-08-05 | How to run an Ink Node |
 | 21 | [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) | 36,097 | 1,937 | 203 | MIT | 2025-06-24 | Fish-like autosuggestions for zsh |
-| 22 | [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | 33,441 | 1,875 | 154 | MIT | 2026-09-23 | binary releases of VS Code without MS branding/telemetry/licensing |
+| 22 | [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | 33,444 | 1,875 | 154 | MIT | 2026-09-23 | binary releases of VS Code without MS branding/telemetry/licensing |
 | 23 | [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) | 31,482 | 8,410 | 185 | MIT | 2024-08-05 | :wrench: .files, including ~/.macos — sensible hacker defaults for macOS |
-| 24 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 29,784 | 6,758 | 10 | NOASSERTION | 2026-06-24 | This repository started out as a learning in public project for myself and has now become a structured learning map f... |
-| 25 | [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 29,688 | 2,914 | 29 | MIT | 2026-09-28 | Proxmox VE Helper-Scripts (Community Edition) |
-| 26 | [233boy/v2ray](https://github.com/233boy/v2ray) | 29,682 | 16,598 | 286 | GPL-3.0 | 2026-01-15 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
-| 27 | [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 28,599 | 6,520 | 1 | NOASSERTION | 2026-09-21 | Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debi... |
+| 24 | [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) | 29,785 | 6,758 | 10 | NOASSERTION | 2026-06-24 | This repository started out as a learning in public project for myself and has now become a structured learning map f... |
+| 25 | [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | 29,691 | 2,913 | 23 | MIT | 2026-09-29 | Proxmox VE Helper-Scripts (Community Edition) |
+| 26 | [233boy/v2ray](https://github.com/233boy/v2ray) | 29,682 | 16,597 | 286 | GPL-3.0 | 2026-01-15 | 最好用的 V2Ray 一键安装脚本 & 管理脚本 |
+| 27 | [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | 28,600 | 6,520 | 1 | NOASSERTION | 2026-09-21 | Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debi... |
 | 28 | [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) | 28,390 | 1,769 | 171 | MIT | 2026-02-27 | :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 |
 | 29 | [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) | 27,227 | 6,511 | 22 | NOASSERTION | 2026-09-28 | Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal ... |
-| 30 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 27,168 | 2,257 | 7 | MIT | 2026-09-27 | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recov... |
+| 30 | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 27,169 | 2,257 | 7 | MIT | 2026-09-27 | Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recov... |
 | 31 | [nvie/gitflow](https://github.com/nvie/gitflow) | 26,783 | 2,614 | 0 | NOASSERTION | 2025-10-14 | Git extensions to provide high-level repository operations for Vincent Driessen's branching model. |
-| 32 | [powerline/fonts](https://github.com/powerline/fonts) | 26,323 | 3,121 | 184 | — | 2024-03-22 | Patched fonts for Powerline users. |
+| 32 | [powerline/fonts](https://github.com/powerline/fonts) | 26,324 | 3,121 | 184 | — | 2024-03-22 | Patched fonts for Powerline users. |
 | 33 | [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) | 26,134 | 3,147 | 1 | MIT | 2026-09-23 | 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reac... |
 | 34 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 26,104 | 643 | 4 | OFL-1.1 | 2026-09-21 | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
-| 35 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 25,960 | 2,636 | 263 | Apache-2.0 | 2026-09-25 | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
-| 36 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 25,505 | 3,636 | 59 | MIT | 2026-09-24 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system m... |
-| 37 | [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25,409 | 3,590 | 24 | MIT | 2026-08-08 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
-| 38 | [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 25,382 | 2,931 | 3 | MIT | 2026-09-21 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
-| 39 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 23,675 | 1,779 | 467 | MIT | 2024-07-19 | 🖼️  A command-line system information tool written in bash 3.2+ |
-| 40 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | 23,674 | 2,040 | 21 | — | 2026-01-26 | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is ava... |
+| 35 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 25,961 | 2,636 | 263 | Apache-2.0 | 2026-09-25 | Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications. |
+| 36 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 25,509 | 3,637 | 59 | MIT | 2026-09-24 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system m... |
+| 37 | [gpakosz/.tmux](https://github.com/gpakosz/.tmux) | 25,409 | 3,589 | 24 | MIT | 2026-08-08 | Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍 |
+| 38 | [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 25,386 | 2,931 | 3 | MIT | 2026-09-21 | A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases |
+| 39 | [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) | 23,674 | 2,040 | 21 | — | 2026-01-26 | Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is ava... |
+| 40 | [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) | 23,674 | 1,779 | 467 | MIT | 2024-07-19 | 🖼️  A command-line system information tool written in bash 3.2+ |
 | 41 | [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) | 23,443 | 1,942 | 237 | NOASSERTION | 2021-05-04 | Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, St... |
 | 42 | [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | 23,014 | 1,372 | 214 | BSD-3-Clause | 2026-09-17 | Fish shell like syntax highlighting for Zsh. |
 | 43 | [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) | 22,535 | 1,463 | 5 | MIT | 2026-09-20 | Community guide to securing and improving privacy on macOS. |
 | 44 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 21,968 | 5,554 | 34 | AGPL-3.0 | 2026-09-15 | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
-| 45 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles) | 21,823 | 28,882 | 4 | MIT | 2026-09-21 | Default configuration for Le Wagon's students |
+| 45 | [lewagon/dotfiles](https://github.com/lewagon/dotfiles) | 21,822 | 28,882 | 4 | MIT | 2026-09-21 | Default configuration for Le Wagon's students |
 | 46 | [dockur/macos](https://github.com/dockur/macos) | 21,590 | 1,132 | 6 | MIT | 2026-09-28 | MacOS inside a Docker container. |
-| 47 | [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | 21,425 | 1,062 | 7 | CC0-1.0 | 2026-09-28 | Collections of awesome neovim plugins. |
-| 48 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,986 | 3,387 | 1 | MIT | 2026-09-17 | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Q... |
+| 47 | [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | 21,426 | 1,062 | 7 | CC0-1.0 | 2026-09-28 | Collections of awesome neovim plugins. |
+| 48 | [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | 20,988 | 3,388 | 1 | MIT | 2026-09-17 | 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Q... |
 | 49 | [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) | 20,642 | 5,070 | 0 | MIT | 2026-09-22 | OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora |
 | 50 | [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) | 20,575 | 972 | 131 | MIT | 2026-09-02 | 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt |
 | 51 | [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | 20,482 | 1,530 | 1 | — | 2026-09-28 | 🖥 📊 🕹 🛠 A curated list of command line apps |
-| 52 | [githubnext/monaspace](https://github.com/githubnext/monaspace) | 19,675 | 323 | 64 | OFL-1.1 | 2026-03-27 | An innovative superfamily of fonts for code |
+| 52 | [githubnext/monaspace](https://github.com/githubnext/monaspace) | 19,675 | 322 | 63 | OFL-1.1 | 2026-03-27 | An innovative superfamily of fonts for code |
 | 53 | [tj/n](https://github.com/tj/n) | 19,510 | 759 | 5 | MIT | 2026-08-30 | Node version management |
-| 54 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | 18,884 | 2,047 | 89 | MIT | 2026-09-28 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a cont... |
-| 55 | [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 18,386 | 6,873 | 5 | MIT | 2026-09-27 | The Elastic stack (ELK) powered by Docker and Compose. |
+| 54 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | 18,885 | 2,047 | 89 | MIT | 2026-09-28 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a cont... |
+| 55 | [deviantony/docker-elk](https://github.com/deviantony/docker-elk) | 18,386 | 6,872 | 5 | MIT | 2026-09-27 | The Elastic stack (ELK) powered by Docker and Compose. |
 | 56 | [tj/git-extras](https://github.com/tj/git-extras) | 18,115 | 1,229 | 93 | MIT | 2026-09-21 | GIT utilities -- repo summary, repl, changelog population, author commit percentages and more |
 | 57 | [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | 18,040 | 611 | 6 | BSD-3-Clause | 2026-09-27 | A collection of ZSH frameworks, plugins, themes and tutorials. |
 | 58 | [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) | 17,394 | 5,479 | 34 | — | 2025-03-05 | 关于Python的面试题 |
 | 59 | [source-foundry/Hack](https://github.com/source-foundry/Hack) | 17,354 | 658 | 155 | NOASSERTION | 2022-11-21 | A typeface designed for source code |
 | 60 | [rupa/z](https://github.com/rupa/z) | 17,056 | 1,175 | 108 | WTFPL | 2024-06-19 | z - jump around |
-| 61 | [termux/termux-packages](https://github.com/termux/termux-packages) | 17,046 | 4,417 | 1,072 | NOASSERTION | 2026-09-28 | A package build system for Termux. |
-| 62 | [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 16,928 | 1,148 | 31 | NOASSERTION | 2026-07-27 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
+| 61 | [termux/termux-packages](https://github.com/termux/termux-packages) | 17,047 | 4,417 | 1,070 | NOASSERTION | 2026-09-28 | A package build system for Termux. |
+| 62 | [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 16,929 | 1,148 | 31 | NOASSERTION | 2026-07-27 | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources |
 | 63 | [rbenv/rbenv](https://github.com/rbenv/rbenv) | 16,736 | 1,429 | 17 | MIT | 2026-07-14 | Manage your app's Ruby environment |
-| 64 | [CISOfy/lynis](https://github.com/CISOfy/lynis) | 16,396 | 1,635 | 222 | GPL-3.0 | 2026-09-16 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27... |
-| 65 | [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) | 16,349 | 745 | 73 | MIT | 2026-09-28 | Quickly create and run optimised Windows, macOS and Linux virtual machines |
+| 64 | [CISOfy/lynis](https://github.com/CISOfy/lynis) | 16,398 | 1,635 | 222 | GPL-3.0 | 2026-09-16 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27... |
+| 65 | [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) | 16,350 | 745 | 73 | MIT | 2026-09-28 | Quickly create and run optimised Windows, macOS and Linux virtual machines |
 | 66 | [angristan/openvpn-install](https://github.com/angristan/openvpn-install) | 16,152 | 3,340 | 26 | MIT | 2026-09-19 | Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more |
-| 67 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 16,102 | 2,499 | 91 | NOASSERTION | 2026-09-21 | A curated list for awesome kubernetes sources :ship::tada: |
-| 68 | [winapps-org/winapps](https://github.com/winapps-org/winapps) | 16,010 | 511 | 84 | NOASSERTION | 2026-09-14 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the ... |
+| 67 | [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | 16,103 | 2,499 | 91 | NOASSERTION | 2026-09-21 | A curated list for awesome kubernetes sources :ship::tada: |
+| 68 | [winapps-org/winapps](https://github.com/winapps-org/winapps) | 16,011 | 511 | 85 | NOASSERTION | 2026-09-14 | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the ... |
 | 69 | [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) | 15,492 | 5,355 | 262 | NOASSERTION | 2025-09-22 | kaldi-asr/kaldi is the official location of the Kaldi project. |
 | 70 | [Bash-it/bash-it](https://github.com/Bash-it/bash-it) | 15,255 | 2,316 | 6 | MIT | 2026-09-13 | A community Bash framework. |
-| 71 | [tteck/Proxmox](https://github.com/tteck/Proxmox) | 15,166 | 2,493 | 0 | MIT | 2024-11-02 | Proxmox VE Helper-Scripts |
+| 71 | [tteck/Proxmox](https://github.com/tteck/Proxmox) | 15,167 | 2,492 | 0 | MIT | 2024-11-02 | Proxmox VE Helper-Scripts |
 | 72 | [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) | 15,139 | 1,574 | 7 | Apache-2.0 | 2026-09-28 | 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 |
 | 73 | [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) | 15,106 | 501 | 145 | MIT | 2026-05-17 | Tmux Plugin Manager |
 | 74 | [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) | 14,920 | 1,642 | 30 | MIT | 2026-09-26 | 😼 优雅地使用基于 clash/mihomo 的代理环境 |
 | 75 | [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) | 14,570 | 4,423 | 198 | MIT | 2026-04-24 | The configuration framework for Zsh |
 | 76 | [sindresorhus/pure](https://github.com/sindresorhus/pure) | 14,434 | 1,006 | 0 | MIT | 2026-09-19 | Pretty, minimal and fast ZSH prompt |
-| 77 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14,355 | 1,921 | 136 | Apache-2.0 | 2026-09-28 | Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modload... |
+| 77 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14,357 | 1,921 | 136 | Apache-2.0 | 2026-09-28 | Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modload... |
 | 78 | [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) | 14,311 | 1,137 | 6 | MIT | 2024-11-19 | How to improve NGINX performance, security, and other important things. |
 | 79 | [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) | 13,946 | 1,139 | 361 | — | 2024-04-04 | Tools to set up a quick macOS VM in QEMU, accelerated by KVM. |
-| 80 | [pystardust/ani-cli](https://github.com/pystardust/ani-cli) | 13,898 | 883 | 14 | GPL-3.0 | 2026-09-28 | A cli tool to browse and play anime |
+| 80 | [pystardust/ani-cli](https://github.com/pystardust/ani-cli) | 13,900 | 883 | 14 | GPL-3.0 | 2026-09-28 | A cli tool to browse and play anime |
 | 81 | [nodesource/distributions](https://github.com/nodesource/distributions) | 13,849 | 3,109 | 24 | MIT | 2026-07-09 | NodeSource Node.js Binary Distributions |
 | 82 | [hq450/fancyss](https://github.com/hq450/fancyss) | 13,775 | 3,242 | 224 | GPL-3.0 | 2026-06-01 | fancyss is a project providing tools to across the GFW on asuswrt/merlin based router. |
-| 83 | [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | 13,509 | 1,121 | 1 | GPL-2.0 | 2023-08-06 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux,... |
+| 83 | [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) | 13,509 | 1,120 | 1 | GPL-2.0 | 2023-08-06 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux,... |
 | 84 | [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) | 13,408 | 911 | 166 | MIT | 2020-04-23 | Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial... |
 | 85 | [awslabs/git-secrets](https://github.com/awslabs/git-secrets) | 13,407 | 1,250 | 131 | Apache-2.0 | 2025-09-17 | Prevents you from committing secrets and credentials into git repositories |
 | 86 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 13,385 | 2,164 | 42 | GPL-3.0 | 2026-09-26 | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | 87 | [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) | 13,314 | 1,870 | 49 | GPL-3.0 | 2026-09-28 | Run sing-box/mihomo as client in shell |
 | 88 | [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) | 13,135 | 654 | 155 | CC0-1.0 | 2024-07-26 | 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. |
-| 89 | [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | 13,077 | 560 | 305 | MIT | 2024-08-13 | Persists tmux environment across system restarts. |
+| 89 | [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) | 13,077 | 559 | 305 | MIT | 2024-08-13 | Persists tmux environment across system restarts. |
 | 90 | [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) | 13,071 | 2,037 | 179 | — | 2023-05-11 |  |
 | 91 | [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) | 13,051 | 376 | 207 | OFL-1.1 | 2025-01-31 | JetBrains Mono – the free and open-source typeface for developers |
 | 92 | [p8952/bocker](https://github.com/p8952/bocker) | 12,682 | 749 | 15 | GPL-3.0 | 2017-12-09 | Docker implemented in around 100 lines of bash |
