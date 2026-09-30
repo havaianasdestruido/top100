@@ -1,17 +1,17 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,657** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,658** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,562 | 1,126 | 26 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,561 | 1,126 | 26 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,781 | 2,109 | 173 | — | 2024-10-20 | Stack trace visualizer |
 | 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,101 | 349 | 1 | MIT | 2026-09-28 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
-| 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,747 | 1,462 | 1 | NOASSERTION | 2026-09-25 | Nikto web server scanner |
+| 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,747 | 1,461 | 1 | NOASSERTION | 2026-09-25 | Nikto web server scanner |
 | 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,480 | 1,285 | 7 | GPL-3.0 | 2026-09-22 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,595 | 1,006 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
 | 7 | [astrid-runtime/book](https://github.com/astrid-runtime/book) | 7,456 | 32 | 1 | Apache-2.0 | 2026-09-08 | The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model. |
-| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,106 | 491 | 45 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
+| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,107 | 491 | 45 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
 | 9 | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) | 4,889 | 1,215 | 139 | BSD-2-Clause | 2024-04-10 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub |
 | 10 | [Jack000/Expose](https://github.com/Jack000/Expose) | 4,438 | 257 | 23 | MIT | 2022-03-16 | A simple static site generator for photoessays |
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,407 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
@@ -25,7 +25,7 @@ Ranked by stars. GitHub reports **188,657** total repositories matching `languag
 | 19 | [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) | 3,425 | 379 | 140 | GPL-3.0 | 2026-09-28 | Client for PPP+TLS VPN tunnel services |
 | 20 | [curl/trurl](https://github.com/curl/trurl) | 3,355 | 116 | 5 | NOASSERTION | 2026-09-02 | a command line tool for URL parsing and manipulation. |
 | 21 | [thoughtbot/rcm](https://github.com/thoughtbot/rcm) | 3,264 | 139 | 33 | BSD-3-Clause | 2025-05-23 | rc file (dotfile) management |
-| 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,215 | 313 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
+| 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,215 | 314 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
 | 23 | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) | 3,169 | 214 | 82 | MIT | 2026-09-26 | Sensible database change management |
 | 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,118 | 226 | 84 | MIT | 2026-09-10 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
 | 25 | [openresty/nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2,869 | 431 | 5 | — | 2021-03-05 | Nginx Tutorials |
@@ -36,7 +36,7 @@ Ranked by stars. GitHub reports **188,657** total repositories matching `languag
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,491 | 724 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,395 | 342 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,348 | 758 | 75 | MIT | 2018-10-14 |  |
-| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,330 | 644 | 2,361 | NOASSERTION | 2026-09-29 | 🐪 The Perl programming language |
+| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,330 | 644 | 2,360 | NOASSERTION | 2026-09-30 | 🐪 The Perl programming language |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,266 | 338 | 10 | CC-BY-4.0 | 2026-08-14 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,191 | 133 | 43 | NOASSERTION | 2026-09-29 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,159 | 142 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
@@ -49,7 +49,7 @@ Ranked by stars. GitHub reports **188,657** total repositories matching `languag
 | 43 | [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) | 1,856 | 312 | 74 | Apache-2.0 | 2026-09-26 | ModSecurity v3 Nginx Connector |
 | 44 | [duckduckgo/duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1,814 | 237 | 0 | NOASSERTION | 2022-10-14 | DuckDuckGo Instant Answer Infrastructure |
 | 45 | [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1,813 | 399 | 4 | GPL-2.0 | 2014-05-19 | Linux Exploit Suggester; based on operating system release number |
-| 46 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,788 | 317 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
+| 46 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,787 | 317 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
 | 47 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,783 | 377 | 119 | NOASSERTION | 2026-09-23 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
 | 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,766 | 469 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 49 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,705 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
@@ -83,7 +83,7 @@ Ranked by stars. GitHub reports **188,657** total repositories matching `languag
 | 77 | [creaktive/rainbarf](https://github.com/creaktive/rainbarf) | 1,206 | 65 | 2 | NOASSERTION | 2026-08-15 | it's like Rainmeter, but for CLI! |
 | 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,201 | 128 | 108 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
 | 79 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,161 | 298 | 82 | GPL-2.0 | 2026-09-29 | Request Tracker, an enterprise-grade issue tracking system |
-| 80 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,158 | 102 | 0 | — | 2026-09-28 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
+| 80 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,159 | 102 | 0 | — | 2026-09-28 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
 | 81 | [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) | 1,156 | 303 | 267 | GPL-2.0 | 2026-05-06 | lm-sensors repository |
 | 82 | [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 1,137 | 136 | 1 | — | 2023-02-01 | Golang - Regular Expression Tutorial |
 | 83 | [aspiers/stow](https://github.com/aspiers/stow) | 1,136 | 56 | 44 | GPL-3.0 | 2025-12-03 | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |

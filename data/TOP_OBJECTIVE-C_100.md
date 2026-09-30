@@ -1,6 +1,6 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,097** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,099** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -10,11 +10,11 @@ Ranked by stars. GitHub reports **543,097** total repositories matching `languag
 | 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,242 | 1,673 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
 | 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,290 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
 | 6 | [SnapKit/Masonry](https://github.com/SnapKit/Masonry) | 18,124 | 3,147 | 151 | MIT | 2023-04-13 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ... |
-| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,104 | 1,508 | 74 | GPL-2.0 | 2026-09-29 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
+| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,105 | 1,508 | 74 | GPL-2.0 | 2026-09-29 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
 | 8 | [realm/realm-swift](https://github.com/realm/realm-swift) | 16,612 | 2,239 | 498 | Apache-2.0 | 2026-09-27 | Realm is a mobile database: a replacement for Core Data & SQLite |
 | 9 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,195 | 721 | 697 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
 | 10 | [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15,913 | 3,556 | 94 | MIT | 2024-08-14 | MBProgressHUD + Customizations |
-| 11 | [keycastr/keycastr](https://github.com/keycastr/keycastr) | 15,137 | 577 | 90 | BSD-3-Clause | 2026-09-07 | KeyCastr, an open-source keystroke visualizer |
+| 11 | [keycastr/keycastr](https://github.com/keycastr/keycastr) | 15,138 | 577 | 90 | BSD-3-Clause | 2026-09-07 | KeyCastr, an open-source keystroke visualizer |
 | 12 | [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) | 14,640 | 1,793 | 50 | NOASSERTION | 2026-06-11 | An in-app debugging and exploration tool for iOS |
 | 13 | [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 14,303 | 2,946 | 105 | MIT | 2024-08-01 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews |
 | 14 | [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 14,279 | 2,440 | 152 | MIT | 2024-06-09 | 微信小助手 |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **543,097** total repositories matching `languag
 | 23 | [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12,441 | 2,987 | 0 | NOASSERTION | 2026-08-30 | Asynchronous socket networking library for Mac and iOS |
 | 24 | [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12,438 | 2,662 | 86 | MIT | 2026-02-27 | A clean and lightweight progress HUD for your iOS and tvOS app. |
 | 25 | [vicc/chameleon](https://github.com/vicc/chameleon) | 12,303 | 1,279 | 66 | NOASSERTION | 2021-05-03 | Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). |
-| 26 | [git-up/GitUp](https://github.com/git-up/GitUp) | 12,129 | 1,501 | 359 | GPL-3.0 | 2026-09-18 | The Git interface you've been missing all your life has finally arrived. |
+| 26 | [git-up/GitUp](https://github.com/git-up/GitUp) | 12,128 | 1,501 | 359 | GPL-3.0 | 2026-09-18 | The Git interface you've been missing all your life has finally arrived. |
 | 27 | [nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel) | 12,096 | 2,522 | 400 | NOASSERTION | 2024-06-27 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS |
 | 28 | [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 11,999 | 1,703 | 190 | MIT | 2022-07-06 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten... |
 | 29 | [bang590/JSPatch](https://github.com/bang590/JSPatch) | 11,319 | 2,211 | 106 | MIT | 2020-12-01 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho... |
@@ -78,7 +78,7 @@ Ranked by stars. GitHub reports **543,097** total repositories matching `languag
 | 72 | [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) | 7,089 | 906 | 38 | NOASSERTION | 2021-03-28 | Dash for iOS was discontinued. Please check out Dash for macOS instead. |
 | 73 | [CEWendel/SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 7,053 | 1,240 | 171 | MIT | 2021-05-20 | An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (simil... |
 | 74 | [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu) | 7,034 | 1,313 | 131 | MIT | 2017-12-05 | iOS 7/8 style side menu with parallax effect. |
-| 75 | [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | 6,950 | 269 | 32 | MIT | 2026-08-15 | Prevents your Mac from going to sleep. |
+| 75 | [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | 6,949 | 269 | 32 | MIT | 2026-08-15 | Prevents your Mac from going to sleep. |
 | 76 | [tonymillion/Reachability](https://github.com/tonymillion/Reachability) | 6,945 | 1,246 | 70 | BSD-2-Clause | 2026-03-25 | ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability |
 | 77 | [MortimerGoro/MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) | 6,908 | 1,056 | 132 | MIT | 2023-03-22 | An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. |
 | 78 | [MacPass/MacPass](https://github.com/MacPass/MacPass) | 6,874 | 468 | 292 | NOASSERTION | 2026-09-23 | A native macOS KeePass client |
@@ -95,7 +95,7 @@ Ranked by stars. GitHub reports **543,097** total repositories matching `languag
 | 89 | [IFTTT/JazzHands](https://github.com/IFTTT/JazzHands) | 6,353 | 659 | 14 | MIT | 2024-07-30 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. |
 | 90 | [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) | 6,350 | 1,609 | 651 | MIT | 2026-09-29 | iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping |
 | 91 | [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | 6,333 | 797 | 35 | NOASSERTION | 2026-05-08 | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案... |
-| 92 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,319 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
+| 92 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,318 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
 | 93 | [noodlewerk/NWPusher](https://github.com/noodlewerk/NWPusher) | 6,300 | 662 | 28 | BSD-2-Clause | 2021-03-30 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) |
 | 94 | [kif-framework/KIF](https://github.com/kif-framework/KIF) | 6,248 | 917 | 56 | NOASSERTION | 2026-08-13 | Keep It Functional - An iOS Functional Testing Framework |
 | 95 | [gsdios/SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6,178 | 1,490 | 506 | MIT | 2023-04-21 | Autoscroll Banner.   无限循环图片、文字轮播器。 |

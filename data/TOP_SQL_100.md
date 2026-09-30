@@ -5,12 +5,12 @@ Ranked by stars. GitHub reports **4,553** total repositories matching `language:
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,308 | 107 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,313 | 431 | 4 | MIT | 2026-09-29 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,313 | 431 | 2 | MIT | 2026-09-30 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 424 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 422 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 401 | 167 | 60 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
-| 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 308 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
+| 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 309 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 293 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 284 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 228 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
