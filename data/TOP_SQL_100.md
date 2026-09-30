@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,554** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,555** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **4,554** total repositories matching `language:
 | 95 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
 | 96 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
 | 97 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-09-13 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
-| 98 | [granthjoshi01/Event-Analytics-Platform](https://github.com/granthjoshi01/Event-Analytics-Platform) | 7 | 0 | 0 | MIT | 2026-02-26 | A production-style event analytics system focused on immutable event modeling, SQL-driven metrics, retention, and fun... |
-| 99 | [evgeniimatveev/SQL-Database-Design-A-Z](https://github.com/evgeniimatveev/SQL-Database-Design-A-Z) | 7 | 0 | 0 | — | 2026-09-18 | SQL database design in PostgreSQL: normalization (1NF→3NF), ERD diagrams, subqueries, window functions,   indexing an... |
-| 100 | [SelimHorri/oracle-sql-handy-queries](https://github.com/SelimHorri/oracle-sql-handy-queries) | 7 | 0 | 0 | — | 2021-03-27 | pretty handy, straight-forward Oracle SQL queries examples |
+| 98 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
+| 99 | [granthjoshi01/Event-Analytics-Platform](https://github.com/granthjoshi01/Event-Analytics-Platform) | 7 | 0 | 0 | MIT | 2026-02-26 | A production-style event analytics system focused on immutable event modeling, SQL-driven metrics, retention, and fun... |
+| 100 | [evgeniimatveev/SQL-Database-Design-A-Z](https://github.com/evgeniimatveev/SQL-Database-Design-A-Z) | 7 | 0 | 0 | — | 2026-09-18 | SQL database design in PostgreSQL: normalization (1NF→3NF), ERD diagrams, subqueries, window functions,   indexing an... |
