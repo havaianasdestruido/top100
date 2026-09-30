@@ -1,20 +1,20 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,099** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,102** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33,370 | 10,605 | 101 | MIT | 2023-01-17 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. |
-| 2 | [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25,627 | 5,958 | 133 | MIT | 2026-04-15 | Asynchronous image downloader with cache support as a UIImageView category |
-| 3 | [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22,553 | 3,540 | 907 | MIT | 2025-02-13 | A plugin for Mac WeChat |
-| 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,242 | 1,673 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
+| 1 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33,369 | 10,605 | 101 | MIT | 2023-01-17 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. |
+| 2 | [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25,627 | 5,957 | 133 | MIT | 2026-04-15 | Asynchronous image downloader with cache support as a UIImageView category |
+| 3 | [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22,551 | 3,539 | 907 | MIT | 2025-02-13 | A plugin for Mac WeChat |
+| 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,243 | 1,673 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
 | 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,290 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
 | 6 | [SnapKit/Masonry](https://github.com/SnapKit/Masonry) | 18,124 | 3,147 | 151 | MIT | 2023-04-13 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ... |
-| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,105 | 1,508 | 74 | GPL-2.0 | 2026-09-29 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
+| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,105 | 1,508 | 74 | GPL-2.0 | 2026-09-30 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
 | 8 | [realm/realm-swift](https://github.com/realm/realm-swift) | 16,612 | 2,239 | 498 | Apache-2.0 | 2026-09-27 | Realm is a mobile database: a replacement for Core Data & SQLite |
-| 9 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,195 | 721 | 697 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
+| 9 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,198 | 721 | 697 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
 | 10 | [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15,913 | 3,556 | 94 | MIT | 2024-08-14 | MBProgressHUD + Customizations |
-| 11 | [keycastr/keycastr](https://github.com/keycastr/keycastr) | 15,138 | 577 | 90 | BSD-3-Clause | 2026-09-07 | KeyCastr, an open-source keystroke visualizer |
+| 11 | [keycastr/keycastr](https://github.com/keycastr/keycastr) | 15,138 | 578 | 90 | BSD-3-Clause | 2026-09-07 | KeyCastr, an open-source keystroke visualizer |
 | 12 | [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) | 14,640 | 1,793 | 50 | NOASSERTION | 2026-06-11 | An in-app debugging and exploration tool for iOS |
 | 13 | [marcuswestin/WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) | 14,303 | 2,946 | 105 | MIT | 2024-08-01 | An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews |
 | 14 | [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 14,279 | 2,440 | 152 | MIT | 2024-06-09 | 微信小助手 |
@@ -22,9 +22,9 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 16 | [ccgus/fmdb](https://github.com/ccgus/fmdb) | 13,827 | 2,731 | 270 | NOASSERTION | 2026-03-15 | A Cocoa / Objective-C wrapper around SQLite |
 | 17 | [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13,803 | 3,517 | 58 | MIT | 2025-11-11 | An easy way to use pull-to-refresh. |
 | 18 | [eczarny/spectacle](https://github.com/eczarny/spectacle) | 13,630 | 860 | 148 | NOASSERTION | 2022-01-15 | Spectacle allows you to organize your windows without using a mouse. |
-| 19 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,403 | 529 | 404 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
+| 19 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,404 | 529 | 404 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
 | 20 | [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13,321 | 2,274 | 6 | BSD-3-Clause | 2026-09-21 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS |
-| 21 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,255 | 601 | 531 | GPL-3.0 | 2026-08-05 | LuLu is the free open-source macOS firewall |
+| 21 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,255 | 601 | 532 | GPL-3.0 | 2026-08-05 | LuLu is the free open-source macOS firewall |
 | 22 | [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13,071 | 1,540 | 63 | MIT | 2026-08-19 | A data-driven UICollectionView framework for building fast and flexible lists. |
 | 23 | [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12,441 | 2,987 | 0 | NOASSERTION | 2026-08-30 | Asynchronous socket networking library for Mac and iOS |
 | 24 | [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12,438 | 2,662 | 86 | MIT | 2026-02-27 | A clean and lightweight progress HUD for your iOS and tvOS app. |
@@ -35,12 +35,12 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 29 | [bang590/JSPatch](https://github.com/bang590/JSPatch) | 11,319 | 2,211 | 106 | MIT | 2020-12-01 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho... |
 | 30 | [Mantle/Mantle](https://github.com/Mantle/Mantle) | 11,241 | 1,467 | 0 | NOASSERTION | 2022-10-18 | Model framework for Cocoa and Cocoa Touch |
 | 31 | [jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 11,062 | 2,751 | 0 | NOASSERTION | 2018-12-12 | An elegant messages UI library for iOS |
-| 32 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,012 | 436 | 1,286 | NOASSERTION | 2026-09-29 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
+| 32 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,011 | 436 | 1,287 | NOASSERTION | 2026-09-29 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
 | 33 | [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10,691 | 1,761 | 242 | NOASSERTION | 2021-04-27 | Super Awesome Easy Fetching for Core Data! |
 | 34 | [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10,637 | 1,943 | 503 | MIT | 2024-08-10 | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
 | 35 | [RestKit/RestKit](https://github.com/RestKit/RestKit) | 10,082 | 2,065 | 364 | Apache-2.0 | 2022-08-27 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X |
 | 36 | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9,851 | 1,985 | 128 | MIT | 2022-03-07 | Template auto layout cell for automatically UITableViewCell height calculating |
-| 37 | [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) | 9,785 | 1,144 | 17 | NOASSERTION | 2026-09-28 | A software update framework for macOS |
+| 37 | [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) | 9,786 | 1,146 | 17 | NOASSERTION | 2026-09-28 | A software update framework for macOS |
 | 38 | [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) | 9,784 | 1,119 | 39 | MIT | 2017-09-28 | Package manager for Xcode |
 | 39 | [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart) | 9,634 | 1,735 | 173 | MIT | 2018-07-02 | A simple and beautiful chart lib used in Piner and CoinsMan for iOS |
 | 40 | [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9,597 | 2,006 | 190 | NOASSERTION | 2025-12-04 | A conforming Objective-C WebSocket client library. |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 42 | [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) | 9,195 | 838 | 530 | NOASSERTION | 2023-02-25 | MySQL/MariaDB database management for macOS |
 | 43 | [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) | 8,966 | 177 | 2 | BSD-3-Clause | 2026-08-30 | Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI ... |
 | 44 | [CodeTips/BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) | 8,881 | 1,744 | 66 | MIT | 2020-10-17 | For macOS.百度网盘 破解SVIP、下载速度限制~ |
-| 45 | [ibireme/YYText](https://github.com/ibireme/YYText) | 8,863 | 1,843 | 516 | MIT | 2024-07-16 | Powerful text framework for iOS to display and edit rich text. |
+| 45 | [ibireme/YYText](https://github.com/ibireme/YYText) | 8,863 | 1,844 | 516 | MIT | 2024-07-16 | Powerful text framework for iOS to display and edit rich text. |
 | 46 | [mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) | 8,701 | 2,645 | 335 | MIT | 2024-06-27 | A simple iOS photo and video browser with grid view, captions and selections. |
 | 47 | [TTTAttributedLabel/TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) | 8,701 | 1,691 | 178 | MIT | 2024-06-24 | A drop-in replacement for UILabel that supports attributes, data detectors, links, and more |
 | 48 | [CoderMJLee/MJExtension](https://github.com/CoderMJLee/MJExtension) | 8,486 | 2,129 | 28 | MIT | 2024-03-13 | A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to ext... |
@@ -66,7 +66,7 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 60 | [Grouper/FlatUIKit](https://github.com/Grouper/FlatUIKit) | 7,719 | 923 | 35 | MIT | 2016-09-29 | A collection of awesome flat UI components for iOS. |
 | 61 | [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) | 7,620 | 1,117 | 118 | GPL-3.0 | 2023-03-20 | GUI for v2ray-core on macOS |
 | 62 | [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout) | 7,588 | 727 | 46 | NOASSERTION | 2023-03-16 | The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible. |
-| 63 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,543 | 335 | 196 | NOASSERTION | 2026-09-28 | MySQL/MariaDB database management for macOS |
+| 63 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,543 | 336 | 197 | NOASSERTION | 2026-09-28 | MySQL/MariaDB database management for macOS |
 | 64 | [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) | 7,342 | 359 | 11 | NOASSERTION | 2026-08-30 | Send User Notifications on macOS from the command-line. |
 | 65 | [facebookarchive/KVOController](https://github.com/facebookarchive/KVOController) | 7,275 | 915 | 15 | NOASSERTION | 2020-01-25 | Simple, modern, thread-safe key-value observing for iOS and OS X. |
 | 66 | [maderix/ANE](https://github.com/maderix/ANE) | 7,261 | 956 | 30 | MIT | 2026-03-10 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
@@ -84,8 +84,8 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 78 | [MacPass/MacPass](https://github.com/MacPass/MacPass) | 6,874 | 468 | 292 | NOASSERTION | 2026-09-23 | A native macOS KeePass client |
 | 79 | [facebookarchive/xctool](https://github.com/facebookarchive/xctool) | 6,855 | 718 | 9 | Apache-2.0 | 2019-12-11 | An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps. |
 | 80 | [BlocksKit/BlocksKit](https://github.com/BlocksKit/BlocksKit) | 6,819 | 1,244 | 91 | MIT | 2018-02-02 | The Objective-C block utilities you always wish you had. |
-| 81 | [jsonmodel/jsonmodel](https://github.com/jsonmodel/jsonmodel) | 6,802 | 1,047 | 34 | MIT | 2021-11-06 | Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, ma... |
-| 82 | [AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) | 6,794 | 1,238 | 186 | GPL-3.0 | 2022-07-09 | CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak. |
+| 81 | [jsonmodel/jsonmodel](https://github.com/jsonmodel/jsonmodel) | 6,802 | 1,046 | 34 | MIT | 2021-11-06 | Magical Data Modeling Framework for JSON - allows rapid creation of smart data models. You can use it in your iOS, ma... |
+| 82 | [AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) | 6,793 | 1,238 | 186 | GPL-3.0 | 2022-07-09 | CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak. |
 | 83 | [griddynamics-archive/MMDrawerController](https://github.com/griddynamics-archive/MMDrawerController) | 6,694 | 1,349 | 189 | MIT | 2023-01-09 | A lightweight, easy to use, Side Drawer Navigation Controller |
 | 84 | [swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer) | 6,614 | 1,324 | 42 | NOASSERTION | 2022-10-05 | The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server) |
 | 85 | [mamaral/Onboard](https://github.com/mamaral/Onboard) | 6,557 | 749 | 45 | MIT | 2025-01-01 | An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **543,099** total repositories matching `languag
 | 88 | [jverkoey/nimbus](https://github.com/jverkoey/nimbus) | 6,406 | 1,269 | 3 | Apache-2.0 | 2024-04-25 | The iOS framework that grows only as fast as its documentation |
 | 89 | [IFTTT/JazzHands](https://github.com/IFTTT/JazzHands) | 6,353 | 659 | 14 | MIT | 2024-07-30 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. |
 | 90 | [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) | 6,350 | 1,609 | 651 | MIT | 2026-09-29 | iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping |
-| 91 | [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | 6,333 | 797 | 35 | NOASSERTION | 2026-05-08 | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案... |
+| 91 | [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | 6,335 | 797 | 35 | NOASSERTION | 2026-05-08 | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案... |
 | 92 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,318 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
 | 93 | [noodlewerk/NWPusher](https://github.com/noodlewerk/NWPusher) | 6,300 | 662 | 28 | BSD-2-Clause | 2021-03-30 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) |
 | 94 | [kif-framework/KIF](https://github.com/kif-framework/KIF) | 6,248 | 917 | 56 | NOASSERTION | 2026-08-13 | Keep It Functional - An iOS Functional Testing Framework |
