@@ -1,6 +1,6 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,086** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,094** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -8,9 +8,9 @@ Ranked by stars. GitHub reports **543,086** total repositories matching `languag
 | 2 | [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25,616 | 5,954 | 133 | MIT | 2026-04-15 | Asynchronous image downloader with cache support as a UIImageView category |
 | 3 | [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22,550 | 3,540 | 907 | MIT | 2025-02-13 | A plugin for Mac WeChat |
 | 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,252 | 1,674 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
-| 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,290 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
+| 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,291 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
 | 6 | [SnapKit/Masonry](https://github.com/SnapKit/Masonry) | 18,122 | 3,147 | 151 | MIT | 2023-04-13 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ... |
-| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,109 | 1,508 | 75 | GPL-2.0 | 2026-10-01 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
+| 7 | [gnachman/iTerm2](https://github.com/gnachman/iTerm2) | 18,109 | 1,509 | 75 | GPL-2.0 | 2026-10-01 | iTerm2 is a terminal emulator for Mac OS X that does amazing things. |
 | 8 | [realm/realm-swift](https://github.com/realm/realm-swift) | 16,610 | 2,237 | 498 | Apache-2.0 | 2026-09-27 | Realm is a mobile database: a replacement for Core Data & SQLite |
 | 9 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,211 | 721 | 697 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
 | 10 | [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15,909 | 3,555 | 94 | MIT | 2024-08-14 | MBProgressHUD + Customizations |
@@ -22,7 +22,7 @@ Ranked by stars. GitHub reports **543,086** total repositories matching `languag
 | 16 | [ccgus/fmdb](https://github.com/ccgus/fmdb) | 13,827 | 2,731 | 270 | NOASSERTION | 2026-03-15 | A Cocoa / Objective-C wrapper around SQLite |
 | 17 | [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13,802 | 3,517 | 58 | MIT | 2025-11-11 | An easy way to use pull-to-refresh. |
 | 18 | [eczarny/spectacle](https://github.com/eczarny/spectacle) | 13,629 | 861 | 148 | NOASSERTION | 2022-01-15 | Spectacle allows you to organize your windows without using a mouse. |
-| 19 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,408 | 530 | 404 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
+| 19 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,408 | 531 | 404 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
 | 20 | [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13,322 | 2,274 | 6 | BSD-3-Clause | 2026-09-21 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS |
 | 21 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,267 | 602 | 533 | GPL-3.0 | 2026-08-05 | LuLu is the free open-source macOS firewall |
 | 22 | [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13,072 | 1,539 | 63 | MIT | 2026-08-19 | A data-driven UICollectionView framework for building fast and flexible lists. |
@@ -40,7 +40,7 @@ Ranked by stars. GitHub reports **543,086** total repositories matching `languag
 | 34 | [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10,637 | 1,943 | 503 | MIT | 2024-08-10 | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
 | 35 | [RestKit/RestKit](https://github.com/RestKit/RestKit) | 10,082 | 2,064 | 364 | Apache-2.0 | 2022-08-27 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X |
 | 36 | [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) | 9,851 | 1,985 | 128 | MIT | 2022-03-07 | Template auto layout cell for automatically UITableViewCell height calculating |
-| 37 | [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) | 9,793 | 1,146 | 17 | NOASSERTION | 2026-09-28 | A software update framework for macOS |
+| 37 | [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) | 9,794 | 1,146 | 17 | NOASSERTION | 2026-09-28 | A software update framework for macOS |
 | 38 | [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) | 9,784 | 1,119 | 39 | MIT | 2017-09-28 | Package manager for Xcode |
 | 39 | [kevinzhow/PNChart](https://github.com/kevinzhow/PNChart) | 9,634 | 1,735 | 173 | MIT | 2018-07-02 | A simple and beautiful chart lib used in Piner and CoinsMan for iOS |
 | 40 | [facebookincubator/SocketRocket](https://github.com/facebookincubator/SocketRocket) | 9,596 | 2,005 | 190 | NOASSERTION | 2025-12-04 | A conforming Objective-C WebSocket client library. |
