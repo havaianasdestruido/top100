@@ -1,106 +1,106 @@
 # Top 100 JavaScript repositories on GitHub
 
-Ranked by stars. GitHub reports **47,722,106** total repositories matching `language:JavaScript`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **47,727,830** total repositories matching `language:JavaScript`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 270,720 | 40,469 | 321 | MIT | 2026-10-01 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
-| 2 | [react/react](https://github.com/react/react) | 250,867 | 51,420 | 1,394 | MIT | 2026-10-01 | The library for web and native user interfaces. |
-| 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,868 | 31,020 | 408 | MIT | 2026-07-26 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
-| 4 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 159,006 | 46,141 | 18 | Apache-2.0 | 2026-10-02 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150,518 | 8,082 | 336 | MIT | 2026-09-14 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 270,841 | 40,494 | 336 | MIT | 2026-10-02 | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first developmen... |
+| 2 | [react/react](https://github.com/react/react) | 250,871 | 51,421 | 1,395 | MIT | 2026-10-01 | The library for web and native user interfaces. |
+| 3 | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,865 | 31,020 | 408 | MIT | 2026-07-26 | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| 4 | [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 159,007 | 46,141 | 19 | Apache-2.0 | 2026-10-02 | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150,902 | 8,099 | 337 | MIT | 2026-09-14 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | 6 | [airbnb/javascript](https://github.com/airbnb/javascript) | 148,307 | 26,556 | 167 | MIT | 2026-04-16 | JavaScript Style Guide |
-| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 142,991 | 33,559 | 3,543 | MIT | 2026-10-02 | The React Framework |
-| 8 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129,305 | 12,486 | 3 | CC-BY-4.0 | 2026-10-01 | Coding articles to level up your development skills |
-| 9 | [nodejs/node](https://github.com/nodejs/node) | 122,229 | 38,450 | 1,194 | NOASSERTION | 2026-10-01 | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 10 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 116,145 | 36,600 | 383 | MIT | 2026-10-01 | JavaScript 3D Library. |
-| 11 | [axios/axios](https://github.com/axios/axios) | 109,249 | 11,887 | 105 | MIT | 2026-10-01 | Promise based HTTP client for the browser and node.js |
+| 7 | [vercel/next.js](https://github.com/vercel/next.js) | 142,999 | 33,563 | 3,538 | MIT | 2026-10-02 | The React Framework |
+| 8 | [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) | 129,306 | 12,486 | 0 | CC-BY-4.0 | 2026-10-02 | Coding articles to level up your development skills |
+| 9 | [nodejs/node](https://github.com/nodejs/node) | 122,232 | 38,454 | 1,165 | NOASSERTION | 2026-10-02 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 10 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | 116,150 | 36,604 | 383 | MIT | 2026-10-02 | JavaScript 3D Library. |
+| 11 | [axios/axios](https://github.com/axios/axios) | 109,249 | 11,887 | 104 | MIT | 2026-10-01 | Promise based HTTP client for the browser and node.js |
 | 12 | [react/create-react-app](https://github.com/react/create-react-app) | 103,232 | 26,886 | 2,410 | MIT | 2025-02-15 | Set up a modern web app by running one command. |
-| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100,354 | 10,542 | 122 | MIT | 2026-09-26 | Production-grade engineering skills for AI coding agents. |
-| 14 | [mui/material-ui](https://github.com/mui/material-ui) | 99,124 | 32,510 | 1,471 | MIT | 2026-10-01 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
-| 15 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 96,869 | 15,989 | 134 | MIT | 2026-10-01 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
-| 16 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 94,759 | 12,580 | 123 | MIT | 2024-07-29 | Clean Code concepts adapted for JavaScript |
-| 17 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92,037 | 8,503 | 827 | MIT | 2026-10-02 | A fancy self-hosted monitoring tool |
-| 18 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 91,801 | 6,237 | 73 | MIT | 2026-09-26 | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
-| 19 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,233 | 6,859 | 1,104 | MIT | 2026-09-30 | web development for the rest of us |
-| 20 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 79,817 | 38,114 | 294 | MIT | 2026-10-01 | :zap: Dynamically generated stats for your github readmes |
-| 21 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 76,947 | 12,169 | 317 | NOASSERTION | 2026-07-15 | The iconic SVG, font, and CSS toolkit |
-| 22 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 75,834 | 5,098 | 201 | MIT | 2026-09-30 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contai... |
-| 23 | [typicode/json-server](https://github.com/typicode/json-server) | 75,711 | 7,264 | 719 | MIT | 2026-03-23 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
-| 24 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 73,682 | 4,437 | 61 | Apache-2.0 | 2026-10-02 | The design language that makes your AI harness better at design. |
-| 25 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73,254 | 13,775 | 472 | MIT | 2026-10-02 | Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 s... |
-| 26 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | 73,242 | 4,951 | 120 | MIT | 2026-08-21 | JavaScript animation engine |
-| 27 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,369 | 17,021 | 918 | MIT | 2026-09-30 | The HTML Presentation Framework |
-| 28 | [expressjs/express](https://github.com/expressjs/express) | 69,502 | 25,114 | 237 | MIT | 2026-10-01 | Fast, unopinionated, minimalist web framework for node. |
-| 29 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 68,726 | 11,168 | 55 | CC0-1.0 | 2026-10-01 | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT G... |
-| 30 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | 68,268 | 4,371 | 15 | GPL-3.0 | 2026-10-01 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
-| 31 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 67,730 | 11,947 | 594 | MIT | 2026-09-29 | Simple HTML5 Charts using the <canvas> tag |
-| 32 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 66,658 | 7,436 | 314 | MIT | 2026-10-01 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 33 | [byoungd/up](https://github.com/byoungd/up) | 66,628 | 6,652 | 33 | NOASSERTION | 2026-09-20 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英... |
+| 13 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100,398 | 10,547 | 116 | MIT | 2026-10-02 | Production-grade engineering skills for AI coding agents. |
+| 14 | [mui/material-ui](https://github.com/mui/material-ui) | 99,122 | 32,510 | 1,473 | MIT | 2026-10-01 | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
+| 15 | [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 96,871 | 15,988 | 134 | MIT | 2026-10-01 | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| 16 | [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | 94,760 | 12,580 | 123 | MIT | 2024-07-29 | Clean Code concepts adapted for JavaScript |
+| 17 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92,043 | 8,505 | 827 | MIT | 2026-10-02 | A fancy self-hosted monitoring tool |
+| 18 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 91,882 | 6,242 | 73 | MIT | 2026-09-26 | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| 19 | [sveltejs/svelte](https://github.com/sveltejs/svelte) | 88,236 | 6,860 | 1,105 | MIT | 2026-09-30 | web development for the rest of us |
+| 20 | [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 79,818 | 38,118 | 294 | MIT | 2026-10-01 | :zap: Dynamically generated stats for your github readmes |
+| 21 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | 76,948 | 12,167 | 316 | NOASSERTION | 2026-07-15 | The iconic SVG, font, and CSS toolkit |
+| 22 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 75,989 | 5,117 | 201 | MIT | 2026-09-30 | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contai... |
+| 23 | [typicode/json-server](https://github.com/typicode/json-server) | 75,710 | 7,264 | 719 | MIT | 2026-03-23 | Get a full fake REST API with zero coding in less than 30 seconds (seriously) |
+| 24 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 73,872 | 4,449 | 54 | Apache-2.0 | 2026-10-02 | The design language that makes your AI harness better at design. |
+| 25 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73,266 | 13,777 | 473 | MIT | 2026-10-02 | Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 s... |
+| 26 | [juliangarnier/anime](https://github.com/juliangarnier/anime) | 73,247 | 4,951 | 120 | MIT | 2026-08-21 | JavaScript animation engine |
+| 27 | [hakimel/reveal.js](https://github.com/hakimel/reveal.js) | 72,371 | 17,021 | 918 | MIT | 2026-09-30 | The HTML Presentation Framework |
+| 28 | [expressjs/express](https://github.com/expressjs/express) | 69,503 | 25,119 | 238 | MIT | 2026-10-01 | Fast, unopinionated, minimalist web framework for node. |
+| 29 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 68,743 | 11,173 | 56 | CC0-1.0 | 2026-10-01 | Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT G... |
+| 30 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | 68,274 | 4,372 | 15 | GPL-3.0 | 2026-10-01 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| 31 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 67,730 | 11,946 | 595 | MIT | 2026-09-29 | Simple HTML5 Charts using the <canvas> tag |
+| 32 | [byoungd/up](https://github.com/byoungd/up) | 66,682 | 6,656 | 33 | NOASSERTION | 2026-09-20 | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英... |
+| 33 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 66,668 | 7,437 | 325 | MIT | 2026-10-02 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 34 | [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 66,534 | 9,123 | 8 | MIT | 2026-09-10 | 📜 33 JavaScript concepts every developer should know. |
-| 35 | [webpack/webpack](https://github.com/webpack/webpack) | 65,956 | 9,541 | 120 | MIT | 2026-10-02 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading... |
-| 36 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 64,411 | 5,439 | 0 | MIT | 2026-05-31 | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by... |
-| 37 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 63,372 | 5,782 | 5 | GPL-3.0 | 2026-10-01 | Official electron build of draw.io |
+| 35 | [webpack/webpack](https://github.com/webpack/webpack) | 65,955 | 9,539 | 118 | MIT | 2026-10-02 | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading... |
+| 36 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 64,408 | 5,440 | 0 | MIT | 2026-05-31 | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by... |
+| 37 | [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) | 63,374 | 5,781 | 5 | GPL-3.0 | 2026-10-01 | Official electron build of draw.io |
 | 38 | [resume/resume.github.com](https://github.com/resume/resume.github.com) | 62,889 | 1,370 | 78 | — | 2023-02-15 | Resumes generated using the GitHub informations |
-| 39 | [lodash/lodash](https://github.com/lodash/lodash) | 61,262 | 7,190 | 116 | NOASSERTION | 2026-10-01 | A modern JavaScript utility library delivering modularity, performance, & extras. |
+| 39 | [lodash/lodash](https://github.com/lodash/lodash) | 61,262 | 7,189 | 117 | NOASSERTION | 2026-10-01 | A modern JavaScript utility library delivering modularity, performance, & extras. |
 | 40 | [atom/atom](https://github.com/atom/atom) | 60,712 | 17,162 | 993 | MIT | 2023-01-03 | :atom: The hackable text editor |
-| 41 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here) | 60,262 | 10,998 | 319 | MIT | 2025-08-22 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. |
-| 42 | [jquery/jquery](https://github.com/jquery/jquery) | 59,780 | 20,397 | 101 | MIT | 2026-10-01 | jQuery JavaScript Library |
-| 43 | [angular/angular.js](https://github.com/angular/angular.js) | 58,488 | 26,962 | 461 | MIT | 2024-04-12 | AngularJS - HTML enhanced for web apps! |
-| 44 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 57,641 | 15,844 | 120 | GPL-3.0 | 2024-06-26 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续...... |
+| 41 | [adam-p/markdown-here](https://github.com/adam-p/markdown-here) | 60,263 | 10,997 | 319 | MIT | 2025-08-22 | Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. |
+| 42 | [jquery/jquery](https://github.com/jquery/jquery) | 59,779 | 20,398 | 101 | MIT | 2026-10-01 | jQuery JavaScript Library |
+| 43 | [angular/angular.js](https://github.com/angular/angular.js) | 58,488 | 26,960 | 461 | MIT | 2024-04-12 | AngularJS - HTML enhanced for web apps! |
+| 44 | [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 57,642 | 15,843 | 120 | GPL-3.0 | 2024-06-26 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续...... |
 | 45 | [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) | 57,641 | 12,256 | 19 | MIT | 2026-10-01 | A professional front-end template for building fast, robust, and adaptable web apps or sites. |
-| 46 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55,941 | 10,111 | 451 | MIT | 2026-10-01 | React-based framework with performance, scalability, and security built in. |
+| 46 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55,941 | 10,110 | 451 | MIT | 2026-10-01 | React-based framework with performance, scalability, and security built in. |
 | 47 | [azl397985856/leetcode](https://github.com/azl397985856/leetcode) | 55,733 | 9,350 | 13 | NOASSERTION | 2025-07-16 | LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) |
-| 48 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 53,973 | 10,691 | 436 | Apache-2.0 | 2026-10-01 | PDF Reader in JavaScript |
-| 49 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 53,532 | 10,750 | 137 | MIT | 2026-06-17 | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 |
-| 50 | [prettier/prettier](https://github.com/prettier/prettier) | 52,318 | 5,030 | 1,469 | MIT | 2026-10-01 | Prettier is an opinionated code formatter. |
-| 51 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 52,295 | 3,945 | 10 | MIT | 2026-09-24 | ⭐️  Companies that don't have a broken hiring process |
-| 52 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52,172 | 7,865 | 121 | MIT | 2026-10-01 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| 48 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | 53,972 | 10,691 | 438 | Apache-2.0 | 2026-10-01 | PDF Reader in JavaScript |
+| 49 | [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | 53,531 | 10,750 | 137 | MIT | 2026-06-17 | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 |
+| 50 | [prettier/prettier](https://github.com/prettier/prettier) | 52,318 | 5,030 | 1,470 | MIT | 2026-10-02 | Prettier is an opinionated code formatter. |
+| 51 | [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 52,300 | 3,944 | 10 | MIT | 2026-09-24 | ⭐️  Companies that don't have a broken hiring process |
+| 52 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52,204 | 7,867 | 121 | MIT | 2026-10-01 | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 | 53 | [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) | 51,023 | 4,844 | 1,071 | MIT | 2024-11-27 | Semantic is a UI component framework based around useful principles from natural language. |
 | 54 | [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 49,844 | 6,642 | 71 | — | 2023-10-23 | Based on a true story |
-| 55 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49,537 | 1,674 | 281 | NOASSERTION | 2026-09-22 | </> htmx - high power tools for HTML |
+| 55 | [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49,538 | 1,674 | 281 | NOASSERTION | 2026-09-22 | </> htmx - high power tools for HTML |
 | 56 | [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) | 48,875 | 7,580 | 80 | MIT | 2024-06-09 | :fireworks:Interactive Online Platform that Visualizes Algorithms from Code |
-| 57 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 48,668 | 3,812 | 1,352 | MIT | 2026-09-15 | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API |
-| 58 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 48,387 | 2,366 | 2 | NOASSERTION | 2026-09-30 | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
-| 59 | [moment/moment](https://github.com/moment/moment) | 47,902 | 6,980 | 59 | MIT | 2026-09-15 | Parse, validate, manipulate, and display dates in javascript. |
-| 60 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47,312 | 2,944 | 1,859 | MIT | 2026-10-01 | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
-| 61 | [serverless/serverless](https://github.com/serverless/serverless) | 46,918 | 5,718 | 1,208 | NOASSERTION | 2026-10-01 | ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mai... |
-| 62 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46,873 | 10,456 | 368 | — | 2026-08-27 | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 da... |
-| 63 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46,823 | 4,148 | 864 | MIT | 2026-09-30 | A browser based code editor |
+| 57 | [iamkun/dayjs](https://github.com/iamkun/dayjs) | 48,667 | 3,815 | 1,352 | MIT | 2026-09-15 | ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API |
+| 58 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 48,400 | 2,368 | 2 | NOASSERTION | 2026-09-30 | An open source collection of animated, interactive & fully customizable React components for building memorable websi... |
+| 59 | [moment/moment](https://github.com/moment/moment) | 47,902 | 6,979 | 59 | MIT | 2026-09-15 | Parse, validate, manipulate, and display dates in javascript. |
+| 60 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47,315 | 2,946 | 1,860 | MIT | 2026-10-01 | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) |
+| 61 | [serverless/serverless](https://github.com/serverless/serverless) | 46,919 | 5,717 | 1,208 | NOASSERTION | 2026-10-01 | ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal mai... |
+| 62 | [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | 46,874 | 10,456 | 368 | — | 2026-08-27 | 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 da... |
+| 63 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46,825 | 4,148 | 864 | MIT | 2026-09-30 | A browser based code editor |
 | 64 | [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) | 46,531 | 6,688 | 133 | MIT | 2026-04-12 | 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everythi... |
-| 65 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 46,188 | 9,454 | 278 | NOASSERTION | 2026-10-01 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photor... |
+| 65 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 46,308 | 9,480 | 278 | NOASSERTION | 2026-10-02 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photor... |
 | 66 | [google/zx](https://github.com/google/zx) | 45,773 | 1,305 | 64 | Apache-2.0 | 2026-08-14 | A tool for writing better scripts |
-| 67 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45,690 | 6,180 | 584 | BSD-2-Clause | 2026-09-28 | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
-| 68 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 45,055 | 3,216 | 6 | GPL-3.0 | 2021-10-19 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
+| 67 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45,691 | 6,180 | 584 | BSD-2-Clause | 2026-09-28 | 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 |
+| 68 | [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) | 45,055 | 3,217 | 6 | GPL-3.0 | 2021-10-19 | A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. |
 | 69 | [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) | 44,836 | 10,393 | 11 | MIT | 2026-09-28 | List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!! |
-| 70 | [meteor/meteor](https://github.com/meteor/meteor) | 44,800 | 5,243 | 329 | NOASSERTION | 2026-10-01 | Meteor, the JavaScript App Platform |
-| 71 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 44,626 | 5,389 | 271 | AGPL-3.0 | 2026-09-17 | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应... |
+| 70 | [meteor/meteor](https://github.com/meteor/meteor) | 44,801 | 5,243 | 329 | NOASSERTION | 2026-10-01 | Meteor, the JavaScript App Platform |
+| 71 | [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) | 44,624 | 5,389 | 271 | AGPL-3.0 | 2026-09-17 | A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应... |
 | 72 | [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) | 44,021 | 2,291 | 610 | MIT | 2026-09-29 | The zero configuration build tool for the web. 📦🚀 |
 | 73 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44,011 | 5,927 | 11 | MIT | 2026-08-13 | Front End interview preparation materials for busy engineers (updated for 2026) |
-| 74 | [Unitech/pm2](https://github.com/Unitech/pm2) | 43,299 | 2,730 | 1,105 | NOASSERTION | 2026-09-04 | Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer. |
-| 75 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,521 | 1,699 | 46 | MIT | 2026-09-30 | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
-| 76 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app) | 41,615 | 3,707 | 708 | Apache-2.0 | 2026-10-01 | A cross-platform framework using Vue.js |
-| 77 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | 41,473 | 2,707 | 2,055 | NOASSERTION | 2026-05-12 | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry |
-| 78 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 41,365 | 2,359 | 210 | MIT | 2024-07-28 | The best design tools and plugins for everything 👉 |
-| 79 | [nwjs/nw.js](https://github.com/nwjs/nw.js) | 41,148 | 3,849 | 912 | MIT | 2026-09-25 | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno... |
-| 80 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41,025 | 5,470 | 1,281 | AGPL-3.0 | 2026-10-01 | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, busines... |
-| 81 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 40,875 | 3,959 | 11 | NOASSERTION | 2026-10-01 | Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies |
-| 82 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 40,870 | 3,493 | 83 | CC0-1.0 | 2026-05-30 | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
+| 74 | [Unitech/pm2](https://github.com/Unitech/pm2) | 43,298 | 2,730 | 1,105 | NOASSERTION | 2026-09-04 | Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer. |
+| 75 | [saadeghi/daisyui](https://github.com/saadeghi/daisyui) | 42,526 | 1,700 | 46 | MIT | 2026-09-30 | 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library |
+| 76 | [dcloudio/uni-app](https://github.com/dcloudio/uni-app) | 41,615 | 3,707 | 708 | Apache-2.0 | 2026-10-02 | A cross-platform framework using Vue.js |
+| 77 | [yarnpkg/yarn](https://github.com/yarnpkg/yarn) | 41,472 | 2,706 | 2,055 | NOASSERTION | 2026-05-12 | The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry |
+| 78 | [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) | 41,371 | 2,359 | 210 | MIT | 2024-07-28 | The best design tools and plugins for everything 👉 |
+| 79 | [nwjs/nw.js](https://github.com/nwjs/nw.js) | 41,148 | 3,848 | 912 | MIT | 2026-09-25 | Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web techno... |
+| 80 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41,024 | 5,468 | 1,282 | AGPL-3.0 | 2026-10-02 | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, busines... |
+| 81 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 40,874 | 3,959 | 11 | NOASSERTION | 2026-10-01 | Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies |
+| 82 | [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | 40,872 | 3,493 | 83 | CC0-1.0 | 2026-05-30 | 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors |
 | 83 | [phaserjs/phaser](https://github.com/phaserjs/phaser) | 40,398 | 7,161 | 158 | MIT | 2026-08-21 | Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporti... |
-| 84 | [videojs/video.js](https://github.com/videojs/video.js) | 39,901 | 7,480 | 673 | NOASSERTION | 2026-09-16 | Video.js - open source HTML5 video player |
-| 85 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 39,821 | 3,281 | 241 | AGPL-3.0 | 2026-09-29 | Free, simple, and intuitive online database diagram editor and SQL generator. |
-| 86 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39,604 | 5,042 | 87 | MIT | 2026-10-01 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
-| 87 | [preactjs/preact](https://github.com/preactjs/preact) | 38,899 | 3,394 | 49 | MIT | 2026-09-30 | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. |
+| 84 | [videojs/video.js](https://github.com/videojs/video.js) | 39,901 | 7,479 | 673 | NOASSERTION | 2026-09-16 | Video.js - open source HTML5 video player |
+| 85 | [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 39,822 | 3,281 | 241 | AGPL-3.0 | 2026-09-29 | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| 86 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | 39,617 | 5,044 | 87 | MIT | 2026-10-01 | Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. |
+| 87 | [preactjs/preact](https://github.com/preactjs/preact) | 38,900 | 3,396 | 49 | MIT | 2026-09-30 | ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM. |
 | 88 | [Dogfalo/materialize](https://github.com/Dogfalo/materialize) | 38,795 | 4,590 | 789 | MIT | 2026-08-20 | Materialize, a CSS Framework based on Material Design |
-| 89 | [naptha/tesseract.js](https://github.com/naptha/tesseract.js) | 38,752 | 2,396 | 56 | Apache-2.0 | 2026-05-17 | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 |
+| 89 | [naptha/tesseract.js](https://github.com/naptha/tesseract.js) | 38,753 | 2,396 | 56 | Apache-2.0 | 2026-05-17 | Pure Javascript OCR for more than 100 Languages 📖🎉🖥 |
 | 90 | [impress/impress.js](https://github.com/impress/impress.js) | 38,156 | 6,567 | 59 | MIT | 2026-07-23 | It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired b... |
-| 91 | [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) | 37,685 | 2,676 | 48 | WTFPL | 2026-07-03 | 🤪 A list of funny and tricky JavaScript examples |
-| 92 | [fastify/fastify](https://github.com/fastify/fastify) | 37,217 | 3,045 | 158 | MIT | 2026-10-01 | Fast and low overhead web framework, for Node.js |
-| 93 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | 37,067 | 6,874 | 1,037 | MIT | 2026-01-09 | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模... |
+| 91 | [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) | 37,684 | 2,676 | 48 | WTFPL | 2026-07-03 | 🤪 A list of funny and tricky JavaScript examples |
+| 92 | [fastify/fastify](https://github.com/fastify/fastify) | 37,219 | 3,044 | 158 | MIT | 2026-10-01 | Fast and low overhead web framework, for Node.js |
+| 93 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | 37,069 | 6,875 | 1,038 | MIT | 2026-01-09 | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模... |
 | 94 | [carbon-app/carbon](https://github.com/carbon-app/carbon) | 36,112 | 1,975 | 86 | MIT | 2026-02-10 | :black_heart: Create and share beautiful images of your source code |
-| 95 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36,007 | 4,162 | 586 | Apache-2.0 | 2026-09-26 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
-| 96 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 35,828 | 5,835 | 11 | MIT | 2025-01-01 | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 |
+| 95 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36,006 | 4,161 | 588 | Apache-2.0 | 2026-10-02 | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis |
+| 96 | [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) | 35,830 | 5,835 | 11 | MIT | 2025-01-01 | 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。 |
 | 97 | [koajs/koa](https://github.com/koajs/koa) | 35,679 | 3,231 | 40 | MIT | 2026-09-19 | Expressive middleware for node.js using ES2017 async functions |
 | 98 | [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) | 35,385 | 7,091 | 129 | GPL-3.0 | 2026-09-20 | fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple |
 | 99 | [typicode/husky](https://github.com/typicode/husky) | 35,336 | 1,097 | 107 | MIT | 2026-03-19 | Git hooks made easy 🐶 woof! |
-| 100 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35,254 | 8,111 | 2 | MIT | 2026-09-29 | A boilerplate for Node.js web applications |
+| 100 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35,254 | 8,109 | 2 | MIT | 2026-09-29 | A boilerplate for Node.js web applications |
