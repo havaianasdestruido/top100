@@ -1,18 +1,18 @@
 # Top 100 CSS repositories on GitHub
 
-Ranked by stars. GitHub reports **11,388,006** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **11,388,458** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [animate-css/animate.css](https://github.com/animate-css/animate.css) | 82,844 | 15,880 | 80 | NOASSERTION | 2024-07-29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
-| 2 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 64,806 | 3,960 | 27 | NOASSERTION | 2026-09-30 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph co... |
+| 1 | [animate-css/animate.css](https://github.com/animate-css/animate.css) | 82,844 | 15,879 | 80 | NOASSERTION | 2024-07-29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
+| 2 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 64,808 | 3,960 | 27 | NOASSERTION | 2026-09-30 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph co... |
 | 3 | [necolas/normalize.css](https://github.com/necolas/normalize.css) | 53,507 | 10,309 | 75 | MIT | 2024-06-12 | A modern alternative to CSS resets |
 | 4 | [jgthms/bulma](https://github.com/jgthms/bulma) | 50,055 | 3,875 | 527 | MIT | 2026-09-21 | Modern CSS framework based on Flexbox |
-| 5 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45,355 | 5,555 | 246 | NOASSERTION | 2026-10-01 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
+| 5 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45,354 | 5,555 | 246 | NOASSERTION | 2026-10-01 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 | 6 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 40,644 | 9,724 | 48 | MIT | 2025-02-26 | 50+ mini web projects using HTML, CSS & JS |
 | 7 | [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37,795 | 1,417 | 159 | NOASSERTION | 2023-07-16 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. |
-| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 37,392 | 3,126 | 0 | — | 2026-10-02 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 29,459 | 1,516 | 48 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 37,394 | 3,126 | 0 | — | 2026-10-02 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 29,461 | 1,517 | 48 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | 10 | [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26,850 | 5,169 | 103 | — | 2022-02-28 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the exper... |
 | 11 | [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20,452 | 1,645 | 87 | OFL-1.1 | 2025-10-28 | Monospaced font family for user interface and coding environments |
 | 12 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | 19,622 | 564 | 81 | OSL-3.0 | 2026-10-01 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering rob... |
@@ -26,8 +26,8 @@ Ranked by stars. GitHub reports **11,388,006** total repositories matching `lang
 | 20 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13,985 | 3,090 | 88 | NOASSERTION | 2022-07-09 | Tomorrow Theme |
 | 21 | [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12,907 | 978 | 38 | MIT | 2022-12-03 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. |
 | 22 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12,890 | 1,314 | 332 | — | 2024-06-18 | The simplest way to run LLaMA on your local machine |
-| 23 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,719 | 1,525 | 19 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
-| 24 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 12,470 | 3,189 | 122 | — | 2026-10-03 | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and read... |
+| 23 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,720 | 1,525 | 19 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
+| 24 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 12,471 | 3,189 | 122 | — | 2026-10-03 | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and read... |
 | 25 | [devicons/devicon](https://github.com/devicons/devicon) | 11,832 | 2,443 | 464 | MIT | 2026-09-24 | Set of icons representing programming languages, designing & development tools |
 | 26 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11,726 | 664 | 89 | MIT | 2026-07-20 | Functional css for humans |
 | 27 | [IBM/plex](https://github.com/IBM/plex) | 11,670 | 623 | 85 | OFL-1.1 | 2026-10-02 | The package of IBM’s typeface, IBM Plex. |
@@ -42,7 +42,7 @@ Ranked by stars. GitHub reports **11,388,006** total repositories matching `lang
 | 36 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9,985 | 640 | 53 | BSD-2-Clause | 2026-10-02 | :octocat: Dark GitHub style |
 | 37 | [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) | 9,820 | 1,020 | 205 | MIT | 2025-06-22 | Custom Jupyter Notebook Themes |
 | 38 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9,557 | 30,713 | 4 | Apache-2.0 | 2026-09-29 | A sample Spring-based application |
-| 39 | [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9,539 | 499 | 4 | — | 2026-06-08 | List of awesome CSS frameworks in 2026 |
+| 39 | [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9,538 | 499 | 4 | — | 2026-06-08 | List of awesome CSS frameworks in 2026 |
 | 40 | [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) | 9,435 | 406 | 61 | CC0-1.0 | 2024-04-06 | 🕶️ Awesome stuff for Obsidian |
 | 41 | [mrmrs/colors](https://github.com/mrmrs/colors) | 9,423 | 509 | 16 | NOASSERTION | 2023-07-20 | Smarter defaults for colors on the web. |
 | 42 | [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | 9,317 | 735 | 555 | MIT | 2026-09-11 | MacOS like theme for all gtk based desktops |
@@ -54,7 +54,7 @@ Ranked by stars. GitHub reports **11,388,006** total repositories matching `lang
 | 48 | [kognise/water.css](https://github.com/kognise/water.css) | 8,652 | 497 | 90 | MIT | 2024-02-11 | A drop-in collection of CSS styles to make simple websites just a little nicer |
 | 49 | [HubSpot/offline](https://github.com/HubSpot/offline) | 8,566 | 819 | 119 | MIT | 2023-02-26 | Automatically display online/offline indication to your users |
 | 50 | [chinchang/hint.css](https://github.com/chinchang/hint.css) | 8,427 | 679 | 54 | MIT | 2024-10-17 | A CSS only tooltip library for your lovely websites. |
-| 51 | [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) | 8,406 | 34,749 | 390 | MIT | 2024-08-19 | Build a Jekyll blog in minutes, without touching the command line. |
+| 51 | [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) | 8,406 | 34,748 | 390 | MIT | 2024-08-19 | Build a Jekyll blog in minutes, without touching the command line. |
 | 52 | [primefaces/primereact](https://github.com/primefaces/primereact) | 8,309 | 1,232 | 323 | MIT | 2026-09-24 | The Most Complete React UI Component Library |
 | 53 | [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 8,254 | 807 | 3 | GPL-3.0 | 2025-12-15 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
 | 54 | [horst3180/arc-theme](https://github.com/horst3180/arc-theme) | 8,233 | 598 | 187 | GPL-3.0 | 2021-02-22 | A flat theme with transparent elements |
@@ -90,8 +90,8 @@ Ranked by stars. GitHub reports **11,388,006** total repositories matching `lang
 | 84 | [basscss/basscss](https://github.com/basscss/basscss) | 5,897 | 294 | 39 | MIT | 2022-12-30 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library |
 | 85 | [connorferster/handcalcs](https://github.com/connorferster/handcalcs) | 5,805 | 452 | 107 | Apache-2.0 | 2026-10-03 | Python library for converting Python calculations into rendered latex. |
 | 86 | [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) | 5,775 | 904 | 0 | NOASSERTION | 2026-02-14 | A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and... |
-| 87 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5,640 | 561 | 13 | — | 2026-03-30 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical v... |
-| 88 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 5,571 | 509 | 10 | Apache-2.0 | 2026-10-03 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
+| 87 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5,641 | 562 | 13 | — | 2026-03-30 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical v... |
+| 88 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 5,570 | 509 | 10 | Apache-2.0 | 2026-10-03 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
 | 89 | [knadh/oat](https://github.com/knadh/oat) | 5,526 | 258 | 4 | MIT | 2026-09-28 | Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz. |
 | 90 | [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 5,451 | 618 | 53 | NOASSERTION | 2024-07-28 | 💄CSS tricks for web developers~ |
 | 91 | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 5,401 | 277 | 170 | MIT | 2026-10-01 | A distraction-free and highly customizable theme for Obsidian. |

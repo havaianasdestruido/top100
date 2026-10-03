@@ -1,12 +1,12 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,698** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,699** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,572 | 1,123 | 26 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,573 | 1,123 | 26 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,784 | 2,110 | 173 | — | 2024-10-20 | Stack trace visualizer |
-| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,102 | 350 | 1 | MIT | 2026-09-28 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
+| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,101 | 350 | 1 | MIT | 2026-10-03 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
 | 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,752 | 1,463 | 1 | NOASSERTION | 2026-10-01 | Nikto web server scanner |
 | 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,481 | 1,285 | 7 | GPL-3.0 | 2026-09-22 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,595 | 1,005 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **188,698** total repositories matching `languag
 | 21 | [thoughtbot/rcm](https://github.com/thoughtbot/rcm) | 3,265 | 140 | 33 | BSD-3-Clause | 2025-05-23 | rc file (dotfile) management |
 | 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,218 | 316 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
 | 23 | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) | 3,169 | 215 | 82 | MIT | 2026-09-26 | Sensible database change management |
-| 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,121 | 227 | 87 | MIT | 2026-09-10 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
+| 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,122 | 227 | 85 | MIT | 2026-10-03 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
 | 25 | [openresty/nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2,869 | 431 | 5 | — | 2021-03-05 | Nginx Tutorials |
 | 26 | [mojolicious/mojo](https://github.com/mojolicious/mojo) | 2,749 | 589 | 110 | Artistic-2.0 | 2026-09-30 | :sparkles: Mojolicious - Perl real-time web framework |
 | 27 | [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 2,702 | 192 | 13 | GPL-3.0 | 2024-01-08 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice |
@@ -36,7 +36,7 @@ Ranked by stars. GitHub reports **188,698** total repositories matching `languag
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,488 | 725 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,396 | 342 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 758 | 75 | MIT | 2018-10-14 |  |
-| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,333 | 646 | 2,362 | NOASSERTION | 2026-10-03 | 🐪 The Perl programming language |
+| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,334 | 646 | 2,364 | NOASSERTION | 2026-10-03 | 🐪 The Perl programming language |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,267 | 338 | 10 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,194 | 134 | 43 | NOASSERTION | 2026-09-29 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,161 | 141 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
@@ -82,13 +82,13 @@ Ranked by stars. GitHub reports **188,698** total repositories matching `languag
 | 76 | [mikaku/Monitorix](https://github.com/mikaku/Monitorix) | 1,211 | 169 | 44 | GPL-2.0 | 2026-06-23 | Monitorix is a free, open source, lightweight system monitoring tool. |
 | 77 | [creaktive/rainbarf](https://github.com/creaktive/rainbarf) | 1,207 | 65 | 2 | NOASSERTION | 2026-08-15 | it's like Rainmeter, but for CLI! |
 | 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,200 | 128 | 108 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
-| 79 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,163 | 297 | 82 | GPL-2.0 | 2026-10-02 | Request Tracker, an enterprise-grade issue tracking system |
+| 79 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,162 | 297 | 82 | GPL-2.0 | 2026-10-02 | Request Tracker, an enterprise-grade issue tracking system |
 | 80 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,159 | 102 | 0 | — | 2026-09-28 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
 | 81 | [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) | 1,156 | 303 | 267 | GPL-2.0 | 2026-05-06 | lm-sensors repository |
 | 82 | [aspiers/stow](https://github.com/aspiers/stow) | 1,140 | 56 | 44 | GPL-3.0 | 2025-12-03 | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |
 | 83 | [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 1,137 | 136 | 1 | — | 2023-02-01 | Golang - Regular Expression Tutorial |
 | 84 | [k4rthik/git-cal](https://github.com/k4rthik/git-cal) | 1,124 | 62 | 18 | MIT | 2017-02-01 | github like contributions calendar on terminal |
-| 85 | [linux-test-project/lcov](https://github.com/linux-test-project/lcov) | 1,115 | 270 | 15 | GPL-2.0 | 2026-10-03 | LCOV |
+| 85 | [linux-test-project/lcov](https://github.com/linux-test-project/lcov) | 1,115 | 270 | 17 | GPL-2.0 | 2026-10-03 | LCOV |
 | 86 | [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) | 1,113 | 185 | 3 | GPL-3.0 | 2022-09-28 | DotDotPwn - The Directory Traversal Fuzzer |
 | 87 | [andrewning/sortphotos](https://github.com/andrewning/sortphotos) | 1,106 | 316 | 60 | MIT | 2026-03-06 | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
 | 88 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,096 | 340 | 91 | NOASSERTION | 2026-10-03 | Server for the MusicBrainz project (website, API, database tools) |
