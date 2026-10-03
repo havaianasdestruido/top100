@@ -1,26 +1,26 @@
 # Top 100 Elixir repositories on GitHub
 
-Ranked by stars. GitHub reports **132,552** total repositories matching `language:Elixir`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **132,561** total repositories matching `language:Elixir`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [anoma/anoma](https://github.com/anoma/anoma) | 33,580 | 4,112 | 122 | MIT | 2026-06-15 | Reference implementation of Anoma |
-| 2 | [plausible/analytics](https://github.com/plausible/analytics) | 29,291 | 1,878 | 71 | AGPL-3.0 | 2026-10-02 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. |
-| 3 | [openai/symphony](https://github.com/openai/symphony) | 27,516 | 2,854 | 8 | Apache-2.0 | 2026-09-15 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of s... |
-| 4 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | 26,673 | 3,666 | 40 | Apache-2.0 | 2026-10-03 | Simple from zero to scale |
-| 5 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | 23,170 | 3,113 | 50 | MIT | 2026-10-01 | Peace of mind from prototype to production |
+| 2 | [plausible/analytics](https://github.com/plausible/analytics) | 29,293 | 1,878 | 71 | AGPL-3.0 | 2026-10-02 | Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. |
+| 3 | [openai/symphony](https://github.com/openai/symphony) | 27,517 | 2,855 | 8 | Apache-2.0 | 2026-09-15 | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of s... |
+| 4 | [elixir-lang/elixir](https://github.com/elixir-lang/elixir) | 26,673 | 3,667 | 41 | Apache-2.0 | 2026-10-03 | Simple from zero to scale |
+| 5 | [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) | 23,170 | 3,113 | 50 | MIT | 2026-10-03 | Peace of mind from prototype to production |
 | 6 | [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) | 13,167 | 1,190 | 36 | MIT | 2025-10-12 | A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates: |
-| 7 | [firezone/firezone](https://github.com/firezone/firezone) | 9,109 | 463 | 343 | Apache-2.0 | 2026-10-03 | Blazing-fast remote access |
-| 8 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 9,070 | 1,009 | 61 | AGPL-3.0 | 2026-10-03 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] |
+| 7 | [firezone/firezone](https://github.com/firezone/firezone) | 9,109 | 463 | 342 | Apache-2.0 | 2026-10-03 | Blazing-fast remote access |
+| 8 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 9,070 | 1,008 | 61 | AGPL-3.0 | 2026-10-03 | A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld] |
 | 9 | [supabase/realtime](https://github.com/supabase/realtime) | 7,649 | 470 | 77 | Apache-2.0 | 2026-10-02 | Broadcast, Presence, and Postgres Changes via WebSockets |
-| 10 | [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6,829 | 1,055 | 33 | MIT | 2026-10-02 | Rich, real-time user experiences with server-rendered HTML |
+| 10 | [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) | 6,829 | 1,056 | 34 | MIT | 2026-10-02 | Rich, real-time user experiences with server-rendered HTML |
 | 11 | [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) | 6,498 | 1,485 | 14 | Apache-2.0 | 2026-09-28 | A toolkit for data mapping and language integrated query. |
 | 12 | [papercups-io/papercups](https://github.com/papercups-io/papercups) | 6,113 | 580 | 179 | MIT | 2024-02-15 | Open-source live customer chat |
 | 13 | [livebook-dev/livebook](https://github.com/livebook-dev/livebook) | 5,874 | 517 | 21 | Apache-2.0 | 2026-09-17 | Automate code & data workflows with interactive Elixir notebooks |
 | 14 | [tuist/tuist](https://github.com/tuist/tuist) | 5,819 | 781 | 450 | NOASSERTION | 2026-10-03 | Your platform team, as a service |
 | 15 | [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) | 5,390 | 176 | 215 | AGPL-3.0 | 2025-12-16 | Your next YouTube media manager |
 | 16 | [rrrene/credo](https://github.com/rrrene/credo) | 5,222 | 459 | 36 | MIT | 2026-10-03 | A static code analysis tool for the Elixir language with a focus on code consistency and teaching. |
-| 17 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | 4,724 | 3,193 | 165 | NOASSERTION | 2026-10-02 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. |
+| 17 | [blockscout/blockscout](https://github.com/blockscout/blockscout) | 4,725 | 3,193 | 165 | NOASSERTION | 2026-10-02 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains. |
 | 18 | [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) | 4,426 | 300 | 8 | — | 2024-05-10 | A community driven style guide for Elixir |
 | 19 | [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) | 4,398 | 561 | 71 | NOASSERTION | 2026-09-02 | The GraphQL toolkit for Elixir |
 | 20 | [oban-bg/oban](https://github.com/oban-bg/oban) | 3,987 | 374 | 4 | Apache-2.0 | 2026-09-29 | 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL |
@@ -28,12 +28,12 @@ Ranked by stars. GitHub reports **132,552** total repositories matching `languag
 | 22 | [ueberauth/guardian](https://github.com/ueberauth/guardian) | 3,512 | 388 | 1 | MIT | 2026-08-18 | Elixir Authentication |
 | 23 | [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) | 3,097 | 184 | 9 | MIT | 2024-01-19 | Web application that indexes all popular torrent sites, and saves it to the local database. |
 | 24 | [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) | 3,065 | 424 | 0 | MIT | 2022-04-13 | A walk through the Elixir language in 30 exercises. |
-| 25 | [elixir-plug/plug](https://github.com/elixir-plug/plug) | 3,020 | 609 | 5 | NOASSERTION | 2026-09-03 | Compose web applications with functions |
+| 25 | [elixir-plug/plug](https://github.com/elixir-plug/plug) | 3,019 | 609 | 5 | NOASSERTION | 2026-09-03 | Compose web applications with functions |
 | 26 | [bitwalker/distillery](https://github.com/bitwalker/distillery) | 2,953 | 398 | 56 | MIT | 2024-08-04 | Simplify deployments in Elixir with OTP releases! |
 | 27 | [elixir-nx/nx](https://github.com/elixir-nx/nx) | 2,909 | 234 | 3 | — | 2026-10-03 | Multi-dimensional arrays (tensors) and numerical definitions for Elixir |
 | 28 | [thechangelog/changelog.com](https://github.com/thechangelog/changelog.com) | 2,770 | 247 | 25 | NOASSERTION | 2026-09-22 | Changelog makes world-class developer pods. This is our open source platform. |
 | 29 | [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) | 2,684 | 181 | 4 | Apache-2.0 | 2026-09-17 | Concurrent and multi-stage data ingestion and data processing with Elixir |
-| 30 | [ash-project/ash](https://github.com/ash-project/ash) | 2,510 | 449 | 111 | — | 2026-10-03 | A declarative, extensible framework for building Elixir applications. |
+| 30 | [ash-project/ash](https://github.com/ash-project/ash) | 2,511 | 449 | 112 | — | 2026-10-03 | A declarative, extensible framework for building Elixir applications. |
 | 31 | [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) | 2,502 | 288 | 6 | Apache-2.0 | 2026-08-14 | Platform for hosting and sharing terminal session recordings |
 | 32 | [nerves-project/nerves](https://github.com/nerves-project/nerves) | 2,497 | 206 | 22 | — | 2026-10-02 | Craft and deploy bulletproof embedded software in Elixir |
 | 33 | [quantum-elixir/quantum-core](https://github.com/quantum-elixir/quantum-core) | 2,416 | 154 | 9 | Apache-2.0 | 2026-09-22 | :watch: Cron-like job scheduler for Elixir |
@@ -53,16 +53,16 @@ Ranked by stars. GitHub reports **132,552** total repositories matching `languag
 | 47 | [commanded/commanded](https://github.com/commanded/commanded) | 2,033 | 258 | 16 | MIT | 2026-07-27 | Use Commanded to build Elixir CQRS/ES applications |
 | 48 | [devinus/poison](https://github.com/devinus/poison) | 2,029 | 214 | 41 | 0BSD | 2024-08-12 | An incredibly fast, pure Elixir JSON library |
 | 49 | [beam-community/bamboo](https://github.com/beam-community/bamboo) | 1,960 | 340 | 8 | MIT | 2026-08-17 | Testable, composable, and adapter based Elixir email library for devs that love piping. |
-| 50 | [mtrudel/bandit](https://github.com/mtrudel/bandit) | 1,923 | 119 | 14 | MIT | 2026-09-28 | Bandit is a pure Elixir HTTP server for Plug & WebSock applications |
-| 51 | [agentjido/jido](https://github.com/agentjido/jido) | 1,872 | 119 | 2 | Apache-2.0 | 2026-10-02 | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. |
+| 50 | [mtrudel/bandit](https://github.com/mtrudel/bandit) | 1,922 | 119 | 14 | MIT | 2026-09-28 | Bandit is a pure Elixir HTTP server for Plug & WebSock applications |
+| 51 | [agentjido/jido](https://github.com/agentjido/jido) | 1,873 | 119 | 2 | Apache-2.0 | 2026-10-03 | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. |
 | 52 | [discord/manifold](https://github.com/discord/manifold) | 1,851 | 74 | 2 | MIT | 2026-07-07 | Fast batch message passing between nodes for Erlang/Elixir. |
 | 53 | [elixir-desktop/desktop](https://github.com/elixir-desktop/desktop) | 1,807 | 65 | 3 | MIT | 2026-09-13 | Building Local-First apps for Windows, MacOS, Linux, iOS and Android using Phoenix LiveView & Elixir! |
 | 54 | [bitwalker/timex](https://github.com/bitwalker/timex) | 1,806 | 408 | 72 | MIT | 2025-06-14 | A complete date/time library for Elixir projects. |
 | 55 | [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) | 1,805 | 212 | 53 | MIT | 2026-07-21 | Concurrent browser tests for your Elixir web apps. |
 | 56 | [jeremyjh/dialyxir](https://github.com/jeremyjh/dialyxir) | 1,796 | 162 | 74 | Apache-2.0 | 2026-09-21 | Mix tasks to simplify use of Dialyzer in Elixir projects. |
 | 57 | [nccgroup/sobelow](https://github.com/nccgroup/sobelow) | 1,795 | 127 | 38 | Apache-2.0 | 2024-08-20 | Security-focused static analysis for the Phoenix Framework |
-| 58 | [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) | 1,779 | 229 | 52 | Apache-2.0 | 2026-08-16 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and prov... |
-| 59 | [whitfin/cachex](https://github.com/whitfin/cachex) | 1,743 | 123 | 14 | MIT | 2026-02-10 | A powerful caching library for Elixir with support for transactions, fallbacks and expirations |
+| 58 | [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) | 1,778 | 229 | 52 | Apache-2.0 | 2026-08-16 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and prov... |
+| 59 | [whitfin/cachex](https://github.com/whitfin/cachex) | 1,743 | 123 | 15 | MIT | 2026-02-10 | A powerful caching library for Elixir with support for transactions, fallbacks and expirations |
 | 60 | [ueberauth/ueberauth](https://github.com/ueberauth/ueberauth) | 1,716 | 120 | 29 | MIT | 2026-09-18 | An Elixir Authentication System for Plug-based Web Applications |
 | 61 | [dwyl/learn-elixir](https://github.com/dwyl/learn-elixir) | 1,702 | 112 | 131 | — | 2026-06-27 | :droplet: Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications! |
 | 62 | [elixir-nx/axon](https://github.com/elixir-nx/axon) | 1,690 | 132 | 34 | Apache-2.0 | 2026-09-28 | Nx-powered Neural Networks |
@@ -83,7 +83,7 @@ Ranked by stars. GitHub reports **132,552** total repositories matching `languag
 | 77 | [algora-io/algora](https://github.com/algora-io/algora) | 1,523 | 154 | 88 | AGPL-3.0 | 2026-07-18 | Hire the top 1% OSS engineers |
 | 78 | [bartblast/hologram](https://github.com/bartblast/hologram) | 1,518 | 116 | 148 | Apache-2.0 | 2026-09-28 | Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript |
 | 79 | [bencheeorg/benchee](https://github.com/bencheeorg/benchee) | 1,518 | 71 | 27 | MIT | 2026-06-09 | Easy and extensible benchmarking in Elixir providing you with lots of statistics! |
-| 80 | [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) | 1,515 | 46 | 84 | Apache-2.0 | 2026-10-01 | The core of Membrane Framework, multimedia processing framework written in Elixir |
+| 80 | [membraneframework/membrane_core](https://github.com/membraneframework/membrane_core) | 1,516 | 46 | 84 | Apache-2.0 | 2026-10-01 | The core of Membrane Framework, multimedia processing framework written in Elixir |
 | 81 | [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) | 1,514 | 57 | 1 | MIT | 2024-09-12 | Catalog of Elixir-specific code smells |
 | 82 | [elixir-horde/horde](https://github.com/elixir-horde/horde) | 1,504 | 120 | 7 | MIT | 2026-07-31 | Horde is a distributed Supervisor and Registry backed by Postgres |
 | 83 | [Phineas/lanyard](https://github.com/Phineas/lanyard) | 1,482 | 196 | 11 | MIT | 2026-08-15 | 🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds |
