@@ -4,7 +4,7 @@ Ranked by stars. GitHub reports **4,561** total repositories matching `language:
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,310 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,316 | 433 | 2 | MIT | 2026-10-01 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 819 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 423 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
