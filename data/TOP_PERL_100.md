@@ -1,6 +1,6 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,690** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,689** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -25,7 +25,7 @@ Ranked by stars. GitHub reports **188,690** total repositories matching `languag
 | 19 | [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) | 3,426 | 378 | 140 | GPL-3.0 | 2026-09-28 | Client for PPP+TLS VPN tunnel services |
 | 20 | [curl/trurl](https://github.com/curl/trurl) | 3,354 | 117 | 5 | NOASSERTION | 2026-10-01 | a command line tool for URL parsing and manipulation. |
 | 21 | [thoughtbot/rcm](https://github.com/thoughtbot/rcm) | 3,265 | 140 | 33 | BSD-3-Clause | 2025-05-23 | rc file (dotfile) management |
-| 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,217 | 315 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
+| 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,217 | 316 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
 | 23 | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) | 3,169 | 215 | 82 | MIT | 2026-09-26 | Sensible database change management |
 | 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,121 | 227 | 85 | MIT | 2026-09-10 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
 | 25 | [openresty/nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2,869 | 431 | 5 | — | 2021-03-05 | Nginx Tutorials |
@@ -36,7 +36,7 @@ Ranked by stars. GitHub reports **188,690** total repositories matching `languag
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,488 | 725 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,396 | 342 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 758 | 75 | MIT | 2018-10-14 |  |
-| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,332 | 645 | 2,362 | NOASSERTION | 2026-10-02 | 🐪 The Perl programming language |
+| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,332 | 646 | 2,363 | NOASSERTION | 2026-10-02 | 🐪 The Perl programming language |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,267 | 338 | 10 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,194 | 134 | 43 | NOASSERTION | 2026-09-29 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,161 | 141 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
@@ -51,7 +51,7 @@ Ranked by stars. GitHub reports **188,690** total repositories matching `languag
 | 45 | [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1,813 | 399 | 4 | GPL-2.0 | 2014-05-19 | Linux Exploit Suggester; based on operating system release number |
 | 46 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,788 | 317 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
 | 47 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,786 | 379 | 121 | NOASSERTION | 2026-09-23 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
-| 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,766 | 469 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
+| 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,765 | 468 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 49 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,705 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
 | 50 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,695 | 329 | 845 | GPL-2.0 | 2026-10-02 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
 | 51 | [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | 1,687 | 714 | 71 | — | 2025-03-12 | ggplot2: elegant graphics for data analysis |

@@ -1,6 +1,6 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **214,927** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **214,934** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -8,8 +8,8 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 2 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 32,269 | 4,688 | 3 | MIT | 2024-04-25 | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
 | 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,763 | 2,099 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
 | 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,387 | 1,593 | 0 | Apache-2.0 | 2026-10-02 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
-| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 11,981 | 2,121 | 117 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
-| 6 | [corkami/pics](https://github.com/corkami/pics) | 11,492 | 792 | 5 | — | 2024-02-18 | File formats dissections and more... |
+| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 11,980 | 2,121 | 117 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
+| 6 | [corkami/pics](https://github.com/corkami/pics) | 11,491 | 792 | 5 | — | 2024-02-18 | File formats dissections and more... |
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,740 | 2,710 | 56 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
 | 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,270 | 501 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
 | 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,886 | 742 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
@@ -25,7 +25,7 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 19 | [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) | 3,337 | 184 | 2 | NOASSERTION | 2026-04-20 | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and in... |
 | 20 | [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) | 3,323 | 425 | 90 | NOASSERTION | 2026-08-19 | A cross-platform x86 assembler with an Intel-like syntax |
 | 21 | [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) | 3,282 | 517 | 145 | MIT | 2026-09-27 | A FPGA friendly 32 bit RISC-V CPU implementation |
-| 22 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,240 | 408 | 30 | NOASSERTION | 2026-10-02 | Virtual Apollo Guidance Computer (AGC) software |
+| 22 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,240 | 408 | 30 | NOASSERTION | 2026-10-03 | Virtual Apollo Guidance Computer (AGC) software |
 | 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,142 | 1,032 | 270 | NOASSERTION | 2026-10-02 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
 | 24 | [nemasu/asmttpd](https://github.com/nemasu/asmttpd) | 3,097 | 204 | 12 | GPL-2.0 | 2025-03-01 | Web server for Linux written in amd64 assembly. |
 | 25 | [pooler/cpuminer](https://github.com/pooler/cpuminer) | 3,008 | 1,249 | 34 | NOASSERTION | 2023-04-05 | CPU miner for Litecoin and Bitcoin |
@@ -42,7 +42,7 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 36 | [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) | 1,829 | 266 | 3 | Apache-2.0 | 2022-09-03 | AV/EDR evasion via direct system calls. |
 | 37 | [klezVirus/inceptor](https://github.com/klezVirus/inceptor) | 1,829 | 280 | 15 | NOASSERTION | 2023-11-03 | Template-Driven AV/EDR Evasion Framework |
 | 38 | [PlummersSoftwareLLC/TinyRetroPad](https://github.com/PlummersSoftwareLLC/TinyRetroPad) | 1,779 | 116 | 29 | Apache-2.0 | 2026-06-29 |  |
-| 39 | [tgrysztar/fasm](https://github.com/tgrysztar/fasm) | 1,769 | 67 | 2 | NOASSERTION | 2026-02-24 | flat assembler 1 - reconstructed source history |
+| 39 | [tgrysztar/fasm](https://github.com/tgrysztar/fasm) | 1,771 | 67 | 2 | NOASSERTION | 2026-02-24 | flat assembler 1 - reconstructed source history |
 | 40 | [ReturnInfinity/BareMetal-OS-legacy](https://github.com/ReturnInfinity/BareMetal-OS-legacy) | 1,763 | 297 | 23 | — | 2017-11-20 | BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be... |
 | 41 | [apple/swift-crypto](https://github.com/apple/swift-crypto) | 1,730 | 230 | 35 | Apache-2.0 | 2026-09-25 | Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift suppo... |
 | 42 | [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) | 1,707 | 59 | 25 | — | 2023-07-03 | Super Mario World (SNES) Widescreen Project |
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 55 | [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit) | 1,186 | 197 | 0 | MIT | 2024-01-12 | 🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about... |
 | 56 | [RibShark/OmniDrive](https://github.com/RibShark/OmniDrive) | 1,167 | 60 | 27 | NOASSERTION | 2026-07-18 |  |
 | 57 | [espressif/esp-dl](https://github.com/espressif/esp-dl) | 1,158 | 226 | 46 | MIT | 2026-09-30 | Espressif deep-learning library for AIoT applications |
-| 58 | [z88dk/z88dk](https://github.com/z88dk/z88dk) | 1,139 | 209 | 181 | NOASSERTION | 2026-10-02 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries. |
+| 58 | [z88dk/z88dk](https://github.com/z88dk/z88dk) | 1,139 | 209 | 182 | NOASSERTION | 2026-10-02 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries. |
 | 59 | [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings) | 1,136 | 138 | 3 | MIT | 2026-09-06 | Transcription of Tim Paterson's DOS printouts. |
 | 60 | [nornagon/jonesforth](https://github.com/nornagon/jonesforth) | 1,131 | 157 | 5 | — | 2023-04-04 | Mirror of JONESFORTH |
 | 61 | [adriancable/8086tiny](https://github.com/adriancable/8086tiny) | 1,124 | 222 | 13 | MIT | 2022-09-07 | Official repository for 8086tiny: a tiny PC emulator/virtual machine |
@@ -69,7 +69,7 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 63 | [Overv/MineAssemble](https://github.com/Overv/MineAssemble) | 1,082 | 67 | 7 | MIT | 2023-09-11 | A tiny bootable Minecraft clone written partly in x86 assembly |
 | 64 | [100thCoin/AccuracyCoin](https://github.com/100thCoin/AccuracyCoin) | 1,068 | 21 | 2 | MIT | 2026-09-23 | A large collection of NES accuracy tests on a single NROM cartridge. |
 | 65 | [oriansj/stage0](https://github.com/oriansj/stage0) | 1,060 | 67 | 6 | GPL-3.0 | 2026-06-17 | A set of minimal dependency bootstrap binaries |
-| 66 | [JSsixtyfour/smashremix](https://github.com/JSsixtyfour/smashremix) | 966 | 81 | 31 | — | 2026-03-08 |  |
+| 66 | [JSsixtyfour/smashremix](https://github.com/JSsixtyfour/smashremix) | 967 | 81 | 31 | — | 2026-03-08 |  |
 | 67 | [PDP-10/its](https://github.com/PDP-10/its) | 955 | 98 | 506 | NOASSERTION | 2026-08-19 | Incompatible Timesharing System |
 | 68 | [TunSafe/TunSafe](https://github.com/TunSafe/TunSafe) | 947 | 233 | 58 | — | 2021-06-07 | Source code of the TunSafe client |
 | 69 | [icebreaker/floppybird](https://github.com/icebreaker/floppybird) | 935 | 62 | 3 | MIT | 2020-04-01 | Floppy Bird (OS) |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **214,927** total repositories matching `languag
 | 76 | [pret/pokeyellow](https://github.com/pret/pokeyellow) | 882 | 344 | 3 | — | 2026-09-02 | Disassembly of Pokemon Yellow |
 | 77 | [nmlgc/ReC98](https://github.com/nmlgc/ReC98) | 870 | 34 | 4 | — | 2026-03-16 | The Touhou PC-98 Restoration Project |
 | 78 | [Unity-Technologies/com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) | 852 | 239 | 134 | NOASSERTION | 2026-08-18 | WebRTC package for Unity |
-| 79 | [aws/aws-lc](https://github.com/aws/aws-lc) | 836 | 224 | 105 | NOASSERTION | 2026-10-02 | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers... |
+| 79 | [aws/aws-lc](https://github.com/aws/aws-lc) | 836 | 224 | 109 | NOASSERTION | 2026-10-02 | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers... |
 | 80 | [PrincetonUniversity/openpiton](https://github.com/PrincetonUniversity/openpiton) | 831 | 280 | 61 | — | 2026-02-25 | The OpenPiton Platform |
 | 81 | [niekiran/Embedded-C](https://github.com/niekiran/Embedded-C) | 814 | 489 | 6 | — | 2025-06-13 | Repository for udemy Embedded-C course |
 | 82 | [videolan/x265](https://github.com/videolan/x265) | 813 | 324 | 7 | GPL-2.0 | 2023-09-11 | https://bitbucket.org/multicoreware/x265/ git mirror |

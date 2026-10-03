@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,135,864** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,135,888** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **1,135,864** total repositories matching `langu
 | 55 | [tidyverse/purrr](https://github.com/tidyverse/purrr) | 1,410 | 297 | 42 | NOASSERTION | 2026-09-19 | A functional programming toolkit for R |
 | 56 | [hadley/mastering-shiny](https://github.com/hadley/mastering-shiny) | 1,382 | 560 | 79 | NOASSERTION | 2026-02-03 | Mastering Shiny: a book |
 | 57 | [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1,355 | 97 | 35 | NOASSERTION | 2026-04-19 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components |
-| 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 1 | — | 2026-10-02 | Additional themes, scales, and geoms for ggplot2 |
+| 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 2 | — | 2026-10-03 | Additional themes, scales, and geoms for ggplot2 |
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,343 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
 | 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,296 | 203 | 299 | NOASSERTION | 2026-10-02 | Static Code Analysis for R |
@@ -77,14 +77,14 @@ Ranked by stars. GitHub reports **1,135,864** total repositories matching `langu
 | 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,214 | 152 | 22 | NOASSERTION | 2026-09-04 | Presentation-Ready Data Summary and Analytic Result Tables |
 | 72 | [juliasilge/tidytext](https://github.com/juliasilge/tidytext) | 1,205 | 181 | 8 | NOASSERTION | 2026-08-02 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: |
 | 73 | [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,200 | 356 | 0 | MIT | 2026-06-12 | Collection of various algorithms implemented in R. |
-| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,181 | 337 | 8 | — | 2026-10-01 | Forecasting Functions for Time Series and Linear Models |
+| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,181 | 337 | 7 | — | 2026-10-03 | Forecasting Functions for Time Series and Linear Models |
 | 75 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,172 | 194 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,168 | 127 | 27 | NOASSERTION | 2026-09-17 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,164 | 170 | 213 | MIT | 2026-10-01 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,160 | 88 | 45 | NOASSERTION | 2026-09-10 | :milky_way: The R easystats-project |
 | 79 | [easystats/performance](https://github.com/easystats/performance) | 1,158 | 109 | 101 | GPL-3.0 | 2026-10-01 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,118 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
-| 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,097 | 85 | 0 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
+| 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,098 | 85 | 0 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 267 | 355 | — | 2026-10-02 | RStan, the R interface to Stan |
 | 83 | [mlr-org/mlr3](https://github.com/mlr-org/mlr3) | 1,081 | 97 | 34 | LGPL-3.0 | 2026-09-28 | mlr3: Machine Learning in R - next generation |
 | 84 | [rstudio/pointblank](https://github.com/rstudio/pointblank) | 1,049 | 62 | 104 | NOASSERTION | 2026-08-21 | Data quality assessment and metadata reporting for data frames and database tables |
