@@ -1,25 +1,25 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,161** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,164** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,872 | 5,334 | 3,507 | Apache-2.0 | 2026-10-04 | Adaptable, fast automation for all |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,873 | 5,333 | 3,508 | Apache-2.0 | 2026-10-04 | Adaptable, fast automation for all |
 | 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,707 | 2,426 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
-| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,324 | 987 | 60 | Apache-2.0 | 2026-10-03 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
+| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,325 | 987 | 60 | Apache-2.0 | 2026-10-03 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,476 | 1,915 | 18 | Apache-2.0 | 2026-10-04 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
-| 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,286 | 3,563 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
+| 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,287 | 3,563 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
 | 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,091 | 205 | 60 | Apache-2.0 | 2026-09-28 | Gradle plugin to discover dependency updates |
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,952 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
-| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,496 | 814 | 414 | Apache-2.0 | 2026-10-04 | A workflow language for data-driven computational pipelines |
+| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,498 | 814 | 414 | Apache-2.0 | 2026-10-04 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,285 | 707 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,934 | 976 | 799 | Apache-2.0 | 2026-10-04 | Grails - the Web Application Framework |
-| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,300 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,934 | 976 | 781 | Apache-2.0 | 2026-10-04 | Grails - the Web Application Framework |
+| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,297 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,225 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,924 | 820 | 188 | Apache-2.0 | 2026-10-01 | A Groovy DSL for Jenkins Jobs |
 | 14 | [novoda/bintray-release](https://github.com/novoda/bintray-release) | 1,834 | 209 | 0 | NOASSERTION | 2022-02-11 | A helper for releasing from gradle up to bintray |
 | 15 | [google/protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin) | 1,833 | 290 | 96 | NOASSERTION | 2026-09-29 | Protobuf Plugin for Gradle |
-| 16 | [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) | 1,653 | 587 | 17 | Apache-2.0 | 2026-09-30 | Dockerized version of Nexus Repo Manager 3 |
+| 16 | [sonatype/docker-nexus3](https://github.com/sonatype/docker-nexus3) | 1,652 | 587 | 17 | Apache-2.0 | 2026-09-30 | Dockerized version of Nexus Repo Manager 3 |
 | 17 | [jenkinsci/JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit) | 1,586 | 394 | 116 | MIT | 2026-09-28 | Framework for unit testing Jenkins pipelines |
 | 18 | [JakeWharton/sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) | 1,406 | 130 | 43 | Apache-2.0 | 2016-10-07 | DEPRECATED Gradle plugin which downloads and manages your Android SDK. |
 | 19 | [mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | 1,346 | 277 | 2 | — | 2019-01-23 | Android渠道打包工具 |
@@ -59,11 +59,11 @@ Ranked by stars. GitHub reports **111,161** total repositories matching `languag
 | 53 | [eleme/Mess](https://github.com/eleme/Mess) | 686 | 110 | 11 | MIT | 2020-10-01 | a gradle plugin for minifying activities, services, receivers, providers and custom view |
 | 54 | [apache/bigtop](https://github.com/apache/bigtop) | 682 | 533 | 205 | Apache-2.0 | 2026-09-28 | Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive pac... |
 | 55 | [node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin) | 677 | 120 | 97 | Apache-2.0 | 2026-08-14 | Gradle plugin for integrating NodeJS in your build. :rocket: |
-| 56 | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) | 658 | 133 | 175 | Apache-2.0 | 2026-10-02 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training appr... |
+| 56 | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) | 658 | 132 | 175 | Apache-2.0 | 2026-10-02 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training appr... |
 | 57 | [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) | 650 | 136 | 83 | Apache-2.0 | 2020-08-20 | A Gradle plugin to build Docker images from the build script. |
 | 58 | [akhikhl/gretty](https://github.com/akhikhl/gretty) | 648 | 180 | 234 | MIT | 2023-12-28 | Advanced gradle plugin for running web-apps on jetty and tomcat. |
 | 59 | [allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin) | 640 | 165 | 78 | Apache-2.0 | 2026-09-28 | Gradle release & version management plugin. |
-| 60 | [brown-uk/dict_uk](https://github.com/brown-uk/dict_uk) | 633 | 75 | 37 | GPL-3.0 | 2026-09-22 | Project to generate POS tag dictionary for Ukrainian language |
+| 60 | [brown-uk/dict_uk](https://github.com/brown-uk/dict_uk) | 631 | 75 | 37 | GPL-3.0 | 2026-09-22 | Project to generate POS tag dictionary for Ukrainian language |
 | 61 | [pledbrook/lazybones](https://github.com/pledbrook/lazybones) | 616 | 101 | 53 | Apache-2.0 | 2020-10-13 | A simple project creation tool that uses packaged project templates. |
 | 62 | [adobe/aem-project-archetype](https://github.com/adobe/aem-project-archetype) | 598 | 431 | 178 | Apache-2.0 | 2026-09-18 | Maven template to create best-practice websites on AEM. |
 | 63 | [dqzboy/DevOps](https://github.com/dqzboy/DevOps) | 589 | 75 | 0 | — | 2024-07-09 | DevOps. Make the project development and release simpler, easier and more efficient. |
