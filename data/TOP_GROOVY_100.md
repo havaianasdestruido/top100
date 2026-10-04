@@ -1,20 +1,20 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,153** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,161** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,870 | 5,333 | 3,506 | Apache-2.0 | 2026-10-04 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,706 | 2,426 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
-| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,323 | 987 | 60 | Apache-2.0 | 2026-10-03 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
-| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,475 | 1,915 | 18 | Apache-2.0 | 2026-10-04 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,872 | 5,334 | 3,507 | Apache-2.0 | 2026-10-04 | Adaptable, fast automation for all |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,707 | 2,426 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,324 | 987 | 60 | Apache-2.0 | 2026-10-03 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
+| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,476 | 1,915 | 18 | Apache-2.0 | 2026-10-04 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,286 | 3,563 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
 | 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,091 | 205 | 60 | Apache-2.0 | 2026-09-28 | Gradle plugin to discover dependency updates |
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,952 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
-| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,496 | 814 | 413 | Apache-2.0 | 2026-10-03 | A workflow language for data-driven computational pipelines |
+| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,496 | 814 | 414 | Apache-2.0 | 2026-10-04 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,285 | 707 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,933 | 976 | 799 | Apache-2.0 | 2026-10-04 | Grails - the Web Application Framework |
-| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,303 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,934 | 976 | 799 | Apache-2.0 | 2026-10-04 | Grails - the Web Application Framework |
+| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,300 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,225 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,924 | 820 | 188 | Apache-2.0 | 2026-10-01 | A Groovy DSL for Jenkins Jobs |
 | 14 | [novoda/bintray-release](https://github.com/novoda/bintray-release) | 1,834 | 209 | 0 | NOASSERTION | 2022-02-11 | A helper for releasing from gradle up to bintray |
@@ -47,7 +47,7 @@ Ranked by stars. GitHub reports **111,153** total repositories matching `languag
 | 41 | [airbnb/okreplay](https://github.com/airbnb/okreplay) | 785 | 71 | 23 | Apache-2.0 | 2022-08-29 | 📼 Record and replay OkHttp network interaction in your tests. |
 | 42 | [gogradle/gogradle](https://github.com/gogradle/gogradle) | 771 | 90 | 95 | Apache-2.0 | 2021-10-11 | A Gradle Plugin Providing Full Support for Go |
 | 43 | [PrototypeZ/AppJoint](https://github.com/PrototypeZ/AppJoint) | 761 | 117 | 15 | — | 2019-08-20 | 🔧 Cross module Android development made easy! |
-| 44 | [palantir/gradle-docker](https://github.com/palantir/gradle-docker) | 755 | 160 | 117 | Apache-2.0 | 2026-10-03 | a Gradle plugin for orchestrating docker builds and pushes. |
+| 44 | [palantir/gradle-docker](https://github.com/palantir/gradle-docker) | 755 | 160 | 117 | Apache-2.0 | 2026-10-04 | a Gradle plugin for orchestrating docker builds and pushes. |
 | 45 | [ultraq/thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect) | 745 | 109 | 9 | Apache-2.0 | 2026-03-25 | A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse |
 | 46 | [kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) | 742 | 101 | 2 | MIT | 2024-10-26 | A curated list of awesome groovy libraries, frameworks and resources |
 | 47 | [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) | 725 | 86 | 82 | Apache-2.0 | 2026-09-23 | Integrates the JMH benchmarking framework with Gradle |
