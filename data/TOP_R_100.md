@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,136,972** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,137,011** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -88,10 +88,10 @@ Ranked by stars. GitHub reports **1,136,972** total repositories matching `langu
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 267 | 357 | — | 2026-10-05 | RStan, the R interface to Stan |
 | 83 | [mlr-org/mlr3](https://github.com/mlr-org/mlr3) | 1,081 | 97 | 34 | LGPL-3.0 | 2026-09-28 | mlr3: Machine Learning in R - next generation |
 | 84 | [rstudio/pointblank](https://github.com/rstudio/pointblank) | 1,049 | 62 | 104 | NOASSERTION | 2026-08-21 | Data quality assessment and metadata reporting for data frames and database tables |
-| 85 | [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) | 1,042 | 53 | 4 | NOASSERTION | 2026-01-08 | 🎨🎨🎨 Collection of most color palettes in a single R package |
-| 86 | [tidyverse/readr](https://github.com/tidyverse/readr) | 1,041 | 296 | 106 | NOASSERTION | 2026-04-10 | Read flat files (csv, tsv, fwf) into R |
+| 85 | [EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer) | 1,043 | 53 | 4 | NOASSERTION | 2026-01-08 | 🎨🎨🎨 Collection of most color palettes in a single R package |
+| 86 | [tidyverse/readr](https://github.com/tidyverse/readr) | 1,041 | 296 | 105 | NOASSERTION | 2026-04-10 | Read flat files (csv, tsv, fwf) into R |
 | 87 | [jokergoo/circlize](https://github.com/jokergoo/circlize) | 1,025 | 148 | 67 | NOASSERTION | 2023-11-11 | Circular visualization in R |
-| 88 | [allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins) | 1,021 | 262 | 18 | CC0-1.0 | 2024-09-19 | A great intro dataset for data exploration & visualization (alternative to iris). |
+| 88 | [allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins) | 1,021 | 265 | 18 | CC0-1.0 | 2024-09-19 | A great intro dataset for data exploration & visualization (alternative to iris). |
 | 89 | [futureverse/future](https://github.com/futureverse/future) | 1,014 | 93 | 82 | Apache-2.0 | 2026-10-05 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
 | 90 | [MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio) | 991 | 115 | 10 | NOASSERTION | 2026-01-03 | GPT RStudio addins that enable GPT assisted coding, writing & analysis |
 | 91 | [r-lib/httr](https://github.com/r-lib/httr) | 983 | 1,954 | 12 | NOASSERTION | 2026-09-01 | httr: a friendly http package for R |
