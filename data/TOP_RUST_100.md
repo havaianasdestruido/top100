@@ -1,106 +1,106 @@
 # Top 100 Rust repositories on GitHub
 
-Ranked by stars. GitHub reports **1,383,600** total repositories matching `language:Rust`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,384,069** total repositories matching `language:Rust`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,208 | 108,184 | 48 | MIT | 2026-08-16 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human i... |
-| 2 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 149,525 | 10,724 | 498 | GPL-3.0 | 2026-10-06 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 140,483 | 9,434 | 2,912 | MIT | 2026-10-06 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. ... |
-| 4 | [openai/codex](https://github.com/openai/codex) | 128,037 | 20,057 | 20,916 | Apache-2.0 | 2026-10-06 | Lightweight coding agent that runs in your terminal |
-| 5 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125,259 | 19,473 | 182 | AGPL-3.0 | 2026-10-06 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| 6 | [rust-lang/rust](https://github.com/rust-lang/rust) | 119,643 | 17,803 | 12,650 | Apache-2.0 | 2026-10-06 | Empowering everyone to build reliable and efficient software. |
-| 7 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 111,616 | 4,041 | 1,484 | Apache-2.0 | 2026-10-06 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
-| 8 | [denoland/deno](https://github.com/denoland/deno) | 108,686 | 6,398 | 1,665 | MIT | 2026-10-06 | A modern runtime for JavaScript and TypeScript. |
-| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 96,691 | 12,718 | 378 | MIT | 2026-10-06 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detect... |
-| 10 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,142 | 5,094 | 9,612 | NOASSERTION | 2026-10-06 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
-| 11 | [zed-industries/zed](https://github.com/zed-industries/zed) | 91,358 | 10,933 | 3,066 | NOASSERTION | 2026-10-06 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-... |
-| 12 | [astral-sh/uv](https://github.com/astral-sh/uv) | 90,445 | 3,633 | 2,962 | Apache-2.0 | 2026-10-06 | An extremely fast Python package and project manager, written in Rust. |
-| 13 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82,524 | 5,250 | 1,509 | Apache-2.0 | 2026-10-06 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
-| 14 | [unionlabs/union](https://github.com/unionlabs/union) | 73,764 | 3,887 | 196 | Apache-2.0 | 2026-07-25 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, a... |
-| 15 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 68,886 | 4,624 | 202 | Unlicense | 2026-08-04 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
-| 16 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 68,611 | 3,286 | 104 | AGPL-3.0 | 2026-10-05 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| 1 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | 195,193 | 108,180 | 48 | MIT | 2026-08-16 | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human i... |
+| 2 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 149,539 | 10,727 | 501 | GPL-3.0 | 2026-10-06 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 140,492 | 9,436 | 2,914 | MIT | 2026-10-06 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. ... |
+| 4 | [openai/codex](https://github.com/openai/codex) | 128,045 | 20,060 | 20,953 | Apache-2.0 | 2026-10-06 | Lightweight coding agent that runs in your terminal |
+| 5 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125,269 | 19,483 | 183 | AGPL-3.0 | 2026-10-06 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| 6 | [rust-lang/rust](https://github.com/rust-lang/rust) | 119,651 | 17,794 | 12,661 | Apache-2.0 | 2026-10-06 | Empowering everyone to build reliable and efficient software. |
+| 7 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | 111,619 | 4,041 | 1,484 | Apache-2.0 | 2026-10-06 | Build smaller, faster, and more secure desktop and mobile applications with a web frontend. |
+| 8 | [denoland/deno](https://github.com/denoland/deno) | 108,684 | 6,399 | 1,665 | MIT | 2026-10-06 | A modern runtime for JavaScript and TypeScript. |
+| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 96,709 | 12,722 | 382 | MIT | 2026-10-06 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detect... |
+| 10 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96,140 | 5,096 | 9,623 | NOASSERTION | 2026-10-06 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| 11 | [zed-industries/zed](https://github.com/zed-industries/zed) | 91,366 | 10,937 | 3,064 | NOASSERTION | 2026-10-06 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-... |
+| 12 | [astral-sh/uv](https://github.com/astral-sh/uv) | 90,447 | 3,632 | 2,969 | Apache-2.0 | 2026-10-06 | An extremely fast Python package and project manager, written in Rust. |
+| 13 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82,551 | 5,251 | 1,510 | Apache-2.0 | 2026-10-06 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
+| 14 | [unionlabs/union](https://github.com/unionlabs/union) | 73,763 | 3,887 | 196 | Apache-2.0 | 2026-07-25 | The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, a... |
+| 15 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 68,887 | 4,608 | 202 | Unlicense | 2026-08-04 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
+| 16 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 68,621 | 3,286 | 96 | AGPL-3.0 | 2026-10-06 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | 17 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 68,518 | 5,888 | 12 | Apache-2.0 | 2026-10-06 | A coding agent for open models like Kimi K3 and GLM 5.3 |
-| 18 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65,892 | 3,628 | 340 | Apache-2.0 | 2026-10-05 | A cross-platform, OpenGL terminal emulator. |
-| 19 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 65,375 | 5,624 | 5,351 | AGPL-3.0 | 2026-10-06 | Warp is an agentic development environment, born out of the terminal. |
-| 20 | [rust-lang/rustlings](https://github.com/rust-lang/rustlings) | 64,283 | 11,253 | 37 | MIT | 2026-09-29 | :crab: Small exercises to get you used to reading and writing Rust code! |
-| 21 | [tw93/Pake](https://github.com/tw93/Pake) | 61,929 | 12,749 | 1 | GPL-3.0 | 2026-10-06 | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| 18 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65,894 | 3,629 | 340 | Apache-2.0 | 2026-10-05 | A cross-platform, OpenGL terminal emulator. |
+| 19 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | 65,373 | 5,624 | 5,358 | AGPL-3.0 | 2026-10-06 | Warp is an agentic development environment, born out of the terminal. |
+| 20 | [rust-lang/rustlings](https://github.com/rust-lang/rustlings) | 64,282 | 11,253 | 37 | MIT | 2026-09-29 | :crab: Small exercises to get you used to reading and writing Rust code! |
+| 21 | [tw93/Pake](https://github.com/tw93/Pake) | 61,924 | 12,749 | 1 | GPL-3.0 | 2026-10-06 | 🤱🏻 Turn any webpage into a desktop app with one command. |
 | 22 | [FuelLabs/sway](https://github.com/FuelLabs/sway) | 61,398 | 5,409 | 949 | Apache-2.0 | 2026-10-06 | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
-| 23 | [sharkdp/bat](https://github.com/sharkdp/bat) | 60,689 | 3,553 | 543 | Apache-2.0 | 2026-10-01 | A cat(1) clone with wings. |
-| 24 | [starship/starship](https://github.com/starship/starship) | 60,174 | 2,696 | 1,056 | ISC | 2026-10-05 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
-| 25 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 59,696 | 3,658 | 10 | CC0-1.0 | 2026-10-06 | A curated list of Rust code and resources. |
+| 23 | [sharkdp/bat](https://github.com/sharkdp/bat) | 60,692 | 3,528 | 543 | Apache-2.0 | 2026-10-01 | A cat(1) clone with wings. |
+| 24 | [starship/starship](https://github.com/starship/starship) | 60,172 | 2,696 | 1,057 | ISC | 2026-10-05 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| 25 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 59,696 | 3,657 | 10 | CC0-1.0 | 2026-10-06 | A curated list of Rust code and resources. |
 | 26 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59,504 | 2,722 | 321 | NOASSERTION | 2026-10-06 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| 27 | [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) | 56,811 | 2,863 | 208 | NOASSERTION | 2026-10-04 | Rust full node implementation of the Fuel v2 protocol. |
-| 28 | [typst/typst](https://github.com/typst/typst) | 56,440 | 1,739 | 1,298 | Apache-2.0 | 2026-10-06 | A markup-based typesetting system that is powerful and easy to learn. |
-| 29 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 55,004 | 6,371 | 448 | Apache-2.0 | 2026-10-06 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
-| 30 | [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54,590 | 6,149 | 949 | — | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
-| 31 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 49,928 | 2,476 | 2,195 | MIT | 2026-10-06 | An extremely fast Python linter and code formatter, written in Rust. |
-| 32 | [bevyengine/bevy](https://github.com/bevyengine/bevy) | 48,654 | 4,884 | 3,427 | Apache-2.0 | 2026-10-06 | A refreshingly simple data-driven game engine built in Rust |
-| 33 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,486 | 3,813 | 1,714 | MPL-2.0 | 2026-09-29 | A post-modern modal text editor. |
-| 34 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45,291 | 6,427 | 2,301 | Apache-2.0 | 2026-10-06 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to m... |
-| 35 | [janhq/jan](https://github.com/janhq/jan) | 44,824 | 3,069 | 544 | NOASSERTION | 2026-10-06 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
-| 36 | [sharkdp/fd](https://github.com/sharkdp/fd) | 44,648 | 1,151 | 199 | Apache-2.0 | 2026-10-06 | A simple, fast and user-friendly alternative to 'find' |
-| 37 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 43,568 | 2,942 | 833 | Apache-2.0 | 2026-10-06 | Browser automation CLI for AI agents |
-| 38 | [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) | 42,986 | 1,360 | 77 | Apache-2.0 | 2026-08-29 | Fuel Network Rust SDK |
-| 39 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 42,648 | 1,039 | 64 | MIT | 2026-10-05 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| 40 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 42,618 | 3,328 | 327 | Apache-2.0 | 2026-10-05 | the runtime your coding agents live on |
-| 41 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41,348 | 1,954 | 61 | Apache-2.0 | 2026-10-06 | Comfortably monitor your network traffic 🕵️‍♂️ |
-| 42 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 41,249 | 4,060 | 289 | GPL-3.0 | 2026-10-06 | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
-| 43 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | 41,057 | 3,570 | 203 | MIT | 2026-10-06 | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issue... |
-| 44 | [nushell/nushell](https://github.com/nushell/nushell) | 40,627 | 2,293 | 1,471 | MIT | 2026-10-06 | A new type of shell |
-| 45 | [pola-rs/polars](https://github.com/pola-rs/polars) | 39,941 | 3,154 | 2,942 | MIT | 2026-10-06 | Extremely fast Query Engine for DataFrames, written in Rust |
-| 46 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 39,908 | 915 | 144 | MIT | 2026-10-03 | A smarter cd command. Supports all major shells. |
-| 47 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 39,329 | 1,913 | 817 | Apache-2.0 | 2026-10-03 | Fullstack app framework for web, desktop, and mobile. |
-| 48 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39,078 | 1,352 | 58 | Apache-2.0 | 2026-10-05 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
-| 49 | [lapce/lapce](https://github.com/lapce/lapce) | 38,901 | 1,344 | 900 | Apache-2.0 | 2026-10-06 | Lightning-fast and Powerful Code Editor written in Rust |
-| 50 | [servo/servo](https://github.com/servo/servo) | 38,089 | 3,819 | 3,160 | MPL-2.0 | 2026-10-06 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in a... |
-| 51 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37,656 | 2,414 | 83 | MIT | 2026-10-05 | Hundreds of models & providers. One command to find what runs on your hardware. |
+| 27 | [FuelLabs/fuel-core](https://github.com/FuelLabs/fuel-core) | 56,808 | 2,863 | 208 | NOASSERTION | 2026-10-04 | Rust full node implementation of the Fuel v2 protocol. |
+| 28 | [typst/typst](https://github.com/typst/typst) | 56,445 | 1,739 | 1,298 | Apache-2.0 | 2026-10-06 | A markup-based typesetting system that is powerful and easy to learn. |
+| 29 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 55,006 | 6,372 | 455 | Apache-2.0 | 2026-10-06 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| 30 | [lencx/ChatGPT](https://github.com/lencx/ChatGPT) | 54,587 | 6,149 | 949 | — | 2024-08-29 | ❄️ ChatGPT Desktop Application (Mac, Windows and Linux) |
+| 31 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | 49,927 | 2,478 | 2,200 | MIT | 2026-10-06 | An extremely fast Python linter and code formatter, written in Rust. |
+| 32 | [bevyengine/bevy](https://github.com/bevyengine/bevy) | 48,656 | 4,883 | 3,426 | Apache-2.0 | 2026-10-06 | A refreshingly simple data-driven game engine built in Rust |
+| 33 | [helix-editor/helix](https://github.com/helix-editor/helix) | 46,488 | 3,813 | 1,714 | MPL-2.0 | 2026-09-29 | A post-modern modal text editor. |
+| 34 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45,294 | 6,426 | 2,292 | Apache-2.0 | 2026-10-06 | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to m... |
+| 35 | [janhq/jan](https://github.com/janhq/jan) | 44,826 | 3,069 | 541 | NOASSERTION | 2026-10-06 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| 36 | [sharkdp/fd](https://github.com/sharkdp/fd) | 44,651 | 1,151 | 199 | Apache-2.0 | 2026-10-06 | A simple, fast and user-friendly alternative to 'find' |
+| 37 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 43,567 | 2,942 | 831 | Apache-2.0 | 2026-10-06 | Browser automation CLI for AI agents |
+| 38 | [FuelLabs/fuels-rs](https://github.com/FuelLabs/fuels-rs) | 42,984 | 1,360 | 77 | Apache-2.0 | 2026-08-29 | Fuel Network Rust SDK |
+| 39 | [sxyazi/yazi](https://github.com/sxyazi/yazi) | 42,655 | 1,039 | 66 | MIT | 2026-10-05 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
+| 40 | [herdrdev/herdr](https://github.com/herdrdev/herdr) | 42,646 | 3,329 | 330 | Apache-2.0 | 2026-10-06 | the runtime your coding agents live on |
+| 41 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 41,397 | 4,073 | 275 | GPL-3.0 | 2026-10-06 | OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust |
+| 42 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41,345 | 1,954 | 61 | Apache-2.0 | 2026-10-06 | Comfortably monitor your network traffic 🕵️‍♂️ |
+| 43 | [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) | 41,062 | 3,569 | 203 | MIT | 2026-10-06 | Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issue... |
+| 44 | [nushell/nushell](https://github.com/nushell/nushell) | 40,628 | 2,293 | 1,472 | MIT | 2026-10-06 | A new type of shell |
+| 45 | [pola-rs/polars](https://github.com/pola-rs/polars) | 39,954 | 3,155 | 2,943 | MIT | 2026-10-06 | Extremely fast Query Engine for DataFrames, written in Rust |
+| 46 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 39,919 | 915 | 144 | MIT | 2026-10-03 | A smarter cd command. Supports all major shells. |
+| 47 | [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 39,329 | 1,914 | 817 | Apache-2.0 | 2026-10-03 | Fullstack app framework for web, desktop, and mobile. |
+| 48 | [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) | 39,073 | 1,351 | 58 | Apache-2.0 | 2026-10-05 | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. |
+| 49 | [lapce/lapce](https://github.com/lapce/lapce) | 38,900 | 1,344 | 900 | Apache-2.0 | 2026-10-06 | Lightning-fast and Powerful Code Editor written in Rust |
+| 50 | [servo/servo](https://github.com/servo/servo) | 38,088 | 3,819 | 3,164 | MPL-2.0 | 2026-10-06 | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in a... |
+| 51 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 37,657 | 2,415 | 83 | MIT | 2026-10-05 | Hundreds of models & providers. One command to find what runs on your hardware. |
 | 52 | [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 37,190 | 2,659 | 95 | Apache-2.0 | 2026-10-06 | Secure and fast microVMs for serverless computing. |
-| 53 | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 36,749 | 1,908 | 214 | MIT | 2026-10-06 | Fast, disk space efficient package manager |
-| 54 | [casey/just](https://github.com/casey/just) | 36,153 | 856 | 172 | CC0-1.0 | 2026-10-02 | 🤖 Just a command runner |
-| 55 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35,659 | 1,478 | 1,930 | MIT | 2026-10-06 | A terminal workspace with batteries included |
-| 56 | [block/buzz](https://github.com/block/buzz) | 35,618 | 4,708 | 3,603 | Apache-2.0 | 2026-10-06 | A hive mind communication platform |
-| 57 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34,948 | 2,728 | 753 | Apache-2.0 | 2026-10-06 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also... |
-| 58 | [jdx/mise](https://github.com/jdx/mise) | 34,654 | 1,460 | 27 | MIT | 2026-10-06 | dev tools, env vars, task runner |
-| 59 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 34,460 | 1,552 | 59 | Apache-2.0 | 2026-10-06 | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence w... |
-| 60 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 34,262 | 2,379 | 558 | NOASSERTION | 2026-10-05 | The user-friendly command line shell. |
-| 61 | [swc-project/swc](https://github.com/swc-project/swc) | 34,212 | 1,571 | 394 | Apache-2.0 | 2026-10-06 | Rust-based platform for the Web |
-| 62 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 33,900 | 1,792 | 341 | NOASSERTION | 2026-06-30 | Self-hosted AI coding assistant |
-| 63 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 33,519 | 5,433 | 120 | Apache-2.0 | 2026-10-06 | Algorithm powering the For You feed on X |
-| 64 | [google/comprehensive-rust](https://github.com/google/comprehensive-rust) | 33,402 | 2,080 | 162 | Apache-2.0 | 2026-10-05 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
-| 65 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | 33,347 | 5,026 | 454 | MIT | 2026-10-04 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
-| 66 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33,109 | 1,365 | 701 | NOASSERTION | 2026-10-06 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| 67 | [cjpais/Handy](https://github.com/cjpais/Handy) | 33,022 | 3,069 | 164 | MIT | 2026-10-05 | A free, open source, and extensible speech-to-text application that works completely offline. |
-| 68 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 32,935 | 4,953 | 937 | Apache-2.0 | 2026-10-06 | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap ... |
-| 69 | [yewstack/yew](https://github.com/yewstack/yew) | 32,821 | 1,453 | 121 | Apache-2.0 | 2026-10-03 | Rust / Wasm framework for creating reliable and efficient web applications |
-| 70 | [dandavison/delta](https://github.com/dandavison/delta) | 32,428 | 591 | 465 | MIT | 2026-10-05 | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output |
-| 71 | [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 32,089 | 2,415 | 586 | Apache-2.0 | 2026-09-18 | Main repository for the Linera protocol |
-| 72 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 31,972 | 3,448 | 1,723 | NOASSERTION | 2026-10-06 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Buil... |
-| 73 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | 31,911 | 990 | 412 | MIT | 2026-10-06 | ✨ Making your shell magical |
-| 74 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | 31,909 | 1,235 | 1,258 | Apache-2.0 | 2026-10-06 | A Git-compatible VCS that is both simple and powerful |
-| 75 | [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 31,846 | 2,030 | 748 | AGPL-3.0 | 2026-10-06 | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好... |
-| 76 | [ankitects/anki](https://github.com/ankitects/anki) | 31,802 | 3,306 | 576 | NOASSERTION | 2026-10-06 | Anki is a smart spaced repetition flashcard program |
-| 77 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31,760 | 3,719 | 2,172 | Apache-2.0 | 2026-10-06 | Scalable datastore for metrics, events, and real-time analytics |
+| 53 | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 36,752 | 1,908 | 213 | MIT | 2026-10-06 | Fast, disk space efficient package manager |
+| 54 | [casey/just](https://github.com/casey/just) | 36,152 | 856 | 172 | CC0-1.0 | 2026-10-02 | 🤖 Just a command runner |
+| 55 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35,659 | 1,479 | 1,930 | MIT | 2026-10-06 | A terminal workspace with batteries included |
+| 56 | [block/buzz](https://github.com/block/buzz) | 35,619 | 4,710 | 3,590 | Apache-2.0 | 2026-10-06 | A hive mind communication platform |
+| 57 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34,950 | 2,727 | 750 | Apache-2.0 | 2026-10-06 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also... |
+| 58 | [jdx/mise](https://github.com/jdx/mise) | 34,661 | 1,461 | 17 | MIT | 2026-10-06 | dev tools, env vars, task runner |
+| 59 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | 34,461 | 1,554 | 61 | Apache-2.0 | 2026-10-06 | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence w... |
+| 60 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 34,261 | 2,378 | 557 | NOASSERTION | 2026-10-06 | The user-friendly command line shell. |
+| 61 | [swc-project/swc](https://github.com/swc-project/swc) | 34,211 | 1,571 | 395 | Apache-2.0 | 2026-10-06 | Rust-based platform for the Web |
+| 62 | [TabbyML/tabby](https://github.com/TabbyML/tabby) | 33,901 | 1,792 | 341 | NOASSERTION | 2026-06-30 | Self-hosted AI coding assistant |
+| 63 | [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) | 33,518 | 5,433 | 121 | Apache-2.0 | 2026-10-06 | Algorithm powering the For You feed on X |
+| 64 | [google/comprehensive-rust](https://github.com/google/comprehensive-rust) | 33,402 | 2,080 | 164 | Apache-2.0 | 2026-10-05 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
+| 65 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | 33,351 | 5,003 | 454 | MIT | 2026-10-04 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
+| 66 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33,108 | 1,365 | 701 | NOASSERTION | 2026-10-06 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| 67 | [cjpais/Handy](https://github.com/cjpais/Handy) | 33,043 | 3,072 | 164 | MIT | 2026-10-05 | A free, open source, and extensible speech-to-text application that works completely offline. |
+| 68 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 32,936 | 4,953 | 941 | Apache-2.0 | 2026-10-06 | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap ... |
+| 69 | [yewstack/yew](https://github.com/yewstack/yew) | 32,819 | 1,452 | 121 | Apache-2.0 | 2026-10-03 | Rust / Wasm framework for creating reliable and efficient web applications |
+| 70 | [dandavison/delta](https://github.com/dandavison/delta) | 32,430 | 591 | 465 | MIT | 2026-10-05 | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output |
+| 71 | [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 32,087 | 2,415 | 586 | Apache-2.0 | 2026-09-18 | Main repository for the Linera protocol |
+| 72 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 31,971 | 3,448 | 1,723 | NOASSERTION | 2026-10-06 | Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Buil... |
+| 73 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | 31,917 | 990 | 413 | MIT | 2026-10-06 | ✨ Making your shell magical |
+| 74 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | 31,908 | 1,235 | 1,256 | Apache-2.0 | 2026-10-06 | A Git-compatible VCS that is both simple and powerful |
+| 75 | [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 31,846 | 2,030 | 747 | AGPL-3.0 | 2026-10-06 | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好... |
+| 76 | [ankitects/anki](https://github.com/ankitects/anki) | 31,809 | 3,309 | 578 | NOASSERTION | 2026-10-06 | Anki is a smart spaced repetition flashcard program |
+| 77 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31,759 | 3,720 | 2,172 | Apache-2.0 | 2026-10-06 | Scalable datastore for metrics, events, and real-time analytics |
 | 78 | [iced-rs/iced](https://github.com/iced-rs/iced) | 31,680 | 1,694 | 504 | MIT | 2026-10-06 | A cross-platform GUI library for Rust, inspired by Elm |
-| 79 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 31,481 | 3,440 | 360 | MIT | 2026-09-15 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Olla... |
-| 80 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 31,265 | 1,856 | 133 | Apache-2.0 | 2026-10-06 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamic... |
-| 81 | [vercel/turborepo](https://github.com/vercel/turborepo) | 31,180 | 2,456 | 23 | MIT | 2026-10-06 | Build system optimized for JavaScript and TypeScript, written in Rust |
-| 82 | [sunface/rust-course](https://github.com/sunface/rust-course) | 30,986 | 2,592 | 21 | — | 2026-08-24 | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book |
-| 83 | [emilk/egui](https://github.com/emilk/egui) | 30,884 | 2,165 | 1,032 | Apache-2.0 | 2026-10-06 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
-| 84 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 29,659 | 3,932 | 157 | LGPL-3.0 | 2026-10-06 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
-| 85 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | 29,453 | 2,550 | 917 | Apache-2.0 | 2026-10-05 | Search infrastructure for AI |
-| 86 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | 29,138 | 1,778 | 1,900 | NOASSERTION | 2026-10-05 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
-| 87 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) | 28,953 | 518 | 52 | Apache-2.0 | 2026-10-06 | A command-line benchmarking tool |
-| 88 | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 28,550 | 2,118 | 195 | Apache-2.0 | 2026-10-04 | The headless browser for AI agents and web scraping |
-| 89 | [trycua/cua](https://github.com/trycua/cua) | 28,406 | 2,021 | 1,117 | MIT | 2026-10-06 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data g... |
-| 90 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28,264 | 3,035 | 544 | Apache-2.0 | 2026-09-19 | Get 10X more out of Claude Code, Codex or any coding agent |
-| 91 | [niri-wm/niri](https://github.com/niri-wm/niri) | 28,233 | 1,180 | 461 | GPL-3.0 | 2026-10-01 | A scrollable-tiling Wayland compositor. |
-| 92 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | 27,590 | 1,767 | 309 | Apache-2.0 | 2026-09-11 | A library for building fast, reliable and evolvable network services. |
-| 93 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 27,453 | 1,277 | 453 | Apache-2.0 | 2026-10-05 | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-... |
-| 94 | [tokio-rs/axum](https://github.com/tokio-rs/axum) | 27,393 | 1,495 | 85 | MIT | 2026-10-06 | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity |
-| 95 | [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27,235 | 5,124 | 0 | Apache-2.0 | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
-| 96 | [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | 27,133 | 2,936 | 109 | MIT | 2026-10-06 | An incremental parsing system for programming tools |
-| 97 | [Schniz/fnm](https://github.com/Schniz/fnm) | 27,041 | 650 | 247 | GPL-3.0 | 2026-07-24 | 🚀 Fast and simple Node.js version manager, built in Rust |
-| 98 | [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) | 26,075 | 2,598 | 11 | MIT | 2026-09-11 | All Algorithms implemented in Rust |
+| 79 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 31,479 | 3,440 | 360 | MIT | 2026-09-15 | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Olla... |
+| 80 | [googleworkspace/cli](https://github.com/googleworkspace/cli) | 31,262 | 1,856 | 133 | Apache-2.0 | 2026-10-06 | Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamic... |
+| 81 | [vercel/turborepo](https://github.com/vercel/turborepo) | 31,177 | 2,459 | 16 | MIT | 2026-10-06 | Build system optimized for JavaScript and TypeScript, written in Rust |
+| 82 | [sunface/rust-course](https://github.com/sunface/rust-course) | 30,984 | 2,592 | 21 | — | 2026-08-24 | 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book |
+| 83 | [emilk/egui](https://github.com/emilk/egui) | 30,891 | 2,165 | 1,033 | Apache-2.0 | 2026-10-06 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
+| 84 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 29,660 | 3,932 | 158 | LGPL-3.0 | 2026-10-06 | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| 85 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | 29,453 | 2,550 | 917 | Apache-2.0 | 2026-10-06 | Search infrastructure for AI |
+| 86 | [wezterm/wezterm](https://github.com/wezterm/wezterm) | 29,139 | 1,779 | 1,900 | NOASSERTION | 2026-10-05 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
+| 87 | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) | 28,952 | 518 | 51 | Apache-2.0 | 2026-10-06 | A command-line benchmarking tool |
+| 88 | [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) | 28,574 | 2,121 | 195 | Apache-2.0 | 2026-10-04 | The headless browser for AI agents and web scraping |
+| 89 | [trycua/cua](https://github.com/trycua/cua) | 28,447 | 2,023 | 1,119 | MIT | 2026-10-06 | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data g... |
+| 90 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 28,269 | 3,034 | 544 | Apache-2.0 | 2026-09-19 | Get 10X more out of Claude Code, Codex or any coding agent |
+| 91 | [niri-wm/niri](https://github.com/niri-wm/niri) | 28,242 | 1,180 | 455 | GPL-3.0 | 2026-10-01 | A scrollable-tiling Wayland compositor. |
+| 92 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | 27,593 | 1,767 | 309 | Apache-2.0 | 2026-09-11 | A library for building fast, reliable and evolvable network services. |
+| 93 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 27,460 | 1,279 | 453 | Apache-2.0 | 2026-10-05 | Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-... |
+| 94 | [tokio-rs/axum](https://github.com/tokio-rs/axum) | 27,396 | 1,496 | 84 | MIT | 2026-10-06 | HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity |
+| 95 | [xai-org/grok-build](https://github.com/xai-org/grok-build) | 27,241 | 5,121 | 0 | Apache-2.0 | 2026-09-29 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
+| 96 | [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | 27,132 | 2,937 | 109 | MIT | 2026-10-06 | An incremental parsing system for programming tools |
+| 97 | [Schniz/fnm](https://github.com/Schniz/fnm) | 27,045 | 650 | 247 | GPL-3.0 | 2026-07-24 | 🚀 Fast and simple Node.js version manager, built in Rust |
+| 98 | [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) | 26,073 | 2,598 | 11 | MIT | 2026-09-11 | All Algorithms implemented in Rust |
 | 99 | [Wilfred/difftastic](https://github.com/Wilfred/difftastic) | 25,984 | 522 | 288 | MIT | 2026-10-02 | a structural diff that understands syntax 🟥🟩 |
-| 100 | [biomejs/biome](https://github.com/biomejs/biome) | 25,907 | 1,273 | 422 | Apache-2.0 | 2026-10-06 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, u... |
+| 100 | [biomejs/biome](https://github.com/biomejs/biome) | 25,907 | 1,275 | 425 | Apache-2.0 | 2026-10-06 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, u... |
