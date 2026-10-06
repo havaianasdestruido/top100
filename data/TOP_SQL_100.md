@@ -1,10 +1,10 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,580** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,581** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,310 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,309 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,320 | 432 | 1 | MIT | 2026-10-05 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 819 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 423 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
@@ -88,7 +88,7 @@ Ranked by stars. GitHub reports **4,580** total repositories matching `language:
 | 82 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
 | 83 | [j-b-ferguson/relational-database-design-and-test](https://github.com/j-b-ferguson/relational-database-design-and-test) | 8 | 0 | 0 | — | 2021-02-04 | Designing and testing a relational database for The Happy Phone Company. |
 | 84 | [AlysterF/8week-SQL-challenge](https://github.com/AlysterF/8week-SQL-challenge) | 8 | 2 | 0 | — | 2021-10-31 | 8 case studies to apply SQL query solutions! |
-| 85 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 8 | 1 | 0 | MIT | 2026-07-30 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
+| 85 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 8 | 1 | 0 | MIT | 2026-10-06 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
 | 86 | [artie93/When-Was-the-Golden-Age-of-Video-Games-](https://github.com/artie93/When-Was-the-Golden-Age-of-Video-Games-) | 8 | 0 | 0 | — | 2024-07-08 |  |
 | 87 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
 | 88 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
