@@ -1,6 +1,6 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,188** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,195** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -21,9 +21,9 @@ Ranked by stars. GitHub reports **543,188** total repositories matching `languag
 | 15 | [ccgus/fmdb](https://github.com/ccgus/fmdb) | 13,822 | 2,730 | 270 | NOASSERTION | 2026-03-15 | A Cocoa / Objective-C wrapper around SQLite |
 | 16 | [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13,799 | 3,517 | 58 | MIT | 2025-11-11 | An easy way to use pull-to-refresh. |
 | 17 | [eczarny/spectacle](https://github.com/eczarny/spectacle) | 13,626 | 861 | 148 | NOASSERTION | 2022-01-15 | Spectacle allows you to organize your windows without using a mouse. |
-| 18 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,416 | 535 | 405 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
+| 18 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,417 | 535 | 405 | GPL-3.0 | 2026-09-06 | Darwin/macOS emulation layer for Linux |
 | 19 | [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13,321 | 2,274 | 6 | BSD-3-Clause | 2026-09-21 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS |
-| 20 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,290 | 604 | 533 | GPL-3.0 | 2026-10-04 | LuLu is the free open-source macOS firewall |
+| 20 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,289 | 604 | 534 | GPL-3.0 | 2026-10-04 | LuLu is the free open-source macOS firewall |
 | 21 | [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13,071 | 1,538 | 63 | MIT | 2026-08-19 | A data-driven UICollectionView framework for building fast and flexible lists. |
 | 22 | [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12,441 | 2,987 | 0 | NOASSERTION | 2026-08-30 | Asynchronous socket networking library for Mac and iOS |
 | 23 | [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12,432 | 2,663 | 86 | MIT | 2026-02-27 | A clean and lightweight progress HUD for your iOS and tvOS app. |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **543,188** total repositories matching `languag
 | 59 | [Grouper/FlatUIKit](https://github.com/Grouper/FlatUIKit) | 7,716 | 923 | 35 | MIT | 2016-09-29 | A collection of awesome flat UI components for iOS. |
 | 60 | [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) | 7,620 | 1,117 | 118 | GPL-3.0 | 2023-03-20 | GUI for v2ray-core on macOS |
 | 61 | [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout) | 7,587 | 727 | 46 | NOASSERTION | 2023-03-16 | The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible. |
-| 62 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,547 | 336 | 188 | NOASSERTION | 2026-10-05 | MySQL/MariaDB database management for macOS |
+| 62 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,547 | 336 | 189 | NOASSERTION | 2026-10-05 | MySQL/MariaDB database management for macOS |
 | 63 | [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) | 7,346 | 359 | 11 | NOASSERTION | 2026-08-30 | Send User Notifications on macOS from the command-line. |
 | 64 | [facebookarchive/KVOController](https://github.com/facebookarchive/KVOController) | 7,275 | 914 | 15 | NOASSERTION | 2020-01-25 | Simple, modern, thread-safe key-value observing for iOS and OS X. |
 | 65 | [maderix/ANE](https://github.com/maderix/ANE) | 7,260 | 954 | 30 | MIT | 2026-03-10 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
@@ -96,7 +96,7 @@ Ranked by stars. GitHub reports **543,188** total repositories matching `languag
 | 90 | [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | 6,337 | 797 | 34 | NOASSERTION | 2026-05-08 | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案... |
 | 91 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,319 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
 | 92 | [noodlewerk/NWPusher](https://github.com/noodlewerk/NWPusher) | 6,300 | 662 | 28 | BSD-2-Clause | 2021-03-30 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) |
-| 93 | [kif-framework/KIF](https://github.com/kif-framework/KIF) | 6,247 | 917 | 55 | NOASSERTION | 2026-10-06 | Keep It Functional - An iOS Functional Testing Framework |
+| 93 | [kif-framework/KIF](https://github.com/kif-framework/KIF) | 6,247 | 917 | 56 | NOASSERTION | 2026-10-06 | Keep It Functional - An iOS Functional Testing Framework |
 | 94 | [gsdios/SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6,179 | 1,490 | 506 | MIT | 2023-04-21 | Autoscroll Banner.   无限循环图片、文字轮播器。 |
 | 95 | [johnezang/JSONKit](https://github.com/johnezang/JSONKit) | 6,169 | 1,619 | 103 | — | 2020-11-22 | Objective-C JSON |
 | 96 | [pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 6,149 | 1,146 | 39 | MIT | 2024-08-07 | A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日... |
