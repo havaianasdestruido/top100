@@ -1,11 +1,11 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,582** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,584** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,309 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,321 | 431 | 1 | MIT | 2026-10-05 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,310 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,321 | 431 | 1 | MIT | 2026-10-07 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 423 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
@@ -28,7 +28,7 @@ Ranked by stars. GitHub reports **4,582** total repositories matching `language:
 | 22 | [TrinityCore/TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | 59 | 111 | 0 | — | 2014-10-18 | If you are looking for TDB for 4.3.4 go to: |
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 51 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
-| 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 17 | 2 | — | 2024-01-29 |  |
+| 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 16 | 2 | — | 2024-01-29 |  |
 | 26 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
 | 27 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 43 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
 | 28 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |

@@ -1,17 +1,17 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,137,593** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,137,734** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,126 | 288 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
-| 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,006 | 2,125 | 107 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
+| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,133 | 288 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
+| 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,004 | 2,125 | 107 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,513 | 1,511 | 28 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,695 | 1,890 | 870 | NOASSERTION | 2026-10-03 | Easy interactive web applications with R |
-| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,174 | 4,445 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
+| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,175 | 4,445 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
 | 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,072 | 2,111 | 96 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
 | 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,618 | 7,193 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
-| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,120 | 642 | 23 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
+| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,120 | 641 | 22 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
 | 9 | [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4,107 | 431 | 12 | — | 2022-03-15 | Statistical Rethinking course winter 2022 |
 | 10 | [Rdatatable/data.table](https://github.com/Rdatatable/data.table) | 3,923 | 1,055 | 987 | MPL-2.0 | 2026-10-02 | R's data.table package extends data.frame: |
 | 11 | [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3,731 | 2,175 | 36 | — | 2019-05-26 | Code accompanying the book "Machine Learning for Hackers" |
@@ -42,10 +42,10 @@ Ranked by stars. GitHub reports **1,137,593** total repositories matching `langu
 | 36 | [rstudio/reticulate](https://github.com/rstudio/reticulate) | 1,763 | 349 | 475 | Apache-2.0 | 2026-09-09 | R Interface to Python |
 | 37 | [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1,747 | 244 | 172 | NOASSERTION | 2026-04-27 | Graph and network visualization using tabular data in R |
 | 38 | [zonination/investing](https://github.com/zonination/investing) | 1,743 | 109 | 0 | MIT | 2016-12-27 | Investing Returns on the Market as a Whole |
-| 39 | [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1,721 | 145 | 19 | — | 2026-06-01 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 |
+| 39 | [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1,722 | 145 | 19 | — | 2026-06-01 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 |
 | 40 | [mlr-org/mlr](https://github.com/mlr-org/mlr) | 1,686 | 401 | 15 | NOASSERTION | 2025-08-22 | Machine Learning in R |
 | 41 | [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) | 1,684 | 184 | 0 | CC0-1.0 | 2026-10-07 | 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny |
-| 42 | [topepo/caret](https://github.com/topepo/caret) | 1,669 | 627 | 246 | — | 2026-08-24 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting class... |
+| 42 | [topepo/caret](https://github.com/topepo/caret) | 1,667 | 627 | 246 | — | 2026-08-24 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting class... |
 | 43 | [bbc/bbplot](https://github.com/bbc/bbplot) | 1,641 | 269 | 14 | — | 2021-07-02 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team |
 | 44 | [hadley/stats337](https://github.com/hadley/stats337) | 1,610 | 223 | 7 | CC-BY-SA-4.0 | 2018-06-21 | Readings in applied data science |
 | 45 | [jokergoo/ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 1,558 | 256 | 232 | NOASSERTION | 2026-04-02 | Make Complex Heatmaps |
@@ -70,8 +70,8 @@ Ranked by stars. GitHub reports **1,137,593** total repositories matching `langu
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
 | 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 94 | 25 | GPL-3.0 | 2026-04-14 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
 | 66 | [wch/r-source](https://github.com/wch/r-source) | 1,251 | 329 | 3 | GPL-2.0 | 2026-10-06 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on th... |
-| 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,241 | 268 | 256 | — | 2026-10-03 | :bar_chart: A universal enrichment tool for interpreting omics data |
-| 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,235 | 659 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
+| 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,242 | 268 | 256 | — | 2026-10-03 | :bar_chart: A universal enrichment tool for interpreting omics data |
+| 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,235 | 660 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
 | 69 | [swirldev/swirl](https://github.com/swirldev/swirl) | 1,219 | 595 | 326 | NOASSERTION | 2023-10-27 | :cyclone: Learn R, in R. |
 | 70 | [daattali/advanced-shiny](https://github.com/daattali/advanced-shiny) | 1,217 | 378 | 1 | — | 2025-12-21 | 🤹 Shiny tips & tricks for improving your apps and solving common problems |
 | 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,215 | 152 | 22 | NOASSERTION | 2026-09-04 | Presentation-Ready Data Summary and Analytic Result Tables |
