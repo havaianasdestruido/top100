@@ -1,20 +1,20 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,201** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,215** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,878 | 5,325 | 3,508 | Apache-2.0 | 2026-10-07 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,708 | 2,425 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
-| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,327 | 987 | 61 | Apache-2.0 | 2026-10-07 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
-| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,477 | 1,915 | 16 | Apache-2.0 | 2026-10-06 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
-| 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,288 | 3,563 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
-| 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,091 | 205 | 58 | Apache-2.0 | 2026-10-06 | Gradle plugin to discover dependency updates |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,709 | 2,425 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,327 | 987 | 62 | Apache-2.0 | 2026-10-07 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
+| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,477 | 1,915 | 15 | Apache-2.0 | 2026-10-07 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
+| 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,288 | 3,562 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
+| 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,091 | 205 | 55 | Apache-2.0 | 2026-10-07 | Gradle plugin to discover dependency updates |
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,952 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
-| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,499 | 814 | 411 | Apache-2.0 | 2026-10-06 | A workflow language for data-driven computational pipelines |
+| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,499 | 814 | 412 | Apache-2.0 | 2026-10-07 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,284 | 707 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,934 | 976 | 775 | Apache-2.0 | 2026-10-07 | Grails - the Web Application Framework |
-| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,270 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,934 | 976 | 774 | Apache-2.0 | 2026-10-07 | Grails - the Web Application Framework |
+| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,663 | 86,268 | 2,507 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,225 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,924 | 820 | 189 | Apache-2.0 | 2026-10-01 | A Groovy DSL for Jenkins Jobs |
 | 14 | [novoda/bintray-release](https://github.com/novoda/bintray-release) | 1,834 | 209 | 0 | NOASSERTION | 2022-02-11 | A helper for releasing from gradle up to bintray |
@@ -47,7 +47,7 @@ Ranked by stars. GitHub reports **111,201** total repositories matching `languag
 | 41 | [airbnb/okreplay](https://github.com/airbnb/okreplay) | 785 | 71 | 23 | Apache-2.0 | 2022-08-29 | 📼 Record and replay OkHttp network interaction in your tests. |
 | 42 | [gogradle/gogradle](https://github.com/gogradle/gogradle) | 771 | 90 | 95 | Apache-2.0 | 2021-10-11 | A Gradle Plugin Providing Full Support for Go |
 | 43 | [PrototypeZ/AppJoint](https://github.com/PrototypeZ/AppJoint) | 761 | 117 | 15 | — | 2019-08-20 | 🔧 Cross module Android development made easy! |
-| 44 | [palantir/gradle-docker](https://github.com/palantir/gradle-docker) | 755 | 160 | 117 | Apache-2.0 | 2026-10-06 | a Gradle plugin for orchestrating docker builds and pushes. |
+| 44 | [palantir/gradle-docker](https://github.com/palantir/gradle-docker) | 755 | 160 | 117 | Apache-2.0 | 2026-10-07 | a Gradle plugin for orchestrating docker builds and pushes. |
 | 45 | [ultraq/thymeleaf-layout-dialect](https://github.com/ultraq/thymeleaf-layout-dialect) | 745 | 109 | 9 | Apache-2.0 | 2026-03-25 | A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse |
 | 46 | [kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy) | 742 | 101 | 2 | MIT | 2024-10-26 | A curated list of awesome groovy libraries, frameworks and resources |
 | 47 | [melix/jmh-gradle-plugin](https://github.com/melix/jmh-gradle-plugin) | 725 | 86 | 82 | Apache-2.0 | 2026-09-23 | Integrates the JMH benchmarking framework with Gradle |
@@ -75,10 +75,10 @@ Ranked by stars. GitHub reports **111,201** total repositories matching `languag
 | 69 | [krlaframboise/SmartThings](https://github.com/krlaframboise/SmartThings) | 542 | 1,428 | 1 | — | 2022-08-19 |  |
 | 70 | [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) | 539 | 105 | 54 | — | 2021-05-11 | Font Mfizz - Vector Icons for Technology and Software Geeks |
 | 71 | [bmuschko/gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) | 526 | 117 | 28 | Apache-2.0 | 2023-10-12 | Gradle plugin supporting deployment of your web application to an embedded Tomcat web container |
-| 72 | [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin) | 525 | 56 | 2 | Apache-2.0 | 2026-10-03 | Gradle plugin that fixes Android build caching problems. |
+| 72 | [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin) | 525 | 56 | 3 | Apache-2.0 | 2026-10-07 | Gradle plugin that fixes Android build caching problems. |
 | 73 | [ajoberstar/grgit](https://github.com/ajoberstar/grgit) | 521 | 93 | 2 | Apache-2.0 | 2025-09-03 | The Groovy way to use Git. |
 | 74 | [pongasoft/glu](https://github.com/pongasoft/glu) | 520 | 94 | 75 | Apache-2.0 | 2016-03-08 | Deployment Automation Platform |
-| 75 | [betamaxteam/betamax](https://github.com/betamaxteam/betamax) | 473 | 128 | 16 | Apache-2.0 | 2017-05-28 | Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project w... |
+| 75 | [betamaxteam/betamax](https://github.com/betamaxteam/betamax) | 472 | 128 | 16 | Apache-2.0 | 2017-05-28 | Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project w... |
 | 76 | [samrocketman/jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts) | 464 | 232 | 0 | MIT | 2026-07-23 | A repository of one-off script console scripts for Jenkins. |
 | 77 | [rdk/p2rank](https://github.com/rdk/p2rank) | 464 | 62 | 15 | MIT | 2026-09-11 | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. |
 | 78 | [openbakery/gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) | 464 | 125 | 26 | Apache-2.0 | 2025-07-03 | gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS |

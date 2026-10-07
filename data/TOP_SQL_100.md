@@ -5,8 +5,8 @@ Ranked by stars. GitHub reports **4,582** total repositories matching `language:
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,309 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,320 | 431 | 1 | MIT | 2026-10-05 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
-| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 819 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,321 | 431 | 1 | MIT | 2026-10-05 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 423 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 402 | 167 | 60 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
@@ -30,8 +30,8 @@ Ranked by stars. GitHub reports **4,582** total repositories matching `language:
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
 | 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 17 | 2 | — | 2024-01-29 |  |
 | 26 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
-| 27 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
-| 28 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 42 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
+| 27 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 43 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
+| 28 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
 | 29 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 41 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
 | 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 1 | AGPL-3.0 | 2026-10-04 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
 | 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 32 | 33 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
@@ -92,15 +92,15 @@ Ranked by stars. GitHub reports **4,582** total repositories matching `language:
 | 86 | [artie93/When-Was-the-Golden-Age-of-Video-Games-](https://github.com/artie93/When-Was-the-Golden-Age-of-Video-Games-) | 8 | 0 | 0 | — | 2024-07-08 |  |
 | 87 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
 | 88 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
-| 89 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
-| 90 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
-| 91 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
-| 92 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
-| 93 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
-| 94 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
-| 95 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
-| 96 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
-| 97 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-06 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
-| 98 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
-| 99 | [granthjoshi01/Event-Analytics-Platform](https://github.com/granthjoshi01/Event-Analytics-Platform) | 7 | 0 | 0 | MIT | 2026-02-26 | A production-style event analytics system focused on immutable event modeling, SQL-driven metrics, retention, and fun... |
-| 100 | [evgeniimatveev/SQL-Database-Design-A-Z](https://github.com/evgeniimatveev/SQL-Database-Design-A-Z) | 7 | 0 | 0 | — | 2026-09-18 | SQL database design in PostgreSQL: normalization (1NF→3NF), ERD diagrams, subqueries, window functions,   indexing an... |
+| 89 | [Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers](https://github.com/Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers) | 8 | 2 | 0 | MIT | 2022-11-18 | This repository contains practice questions and solutions and is solely dedicated to mastering SQL |
+| 90 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
+| 91 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
+| 92 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
+| 93 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
+| 94 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| 95 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
+| 96 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
+| 97 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
+| 98 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-06 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
+| 99 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
+| 100 | [granthjoshi01/Event-Analytics-Platform](https://github.com/granthjoshi01/Event-Analytics-Platform) | 7 | 0 | 0 | MIT | 2026-02-26 | A production-style event analytics system focused on immutable event modeling, SQL-driven metrics, retention, and fun... |
