@@ -1,21 +1,21 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,137,734** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,137,886** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,133 | 288 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
+| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,137 | 288 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
 | 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,004 | 2,125 | 107 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,513 | 1,511 | 28 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
-| 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,695 | 1,890 | 870 | NOASSERTION | 2026-10-03 | Easy interactive web applications with R |
+| 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,696 | 1,890 | 870 | NOASSERTION | 2026-10-03 | Easy interactive web applications with R |
 | 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,175 | 4,445 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
-| 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,072 | 2,111 | 96 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
+| 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,072 | 2,111 | 94 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
 | 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,618 | 7,193 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
 | 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,120 | 641 | 22 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
 | 9 | [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4,107 | 431 | 12 | — | 2022-03-15 | Statistical Rethinking course winter 2022 |
 | 10 | [Rdatatable/data.table](https://github.com/Rdatatable/data.table) | 3,923 | 1,055 | 987 | MPL-2.0 | 2026-10-02 | R's data.table package extends data.frame: |
 | 11 | [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3,731 | 2,175 | 36 | — | 2019-05-26 | Code accompanying the book "Machine Learning for Hackers" |
-| 12 | [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 3,605 | 761 | 71 | GPL-3.0 | 2019-08-30 | Anomaly Detection with R |
+| 12 | [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 3,606 | 761 | 71 | GPL-3.0 | 2019-08-30 | Anomaly Detection with R |
 | 13 | [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) | 3,064 | 989 | 261 | NOASSERTION | 2026-09-28 | Dynamic Documents for R |
 | 14 | [satijalab/seurat](https://github.com/satijalab/seurat) | 2,804 | 999 | 221 | NOASSERTION | 2026-10-05 | R toolkit for single cell genomics |
 | 15 | [plotly/plotly.R](https://github.com/plotly/plotly.R) | 2,682 | 640 | 761 | NOASSERTION | 2026-07-25 | An interactive graphing library for R |
@@ -52,12 +52,12 @@ Ranked by stars. GitHub reports **1,137,734** total repositories matching `langu
 | 46 | [tidymodels/broom](https://github.com/tidymodels/broom) | 1,525 | 298 | 18 | NOASSERTION | 2026-05-14 | Convert statistical analysis objects from R into tidy format |
 | 47 | [tidyverse/rvest](https://github.com/tidyverse/rvest) | 1,524 | 350 | 25 | NOASSERTION | 2026-10-05 | Simple web scraping for R |
 | 48 | [fossasia/tofsims](https://github.com/fossasia/tofsims) | 1,488 | 6 | 0 | — | 2017-11-29 |  |
-| 49 | [sfirke/janitor](https://github.com/sfirke/janitor) | 1,459 | 135 | 40 | NOASSERTION | 2024-12-23 | simple tools for data cleaning in R |
+| 49 | [sfirke/janitor](https://github.com/sfirke/janitor) | 1,459 | 134 | 40 | NOASSERTION | 2024-12-23 | simple tools for data cleaning in R |
 | 50 | [r-spatial/sf](https://github.com/r-spatial/sf) | 1,452 | 305 | 66 | NOASSERTION | 2026-09-29 | Simple Features for R |
 | 51 | [tidyverse/tidyr](https://github.com/tidyverse/tidyr) | 1,442 | 418 | 59 | NOASSERTION | 2026-06-02 | Tidy Messy Data |
 | 52 | [rstudio/plumber](https://github.com/rstudio/plumber) | 1,438 | 258 | 128 | NOASSERTION | 2026-02-09 | Turn your R code into a web API. |
 | 53 | [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1,436 | 612 | 6 | NOASSERTION | 2023-05-31 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RN... |
-| 54 | [paul-buerkner/brms](https://github.com/paul-buerkner/brms) | 1,433 | 230 | 160 | GPL-2.0 | 2026-10-07 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
+| 54 | [paul-buerkner/brms](https://github.com/paul-buerkner/brms) | 1,433 | 229 | 160 | GPL-2.0 | 2026-10-07 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
 | 55 | [tidyverse/purrr](https://github.com/tidyverse/purrr) | 1,410 | 297 | 42 | NOASSERTION | 2026-09-19 | A functional programming toolkit for R |
 | 56 | [hadley/mastering-shiny](https://github.com/hadley/mastering-shiny) | 1,381 | 560 | 79 | NOASSERTION | 2026-02-03 | Mastering Shiny: a book |
 | 57 | [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1,355 | 97 | 34 | NOASSERTION | 2026-10-06 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components |
@@ -68,13 +68,13 @@ Ranked by stars. GitHub reports **1,137,734** total repositories matching `langu
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,281 | 89 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,279 | 183 | 5 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
-| 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 94 | 25 | GPL-3.0 | 2026-04-14 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
+| 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 95 | 26 | GPL-3.0 | 2026-04-14 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
 | 66 | [wch/r-source](https://github.com/wch/r-source) | 1,251 | 329 | 3 | GPL-2.0 | 2026-10-06 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on th... |
-| 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,242 | 268 | 256 | — | 2026-10-03 | :bar_chart: A universal enrichment tool for interpreting omics data |
+| 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,242 | 268 | 255 | — | 2026-10-03 | :bar_chart: A universal enrichment tool for interpreting omics data |
 | 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,235 | 660 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
 | 69 | [swirldev/swirl](https://github.com/swirldev/swirl) | 1,219 | 595 | 326 | NOASSERTION | 2023-10-27 | :cyclone: Learn R, in R. |
 | 70 | [daattali/advanced-shiny](https://github.com/daattali/advanced-shiny) | 1,217 | 378 | 1 | — | 2025-12-21 | 🤹 Shiny tips & tricks for improving your apps and solving common problems |
-| 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,215 | 152 | 22 | NOASSERTION | 2026-09-04 | Presentation-Ready Data Summary and Analytic Result Tables |
+| 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,215 | 151 | 22 | NOASSERTION | 2026-09-04 | Presentation-Ready Data Summary and Analytic Result Tables |
 | 72 | [juliasilge/tidytext](https://github.com/juliasilge/tidytext) | 1,205 | 181 | 8 | NOASSERTION | 2026-08-02 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: |
 | 73 | [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,203 | 356 | 0 | MIT | 2026-06-12 | Collection of various algorithms implemented in R. |
 | 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,181 | 337 | 7 | — | 2026-10-03 | Forecasting Functions for Time Series and Linear Models |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **1,137,734** total repositories matching `langu
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,168 | 127 | 27 | NOASSERTION | 2026-09-17 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,164 | 170 | 197 | MIT | 2026-10-06 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,160 | 88 | 45 | NOASSERTION | 2026-09-10 | :milky_way: The R easystats-project |
-| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,158 | 109 | 101 | GPL-3.0 | 2026-10-01 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
+| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,158 | 108 | 101 | GPL-3.0 | 2026-10-01 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,119 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,098 | 85 | 0 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 267 | 357 | — | 2026-10-07 | RStan, the R interface to Stan |

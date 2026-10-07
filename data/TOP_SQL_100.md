@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,584** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,586** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -74,15 +74,15 @@ Ranked by stars. GitHub reports **4,584** total repositories matching `language:
 | 68 | [tacohirosystems/remotehiro](https://github.com/tacohirosystems/remotehiro) | 11 | 0 | 1 | EUPL-1.2 | 2026-08-05 | find work, anywhere |
 | 69 | [tschf/pl-gapi](https://github.com/tschf/pl-gapi) | 10 | 5 | 1 | GPL-2.0 | 2014-07-14 |  |
 | 70 | [RKNITH/MY-SQL-PRACTICE](https://github.com/RKNITH/MY-SQL-PRACTICE) | 10 | 0 | 0 | — | 2024-11-13 |  |
-| 71 | [wetory/sql-server-replication-monitoring](https://github.com/wetory/sql-server-replication-monitoring) | 10 | 10 | 0 | — | 2020-04-29 | Simple solution for monitoring replication subscribers health state. |
-| 72 | [ShenHongFei/dolphindb-vs-influxdb](https://github.com/ShenHongFei/dolphindb-vs-influxdb) | 10 | 0 | 0 | — | 2019-04-15 | DolphinDB vs InfluxDB 性能对比测试报告 (Performance Comparision Test Report) |
-| 73 | [MHeydari/BCrypt-algorithm-in-Oracle-plsql](https://github.com/MHeydari/BCrypt-algorithm-in-Oracle-plsql) | 10 | 7 | 1 | — | 2025-07-05 | Implementation of BCrypt hashing in Oracle PLSQL |
-| 74 | [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector) | 10 | 0 | 0 | MIT | 2025-10-28 | CVE-2025-59287 — Critical unauthenticated RCE in Windows Server Update Services (WSUS) via unsafe deserialization of ... |
-| 75 | [manaswikamila05/RSVP-Movies](https://github.com/manaswikamila05/RSVP-Movies) | 10 | 10 | 0 | — | 2023-02-14 | SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights. |
-| 76 | [davidrabko/learning-sql](https://github.com/davidrabko/learning-sql) | 9 | 1 | 0 | Unlicense | 2025-04-06 | Exercises and Examples from Learning SQL by Alan Beaulieu and LeetCode SQL 50 |
-| 77 | [iamAntimPal/LeetCode_SQL_Database](https://github.com/iamAntimPal/LeetCode_SQL_Database) | 9 | 5 | 3 | — | 2025-04-25 | This repo contains my SQL solutions for LeetCode problems. Each file includes a problem description, optimized SQL qu... |
-| 78 | [Prakashdeveloper03/Leetcode-SQL](https://github.com/Prakashdeveloper03/Leetcode-SQL) | 9 | 0 | 0 | — | 2023-06-07 | This repository contains all my Leetcode problem solutions source code in SQL programming language. |
-| 79 | [qanhnn12/SQL-Leetcode-Challenge-Solutions](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions) | 9 | 7 | 0 | MIT | 2022-11-05 | Solutions for all free SQL questions on Leetcode executed on MySQL and MS SQL Server. |
+| 71 | [qanhnn12/SQL-Leetcode-Challenge-Solutions](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions) | 10 | 7 | 0 | MIT | 2022-11-05 | Solutions for all free SQL questions on Leetcode executed on MySQL and MS SQL Server. |
+| 72 | [wetory/sql-server-replication-monitoring](https://github.com/wetory/sql-server-replication-monitoring) | 10 | 10 | 0 | — | 2020-04-29 | Simple solution for monitoring replication subscribers health state. |
+| 73 | [ShenHongFei/dolphindb-vs-influxdb](https://github.com/ShenHongFei/dolphindb-vs-influxdb) | 10 | 0 | 0 | — | 2019-04-15 | DolphinDB vs InfluxDB 性能对比测试报告 (Performance Comparision Test Report) |
+| 74 | [MHeydari/BCrypt-algorithm-in-Oracle-plsql](https://github.com/MHeydari/BCrypt-algorithm-in-Oracle-plsql) | 10 | 7 | 1 | — | 2025-07-05 | Implementation of BCrypt hashing in Oracle PLSQL |
+| 75 | [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector) | 10 | 0 | 0 | MIT | 2025-10-28 | CVE-2025-59287 — Critical unauthenticated RCE in Windows Server Update Services (WSUS) via unsafe deserialization of ... |
+| 76 | [manaswikamila05/RSVP-Movies](https://github.com/manaswikamila05/RSVP-Movies) | 10 | 10 | 0 | — | 2023-02-14 | SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights. |
+| 77 | [davidrabko/learning-sql](https://github.com/davidrabko/learning-sql) | 9 | 1 | 0 | Unlicense | 2025-04-06 | Exercises and Examples from Learning SQL by Alan Beaulieu and LeetCode SQL 50 |
+| 78 | [iamAntimPal/LeetCode_SQL_Database](https://github.com/iamAntimPal/LeetCode_SQL_Database) | 9 | 5 | 3 | — | 2025-04-25 | This repo contains my SQL solutions for LeetCode problems. Each file includes a problem description, optimized SQL qu... |
+| 79 | [Prakashdeveloper03/Leetcode-SQL](https://github.com/Prakashdeveloper03/Leetcode-SQL) | 9 | 0 | 0 | — | 2023-06-07 | This repository contains all my Leetcode problem solutions source code in SQL programming language. |
 | 80 | [electronics4fun/PartDb-Altium-Connector](https://github.com/electronics4fun/PartDb-Altium-Connector) | 9 | 2 | 1 | MIT | 2025-10-07 | Connects PartDb with Altium using mySQL views |
 | 81 | [cistoner/Lstore](https://github.com/cistoner/Lstore) | 9 | 5 | 6 | — | 2014-05-20 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
 | 82 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
