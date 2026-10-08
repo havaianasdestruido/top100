@@ -65,13 +65,23 @@ jobs:
       - name: Build the static site
         run: python scripts/build_site.py
 
+      # The build prints the catalogue, but these two checks are the gate:
+      # a tool that breaks a naming, annotation, budget or security rule, or a
+      # page whose embedded data does not line up with the generated HTML,
+      # fails the run before anything is committed.
+      - name: Validate the WebMCP tool catalogue
+        run: python scripts/webmcp_catalog.py
+
+      - name: Run the WebMCP runtime tests
+        run: node scripts/webmcp_test.mjs
+
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ LISTS.md README.md
           git add index.html 404.html sitemap.xml robots.txt llms.txt llms-full.txt feed.xml
-          git add assets/ languages/ methodology.html dataset.html compare.html faq.html
+          git add assets/ languages/ methodology.html dataset.html compare.html faq.html webmcp.html
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

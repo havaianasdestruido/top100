@@ -96,6 +96,40 @@ To fork and self-host, you only need the default `GITHUB_TOKEN` and
 listens for the data workflow's completion, because commits made with the automatic
 token do not re-trigger workflows.
 
+## WebMCP: the site as a set of AI-agent tools
+
+Every page registers a WebMCP tool catalogue on `document.modelContext`, so a browser
+agent that visits the site can query the ranking directly instead of scraping it. 16
+tools, all same-origin, retuned per page type:
+
+| Group | Tools |
+| --- | --- |
+| Discover | `get_site_info`, `get_page_context`, `list_languages`, `get_language_stats`, `get_download_links` |
+| Query | `get_top_repositories`, `search_repositories`, `get_repository`, `compare_repositories` |
+| Act on the page | `filter_repository_table`, `open_page` |
+| Documentation | `get_methodology`, `get_dataset_schema`, `get_comparison`, `answer_question` |
+| Diagnostics | `run_webmcp_self_test` (developer-only, `debugging: true`) |
+
+- **No network in tools.** Everything the tools answer comes from the page itself or from
+  same-origin JSON files the build already publishes (`data/search-index.json`,
+  `data/webmcp-context.json`, `data/webmcp-manifest.json`).
+- **Reliable envelopes.** Every call returns the same JSON object with `ok`, the tool
+  name, the data timestamp, the result, a SHA-256-checked dataset, and a structured
+  `error` block instead of a stack trace. Output is capped at 1,500 characters, with the
+  trim reported rather than silently applied.
+- **Security first.** Strict schema validation on every argument (types, ranges, enums,
+  string and array limits, prototype-pollution guards), rate limits, one in-flight call
+  per tool, an 8-second timeout, `exposedTo` never set, and a CSP plus
+  `Permissions-Policy: tools=(self)` on every page.
+- **Optional by design.** The site degrades cleanly: the two scripts are `defer`red,
+  feature-detect `document.modelContext`, and every page is complete, readable HTML
+  without them. Use `?webmcp_debug=1` on any page to open a panel that lists the
+  registered tools, shows their schemas and runs them by hand — no browser flag needed.
+
+Machines can read the same catalogue from
+[`data/webmcp-manifest.json`](data/webmcp-manifest.json); the human-readable version is
+[webmcp.html](https://havaianasdestruido.github.io/top100/webmcp.html).
+
 ## Languages
 
 TypeScript, Python, JavaScript, Java, C#, C++, PHP, Shell, C, Go, Rust, Ruby, Kotlin,

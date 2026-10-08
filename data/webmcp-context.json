@@ -1,0 +1,506 @@
+{
+ "schema": "top100.webmcp-context/1",
+ "generated_at": "2026-10-08T14:09:53Z",
+ "faq": [
+  {
+   "q": "What are the top GitHub repositories by stars right now?",
+   "a": "As of 8 October 2026, the most-starred repositories on GitHub are public-apis/public-apis with 486,912 stars, freeCodeCamp/freeCodeCamp with 456,940, EbookFoundation/free-programming-books with 398,700, openclaw/openclaw with 391,639 and donnemartin/system-design-primer with 373,606. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
+  },
+  {
+   "q": "Where can I find a top 100 GitHub repositories list?",
+   "a": "Top100 publishes a top 100 GitHub repositories list for 30 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL."
+  },
+  {
+   "q": "How can I see the top repositories for each programming language?",
+   "a": "Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 30 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language."
+  },
+  {
+   "q": "What are the best JSON/JSONL datasets of GitHub repo metadata I can download?",
+   "a": "Top100 ships 30 JSONL files — one per language, 100 repositories each, 3,000 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps."
+  },
+  {
+   "q": "Is there a free tool to export GitHub repository metadata as JSON?",
+   "a": "Yes. Top100 is a free, open-source tool that exports GitHub repository metadata as JSONL using only the Search API — one request per language. Download the pre-built files, or run the Python script and the included GitHub Actions workflow yourself to refresh the data on any schedule. No credentials beyond GitHub's own automatic token are required."
+  },
+  {
+   "q": "How do I set up a GitHub Actions scheduled workflow to collect data automatically?",
+   "a": "Create a workflow file under .github/workflows/ with an on.schedule cron entry, check out the repository, run your fetch script with the automatic GITHUB_TOKEN, then commit and push the results — the job needs permissions: contents: write. Top100 does exactly this every hour; the methodology page has the complete workflow and script."
+  },
+  {
+   "q": "What are the best GitHub Actions workflows for automated data collection projects?",
+   "a": "For scheduled scraping, Simon Willison's git-scraping pattern and GitHub's Flat Data action are the standard starting points. Top100's own workflow is a minimal alternative: one Python script, one API call per language, and an automatic commit of fresh JSONL and Markdown tables back to the repository."
+  },
+  {
+   "q": "What is the average number of GitHub stars and how do repos rank by stars?",
+   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,851 stars and the mean is 23,515, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 58,259 for Python. See the statistics table for the per-language thresholds."
+  },
+  {
+   "q": "Is the Top100 dataset free to use?",
+   "a": "Yes. Every file is published in a public GitHub repository and can be downloaded, forked or mirrored without an account, an API key or a rate limit. The repository metadata itself comes from GitHub's public API, and each project keeps its own licence — check the license field before reusing anyone's code."
+  },
+  {
+   "q": "How often is the Top100 data refreshed?",
+   "a": "Every hour. A scheduled GitHub Actions workflow runs at minute zero of every hour, re-queries the Search API for all 30 languages and commits the results back to the repository. Every page on this site shows the timestamp of the refresh that produced it, and the update feed lists the newest leader of each language."
+  },
+  {
+   "q": "Can I add another language to the list?",
+   "a": "Yes, but it takes one line of configuration. Trigger the workflow from the Actions tab with a comma-separated list of languages, or run LANGUAGES=Rust,Zig python scripts/fetch_top_repos.py locally — each language costs exactly one Search API request. To publish the new language on the site, also add it to LANGUAGES in scripts/site_content.py: the site builder reads that list rather than scanning data/."
+  },
+  {
+   "q": "Do the lists include forks and archived repositories?",
+   "a": "Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,000 listed repositories are forks. Archived repositories are included, and 180 of them are archived and read-only."
+  },
+  {
+   "q": "Why is my repository missing from a top 100 list?",
+   "a": "Three common reasons. GitHub assigns each repository a single detected primary language, so a polyglot project may be listed under a different language. The repository may also simply sit below the 100th-place star count shown on that language's page. Finally, the Search API occasionally returns incomplete_results for very broad queries."
+  },
+  {
+   "q": "What is the difference between Top100 and GitHub Trending?",
+   "a": "GitHub Trending shows what is gaining stars today, this week or this month and only lists a couple of dozen repositories, with no export. Top100 ranks by total stars, covers 100 repositories per language across 30 languages, and publishes the raw JSON. Use Trending for discovery and Top100 when you need a complete, machine-readable snapshot."
+  },
+  {
+   "q": "Does Top100 have an API?",
+   "a": "Not a hosted one — the point of the project is that you do not need one. The JSONL files are static and cacheable, so you can download them directly, or query them in place with DuckDB, jq or pandas without touching GitHub's rate limits."
+  },
+  {
+   "q": "How should I cite or attribute the dataset?",
+   "a": "Link to this site or to the repository, and credit GitHub as the source of the metadata. A reasonable citation is “Top 100 GitHub repositories by language, havaianasdestruido/top100, data refreshed 8 October 2026”. The per-page refresh timestamps are the version identifier, since the data changes hourly."
+  }
+ ],
+ "docs": [
+  {
+   "kind": "methodology",
+   "id": "the-query",
+   "title": "The query",
+   "text": "Every list on this site is the result of a single GitHub Search API request per language: GET https://api.github.com/search/repositories ?q=language:Python &sort=stars &order=desc &per_page=100 &page=1 GitHub returns at most 100 results per page for this endpoint, so per_page=100 is exactly what makes a \"top 100\" list possible in one call. sort=stars&order=desc ranks by stargazers_count; no other ordering is applied anywhere on the site."
+  },
+  {
+   "kind": "methodology",
+   "id": "one-api-request-per-language",
+   "title": "One API request per language",
+   "text": "There are no per-repository follow-up calls. A naive implementation would call GET /repos/{owner}/{repo} for every row to \"complete\" the data, which would multiply API usage by roughly 100×. The search-result item already contains almost everything GitHub knows about a repository — owner, licence, topics, every count, all timestamps — so the script keeps it as-is and stays at one request per language per run. For the default list of 30 languages that is 30 requests per refresh, comfortably inside the authenticated Search API limit of 30 requests per minute."
+  },
+  {
+   "kind": "methodology",
+   "id": "the-data-is-never-reshaped",
+   "title": "The data is never reshaped",
+   "text": "Each line of data/JSONL/<language>.jsonl is the full JSON object GitHub returned, serialised back to JSON with no fields dropped, renamed, rounded or reordered. If GitHub adds a field tomorrow, it appears in the next refresh automatically. The field reference documents what is in there and what is not."
+  },
+  {
+   "kind": "methodology",
+   "id": "refresh-cadence-and-automation",
+   "title": "Refresh cadence and automation",
+   "text": "A scheduled GitHub Actions workflow runs at minute zero of every hour (cron: \"0 0/1 * * *\"), re-fetches all 30 languages, rebuilds the Markdown tables, rebuilds this website and commits everything back to the repository. The job needs permissions: contents: write so the bot can commit, and the resulting commit does not re-trigger the Pages deployment, so the deploy job is wired to the data workflow's completion instead. You can also trigger a run by hand from the Actions tab and pass any comma-separated list of languages."
+  },
+  {
+   "kind": "methodology",
+   "id": "rate-limits-and-back-off",
+   "title": "Rate limits and back-off",
+   "text": "Authenticated requests get 30 Search API requests per minute; unauthenticated requests get 10. The script reads X-RateLimit-Remaining after each language and, when it is nearly exhausted, sleeps until X-RateLimit-Reset. HTTP 403 and 429 responses are retried with exponential back-off using Retry-After when GitHub sends it."
+  },
+  {
+   "kind": "methodology",
+   "id": "what-the-search-api-does-not-return",
+   "title": "What the Search API does not return",
+   "text": "A handful of fields exist only on the single-repository endpoint: subscribers_count, network_count, the parent/source objects for forks, code_of_conduct and security_and_analysis. The script can optionally merge them by calling GET /repos/{owner}/{repo} for every result — set ENRICH_WITH_REPO_DETAILS = True in scripts/fetch_top_repos.py — but that turns one request per language into about 101, so it is off by default."
+  },
+  {
+   "kind": "methodology",
+   "id": "known-limitations",
+   "title": "Known limitations",
+   "text": "Language is a single label. GitHub assigns each repository one detected primary language. A project written half in Python and half in C appears in only one list. Forks are excluded by default. GitHub's repository search leaves forks out unless the query adds fork:true or fork:only, so a fork never displaces the repository it was copied from, however many stars it has. Archived repositories, by contrast, are included: they are read-only but public, and a few of them rank highly. total_count is approximate for very broad queries. GitHub reports a number that can be much larger than the 1,000 results it will actually page through, and occasionally answers with incomplete_results: true. The site reports the number GitHub returned rather than pretending it is exact. No history. This is a snapshot refreshed hourly, not a time series. For star trends over time use Star History or OSS Insight;…"
+  },
+  {
+   "kind": "methodology",
+   "id": "run-it-yourself",
+   "title": "Run it yourself",
+   "text": "# locally (needs a token with public_repo / no scope for public data) GH_TOKEN=ghp_xxx LANGUAGES=Python,Rust python scripts/fetch_top_repos.py # or let GitHub do it: Actions → \"Top Repos by Language\" → Run workflow # and pass the languages you want as a comma-separated input. The workflow is self-contained: actions/checkout, Python 3.12, the script, and a commit step. Fork the repository and it will refresh your own copy every hour."
+  },
+  {
+   "kind": "methodology",
+   "id": "summary",
+   "title": "Overview",
+   "text": "The exact GitHub Search API query, sort order, refresh cadence and known limitations behind every top 100 list on this site. Every number on this site is reproducible: the workflow, the script and the resulting data all live in the same repository, and the commit history is the changelog."
+  },
+  {
+   "kind": "field",
+   "id": "id",
+   "type": "integer",
+   "group": "Identity",
+   "text": "GitHub's numeric repository ID. Stable across renames and transfers."
+  },
+  {
+   "kind": "field",
+   "id": "node_id",
+   "type": "string",
+   "group": "Identity",
+   "text": "GraphQL global node ID for the repository."
+  },
+  {
+   "kind": "field",
+   "id": "name",
+   "type": "string",
+   "group": "Identity",
+   "text": "Repository name without the owner, e.g. top100."
+  },
+  {
+   "kind": "field",
+   "id": "full_name",
+   "type": "string",
+   "group": "Identity",
+   "text": "owner/repo. The canonical identifier used in every URL and API path on this site."
+  },
+  {
+   "kind": "field",
+   "id": "private",
+   "type": "boolean",
+   "group": "Identity",
+   "text": "Always false here: the Search API only returns public repositories for an unauthenticated caller."
+  },
+  {
+   "kind": "field",
+   "id": "visibility",
+   "type": "string",
+   "group": "Identity",
+   "text": "Always public."
+  },
+  {
+   "kind": "field",
+   "id": "owner",
+   "type": "object",
+   "group": "Identity",
+   "text": "The owning account: login, id, type (User or Organization), avatar URLs and API URLs."
+  },
+  {
+   "kind": "field",
+   "id": "html_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "Human URL, e.g. https://github.com/owner/repo."
+  },
+  {
+   "kind": "field",
+   "id": "url",
+   "type": "string",
+   "group": "URLs",
+   "text": "API URL, e.g. https://api.github.com/repos/owner/repo."
+  },
+  {
+   "kind": "field",
+   "id": "*_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "API endpoints for sub-resources: forks_url, issues_url, pulls_url, labels_url, releases_url, deployments_url, languages_url, stargazers_url, contributors_url, commits_url, contents_url, compare_url, archive_url, downloads_url, branches_url, tags_url, blobs_url, git_refs_url, trees_url, statuses_url…"
+  },
+  {
+   "kind": "field",
+   "id": "git_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "git:// URL."
+  },
+  {
+   "kind": "field",
+   "id": "ssh_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "SSH clone URL."
+  },
+  {
+   "kind": "field",
+   "id": "clone_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "HTTPS clone URL."
+  },
+  {
+   "kind": "field",
+   "id": "svn_url",
+   "type": "string",
+   "group": "URLs",
+   "text": "Subversion URL."
+  },
+  {
+   "kind": "field",
+   "id": "homepage",
+   "type": "string|null",
+   "group": "URLs",
+   "text": "Project website declared in the repository settings. Empty for most repositories."
+  },
+  {
+   "kind": "field",
+   "id": "mirror_url",
+   "type": "string|null",
+   "group": "URLs",
+   "text": "Set only for mirrored repositories."
+  },
+  {
+   "kind": "field",
+   "id": "created_at",
+   "type": "string",
+   "group": "Timestamps (ISO 8601, UTC)",
+   "text": "When the repository was created. Useful for age-normalising star counts."
+  },
+  {
+   "kind": "field",
+   "id": "updated_at",
+   "type": "string",
+   "group": "Timestamps (ISO 8601, UTC)",
+   "text": "When any repository metadata last changed (description, topics, stars, …)."
+  },
+  {
+   "kind": "field",
+   "id": "pushed_at",
+   "type": "string",
+   "group": "Timestamps (ISO 8601, UTC)",
+   "text": "When code was last pushed. For archived or abandoned repositories this can be years older than updated_at."
+  },
+  {
+   "kind": "field",
+   "id": "stargazers_count",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Number of stars. The ranking key for every list on this site."
+  },
+  {
+   "kind": "field",
+   "id": "watchers_count",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Number of users who starred the repository. GitHub returns the same value as stargazers_count here; the true subscriber count is subscribers_count, which this endpoint does not return."
+  },
+  {
+   "kind": "field",
+   "id": "forks_count",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Number of forks."
+  },
+  {
+   "kind": "field",
+   "id": "open_issues_count",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Open issues plus open pull requests."
+  },
+  {
+   "kind": "field",
+   "id": "size",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Repository size in kilobytes, as GitHub accounts it. Lags behind aggressive history rewrites."
+  },
+  {
+   "kind": "field",
+   "id": "forks / open_issues / watchers",
+   "type": "integer",
+   "group": "Counts",
+   "text": "Duplicates of the *_count fields, kept because the raw object contains both spellings."
+  },
+  {
+   "kind": "field",
+   "id": "has_issues",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the issues tab is enabled."
+  },
+  {
+   "kind": "field",
+   "id": "has_projects",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the projects tab is enabled."
+  },
+  {
+   "kind": "field",
+   "id": "has_downloads",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the downloads tab is enabled."
+  },
+  {
+   "kind": "field",
+   "id": "has_wiki",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the wiki is enabled."
+  },
+  {
+   "kind": "field",
+   "id": "has_pages",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether GitHub Pages is enabled for the repository."
+  },
+  {
+   "kind": "field",
+   "id": "has_discussions",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether discussions are enabled."
+  },
+  {
+   "kind": "field",
+   "id": "archived",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the repository is read-only and archived."
+  },
+  {
+   "kind": "field",
+   "id": "disabled",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether GitHub has disabled the repository."
+  },
+  {
+   "kind": "field",
+   "id": "allow_forking",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether forking is permitted."
+  },
+  {
+   "kind": "field",
+   "id": "is_template",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether the repository can be used as a template."
+  },
+  {
+   "kind": "field",
+   "id": "web_commit_signoff_required",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether commits must be signed off."
+  },
+  {
+   "kind": "field",
+   "id": "has_pull_requests",
+   "type": "boolean",
+   "group": "Flags",
+   "text": "Whether pull requests are enabled."
+  },
+  {
+   "kind": "field",
+   "id": "pull_request_creation_policy",
+   "type": "string",
+   "group": "Flags",
+   "text": "Who may open pull requests (all or collaborators_only)."
+  },
+  {
+   "kind": "field",
+   "id": "license",
+   "type": "object|null",
+   "group": "Classification",
+   "text": "{key, name, spdx_id, url, node_id}. spdx_id is the machine-readable identifier (MIT, Apache-2.0, GPL-3.0, …); NOASSERTION means GitHub could not map the licence to an SPDX ID."
+  },
+  {
+   "kind": "field",
+   "id": "language",
+   "type": "string|null",
+   "group": "Classification",
+   "text": "GitHub's detected primary language. Every list on this site filters on this field."
+  },
+  {
+   "kind": "field",
+   "id": "topics",
+   "type": "array",
+   "group": "Classification",
+   "text": "Repository topics — the closest thing GitHub has to keywords, and a useful join key for your own analysis."
+  },
+  {
+   "kind": "field",
+   "id": "default_branch",
+   "type": "string",
+   "group": "Classification",
+   "text": "Usually main or master."
+  },
+  {
+   "kind": "field",
+   "id": "score",
+   "type": "number",
+   "group": "Search API artifacts",
+   "text": "The Search API's internal relevance score for this result. With sort=stars it is mostly monotonic, but it is not a meaningful quantity — ignore it."
+  },
+  {
+   "kind": "field",
+   "id": "permissions",
+   "type": "object",
+   "group": "Search API artifacts",
+   "text": "The calling token's permissions on this repository (admin, push, pull). An artifact of the authenticated request, not repository metadata."
+  },
+  {
+   "kind": "comparison",
+   "id": "top100-this-site",
+   "title": "Top100 (this site)",
+   "text": "What it covers: Top 100 repositories by stars for 30 languages, plus raw JSONL of every record.. Format: HTML tables + JSONL + Markdown. Freshness: Hourly. Per-language coverage: Yes — 30 languages. Data export: Yes — direct JSONL download."
+  },
+  {
+   "kind": "comparison",
+   "id": "evanli-github-ranking",
+   "title": "EvanLi/Github-Ranking",
+   "text": "What it covers: Top 100 by stars and top 100 by forks per language, published as Markdown tables in the repo README.. Format: Markdown only. Freshness: Daily. Per-language coverage: Yes. Data export: No — tables only."
+  },
+  {
+   "kind": "comparison",
+   "id": "gitstar-ranking-com",
+   "title": "gitstar-ranking.com",
+   "text": "What it covers: Unofficial star ranking of 10,000 users, organizations and repositories.. Format: HTML tables. Freshness: Regularly. Per-language coverage: No — global list. Data export: No."
+  },
+  {
+   "kind": "comparison",
+   "id": "top1000repos-com",
+   "title": "Top1000Repos.com",
+   "text": "What it covers: Top 1,000 repositories sortable by stars, pull requests and issues.. Format: HTML table. Freshness: Daily. Per-language coverage: No — global list. Data export: No."
+  },
+  {
+   "kind": "comparison",
+   "id": "github-trending",
+   "title": "GitHub Trending",
+   "text": "What it covers: What is gaining stars today, this week or this month; a couple of dozen repositories.. Format: HTML only, no API. Freshness: Daily. Per-language coverage: Yes — filterable. Data export: No."
+  },
+  {
+   "kind": "comparison",
+   "id": "github-search",
+   "title": "GitHub Search",
+   "text": "What it covers: Any query you can express, including stars, language, topics and dates.. Format: HTML + REST API. Freshness: Live. Per-language coverage: Yes. Data export: Yes — via the API."
+  },
+  {
+   "kind": "comparison",
+   "id": "oss-insight",
+   "title": "OSS Insight",
+   "text": "What it covers: Deep analytics: star velocity, contributor trends, collections and SQL playground over GitHub Archive.. Format: HTML + SQL. Freshness: Hourly. Per-language coverage: Partly. Data export: Query results only."
+  },
+  {
+   "kind": "comparison",
+   "id": "star-history",
+   "title": "Star History",
+   "text": "What it covers: Star curves over time for any set of repositories.. Format: Charts + images. Freshness: On demand. Per-language coverage: No. Data export: No."
+  },
+  {
+   "kind": "comparison",
+   "id": "gh-archive",
+   "title": "GH Archive",
+   "text": "What it covers: Every public GitHub event since 2011, hour by hour, as gzipped JSON.. Format: JSON (events). Freshness: Hourly. Per-language coverage: No — event stream. Data export: Yes — bulk download."
+  },
+  {
+   "kind": "comparison",
+   "id": "bigquery-public-github-datasets",
+   "title": "BigQuery public GitHub datasets",
+   "text": "What it covers: Petabyte-scale GitHub data queryable in SQL, including repository snapshots.. Format: SQL tables. Freshness: Hourly / daily. Per-language coverage: Partly. Data export: Query results only."
+  },
+  {
+   "kind": "comparison",
+   "id": "when-top100",
+   "title": "When to use Top100",
+   "text": "You want the top 100 for a specific language, not the global top 10. You need the raw repository object — topics, licence, timestamps, counts — not a screenshot of a table. You want a file you can curl, cache, mirror or load into DuckDB without an API key or a rate limit. You are building something that must stay current, and hourly is often enough. You want a worked example of scheduled GitHub Actions data collection you can fork."
+  },
+  {
+   "kind": "comparison",
+   "id": "when-something-else",
+   "title": "When to use another source",
+   "text": "You need star trends over months or years → Star History or OSS Insight. You want to know what is hot right now → GitHub Trending. You need event-level history (commits, issues, PRs) → GH Archive or BigQuery. You need every repository, not the top 100 → GitHub Search, GH Archive or GHTorrent. You want rankings of users and organizations, not repositories → gitstar-ranking.com."
+  }
+ ]
+}
