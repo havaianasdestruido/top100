@@ -35,18 +35,18 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 <!-- LEADERS:START -->
 | # | Repository | Language | Stars |
 | --- | --- | --- | --- |
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 486,728 |
-| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 456,897 |
-| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 398,653 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391,594 |
-| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 373,511 |
-| 6 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 369,097 |
-| 7 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 325,865 |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 296,343 |
-| 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python | 286,184 |
-| 10 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 279,378 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 486,764 |
+| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 456,905 |
+| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 398,662 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391,596 |
+| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 373,536 |
+| 6 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 369,112 |
+| 7 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 325,902 |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 296,390 |
+| 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python | 286,201 |
+| 10 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 279,578 |
 
-Refreshed 7 October 2026, 20:17 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 8 October 2026, 00:32 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for
