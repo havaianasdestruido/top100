@@ -121,7 +121,7 @@ tools, all same-origin, retuned per page type:
   string and array limits, prototype-pollution guards), rate limits, one in-flight call
   per tool, an 8-second timeout, `exposedTo` never set, and a CSP plus
   `Permissions-Policy: tools=(self)` on every page.
-- **Optional by design.** Sites degrade cleanly: the two scripts are `defer`red,
+- **Optional by design.** The site degrades cleanly: the two scripts are `defer`red,
   feature-detect `document.modelContext`, and every page is complete, readable HTML
   without them. Use `?webmcp_debug=1` on any page to open a panel that lists the
   registered tools, shows their schemas and runs them by hand — no browser flag needed.
