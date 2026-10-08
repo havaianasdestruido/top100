@@ -1,6 +1,6 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,752** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,753** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **188,752** total repositories matching `languag
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,408 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,201 | 2,073 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
 | 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,069 | 378 | 22 | PostgreSQL | 2026-10-05 | A fast PostgreSQL Log Analyzer |
-| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,953 | 216 | 640 | BSD-3-Clause | 2026-09-23 | A terminal for iOS, with multiple windows |
+| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,953 | 216 | 641 | BSD-3-Clause | 2026-09-23 | A terminal for iOS, with multiple windows |
 | 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,878 | 349 | 160 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
 | 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,687 | 271 | 58 | GPL-2.0 | 2026-08-13 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
 | 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,561 | 401 | 144 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **188,752** total repositories matching `languag
 | 28 | [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) | 2,666 | 511 | 13 | MIT | 2025-04-21 | Th3Inspector 🕵️ Best Tool For Information Gathering 🔎 |
 | 29 | [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2,549 | 248 | 0 | GPL-3.0 | 2025-05-04 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds |
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,488 | 722 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
-| 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,397 | 340 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
+| 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,398 | 340 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 758 | 75 | MIT | 2018-10-14 |  |
 | 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,338 | 646 | 2,364 | NOASSERTION | 2026-10-08 | 🐪 The Perl programming language |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,267 | 338 | 10 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **188,752** total repositories matching `languag
 | 96 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util) | 1,004 | 113 | 0 | NOASSERTION | 2020-03-30 | Tools for Linux/Unix sysadmins. |
 | 97 | [rjust/defects4j](https://github.com/rjust/defects4j) | 1,003 | 383 | 57 | MIT | 2026-04-07 | A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering... |
 | 98 | [tseemann/prokka](https://github.com/tseemann/prokka) | 995 | 236 | 244 | GPL-3.0 | 2026-01-06 | :zap: :aquarius: Rapid prokaryotic genome annotation |
-| 99 | [sipwise/rtpengine](https://github.com/sipwise/rtpengine) | 992 | 460 | 111 | GPL-3.0 | 2026-10-08 | The Sipwise media proxy for Kamailio |
+| 99 | [sipwise/rtpengine](https://github.com/sipwise/rtpengine) | 992 | 460 | 110 | GPL-3.0 | 2026-10-08 | The Sipwise media proxy for Kamailio |
 | 100 | [duncs/clusterssh](https://github.com/duncs/clusterssh) | 988 | 75 | 29 | — | 2026-04-28 | Cluster SSH - Cluster Admin Via SSH |

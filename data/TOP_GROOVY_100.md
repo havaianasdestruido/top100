@@ -1,13 +1,13 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,242** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,244** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,880 | 5,327 | 3,501 | Apache-2.0 | 2026-10-08 | Adaptable, fast automation for all |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,880 | 5,327 | 3,502 | Apache-2.0 | 2026-10-08 | Adaptable, fast automation for all |
 | 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,712 | 2,425 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,330 | 987 | 59 | Apache-2.0 | 2026-10-08 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
-| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,478 | 1,915 | 22 | Apache-2.0 | 2026-10-08 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
+| 4 | [apache/groovy](https://github.com/apache/groovy) | 5,478 | 1,915 | 19 | Apache-2.0 | 2026-10-08 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,287 | 3,562 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
 | 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,092 | 205 | 58 | Apache-2.0 | 2026-10-08 | Gradle plugin to discover dependency updates |
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,953 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **111,242** total repositories matching `languag
 | 23 | [luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister) | 1,122 | 171 | 13 | Apache-2.0 | 2023-03-14 | 基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC |
 | 24 | [dcendents/android-maven-gradle-plugin](https://github.com/dcendents/android-maven-gradle-plugin) | 1,078 | 136 | 30 | Apache-2.0 | 2020-05-18 | Abandoned. This is now supported by the android build plugin: https://developer.android.com/studio/build/maven-publis... |
 | 25 | [richox/okcoin-leeks-reaper](https://github.com/richox/okcoin-leeks-reaper) | 1,038 | 501 | 8 | — | 2017-02-08 | OKCoin韭菜收割机 |
-| 26 | [openboxes/openboxes](https://github.com/openboxes/openboxes) | 912 | 509 | 192 | EPL-1.0 | 2026-10-08 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare faci... |
+| 26 | [openboxes/openboxes](https://github.com/openboxes/openboxes) | 912 | 509 | 190 | EPL-1.0 | 2026-10-08 | OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare faci... |
 | 27 | [jenkinsci/jenkins-scripts](https://github.com/jenkinsci/jenkins-scripts) | 911 | 560 | 6 | — | 2024-12-02 | Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins |
 | 28 | [progrium/buildstep](https://github.com/progrium/buildstep) | 907 | 269 | 11 | MIT | 2018-06-11 | Buildstep uses Docker and Buildpacks to build applications like Heroku |
 | 29 | [dorongold/gradle-task-tree](https://github.com/dorongold/gradle-task-tree) | 899 | 58 | 7 | Apache-2.0 | 2026-08-08 | Gradle plugin that adds a 'taskTree' task that prints task dependency tree |
@@ -59,7 +59,7 @@ Ranked by stars. GitHub reports **111,242** total repositories matching `languag
 | 53 | [eleme/Mess](https://github.com/eleme/Mess) | 686 | 110 | 11 | MIT | 2020-10-01 | a gradle plugin for minifying activities, services, receivers, providers and custom view |
 | 54 | [apache/bigtop](https://github.com/apache/bigtop) | 682 | 533 | 205 | Apache-2.0 | 2026-09-28 | Bigtop is an Apache Foundation project for Infrastructure Engineers and Data Scientists looking for comprehensive pac... |
 | 55 | [node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin) | 677 | 120 | 97 | Apache-2.0 | 2026-08-14 | Gradle plugin for integrating NodeJS in your build. :rocket: |
-| 56 | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) | 661 | 132 | 181 | Apache-2.0 | 2026-10-08 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training appr... |
+| 56 | [NationalSecurityAgency/skills-service](https://github.com/NationalSecurityAgency/skills-service) | 661 | 132 | 180 | Apache-2.0 | 2026-10-08 | SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training appr... |
 | 57 | [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) | 650 | 136 | 83 | Apache-2.0 | 2020-08-20 | A Gradle plugin to build Docker images from the build script. |
 | 58 | [akhikhl/gretty](https://github.com/akhikhl/gretty) | 648 | 180 | 234 | MIT | 2023-12-28 | Advanced gradle plugin for running web-apps on jetty and tomcat. |
 | 59 | [allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin) | 639 | 165 | 78 | Apache-2.0 | 2026-10-05 | Gradle release & version management plugin. |
@@ -73,7 +73,7 @@ Ranked by stars. GitHub reports **111,242** total repositories matching `languag
 | 67 | [etiennestuder/gradle-jooq-plugin](https://github.com/etiennestuder/gradle-jooq-plugin) | 548 | 80 | 4 | Apache-2.0 | 2026-10-01 | Gradle plugin that integrates jOOQ. |
 | 68 | [mkuchin/docker-registry-web](https://github.com/mkuchin/docker-registry-web) | 546 | 133 | 46 | GPL-2.0 | 2022-02-08 | Web UI for private docker registry v2 |
 | 69 | [krlaframboise/SmartThings](https://github.com/krlaframboise/SmartThings) | 542 | 1,428 | 1 | — | 2022-08-19 |  |
-| 70 | [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) | 539 | 105 | 52 | — | 2021-05-11 | Font Mfizz - Vector Icons for Technology and Software Geeks |
+| 70 | [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) | 539 | 104 | 52 | — | 2021-05-11 | Font Mfizz - Vector Icons for Technology and Software Geeks |
 | 71 | [bmuschko/gradle-tomcat-plugin](https://github.com/bmuschko/gradle-tomcat-plugin) | 526 | 117 | 28 | Apache-2.0 | 2023-10-12 | Gradle plugin supporting deployment of your web application to an embedded Tomcat web container |
 | 72 | [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin) | 525 | 56 | 4 | Apache-2.0 | 2026-10-08 | Gradle plugin that fixes Android build caching problems. |
 | 73 | [ajoberstar/grgit](https://github.com/ajoberstar/grgit) | 521 | 93 | 2 | Apache-2.0 | 2025-09-03 | The Groovy way to use Git. |

@@ -1,16 +1,16 @@
 # Top 100 Scala repositories on GitHub
 
-Ranked by stars. GitHub reports **260,459** total repositories matching `language:Scala`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **260,460** total repositories matching `language:Scala`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 73,953 | 13,269 | 526 | AGPL-3.0 | 2025-09-08 | Source code for the X Recommendation Algorithm |
-| 2 | [apache/spark](https://github.com/apache/spark) | 44,147 | 29,413 | 611 | Apache-2.0 | 2026-10-08 | Apache Spark - A unified analytics engine for large-scale data processing |
-| 3 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18,808 | 2,817 | 1,260 | AGPL-3.0 | 2026-10-08 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
+| 2 | [apache/spark](https://github.com/apache/spark) | 44,147 | 29,413 | 613 | Apache-2.0 | 2026-10-08 | Apache Spark - A unified analytics engine for large-scale data processing |
+| 3 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18,807 | 2,817 | 1,264 | AGPL-3.0 | 2026-10-08 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
 | 4 | [prisma/prisma1](https://github.com/prisma/prisma1) | 16,376 | 838 | 2 | Apache-2.0 | 2022-09-01 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] |
 | 5 | [scala/scala](https://github.com/scala/scala) | 14,566 | 3,206 | 15 | Apache-2.0 | 2026-09-29 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/sc... |
-| 6 | [akka/akka-core](https://github.com/akka/akka-core) | 13,280 | 3,532 | 905 | NOASSERTION | 2026-10-08 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. |
-| 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12,616 | 4,013 | 492 | Apache-2.0 | 2026-10-08 | The Community Maintained High Velocity Web Framework For Java and Scala. |
+| 6 | [akka/akka-core](https://github.com/akka/akka-core) | 13,280 | 3,531 | 905 | NOASSERTION | 2026-10-08 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. |
+| 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12,616 | 4,013 | 494 | Apache-2.0 | 2026-10-08 | The Community Maintained High Velocity Web Framework For Java and Scala. |
 | 8 | [apache/predictionio](https://github.com/apache/predictionio) | 12,520 | 1,895 | 80 | Apache-2.0 | 2021-01-09 | PredictionIO, a machine learning server for developers and ML engineers. |
 | 9 | [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12,199 | 583 | 275 | GPL-3.0 | 2025-01-19 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala |
 | 10 | [yahoo/CMAK](https://github.com/yahoo/CMAK) | 11,920 | 2,471 | 522 | Apache-2.0 | 2023-08-02 | CMAK is a tool for managing Apache Kafka clusters |
@@ -54,7 +54,7 @@ Ranked by stars. GitHub reports **260,459** total repositories matching `languag
 | 48 | [databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide) | 3,152 | 2,910 | 32 | NOASSERTION | 2020-08-26 | Spark: The Definitive Guide's Code Repository |
 | 49 | [softwaremill/elasticmq](https://github.com/softwaremill/elasticmq) | 2,943 | 204 | 21 | Apache-2.0 | 2026-10-08 | In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded. |
 | 50 | [spark-jobserver/spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) | 2,834 | 966 | 111 | NOASSERTION | 2026-03-03 | REST job server for Apache Spark |
-| 51 | [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) | 2,795 | 448 | 332 | MIT | 2026-10-07 | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflow... |
+| 51 | [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) | 2,795 | 448 | 276 | MIT | 2026-10-08 | A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflow... |
 | 52 | [twitter-archive/kestrel](https://github.com/twitter-archive/kestrel) | 2,752 | 307 | 24 | NOASSERTION | 2016-01-22 | simple, distributed message queue system (inactive) |
 | 53 | [aditya-grover/node2vec](https://github.com/aditya-grover/node2vec) | 2,739 | 904 | 95 | MIT | 2022-07-21 |  |
 | 54 | [twitter/util](https://github.com/twitter/util) | 2,719 | 569 | 16 | Apache-2.0 | 2025-12-08 | Wonderful reusable code from Twitter |
@@ -69,7 +69,7 @@ Ranked by stars. GitHub reports **260,459** total repositories matching `languag
 | 63 | [spray/spray](https://github.com/spray/spray) | 2,493 | 547 | 80 | NOASSERTION | 2017-02-21 | A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous,... |
 | 64 | [geekyouth/SZT-bigdata](https://github.com/geekyouth/SZT-bigdata) | 2,473 | 611 | 4 | NOASSERTION | 2026-05-12 | 深圳地铁大数据客流分析系统🚇🚄🌟 |
 | 65 | [typelevel/fs2](https://github.com/typelevel/fs2) | 2,453 | 633 | 144 | NOASSERTION | 2026-09-28 | Compositional, streaming I/O library for Scala |
-| 66 | [metarank/metarank](https://github.com/metarank/metarank) | 2,449 | 111 | 104 | Apache-2.0 | 2026-10-06 | A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that... |
+| 66 | [metarank/metarank](https://github.com/metarank/metarank) | 2,449 | 111 | 109 | Apache-2.0 | 2026-10-06 | A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that... |
 | 67 | [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) | 2,414 | 924 | 202 | BSD-3-Clause | 2026-10-08 | An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more |
 | 68 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2,369 | 1,023 | 536 | Apache-2.0 | 2026-10-03 | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. |
 | 69 | [scalameta/metals](https://github.com/scalameta/metals) | 2,333 | 445 | 280 | Apache-2.0 | 2026-10-08 | Scala language server with rich IDE features 🚀 |

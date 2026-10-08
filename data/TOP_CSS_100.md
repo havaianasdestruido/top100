@@ -1,6 +1,6 @@
 # Top 100 CSS repositories on GitHub
 
-Ranked by stars. GitHub reports **11,418,532** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **11,418,840** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,8 +11,8 @@ Ranked by stars. GitHub reports **11,418,532** total repositories matching `lang
 | 5 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45,365 | 5,556 | 246 | NOASSERTION | 2026-10-01 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
 | 6 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 40,652 | 9,721 | 49 | MIT | 2025-02-26 | 50+ mini web projects using HTML, CSS & JS |
 | 7 | [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37,790 | 1,416 | 159 | NOASSERTION | 2023-07-16 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. |
-| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 37,628 | 3,145 | 0 | — | 2026-10-02 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
-| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 29,769 | 1,525 | 49 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 8 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 37,627 | 3,145 | 0 | — | 2026-10-02 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 29,770 | 1,525 | 49 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | 10 | [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26,849 | 5,166 | 103 | — | 2022-02-28 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the exper... |
 | 11 | [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20,452 | 1,643 | 87 | OFL-1.1 | 2025-10-28 | Monospaced font family for user interface and coding environments |
 | 12 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | 19,630 | 564 | 81 | OSL-3.0 | 2026-10-07 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering rob... |
@@ -27,8 +27,8 @@ Ranked by stars. GitHub reports **11,418,532** total repositories matching `lang
 | 21 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13,984 | 3,090 | 88 | NOASSERTION | 2022-07-09 | Tomorrow Theme |
 | 22 | [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12,906 | 976 | 38 | MIT | 2022-12-03 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. |
 | 23 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12,886 | 1,314 | 332 | — | 2024-06-18 | The simplest way to run LLaMA on your local machine |
-| 24 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,772 | 1,535 | 17 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
-| 25 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 12,502 | 3,194 | 135 | — | 2026-10-06 | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and read... |
+| 24 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,772 | 1,534 | 17 | MIT | 2026-07-12 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
+| 25 | [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) | 12,503 | 3,194 | 135 | — | 2026-10-06 | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and read... |
 | 26 | [devicons/devicon](https://github.com/devicons/devicon) | 11,839 | 2,446 | 463 | MIT | 2026-10-08 | Set of icons representing programming languages, designing & development tools |
 | 27 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11,725 | 663 | 89 | MIT | 2026-07-20 | Functional css for humans |
 | 28 | [IBM/plex](https://github.com/IBM/plex) | 11,675 | 625 | 86 | OFL-1.1 | 2026-10-05 | The package of IBM’s typeface, IBM Plex. |
@@ -40,7 +40,7 @@ Ranked by stars. GitHub reports **11,418,532** total repositories matching `lang
 | 34 | [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10,225 | 1,184 | 15 | — | 2023-05-03 | Delightful, performance-focused pure css loading animations. |
 | 35 | [connors/photon](https://github.com/connors/photon) | 10,105 | 567 | 81 | MIT | 2026-04-03 | The fastest way to build beautiful Electron apps using simple HTML and CSS |
 | 36 | [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) | 10,101 | 2,316 | 29 | MIT | 2026-06-19 | Accurately Locate Smartphones using Social Engineering |
-| 37 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9,987 | 640 | 53 | BSD-2-Clause | 2026-10-07 | :octocat: Dark GitHub style |
+| 37 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9,988 | 640 | 53 | BSD-2-Clause | 2026-10-07 | :octocat: Dark GitHub style |
 | 38 | [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) | 9,821 | 1,019 | 205 | MIT | 2025-06-22 | Custom Jupyter Notebook Themes |
 | 39 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9,563 | 30,771 | 5 | Apache-2.0 | 2026-09-29 | A sample Spring-based application |
 | 40 | [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) | 9,543 | 498 | 4 | — | 2026-06-08 | List of awesome CSS frameworks in 2026 |
@@ -58,7 +58,7 @@ Ranked by stars. GitHub reports **11,418,532** total repositories matching `lang
 | 52 | [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) | 8,406 | 34,734 | 390 | MIT | 2024-08-19 | Build a Jekyll blog in minutes, without touching the command line. |
 | 53 | [primefaces/primereact](https://github.com/primefaces/primereact) | 8,308 | 1,233 | 323 | MIT | 2026-09-24 | The Most Complete React UI Component Library |
 | 54 | [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) | 8,265 | 809 | 3 | GPL-3.0 | 2025-12-15 | A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards. |
-| 55 | [horst3180/arc-theme](https://github.com/horst3180/arc-theme) | 8,234 | 600 | 187 | GPL-3.0 | 2021-02-22 | A flat theme with transparent elements |
+| 55 | [horst3180/arc-theme](https://github.com/horst3180/arc-theme) | 8,234 | 601 | 187 | GPL-3.0 | 2021-02-22 | A flat theme with transparent elements |
 | 56 | [thejsway/thejsway](https://github.com/thejsway/thejsway) | 7,880 | 790 | 4 | NOASSERTION | 2025-01-30 | The JavaScript Way book |
 | 57 | [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | 7,838 | 1,499 | 4 | NOASSERTION | 2022-10-06 | Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 |
 | 58 | [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) | 7,758 | 494 | 50 | — | 2023-11-06 | HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS. |
@@ -89,10 +89,10 @@ Ranked by stars. GitHub reports **11,418,532** total repositories matching `lang
 | 83 | [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) | 6,091 | 1,333 | 18 | MIT | 2026-10-05 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli |
 | 84 | [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | 6,001 | 1,231 | 4 | MIT | 2025-10-20 | An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git... |
 | 85 | [basscss/basscss](https://github.com/basscss/basscss) | 5,898 | 294 | 39 | MIT | 2022-12-30 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library |
-| 86 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 5,839 | 536 | 10 | Apache-2.0 | 2026-10-08 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
+| 86 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 5,840 | 536 | 10 | Apache-2.0 | 2026-10-08 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
 | 87 | [connorferster/handcalcs](https://github.com/connorferster/handcalcs) | 5,804 | 453 | 107 | Apache-2.0 | 2026-10-03 | Python library for converting Python calculations into rendered latex. |
 | 88 | [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) | 5,776 | 904 | 0 | NOASSERTION | 2026-02-14 | A courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and... |
-| 89 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5,659 | 567 | 13 | — | 2026-03-30 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical v... |
+| 89 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | 5,660 | 567 | 13 | — | 2026-03-30 | A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical v... |
 | 90 | [knadh/oat](https://github.com/knadh/oat) | 5,526 | 258 | 1 | MIT | 2026-10-05 | Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz. |
 | 91 | [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 5,449 | 618 | 53 | NOASSERTION | 2024-07-28 | 💄CSS tricks for web developers~ |
 | 92 | [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) | 5,417 | 277 | 171 | MIT | 2026-10-06 | A distraction-free and highly customizable theme for Obsidian. |

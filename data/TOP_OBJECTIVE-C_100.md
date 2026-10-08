@@ -1,13 +1,13 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,166** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,168** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) | 33,350 | 10,604 | 101 | MIT | 2023-01-17 | A delightful networking framework for iOS, macOS, watchOS, and tvOS. |
 | 2 | [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25,609 | 5,952 | 133 | MIT | 2026-04-15 | Asynchronous image downloader with cache support as a UIImageView category |
 | 3 | [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) | 22,543 | 3,540 | 907 | MIT | 2025-02-13 | A plugin for Mac WeChat |
-| 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,296 | 1,678 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
+| 4 | [opa334/TrollStore](https://github.com/opa334/TrollStore) | 22,297 | 1,678 | 49 | NOASSERTION | 2026-04-01 | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple |
 | 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,286 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
 | 6 | [SnapKit/Masonry](https://github.com/SnapKit/Masonry) | 18,121 | 3,146 | 151 | MIT | 2023-04-13 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ... |
 | 7 | [realm/realm-swift](https://github.com/realm/realm-swift) | 16,605 | 2,235 | 498 | Apache-2.0 | 2026-09-27 | Realm is a mobile database: a replacement for Core Data & SQLite |
@@ -30,11 +30,11 @@ Ranked by stars. GitHub reports **543,166** total repositories matching `languag
 | 24 | [vicc/chameleon](https://github.com/vicc/chameleon) | 12,299 | 1,278 | 66 | NOASSERTION | 2021-05-03 | Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). |
 | 25 | [git-up/GitUp](https://github.com/git-up/GitUp) | 12,133 | 1,503 | 358 | GPL-3.0 | 2026-10-08 | The Git interface you've been missing all your life has finally arrived. |
 | 26 | [nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel) | 12,088 | 2,522 | 400 | NOASSERTION | 2024-06-27 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS |
-| 27 | [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 11,998 | 1,703 | 190 | MIT | 2022-07-06 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten... |
+| 27 | [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 11,999 | 1,703 | 190 | MIT | 2022-07-06 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten... |
 | 28 | [bang590/JSPatch](https://github.com/bang590/JSPatch) | 11,316 | 2,210 | 106 | MIT | 2020-12-01 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho... |
 | 29 | [Mantle/Mantle](https://github.com/Mantle/Mantle) | 11,240 | 1,467 | 0 | NOASSERTION | 2022-10-18 | Model framework for Cocoa and Cocoa Touch |
 | 30 | [jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 11,056 | 2,751 | 0 | NOASSERTION | 2018-12-12 | An elegant messages UI library for iOS |
-| 31 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,049 | 438 | 1,293 | NOASSERTION | 2026-10-08 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
+| 31 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,050 | 438 | 1,292 | NOASSERTION | 2026-10-08 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
 | 32 | [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10,690 | 1,760 | 242 | NOASSERTION | 2021-04-27 | Super Awesome Easy Fetching for Core Data! |
 | 33 | [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10,631 | 1,942 | 503 | MIT | 2024-08-10 | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
 | 34 | [RestKit/RestKit](https://github.com/RestKit/RestKit) | 10,080 | 2,064 | 364 | Apache-2.0 | 2022-08-27 | RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **543,166** total repositories matching `languag
 | 88 | [IFTTT/JazzHands](https://github.com/IFTTT/JazzHands) | 6,352 | 659 | 14 | MIT | 2024-07-30 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. |
 | 89 | [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) | 6,352 | 1,611 | 653 | MIT | 2026-09-29 | iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping |
 | 90 | [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) | 6,338 | 797 | 34 | NOASSERTION | 2026-05-08 | 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案... |
-| 91 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,321 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
+| 91 | [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | 6,320 | 1,150 | 123 | GPL-3.0 | 2026-09-17 | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iO... |
 | 92 | [noodlewerk/NWPusher](https://github.com/noodlewerk/NWPusher) | 6,300 | 662 | 28 | BSD-2-Clause | 2021-03-30 | OS X and iOS application and framework to play with the Apple Push Notification service (APNs) |
 | 93 | [kif-framework/KIF](https://github.com/kif-framework/KIF) | 6,247 | 917 | 56 | NOASSERTION | 2026-10-07 | Keep It Functional - An iOS Functional Testing Framework |
 | 94 | [gsdios/SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView) | 6,179 | 1,490 | 506 | MIT | 2023-04-21 | Autoscroll Banner.   无限循环图片、文字轮播器。 |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **543,166** total repositories matching `languag
 | 97 | [JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) | 6,084 | 1,380 | 18 | Apache-2.0 | 2026-09-28 | 原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务... |
 | 98 | [tonsky/AnyBar](https://github.com/tonsky/AnyBar) | 6,039 | 158 | 16 | EPL-1.0 | 2026-03-21 | OS X menubar status indicator |
 | 99 | [iodefog/VipVideo](https://github.com/iodefog/VipVideo) | 5,906 | 698 | 37 | MIT | 2026-09-29 | 这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯... |
-| 100 | [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) | 5,902 | 452 | 79 | BSD-2-Clause | 2025-06-29 | A fast and clever hex editor for macOS |
+| 100 | [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) | 5,902 | 453 | 80 | BSD-2-Clause | 2025-06-29 | A fast and clever hex editor for macOS |

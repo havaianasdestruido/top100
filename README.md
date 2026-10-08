@@ -35,18 +35,18 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 <!-- LEADERS:START -->
 | # | Repository | Language | Stars |
 | --- | --- | --- | --- |
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 486,749 |
-| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 456,725 |
-| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 398,499 |
-| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391,459 |
-| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 373,423 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 486,760 |
+| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 456,727 |
+| 3 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 398,496 |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391,466 |
+| 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 373,432 |
 | 6 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 368,975 |
-| 7 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 325,885 |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 296,514 |
-| 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python | 286,084 |
-| 10 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 280,841 |
+| 7 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 325,894 |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 296,527 |
+| 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Python | 286,086 |
+| 10 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 280,898 |
 
-Refreshed 8 October 2026, 19:17 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 8 October 2026, 20:20 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for

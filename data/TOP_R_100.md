@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,138,344** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,138,365** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -8,10 +8,10 @@ Ranked by stars. GitHub reports **1,138,344** total repositories matching `langu
 | 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,004 | 2,126 | 108 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,514 | 1,511 | 28 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,697 | 1,890 | 870 | NOASSERTION | 2026-10-03 | Easy interactive web applications with R |
-| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,177 | 4,444 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
+| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,176 | 4,444 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
 | 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,073 | 2,111 | 94 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
 | 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,618 | 7,193 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
-| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,121 | 642 | 20 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
+| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,121 | 641 | 20 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
 | 9 | [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4,107 | 431 | 12 | — | 2022-03-15 | Statistical Rethinking course winter 2022 |
 | 10 | [Rdatatable/data.table](https://github.com/Rdatatable/data.table) | 3,924 | 1,056 | 989 | MPL-2.0 | 2026-10-08 | R's data.table package extends data.frame: |
 | 11 | [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3,731 | 2,175 | 36 | — | 2019-05-26 | Code accompanying the book "Machine Learning for Hackers" |
@@ -49,7 +49,7 @@ Ranked by stars. GitHub reports **1,138,344** total repositories matching `langu
 | 43 | [bbc/bbplot](https://github.com/bbc/bbplot) | 1,641 | 269 | 14 | — | 2021-07-02 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team |
 | 44 | [hadley/stats337](https://github.com/hadley/stats337) | 1,610 | 223 | 7 | CC-BY-SA-4.0 | 2018-06-21 | Readings in applied data science |
 | 45 | [jokergoo/ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | 1,557 | 256 | 232 | NOASSERTION | 2026-04-02 | Make Complex Heatmaps |
-| 46 | [tidyverse/rvest](https://github.com/tidyverse/rvest) | 1,525 | 350 | 23 | NOASSERTION | 2026-10-08 | Simple web scraping for R |
+| 46 | [tidyverse/rvest](https://github.com/tidyverse/rvest) | 1,525 | 350 | 19 | NOASSERTION | 2026-10-08 | Simple web scraping for R |
 | 47 | [tidymodels/broom](https://github.com/tidymodels/broom) | 1,525 | 298 | 18 | NOASSERTION | 2026-05-14 | Convert statistical analysis objects from R into tidy format |
 | 48 | [fossasia/tofsims](https://github.com/fossasia/tofsims) | 1,488 | 6 | 0 | — | 2017-11-29 |  |
 | 49 | [sfirke/janitor](https://github.com/sfirke/janitor) | 1,459 | 134 | 40 | NOASSERTION | 2024-12-23 | simple tools for data cleaning in R |
@@ -64,11 +64,11 @@ Ranked by stars. GitHub reports **1,138,344** total repositories matching `langu
 | 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 2 | — | 2026-10-05 | Additional themes, scales, and geoms for ggplot2 |
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,343 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
-| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,297 | 203 | 295 | NOASSERTION | 2026-10-08 | Static Code Analysis for R |
+| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,297 | 203 | 297 | NOASSERTION | 2026-10-08 | Static Code Analysis for R |
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,282 | 90 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,279 | 183 | 5 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
-| 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 95 | 25 | GPL-3.0 | 2026-10-08 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
+| 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 95 | 23 | GPL-3.0 | 2026-10-08 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
 | 66 | [wch/r-source](https://github.com/wch/r-source) | 1,251 | 329 | 3 | GPL-2.0 | 2026-10-08 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on th... |
 | 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,240 | 268 | 251 | — | 2026-10-08 | :bar_chart: A universal enrichment tool for interpreting omics data |
 | 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,235 | 660 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
