@@ -1,0 +1,1025 @@
+{
+ "schema": "top100.webmcp/1",
+ "generated_at": "2026-10-08T14:09:53Z",
+ "site": {
+  "name": "Top100",
+  "url": "https://havaianasdestruido.github.io/top100/",
+  "description": "The 100 most-starred GitHub repositories for 30 programming languages, rebuilt hourly from the GitHub Search API and published as raw JSONL.",
+  "repository": "https://github.com/havaianasdestruido/top100",
+  "license": "MIT",
+  "data_license": "GitHub API output; each listed project keeps its own licence"
+ },
+ "runtime": {
+  "standard": "WebMCP (Web Model Context Protocol)",
+  "spec": "https://webmachinelearning.github.io/webmcp/",
+  "entry_point": "document.modelContext",
+  "core": "assets/webmcp-core.js",
+  "tools": "assets/webmcp-tools.js",
+  "native_first": true,
+  "polyfill_included": true,
+  "polyfill_baseline": "Chrome 126, Firefox 126, Safari 18",
+  "requires_secure_context": true,
+  "permissions_policy": "tools=(self)",
+  "exposed_to": [],
+  "documentation": "https://havaianasdestruido.github.io/top100/webmcp.html",
+  "try_it": "https://havaianasdestruido.github.io/top100/?webmcp_debug=1"
+ },
+ "security": {
+  "origin_scope": "same-origin only; tools are never registered with exposedTo",
+  "cross_origin_frames": "refused unless the embedder grants the `tools` permissions policy",
+  "input_validation": "JSON Schema subset per tool, with type, range, enum, length and depth limits",
+  "prototype_pollution": "keys __proto__, prototype and constructor are rejected",
+  "concurrency": "one in-flight call per tool; excess calls receive a BUSY envelope",
+  "rate_limit": "90 calls per minute per document, 30 per tool, 100 ms minimum gap",
+  "timeouts": "8 s per tool (15 s for the three dataset-backed tools)",
+  "output_budget": "1500 characters per result, truncated deterministically",
+  "network": "same-origin GETs of files under data/ only, credentials omitted, redirects refused",
+  "errors": "structured envelopes, never stack traces",
+  "rendering": "textContent only; innerHTML and eval are never used",
+  "untrusted_content": "tools whose results contain GitHub text set untrustedContentHint"
+ },
+ "budgets": {
+  "name": 30,
+  "description": 500,
+  "parameter_name": 30,
+  "parameter_description": 150,
+  "output": 1500
+ },
+ "tool_pages": {
+  "all": "registered on every page",
+  "repos": "registered where repository rows are embedded (home, language pages)",
+  "table": "registered where a repository table is rendered",
+  "home": "the homepage",
+  "language": "a language page such as languages/python.html",
+  "languages": "the language index",
+  "methodology": "methodology.html",
+  "dataset": "dataset.html",
+  "compare": "compare.html",
+  "faq": "faq.html",
+  "webmcp": "webmcp.html",
+  "404": "the not-found page"
+ },
+ "tools": [
+  {
+   "name": "get_site_info",
+   "description": "Describe the Top100 site: what it publishes, how fresh the data is, how many languages and repositories it ranks, where the raw JSONL lives, and which pages exist. Call this first when you need to know what this site can answer or how current its numbers are.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_page_context",
+   "description": "Return where the user is right now: page type, canonical URL, the language this page covers (if any), how many repository rows are on the page, and the timestamp of the data being shown. Use it to resolve deictic prompts such as \"this list\" or \"the table here\".",
+   "inputSchema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "list_languages",
+   "description": "List the languages Top100 ranks, with each one's most-starred repository, the star count to reach 100th place, the median inside the top 100 and how many repositories GitHub reports for it. Paged: five rows per call, use offset to walk all 30. Every row's page URL is base_url + /languages/<slug>.html.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "sort": {
+      "type": "string",
+      "enum": [
+       "rank",
+       "leader_stars",
+       "entry_bar",
+       "name"
+      ],
+      "description": "rank (site order), leader_stars, entry_bar or name.",
+      "default": "rank"
+     },
+     "limit": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 30,
+      "description": "Rows to return, 1-30. Default 5.",
+      "default": 5
+     },
+     "offset": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 29,
+      "description": "Row to start from, 0-based, for paging.",
+      "default": 0
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_language_stats",
+   "description": "Statistics for one language's top 100: the leading repository and its stars, the entry bar for 100th place, the median star count, the most common licence and how many of the 100 use it, the JSONL download with its record count and SHA-256 checksum, and a one-line description of the list. Accepts a language key such as python, c++, c# or objective-c.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "language": {
+      "type": "string",
+      "description": "Language key, for example python, rust, c++, c#.",
+      "maxLength": 30
+     }
+    },
+    "required": [
+     "language"
+    ]
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_download_links",
+   "description": "List every file this site publishes for machine use, with its URL: the JSONL dataset (one file per language), the Markdown lists, feed.xml, sitemap.xml, robots.txt, llms.txt, llms-full.txt, README.md, LISTS.md, the search index and the WebMCP manifest that carries all 30 checksums. Pass language=<key> for one file's size and SHA-256; pass family=dataset for the per-language URLs.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "language": {
+      "type": "string",
+      "description": "Language key for one dataset file, for example python.",
+      "maxLength": 30
+     },
+     "family": {
+      "type": "string",
+      "description": "Which family of files to return.",
+      "enum": [
+       "all",
+       "site",
+       "dataset"
+      ],
+      "default": "all"
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_top_repositories",
+   "description": "Return a ranked slice of the repository table on the current page: rank, name, stars, forks, licence, last push and a short description. On a language page this is that language's top 100; on the homepage it is the overall top 10. Five rows by default, up to 25 (larger requests are trimmed to the result budget and say so). Use get_repository for the full record of one row.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "limit": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 25,
+      "description": "Rows to return, 1-25.",
+      "default": 5
+     },
+     "offset": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 99,
+      "description": "Rank to start from, 0-based.",
+      "default": 0
+     },
+     "sort": {
+      "type": "string",
+      "enum": [
+       "stars",
+       "stars_asc",
+       "forks",
+       "issues",
+       "recent",
+       "name"
+      ],
+      "description": "stars (default), stars_asc, forks, issues, recent or name.",
+      "default": "stars"
+     },
+     "license": {
+      "type": "string",
+      "description": "Keep only this SPDX licence id, for example MIT or Apache-2.0.",
+      "maxLength": 30
+     },
+     "min_stars": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000,
+      "description": "Keep only repositories with at least this many stars."
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "repos"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "search_repositories",
+   "description": "Search all 3,000 repositories in the dataset by keyword (matched against name, description and topics) with optional filters for language, star range, SPDX licence and topic. Returns ranked matches with stars, forks, licence and page links. Sorting is deterministic: relevance, stars, forks, issues or recency.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "query": {
+      "type": "string",
+      "description": "Keywords, for example \"design system\" or \"llm agents\".",
+      "maxLength": 120,
+      "default": ""
+     },
+     "language": {
+      "type": "string",
+      "description": "Restrict to one language key, for example python or rust.",
+      "maxLength": 30
+     },
+     "min_stars": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000,
+      "description": "Minimum stars."
+     },
+     "max_stars": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000,
+      "description": "Maximum stars."
+     },
+     "license": {
+      "type": "string",
+      "description": "Exact SPDX licence id, for example MIT.",
+      "maxLength": 30
+     },
+     "topic": {
+      "type": "string",
+      "description": "Exact topic tag, for example cli or machine-learning.",
+      "maxLength": 40
+     },
+     "sort": {
+      "type": "string",
+      "enum": [
+       "relevance",
+       "stars",
+       "forks",
+       "issues",
+       "recent",
+       "name"
+      ],
+      "description": "relevance (default), stars, forks, issues, recent or name.",
+      "default": "relevance"
+     },
+     "limit": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 20,
+      "description": "Matches to return, 1-20.",
+      "default": 5
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "repos",
+    "home",
+    "languages"
+   ],
+   "timeout_ms": 15000
+  },
+  {
+   "name": "get_repository",
+   "description": "Look up one repository by its full name (owner/name), or by its rank within a language's top 100. Returns stars, forks, open issues, licence, last push date, topics and description, plus links to its GitHub page and to the language list it appears in.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "full_name": {
+      "type": "string",
+      "description": "owner/name, for example torvalds/linux.",
+      "maxLength": 80
+     },
+     "language": {
+      "type": "string",
+      "description": "Language key, required together with rank.",
+      "maxLength": 30
+     },
+     "rank": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100,
+      "description": "Position in that language's top 100, 1-100."
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "repos",
+    "home"
+   ],
+   "timeout_ms": 15000
+  },
+  {
+   "name": "compare_repositories",
+   "description": "Compare two to five repositories side by side: stars, forks, open issues, stars per fork, licence, last push and shared topics. Accepts owner/name strings and returns them in the order given, with a one-line verdict naming the leader by stars.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "repositories": {
+      "type": "array",
+      "items": {
+       "type": "string",
+       "maxLength": 80
+      },
+      "minItems": 2,
+      "maxItems": 5,
+      "description": "Two to five repositories as owner/name."
+     }
+    },
+    "required": [
+     "repositories"
+    ]
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "repos",
+    "home"
+   ],
+   "timeout_ms": 15000
+  },
+  {
+   "name": "filter_repository_table",
+   "description": "Act on the visible page: filter the repository table by keyword, licence, topic or minimum stars, then scroll it into view. Use reset to show every row again. Returns how many rows matched, and the page visibly updates so the human sees exactly what was filtered.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "query": {
+      "type": "string",
+      "description": "Match repository name, description or topics.",
+      "maxLength": 60,
+      "default": ""
+     },
+     "license": {
+      "type": "string",
+      "description": "Keep only this SPDX licence id.",
+      "maxLength": 30
+     },
+     "topic": {
+      "type": "string",
+      "description": "Keep only rows carrying this topic.",
+      "maxLength": 40
+     },
+     "min_stars": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1000000,
+      "description": "Keep only rows with at least this many stars."
+     },
+     "reset": {
+      "type": "boolean",
+      "description": "Clear every filter and restore all rows.",
+      "default": false
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": false,
+    "untrustedContentHint": true,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "table"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "open_page",
+   "description": "Navigate the current tab to one of this site's own pages: home, the language index, a specific language list, methodology, dataset reference, comparison, FAQ or the WebMCP tools page. Only same-site pages can be opened; the user sees the navigation happen.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "page": {
+      "type": "string",
+      "enum": [
+       "home",
+       "languages",
+       "language",
+       "methodology",
+       "dataset",
+       "compare",
+       "faq",
+       "webmcp"
+      ],
+      "description": "Which page to open."
+     },
+     "language": {
+      "type": "string",
+      "description": "Language key, required when page is \"language\".",
+      "maxLength": 30
+     }
+    },
+    "required": [
+     "page"
+    ]
+   },
+   "annotations": {
+    "readOnlyHint": false,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_methodology",
+   "description": "Explain how the data is produced: the GitHub Search API query, the hourly schedule, rate-limit handling, the fields the Search API omits, and the known limitations. Called without arguments it returns the section ids, their titles and the overview; call it again with one of those ids to read that section in full.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "topic": {
+      "type": "string",
+      "description": "Section id from a previous call, for example limitations.",
+      "maxLength": 60
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_dataset_schema",
+   "description": "Document the JSONL dataset: one file per language, one complete GitHub Search API repository object per line. Called without arguments it lists the field names and types; call it with field=<name> to read what one field means, or with language=<key> to get that file's download URL, size and SHA-256 checksum.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "field": {
+      "type": "string",
+      "description": "A field name such as stargazers_count or license.",
+      "maxLength": 60
+     },
+     "language": {
+      "type": "string",
+      "description": "Return the download details for this language only.",
+      "maxLength": 30
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "get_comparison",
+   "description": "Explain how Top100 differs from other GitHub ranking sources — GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery — including where each one is the better tool. Called without arguments it lists the sources; pass one to read its full comparison.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "source": {
+      "type": "string",
+      "description": "One source name to compare against, for example GitHub Trending.",
+      "maxLength": 60
+     }
+    },
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "answer_question",
+   "description": "Answer a question about this project from the site's own FAQ: refresh cadence, licensing, whether it needs an API key, how to download the data, how to add a language, why some fields are missing. Returns the closest matches with their answers, ranked deterministically.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {
+     "question": {
+      "type": "string",
+      "description": "The user's question in natural language.",
+      "maxLength": 200
+     },
+     "max_results": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Matches to return, 1-5.",
+      "default": 2
+     }
+    },
+    "required": [
+     "question"
+    ]
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": false
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 8000
+  },
+  {
+   "name": "run_webmcp_self_test",
+   "description": "Run this page's own WebMCP checks: page data present, tools registered, character budgets respected, prototype pollution rejected, output budget enforced, and every registered tool answering a call with a structured envelope. Intended for developers and test harnesses.",
+   "inputSchema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+   },
+   "annotations": {
+    "readOnlyHint": true,
+    "untrustedContentHint": false,
+    "consequentialHint": false,
+    "debugging": true
+   },
+   "pages": [
+    "all"
+   ],
+   "timeout_ms": 15000
+  }
+ ],
+ "data_files": [
+  {
+   "language": "typescript",
+   "display": "TypeScript",
+   "path": "data/JSONL/typescript.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/typescript.jsonl",
+   "local_url": "data/JSONL/typescript.jsonl",
+   "records": 100,
+   "bytes": 573415,
+   "sha256": "279e6f55e44888ca385618c2bb76aed21201e5db072a7021b68ec87afa7f4add",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_TYPESCRIPT_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/typescript.html",
+   "exists": true
+  },
+  {
+   "language": "python",
+   "display": "Python",
+   "path": "data/JSONL/python.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl",
+   "local_url": "data/JSONL/python.jsonl",
+   "records": 100,
+   "bytes": 600761,
+   "sha256": "431733a1be1817f555d78d60567062cdc1b57b475181d9f819b4505314b25ffc",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PYTHON_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/python.html",
+   "exists": true
+  },
+  {
+   "language": "javascript",
+   "display": "JavaScript",
+   "path": "data/JSONL/javascript.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/javascript.jsonl",
+   "local_url": "data/JSONL/javascript.jsonl",
+   "records": 100,
+   "bytes": 576235,
+   "sha256": "cbd5c7455c4ee7f0f5d84ffc431e87f8540821659f2a220ba51ac9c09d3059bb",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JAVASCRIPT_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/javascript.html",
+   "exists": true
+  },
+  {
+   "language": "java",
+   "display": "Java",
+   "path": "data/JSONL/java.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/java.jsonl",
+   "local_url": "data/JSONL/java.jsonl",
+   "records": 100,
+   "bytes": 575674,
+   "sha256": "0de51d3b98e66f234480a0430a1905cf98401e41b4b551d1e7b3d14435efc980",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JAVA_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/java.html",
+   "exists": true
+  },
+  {
+   "language": "c#",
+   "display": "C#",
+   "path": "data/JSONL/c#.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c%23.jsonl",
+   "local_url": "data/JSONL/c%23.jsonl",
+   "records": 100,
+   "bytes": 581941,
+   "sha256": "38b02acfd890d4ccc4965ebdc5e8c162fcfce7be851586c4a2219a9f41aaf8b5",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C%23_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/csharp.html",
+   "exists": true
+  },
+  {
+   "language": "c++",
+   "display": "C++",
+   "path": "data/JSONL/c++.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c%2B%2B.jsonl",
+   "local_url": "data/JSONL/c%2B%2B.jsonl",
+   "records": 100,
+   "bytes": 570522,
+   "sha256": "3ac8716017213ee32141fd86194fa8b313167f0362a4334a227b798e60c8d774",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C%2B%2B_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/cpp.html",
+   "exists": true
+  },
+  {
+   "language": "php",
+   "display": "PHP",
+   "path": "data/JSONL/php.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/php.jsonl",
+   "local_url": "data/JSONL/php.jsonl",
+   "records": 100,
+   "bytes": 566131,
+   "sha256": "11e3e2f0e6e16cb317203dea017e19284ef3ab1804f1e25be04cc91e0f3099a2",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PHP_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/php.html",
+   "exists": true
+  },
+  {
+   "language": "shell",
+   "display": "Shell",
+   "path": "data/JSONL/shell.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/shell.jsonl",
+   "local_url": "data/JSONL/shell.jsonl",
+   "records": 100,
+   "bytes": 576903,
+   "sha256": "8938ab7ebd29ec7929117908286154359c6b422d89c86fb53cf345291efbaa48",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SHELL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/shell.html",
+   "exists": true
+  },
+  {
+   "language": "c",
+   "display": "C",
+   "path": "data/JSONL/c.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c.jsonl",
+   "local_url": "data/JSONL/c.jsonl",
+   "records": 100,
+   "bytes": 560848,
+   "sha256": "75d5a2cceb485c2d685935e87501814d6b47afef0bb1c285bf23b7d38c6397ba",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/c.html",
+   "exists": true
+  },
+  {
+   "language": "go",
+   "display": "Go",
+   "path": "data/JSONL/go.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/go.jsonl",
+   "local_url": "data/JSONL/go.jsonl",
+   "records": 100,
+   "bytes": 561023,
+   "sha256": "9402e4d0e6d82a1b4feb2f725be0a712968d49636808882210aaa476dfc839ca",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_GO_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/go.html",
+   "exists": true
+  },
+  {
+   "language": "rust",
+   "display": "Rust",
+   "path": "data/JSONL/rust.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/rust.jsonl",
+   "local_url": "data/JSONL/rust.jsonl",
+   "records": 100,
+   "bytes": 559992,
+   "sha256": "cfdcbe1b617164c6d5d176939e29fc0367ef5a78b451eeb1e4bdafe29d82130e",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_RUST_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/rust.html",
+   "exists": true
+  },
+  {
+   "language": "ruby",
+   "display": "Ruby",
+   "path": "data/JSONL/ruby.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ruby.jsonl",
+   "local_url": "data/JSONL/ruby.jsonl",
+   "records": 100,
+   "bytes": 559577,
+   "sha256": "216ee0d384adc8f967db4ecfa1967dd959b2d3416db825ece5164d61bcf37eab",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_RUBY_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/ruby.html",
+   "exists": true
+  },
+  {
+   "language": "kotlin",
+   "display": "Kotlin",
+   "path": "data/JSONL/kotlin.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/kotlin.jsonl",
+   "local_url": "data/JSONL/kotlin.jsonl",
+   "records": 100,
+   "bytes": 570217,
+   "sha256": "0bd33dbd1ed10145b6a4a913e652a8da3bedfd60f1eb5f3e2926c944b8f6a7e4",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_KOTLIN_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/kotlin.html",
+   "exists": true
+  },
+  {
+   "language": "swift",
+   "display": "Swift",
+   "path": "data/JSONL/swift.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/swift.jsonl",
+   "local_url": "data/JSONL/swift.jsonl",
+   "records": 100,
+   "bytes": 571408,
+   "sha256": "8e26a2b6dad7393be45c31a05332b1718f47c487bbb7885f2263409ee2e86e49",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SWIFT_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/swift.html",
+   "exists": true
+  },
+  {
+   "language": "dart",
+   "display": "Dart",
+   "path": "data/JSONL/dart.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/dart.jsonl",
+   "local_url": "data/JSONL/dart.jsonl",
+   "records": 100,
+   "bytes": 582952,
+   "sha256": "532e38c3fd3351df68d2a57096f4fd5007394fd1ea24414f85de31afd5cad0cc",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_DART_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/dart.html",
+   "exists": true
+  },
+  {
+   "language": "html",
+   "display": "HTML",
+   "path": "data/JSONL/html.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/html.jsonl",
+   "local_url": "data/JSONL/html.jsonl",
+   "records": 100,
+   "bytes": 586136,
+   "sha256": "4802cce904556ef58a035c16d07dcd44eea2efaaecd7eed1eeb05ffd551f3744",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_HTML_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/html.html",
+   "exists": true
+  },
+  {
+   "language": "css",
+   "display": "CSS",
+   "path": "data/JSONL/css.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/css.jsonl",
+   "local_url": "data/JSONL/css.jsonl",
+   "records": 100,
+   "bytes": 578391,
+   "sha256": "77b6e3c01cd53eebcc0fc4ba9ed9055f87d1276929f04dcc13ac33f1f3c74599",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_CSS_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/css.html",
+   "exists": true
+  },
+  {
+   "language": "sql",
+   "display": "SQL",
+   "path": "data/JSONL/sql.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/sql.jsonl",
+   "local_url": "data/JSONL/sql.jsonl",
+   "records": 100,
+   "bytes": 602833,
+   "sha256": "6805ccb50f2efdc2e5e76ce6c4321a4ed318a762d8a70eae203594b841c4d4f9",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SQL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/sql.html",
+   "exists": true
+  },
+  {
+   "language": "scala",
+   "display": "Scala",
+   "path": "data/JSONL/scala.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/scala.jsonl",
+   "local_url": "data/JSONL/scala.jsonl",
+   "records": 100,
+   "bytes": 563198,
+   "sha256": "bd589326b5323a56dbadfd54a9a7822a32584fb3153039dea88a8c8d018092c2",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SCALA_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/scala.html",
+   "exists": true
+  },
+  {
+   "language": "lua",
+   "display": "Lua",
+   "path": "data/JSONL/lua.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/lua.jsonl",
+   "local_url": "data/JSONL/lua.jsonl",
+   "records": 100,
+   "bytes": 569116,
+   "sha256": "da35144c9750fa37f5b9a252fd3b54ed7b29a8728212e1443474f3c3613a8e4d",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_LUA_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/lua.html",
+   "exists": true
+  },
+  {
+   "language": "groovy",
+   "display": "Groovy",
+   "path": "data/JSONL/groovy.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/groovy.jsonl",
+   "local_url": "data/JSONL/groovy.jsonl",
+   "records": 100,
+   "bytes": 591040,
+   "sha256": "b7464671cac513de61658def3aecdd138bd97965ad51750ff7bf6acd2935b9d1",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_GROOVY_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/groovy.html",
+   "exists": true
+  },
+  {
+   "language": "objective-c",
+   "display": "Objective-C",
+   "path": "data/JSONL/objective-c.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/objective-c.jsonl",
+   "local_url": "data/JSONL/objective-c.jsonl",
+   "records": 100,
+   "bytes": 573213,
+   "sha256": "cfb67f220ed599df41aa8c4d80007afc16a79ea5b8c38271b105158bc7028954",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_OBJECTIVE-C_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/objective-c.html",
+   "exists": true
+  },
+  {
+   "language": "perl",
+   "display": "Perl",
+   "path": "data/JSONL/perl.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/perl.jsonl",
+   "local_url": "data/JSONL/perl.jsonl",
+   "records": 100,
+   "bytes": 562690,
+   "sha256": "8f0e7458d588d7f121ce0d56829ef5e6e807b2ebd49b1bd817a8d1edd0b0b399",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PERL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/perl.html",
+   "exists": true
+  },
+  {
+   "language": "haskell",
+   "display": "Haskell",
+   "path": "data/JSONL/haskell.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/haskell.jsonl",
+   "local_url": "data/JSONL/haskell.jsonl",
+   "records": 100,
+   "bytes": 559878,
+   "sha256": "dbd3637250c162f8aaca4614553aa81637139b8a85cf34dac2667568ff336caa",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_HASKELL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/haskell.html",
+   "exists": true
+  },
+  {
+   "language": "assembly",
+   "display": "Assembly",
+   "path": "data/JSONL/assembly.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/assembly.jsonl",
+   "local_url": "data/JSONL/assembly.jsonl",
+   "records": 100,
+   "bytes": 726499,
+   "sha256": "2208177a4ba104e76de50c34cc7382908d5bf83238fca6cd1ad045591f178199",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ASSEMBLY_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/assembly.html",
+   "exists": true
+  },
+  {
+   "language": "r",
+   "display": "R",
+   "path": "data/JSONL/r.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/r.jsonl",
+   "local_url": "data/JSONL/r.jsonl",
+   "records": 100,
+   "bytes": 558373,
+   "sha256": "6de1a0eb5bebd78a94d5c62aa3eb75385d22cc1c05990e3ac7db2752d5bdda08",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_R_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/r.html",
+   "exists": true
+  },
+  {
+   "language": "julia",
+   "display": "Julia",
+   "path": "data/JSONL/julia.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/julia.jsonl",
+   "local_url": "data/JSONL/julia.jsonl",
+   "records": 100,
+   "bytes": 580713,
+   "sha256": "af965b0e8fe7aa4bf16713cbe29ae845c6a4dc71c8834aa541c07367aa4834a8",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JULIA_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/julia.html",
+   "exists": true
+  },
+  {
+   "language": "elixir",
+   "display": "Elixir",
+   "path": "data/JSONL/elixir.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/elixir.jsonl",
+   "local_url": "data/JSONL/elixir.jsonl",
+   "records": 100,
+   "bytes": 562823,
+   "sha256": "02af79b30d9a7da655966db9d87f839110bac494af4c8cc31df5502b735b963f",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ELIXIR_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/elixir.html",
+   "exists": true
+  },
+  {
+   "language": "powershell",
+   "display": "PowerShell",
+   "path": "data/JSONL/powershell.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/powershell.jsonl",
+   "local_url": "data/JSONL/powershell.jsonl",
+   "records": 100,
+   "bytes": 591452,
+   "sha256": "7e955de4209f79bd3f07ca2ae3861731f01d60c6f5b86609da6bf6871171f893",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_POWERSHELL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/powershell.html",
+   "exists": true
+  },
+  {
+   "language": "nix",
+   "display": "Nix",
+   "path": "data/JSONL/nix.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/nix.jsonl",
+   "local_url": "data/JSONL/nix.jsonl",
+   "records": 100,
+   "bytes": 565030,
+   "sha256": "a4106983948e5916174537a33bb429db6d70d5c966ab79fd14846d8168fc10cc",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_NIX_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/nix.html",
+   "exists": true
+  }
+ ]
+}

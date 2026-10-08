@@ -49,6 +49,13 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 30
 - [Comparison](https://havaianasdestruido.github.io/top100/compare.html): Top100 vs GitHub Trending, gitstar-ranking.com, EvanLi/Github-Ranking, OSS Insight, Star History, GH Archive and BigQuery
 - [FAQ](https://havaianasdestruido.github.io/top100/faq.html): sixteen questions with direct answers
 
+## WebMCP (AI agent tools)
+
+- [WebMCP tools](https://havaianasdestruido.github.io/top100/webmcp.html): 16 tools this site registers on `document.modelContext` for a browser AI agent — searching the dataset, reading a language's top 100, comparing repositories, filtering the visible table, opening pages, and answering questions from the site's own documentation
+- Tool manifest with full JSON Schemas, annotations, security rules and SHA-256 checksums: https://havaianasdestruido.github.io/top100/data/webmcp-manifest.json
+- Try them by hand in any browser: https://havaianasdestruido.github.io/top100/index.html?webmcp_debug=1
+- Same-origin only, read-only except for filtering the table and opening pages, no cookies, no third-party requests, results capped at 1500 characters
+
 ## Data
 
 - JSONL files (30 files, 100 records each, 3,000 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
@@ -60,4 +67,4 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 30
 
 - Refreshed hourly by a scheduled GitHub Actions workflow; the data is GitHub API output and every repository keeps its own licence.
 - Source code and workflow: https://github.com/havaianasdestruido/top100
-- No JavaScript, no tracking, no cookies, no external requests.
+- No tracking, no cookies, no external requests. Two same-origin scripts add optional WebMCP agent tools; every page is complete HTML without them.

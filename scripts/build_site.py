@@ -31,6 +31,8 @@ from urllib.parse import quote
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import site_content as C  # noqa: E402
+import build_webmcp as WM  # noqa: E402
+import webmcp_catalog as WCAT  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -44,8 +46,19 @@ NAV = [
     ("methodology.html", "Methodology"),
     ("dataset.html", "Dataset"),
     ("compare.html", "Compare"),
+    ("webmcp.html", "AI tools"),
     ("faq.html", "FAQ"),
 ]
+
+# A Content-Security-Policy that matches what this site actually loads: its own
+# stylesheet, its own two WebMCP scripts, its own data files, and nothing else.
+# The JSON-LD blocks are data blocks, so script-src does not apply to them.
+CSP = (
+    "default-src 'self'; base-uri 'self'; object-src 'none'; script-src 'self'; "
+    "style-src 'self'; img-src 'self' data:; connect-src 'self'; font-src 'self'; "
+    "frame-src 'none'; form-action 'none'"
+)
+PERMISSIONS_POLICY = "tools=(self)"
 
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 CODE_RE = re.compile(r"`([^`]+)`")
@@ -184,6 +197,8 @@ def load_data():
             "top_license": top_license,
             "top_license_n": top_license_n,
             "size_bytes": (DATA / "JSONL" / f"{key}.jsonl").stat().st_size,
+            # Published in the WebMCP manifest so a download can be verified.
+            "sha256": WM.sha256_file(DATA / "JSONL" / f"{key}.jsonl"),
         }
     return out
 
@@ -274,7 +289,13 @@ def jsonld_block(payload) -> str:
 
 
 def html_page(*, ctx, prefix, title, description, canonical, body, jsonld,
-              updated_line=None, active=None) -> str:
+              updated_line=None, active=None, webmcp=None) -> str:
+    """Assemble a page. `webmcp` is the dict produced by build_webmcp.page_data()
+    and is embedded as a JSON block the WebMCP tools read without any network
+    access; when it is omitted the block is still written, with just the site
+    facts, so every page has working site-level tools."""
+    if webmcp is None:
+        webmcp = WM.page_data(ctx, page_type="unknown", page_path="index.html")
     nav = []
     for href, label in NAV:
         current = ' aria-current="page"' if href == active else ""
@@ -306,6 +327,11 @@ def html_page(*, ctx, prefix, title, description, canonical, body, jsonld,
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/rss+xml" title="Top100 data updates" href="{prefix}feed.xml">
 <link rel="stylesheet" href="{prefix}assets/style.css">
+<meta http-equiv="Content-Security-Policy" content="{esc(CSP)}">
+<meta http-equiv="Permissions-Policy" content="{esc(PERMISSIONS_POLICY)}">
+<meta name="webmcp" content="document.modelContext">
+<script defer src="{prefix}assets/webmcp-core.js"></script>
+<script defer src="{prefix}assets/webmcp-tools.js"></script>
 {head_jsonld}
 </head>
 <body>
@@ -331,9 +357,11 @@ def html_page(*, ctx, prefix, title, description, canonical, body, jsonld,
 <a href="{prefix}feed.xml">Update feed</a>
 <a href="{prefix}sitemap.xml">Sitemap</a>
 <a href="{prefix}llms.txt">llms.txt</a>
-<span>Data refreshed {ctx['datetime_long']} &middot; static site, no JavaScript</span>
+<a href="{prefix}webmcp.html">AI agent tools</a>
+<span>Data refreshed {ctx['datetime_long']} &middot; no tracking, no cookies, no external requests</span>
 </div>
 </footer>
+<script type="application/json" id="top100-webmcp-data">{WM.embed_json(webmcp)}</script>
 </body>
 </html>
 """
@@ -358,8 +386,19 @@ def repo_table(repos, *, caption, limit=None, show_language=False):
         pushed = (r.get("pushed_at") or "")[:10]
         desc = truncate(r.get("description"))
         lang_cell = f"<td>{esc(r.get('language') or '—')}</td>" if show_language else ""
+        # data-* attributes are the machine-readable side of the table: the
+        # filter_repository_table WebMCP tool reads them instead of parsing text.
+        haystack = " ".join([
+            r.get("full_name", ""), r.get("description") or "",
+            " ".join(r.get("topics") or []),
+        ])
         body.append(
-            f"<tr><td class='rank'>{i}</td>"
+            f"<tr data-repo='{esc(r.get('full_name', ''))}'"
+            f" data-stars='{int(r.get('stargazers_count', 0) or 0)}'"
+            f" data-license='{esc(lic.lower())}'"
+            f" data-topics='{esc(' '.join(r.get('topics') or []).lower())}'"
+            f" data-search='{esc(truncate(haystack, 300))}'>"
+            f"<td class='rank'>{i}</td>"
             f"<td><a href='{esc(r.get('html_url', ''))}'>{esc(r.get('full_name', ''))}</a></td>"
             f"{lang_cell}"
             f"<td class='num stars'>{fmt(r.get('stargazers_count', 0))}</td>"
@@ -370,7 +409,9 @@ def repo_table(repos, *, caption, limit=None, show_language=False):
             f"<td>{esc(desc)}</td></tr>"
         )
     return (
-        f"<div class='tablewrap'><table>\n<caption>{caption}</caption>\n"
+        f"<div class='filterbar' id='repo-table-filter' hidden></div>"
+        f"<div class='tablewrap' id='repo-table-anchor'><table id='repo-table'>\n"
+        f"<caption>{caption}</caption>\n"
         f"<thead>{head}</thead>\n<tbody>\n" + "\n".join(body) + "\n</tbody>\n</table></div>"
     )
 
@@ -730,6 +771,8 @@ languages, forks &mdash; are answered on the <a href="faq.html">FAQ page</a>.</p
         body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']} &middot; next refresh within the hour",
         active="index.html",
+        webmcp=WM.page_data(ctx, page_type="home", page_path="index.html",
+                            repos=top, faq=faq),
     )
 
 
@@ -801,6 +844,7 @@ details.</p>
         body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="languages/index.html",
+        webmcp=WM.page_data(ctx, page_type="languages", page_path="languages/index.html"),
     )
 
 
@@ -937,6 +981,9 @@ the rate limits, the fields the Search API omits and the known limitations, and 
         canonical=url, body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="languages/index.html",
+        webmcp=WM.page_data(ctx, page_type="language",
+                            page_path=f"languages/{info['slug']}.html",
+                            language=key, repos=repos, faq=faq),
     )
 
 
@@ -969,6 +1016,7 @@ can be reproduced or challenged.</p>
         canonical=url, body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="methodology.html",
+        webmcp=WM.page_data(ctx, page_type="methodology", page_path="methodology.html"),
     )
 
 
@@ -1063,6 +1111,7 @@ link back here and credit GitHub as the source.</p>
         canonical=url, body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="dataset.html",
+        webmcp=WM.page_data(ctx, page_type="dataset", page_path="dataset.html"),
     )
 
 
@@ -1112,6 +1161,7 @@ def page_compare(ctx):
         canonical=url, body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="compare.html",
+        webmcp=WM.page_data(ctx, page_type="compare", page_path="compare.html"),
     )
 
 
@@ -1152,6 +1202,7 @@ implementation questions.</p>
         canonical=url, body=body, jsonld=jsonld,
         updated_line=f"Data refreshed {ctx['datetime_long']}",
         active="faq.html",
+        webmcp=WM.page_data(ctx, page_type="faq", page_path="faq.html", faq=entries),
     )
 
 
@@ -1179,6 +1230,8 @@ the canonical list of data files is in the
         description="That page does not exist. Links to every page on Top100.",
         canonical=f"{C.BASE_URL}/404.html", body=body, jsonld=[],
         active=None,
+        webmcp=WM.page_data(ctx, page_type="404", page_path="404.html",
+                            absolute_links=True),
     )
 
 
@@ -1192,7 +1245,7 @@ def build_sitemap(ctx):
     for key, info in ctx["langs"].items():
         urls.append((f"languages/{info['slug']}.html", "0.8", "hourly"))
     for page, priority in [
-        ("dataset.html", "0.8"), ("methodology.html", "0.7"),
+        ("dataset.html", "0.8"), ("webmcp.html", "0.7"), ("methodology.html", "0.7"),
         ("compare.html", "0.7"), ("faq.html", "0.7"),
     ]:
         urls.append((page, priority, "weekly"))
@@ -1301,6 +1354,19 @@ def build_llms_txt(ctx):
         "GH Archive and BigQuery",
         f"- [FAQ]({C.BASE_URL}/faq.html): sixteen questions with direct answers",
         "",
+        "## WebMCP (AI agent tools)",
+        "",
+        f"- [WebMCP tools]({C.BASE_URL}/webmcp.html): {ctx['webmcp_tool_count']} tools "
+        "this site registers on `document.modelContext` for a browser AI agent — "
+        "searching the dataset, reading a language's top 100, comparing repositories, "
+        "filtering the visible table, opening pages, and answering questions from the "
+        "site's own documentation",
+        f"- Tool manifest with full JSON Schemas, annotations, security rules and "
+        f"SHA-256 checksums: {C.BASE_URL}/data/webmcp-manifest.json",
+        f"- Try them by hand in any browser: {C.BASE_URL}/index.html?webmcp_debug=1",
+        "- Same-origin only, read-only except for filtering the table and opening pages, "
+        "no cookies, no third-party requests, results capped at 1500 characters",
+        "",
         "## Data",
         "",
         f"- JSONL files (30 files, 100 records each, {fmt(ctx['records'])} total): "
@@ -1314,7 +1380,8 @@ def build_llms_txt(ctx):
         f"- Refreshed hourly by a scheduled GitHub Actions workflow; the data is "
         f"GitHub API output and every repository keeps its own licence.",
         f"- Source code and workflow: {C.REPO_URL}",
-        "- No JavaScript, no tracking, no cookies, no external requests.",
+        "- No tracking, no cookies, no external requests. Two same-origin scripts add "
+        "optional WebMCP agent tools; every page is complete HTML without them.",
         "",
     ]
     return "\n".join(lines)
@@ -1493,6 +1560,15 @@ def main():
         return 1
     ctx = build_context(langs)
 
+    # WebMCP artifacts. The tool catalogue is read back out of the browser
+    # script that registers the tools, so the manifest, the documentation page
+    # and the registered tools are always the same list.
+    tools = WCAT.load_tools()
+    ctx["webmcp_tool_count"] = len(tools)
+    search_index = WM.build_search_index(ctx)
+    context_file = WM.build_context(ctx)
+    manifest = WM.build_manifest(ctx, tools, WM.data_files_manifest(ctx))
+
     written = []
     written.append(write("index.html", page_index(ctx)))
     written.append(write("languages/index.html", page_languages_index(ctx)))
@@ -1503,6 +1579,10 @@ def main():
     written.append(write("compare.html", page_compare(ctx)))
     written.append(write("faq.html", page_faq(ctx)))
     written.append(write("404.html", page_404(ctx)))
+    written.append(write("webmcp.html", WM.page_webmcp(ctx, tools, manifest)))
+    written.append(write("data/search-index.json", WM.dump_json(search_index, compact=True)))
+    written.append(write("data/webmcp-context.json", WM.dump_json(context_file)))
+    written.append(write("data/webmcp-manifest.json", WM.dump_json(manifest)))
     written.append(write("assets/style.css", C.CSS))
     written.append(write("sitemap.xml", build_sitemap(ctx)))
     written.append(write("robots.txt", build_robots(ctx)))
@@ -1517,6 +1597,10 @@ def main():
     print(f"Built {len(written)} files ({total / 1024:.0f} KB) from "
           f"{ctx['records']} records across {ctx['languages']} languages.")
     print(f"Data timestamp: {ctx['datetime_long']}")
+    print(f"WebMCP: {len(tools)} tools, "
+          f"{len(manifest['data_files'])} data files with SHA-256 checksums, "
+          f"search index {search_index['count']} records "
+          f"({(ROOT / 'data/search-index.json').stat().st_size / 1024:.0f} KB)")
     for q, a in C.faq_entries(ctx):
         n = words(a)
         flag = "" if 40 <= n <= 70 else "  <-- outside 40-70 words"

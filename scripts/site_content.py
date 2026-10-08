@@ -146,7 +146,8 @@ LANG_NOTES = {key: (display, slug, note) for key, display, slug, note in LANGUAG
 # Stylesheet (small, no JavaScript, dark-mode aware)
 # ---------------------------------------------------------------------------
 
-CSS = """/* Top100 static site - intentionally tiny, no JS, no web fonts */
+CSS = """/* Top100 static site - intentionally tiny, no web fonts,
+   no third-party assets. The only script is the optional WebMCP layer. */
 :root{
   --bg:#ffffff; --fg:#1b1f24; --muted:#5b6472; --line:#e2e7ee; --card:#f6f8fa;
   --accent:#0b62d0; --accent-fg:#ffffff; --chip:#eaf1fb; --star:#9a6700;
@@ -218,6 +219,53 @@ footer.site a{color:var(--muted)}
 details{border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:0 0 10px;background:var(--card)}
 summary{cursor:pointer;font-weight:600}
 details[open] summary{margin-bottom:8px}
+/* --- WebMCP: the optional agent-tools panel ------------------------------ */
+.ai-tools{
+  max-width:1080px;margin:0 auto 32px;padding:0 20px;color:var(--muted);
+  font-size:.88rem
+}
+.ai-tools details{
+  border:1px solid var(--line);border-radius:8px;background:var(--card);
+  padding:8px 14px;margin:0
+}
+.ai-summary{cursor:pointer;display:flex;gap:8px;align-items:center;font-weight:600}
+.ai-badge{
+  background:var(--accent);color:var(--accent-fg);border-radius:999px;
+  padding:1px 8px;font-size:.72rem;letter-spacing:.06em;font-weight:700
+}
+.ai-count{color:var(--muted);font-weight:400}
+.ai-body{padding-top:10px}
+.ai-note{margin:0 0 10px;color:var(--muted)}
+.ai-list{margin:0 0 10px;padding-left:22px}
+.ai-list li{margin:0 0 6px}
+.ai-list code{background:var(--chip);border-radius:4px;padding:1px 5px}
+.ai-status{
+  margin:8px 0 0;padding:6px 12px;border-radius:999px;background:var(--chip);
+  border:1px solid var(--line);display:inline-block;color:var(--fg)
+}
+.ai-debug{border-top:1px solid var(--line);margin-top:14px;padding-top:12px}
+.ai-debug select,.ai-debug textarea{
+  width:100%;max-width:520px;font:inherit;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.85rem;padding:6px 8px;border:1px solid var(--line);border-radius:6px;
+  background:var(--bg);color:var(--fg);margin:0 0 10px
+}
+.ai-debug label{display:block;margin:0 0 4px;font-weight:600}
+.ai-debug button{
+  font:inherit;background:var(--accent);color:var(--accent-fg);border:0;
+  border-radius:6px;padding:7px 14px;cursor:pointer;margin-right:8px
+}
+.ai-output{
+  background:var(--bg);border:1px solid var(--line);border-radius:6px;
+  padding:10px 12px;overflow-x:auto;font-size:.8rem;white-space:pre-wrap;
+  word-break:break-word;max-height:420px;overflow-y:auto
+}
+.filterbar{
+  background:var(--chip);border:1px solid var(--line);border-radius:8px;
+  padding:8px 14px;margin:0 0 10px;font-size:.9rem
+}
+ul.params{margin:0 0 14px;padding-left:20px}
+ul.params li{margin:0 0 8px}
+
 @media (max-width:640px){
   h1{font-size:1.6rem}
   nav.site{margin-left:0;width:100%}
