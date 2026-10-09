@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,615** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,617** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -17,14 +17,14 @@ Ranked by stars. GitHub reports **4,615** total repositories matching `language:
 | 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 178 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 132 | 19 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 121 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
-| 14 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 117 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
-| 15 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
+| 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
+| 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 116 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 112 | 36 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 89 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
 | 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 80 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
-| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 61 | 29 | 1 | MIT | 2026-10-09 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
+| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 62 | 29 | 1 | MIT | 2026-10-09 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 22 | [TrinityCore/TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | 59 | 111 | 0 | — | 2014-10-18 | If you are looking for TDB for 4.3.4 go to: |
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 51 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **4,615** total repositories matching `language:
 | 27 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 43 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
 | 28 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
 | 29 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 41 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
-| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 0 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
+| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 1 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
 | 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 32 | 34 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
 | 32 | [ritakalach/sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions) | 30 | 9 | 1 | — | 2024-07-22 | SQL practice problems and solutions. |
 | 33 | [fab-geocommuns/RNB](https://github.com/fab-geocommuns/RNB) | 29 | 6 | 7 | Apache-2.0 | 2026-06-03 | Construire le Référentiel National des Bâtiments (RNB) en France |
