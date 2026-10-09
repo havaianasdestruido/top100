@@ -1,6 +1,6 @@
 {
  "schema": "top100.webmcp/1",
- "generated_at": "2026-10-09T19:09:08Z",
+ "generated_at": "2026-10-09T23:40:14Z",
  "site": {
   "name": "Top100",
   "url": "https://havaianasdestruido.github.io/top100/",
@@ -639,7 +639,7 @@
    "local_url": "data/JSONL/typescript.jsonl",
    "records": 100,
    "bytes": 573372,
-   "sha256": "5cbb893aa6e486c0d641fbf7d952d9f17846400c31f315005ca0110e37417e54",
+   "sha256": "e06639663c523bc855c6e31ee36f1c5a2412e9bd8e1171f143365852af68b8ee",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_TYPESCRIPT_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/typescript.html",
    "exists": true
@@ -651,8 +651,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl",
    "local_url": "data/JSONL/python.jsonl",
    "records": 100,
-   "bytes": 600762,
-   "sha256": "128e8461ebd77a867d9a0ebb27fe543545a31410135387316febb35ad5a24c6b",
+   "bytes": 600764,
+   "sha256": "279c8800ca946670c8cfa6aa627e4b06bb67f8800c2ec572dd6da09ce51f0cc0",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PYTHON_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/python.html",
    "exists": true
@@ -665,7 +665,7 @@
    "local_url": "data/JSONL/javascript.jsonl",
    "records": 100,
    "bytes": 576627,
-   "sha256": "939624355841b473fb0346a193a0e70b357ac382ff090cfeb5aed99f6150cd44",
+   "sha256": "c3e2cbe14247ac37b457dfac8fef4a4a8d746928d1c003d56d584ed942a907fc",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JAVASCRIPT_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/javascript.html",
    "exists": true
@@ -678,7 +678,7 @@
    "local_url": "data/JSONL/java.jsonl",
    "records": 100,
    "bytes": 575672,
-   "sha256": "a837bff89b6a634c7e4e15a1d82d14502088bbe9dfda9d69000fd4a32e02e172",
+   "sha256": "d3712158f3e1fdea751dda1f706cd9e14374559397363a88c544629e51fb6902",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JAVA_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/java.html",
    "exists": true
@@ -691,7 +691,7 @@
    "local_url": "data/JSONL/c%23.jsonl",
    "records": 100,
    "bytes": 581939,
-   "sha256": "ff5a28bfb0ec133ac1b90e07f35ed0dc603bfe81cde011f69456aaa3447763e2",
+   "sha256": "457ea946de90eabfda15e6aa51fcb67f06bfbcd974889dc4741199666cc4a2eb",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C%23_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/csharp.html",
    "exists": true
@@ -704,7 +704,7 @@
    "local_url": "data/JSONL/c%2B%2B.jsonl",
    "records": 100,
    "bytes": 570460,
-   "sha256": "42e839541d858cad36c5c6357a085a44d94c4394cb65cfc52edb17b1bf024d1c",
+   "sha256": "5f78c9916af4782d3fcf5aae4f6f9a8050892c2050e9002b1ab5ae6ce5c5e035",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C%2B%2B_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/cpp.html",
    "exists": true
@@ -716,8 +716,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/php.jsonl",
    "local_url": "data/JSONL/php.jsonl",
    "records": 100,
-   "bytes": 566312,
-   "sha256": "628f5acfe40eefc3784ef1b259247c906cdcc757d2ba33e168a261aec0031c52",
+   "bytes": 566293,
+   "sha256": "469e7ab178886c581a950cd29bd00ae677520a18f864f17d3c25471368f6489e",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PHP_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/php.html",
    "exists": true
@@ -730,7 +730,7 @@
    "local_url": "data/JSONL/shell.jsonl",
    "records": 100,
    "bytes": 576894,
-   "sha256": "e8485a76cade318262299e44a2ff1f082f61c3f3b6393ced05099a9ff3151448",
+   "sha256": "c9544cce9bd258fa6c8ba90e64493d64f6635e88ecf961cb3a641e234303e46b",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SHELL_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/shell.html",
    "exists": true
@@ -743,7 +743,7 @@
    "local_url": "data/JSONL/c.jsonl",
    "records": 100,
    "bytes": 560909,
-   "sha256": "43ea54aa318642bf5bda7897ee1c1138ac698f651a0031cbf22f527e763c9e4a",
+   "sha256": "f065dc196c0b85c46392cc248650daf47ad4113aac35c8b8a14601a76ecf72e7",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_C_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/c.html",
    "exists": true
@@ -756,7 +756,7 @@
    "local_url": "data/JSONL/go.jsonl",
    "records": 100,
    "bytes": 561061,
-   "sha256": "9eae749afe1ec7a5e0718bb0408e5fcde2343f610531d3db924d36e6ee99d2ed",
+   "sha256": "3c6eac9b5372d9804c634b6e793db5a2c9b4c25684810ecaab57c53b9f0c9280",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_GO_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/go.html",
    "exists": true
@@ -769,7 +769,7 @@
    "local_url": "data/JSONL/rust.jsonl",
    "records": 100,
    "bytes": 560376,
-   "sha256": "dcced449c39ffe0e1f5be6adb361220486f04298f9a0da6808cdc736e012000f",
+   "sha256": "993b787d5c67f12c3c192239d15f41feb69e6951ff74c40d98d682d968f794e3",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_RUST_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/rust.html",
    "exists": true
@@ -781,8 +781,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ruby.jsonl",
    "local_url": "data/JSONL/ruby.jsonl",
    "records": 100,
-   "bytes": 559578,
-   "sha256": "bb535dbe772eb31aa7fe7a40f18c9e893387ab6f94d56a6fedfe82923626ac61",
+   "bytes": 559580,
+   "sha256": "7455f19518dfb8608ef080a13a38c0940ebfc9dce097690b5e48a37b5474ae01",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_RUBY_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/ruby.html",
    "exists": true
@@ -795,7 +795,7 @@
    "local_url": "data/JSONL/kotlin.jsonl",
    "records": 100,
    "bytes": 570389,
-   "sha256": "6f50427cee929ab70ea8c8249197bd7cc728390baad562977983c7b28d45f8d6",
+   "sha256": "1000aefcdd819725928e33a00ac26749650bf48652f5b965626798032209b30e",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_KOTLIN_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/kotlin.html",
    "exists": true
@@ -808,7 +808,7 @@
    "local_url": "data/JSONL/swift.jsonl",
    "records": 100,
    "bytes": 571144,
-   "sha256": "7461d99095887363c5bdb0fa979b819de1d00a1df3714adf695ab496bb01cd7a",
+   "sha256": "7a63db307116f7250f5020d7bcb4eb8804bf4e8ee803fb03e80766a14aac6928",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SWIFT_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/swift.html",
    "exists": true
@@ -821,7 +821,7 @@
    "local_url": "data/JSONL/dart.jsonl",
    "records": 100,
    "bytes": 582954,
-   "sha256": "d37c40f6e34ebc518a6b98b0725b77348c67903220acbc4a26909f12d174383d",
+   "sha256": "dde043b3abc1e4a54b3a4730efc4a74473f3a1154f578c6290997a6dc7031386",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_DART_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/dart.html",
    "exists": true
@@ -833,8 +833,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/html.jsonl",
    "local_url": "data/JSONL/html.jsonl",
    "records": 100,
-   "bytes": 585975,
-   "sha256": "8db0eebf7670a89c5f83e6602010a5937dbb13ac91b54698d114edf568b8882d",
+   "bytes": 585976,
+   "sha256": "bd83396cca8d22c1801b062b63dd3f6a7b85833ec3ef4ec75feff82c825f4580",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_HTML_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/html.html",
    "exists": true
@@ -847,7 +847,7 @@
    "local_url": "data/JSONL/css.jsonl",
    "records": 100,
    "bytes": 578391,
-   "sha256": "f9572b8dda926562a88c61cf2ba248a77ce01f96306162cd21d07d78021ae84e",
+   "sha256": "399e6a2a4e0dd8c167a4ff63526e26ec9fea9546329958ce77719a43014dadc8",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_CSS_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/css.html",
    "exists": true
@@ -873,7 +873,7 @@
    "local_url": "data/JSONL/scala.jsonl",
    "records": 100,
    "bytes": 563198,
-   "sha256": "7dc7a9d6de045808e07071ded72c5e70799535caed8c402164e26d52e2fb385f",
+   "sha256": "df6a1bc56ba6f99a2fcc13e45578ca6c08d318c2183563f465f8d273ad404146",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SCALA_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/scala.html",
    "exists": true
@@ -885,8 +885,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/lua.jsonl",
    "local_url": "data/JSONL/lua.jsonl",
    "records": 100,
-   "bytes": 569116,
-   "sha256": "53a10d0e05382df12791d64348f7a5e79900b1d821aee4a2928c619f92794deb",
+   "bytes": 569118,
+   "sha256": "d55c292b44172f5d258f4612ced8ec60eabf6556eff9cbbfbb43fb9213504805",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_LUA_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/lua.html",
    "exists": true
@@ -899,7 +899,7 @@
    "local_url": "data/JSONL/groovy.jsonl",
    "records": 100,
    "bytes": 591038,
-   "sha256": "fecd32511fec099115e7e4f6d1d5bfa5d217927ee7c664db030534ba6fe61e9a",
+   "sha256": "3644d18dbf3111de383a9d21d3c88c1503b4e1d9d32c7b9a6814e28b70ddb226",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_GROOVY_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/groovy.html",
    "exists": true
@@ -912,7 +912,7 @@
    "local_url": "data/JSONL/objective-c.jsonl",
    "records": 100,
    "bytes": 573213,
-   "sha256": "2468d81db0db2ff9d22a0e0dee806a3537d00ec21d5c2fb543751c1ba718ddcb",
+   "sha256": "9b1aef98e5edb0ab8d425cac407474feb80b87a31f197fd2ae5bf1f57593ffdc",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_OBJECTIVE-C_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/objective-c.html",
    "exists": true
@@ -925,7 +925,7 @@
    "local_url": "data/JSONL/perl.jsonl",
    "records": 100,
    "bytes": 562690,
-   "sha256": "1c94171696e9b822ce8cbbbb242b743217dd9b076ecfb5d8d68af1b94245e527",
+   "sha256": "65704d74b3d4babcc931d1afd32b28ca970d8875865b98cd0d0441f2b3955283",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PERL_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/perl.html",
    "exists": true
@@ -938,7 +938,7 @@
    "local_url": "data/JSONL/haskell.jsonl",
    "records": 100,
    "bytes": 559878,
-   "sha256": "0ec5a50edf092549f416362ac6e8d86859ec69b739aa281b221068ea35b76c45",
+   "sha256": "07039ab89c868f7221e6037d20b7aefdc905c35d004a31f8ed1df7693573a24f",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_HASKELL_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/haskell.html",
    "exists": true
@@ -951,7 +951,7 @@
    "local_url": "data/JSONL/assembly.jsonl",
    "records": 100,
    "bytes": 726499,
-   "sha256": "623c50bd6649f563b37951a961b1e9d28b3b941808a5993fd5b14e29f8776517",
+   "sha256": "69edb545d80a1b34d146a6ac84c5ff4cb6ac80086c70c75472a33d61428078c6",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ASSEMBLY_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/assembly.html",
    "exists": true
@@ -963,8 +963,8 @@
    "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/r.jsonl",
    "local_url": "data/JSONL/r.jsonl",
    "records": 100,
-   "bytes": 558375,
-   "sha256": "c406885245a95717f587ee88c4d4cb3544671504747bd4439a1d178c951ebd56",
+   "bytes": 558373,
+   "sha256": "30fed4f1de7a890d79a89e7690f7a40971b63749183453c6feefd228a75e60b2",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_R_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/r.html",
    "exists": true
@@ -977,7 +977,7 @@
    "local_url": "data/JSONL/julia.jsonl",
    "records": 100,
    "bytes": 580715,
-   "sha256": "6eefe54adfc4326018c919636ed408912c2df88f4a62c2b2084508ccdaf07bb2",
+   "sha256": "ed1ebfdfc463a25bd5d7a952ba513c59aae04f6f1b456734b7117e5d80ed9379",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_JULIA_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/julia.html",
    "exists": true
@@ -990,7 +990,7 @@
    "local_url": "data/JSONL/elixir.jsonl",
    "records": 100,
    "bytes": 562823,
-   "sha256": "dc4ed34a886d43c13e1e04ea79eb8ec00c8a37b0560ab4c3412672e1609965bb",
+   "sha256": "d8b7a5025d347b068e944393cba6df998124a5d69ea3201e804c479ce9eb5b3e",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ELIXIR_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/elixir.html",
    "exists": true
@@ -1003,7 +1003,7 @@
    "local_url": "data/JSONL/powershell.jsonl",
    "records": 100,
    "bytes": 591452,
-   "sha256": "59446af360230dd429ab1616fced4e51af5735db8f7a7faa2e51bf141e61b7e8",
+   "sha256": "fb83e2e2b4a1438d7512c90fb4aa3a2e9856d9b8c9730258225aa11115c7eb0c",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_POWERSHELL_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/powershell.html",
    "exists": true
@@ -1016,7 +1016,7 @@
    "local_url": "data/JSONL/nix.jsonl",
    "records": 100,
    "bytes": 565125,
-   "sha256": "441228aba2fa5d19b86ab1123d50bed0eb8b23fadffae7d4e115b198ee8ab646",
+   "sha256": "5ed9c28408ab48856195177b7528ae74a590334457cd26083b762453e96565da",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_NIX_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/nix.html",
    "exists": true
