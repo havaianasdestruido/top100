@@ -11,36 +11,36 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 30
 
 ## Top 100 lists by language
 
-- [Top 100 TypeScript repositories](https://havaianasdestruido.github.io/top100/languages/typescript.html): led by freeCodeCamp/freeCodeCamp with 456,774 stars
-- [Top 100 Python repositories](https://havaianasdestruido.github.io/top100/languages/python.html): led by public-apis/public-apis with 487,002 stars
-- [Top 100 JavaScript repositories](https://havaianasdestruido.github.io/top100/languages/javascript.html): led by affaan-m/ECC with 275,955 stars
-- [Top 100 Java repositories](https://havaianasdestruido.github.io/top100/languages/java.html): led by krahets/hello-algo with 130,476 stars
-- [Top 100 C# repositories](https://havaianasdestruido.github.io/top100/languages/csharp.html): led by 2dust/v2rayN with 117,710 stars
-- [Top 100 C++ repositories](https://havaianasdestruido.github.io/top100/languages/cpp.html): led by tensorflow/tensorflow with 200,573 stars
-- [Top 100 PHP repositories](https://havaianasdestruido.github.io/top100/languages/php.html): led by danielmiessler/SecLists with 74,087 stars
-- [Top 100 Shell repositories](https://havaianasdestruido.github.io/top100/languages/shell.html): led by obra/superpowers with 296,882 stars
-- [Top 100 C repositories](https://havaianasdestruido.github.io/top100/languages/c.html): led by torvalds/linux with 251,375 stars
-- [Top 100 Go repositories](https://havaianasdestruido.github.io/top100/languages/go.html): led by avelino/awesome-go with 187,574 stars
-- [Top 100 Rust repositories](https://havaianasdestruido.github.io/top100/languages/rust.html): led by ultraworkers/claw-code with 194,973 stars
-- [Top 100 Ruby repositories](https://havaianasdestruido.github.io/top100/languages/ruby.html): led by rails/rails with 58,818 stars
-- [Top 100 Kotlin repositories](https://havaianasdestruido.github.io/top100/languages/kotlin.html): led by 2dust/v2rayNG with 63,709 stars
-- [Top 100 Swift repositories](https://havaianasdestruido.github.io/top100/languages/swift.html): led by jaywcjlove/awesome-mac with 115,703 stars
-- [Top 100 Dart repositories](https://havaianasdestruido.github.io/top100/languages/dart.html): led by flutter/flutter with 179,246 stars
-- [Top 100 HTML repositories](https://havaianasdestruido.github.io/top100/languages/html.html): led by ossu/computer-science with 209,827 stars
-- [Top 100 CSS repositories](https://havaianasdestruido.github.io/top100/languages/css.html): led by animate-css/animate.css with 82,854 stars
+- [Top 100 TypeScript repositories](https://havaianasdestruido.github.io/top100/languages/typescript.html): led by freeCodeCamp/freeCodeCamp with 456,782 stars
+- [Top 100 Python repositories](https://havaianasdestruido.github.io/top100/languages/python.html): led by public-apis/public-apis with 487,022 stars
+- [Top 100 JavaScript repositories](https://havaianasdestruido.github.io/top100/languages/javascript.html): led by affaan-m/ECC with 276,030 stars
+- [Top 100 Java repositories](https://havaianasdestruido.github.io/top100/languages/java.html): led by krahets/hello-algo with 130,481 stars
+- [Top 100 C# repositories](https://havaianasdestruido.github.io/top100/languages/csharp.html): led by 2dust/v2rayN with 117,722 stars
+- [Top 100 C++ repositories](https://havaianasdestruido.github.io/top100/languages/cpp.html): led by tensorflow/tensorflow with 200,577 stars
+- [Top 100 PHP repositories](https://havaianasdestruido.github.io/top100/languages/php.html): led by danielmiessler/SecLists with 74,097 stars
+- [Top 100 Shell repositories](https://havaianasdestruido.github.io/top100/languages/shell.html): led by obra/superpowers with 296,926 stars
+- [Top 100 C repositories](https://havaianasdestruido.github.io/top100/languages/c.html): led by torvalds/linux with 251,384 stars
+- [Top 100 Go repositories](https://havaianasdestruido.github.io/top100/languages/go.html): led by avelino/awesome-go with 187,593 stars
+- [Top 100 Rust repositories](https://havaianasdestruido.github.io/top100/languages/rust.html): led by ultraworkers/claw-code with 194,975 stars
+- [Top 100 Ruby repositories](https://havaianasdestruido.github.io/top100/languages/ruby.html): led by rails/rails with 58,817 stars
+- [Top 100 Kotlin repositories](https://havaianasdestruido.github.io/top100/languages/kotlin.html): led by 2dust/v2rayNG with 63,713 stars
+- [Top 100 Swift repositories](https://havaianasdestruido.github.io/top100/languages/swift.html): led by jaywcjlove/awesome-mac with 115,710 stars
+- [Top 100 Dart repositories](https://havaianasdestruido.github.io/top100/languages/dart.html): led by flutter/flutter with 179,266 stars
+- [Top 100 HTML repositories](https://havaianasdestruido.github.io/top100/languages/html.html): led by ossu/computer-science with 209,832 stars
+- [Top 100 CSS repositories](https://havaianasdestruido.github.io/top100/languages/css.html): led by animate-css/animate.css with 82,856 stars
 - [Top 100 SQL repositories](https://havaianasdestruido.github.io/top100/languages/sql.html): led by ben-nour/SQL-tips-and-tricks with 2,309 stars
-- [Top 100 Scala repositories](https://havaianasdestruido.github.io/top100/languages/scala.html): led by twitter/the-algorithm with 73,954 stars
+- [Top 100 Scala repositories](https://havaianasdestruido.github.io/top100/languages/scala.html): led by twitter/the-algorithm with 73,956 stars
 - [Top 100 Lua repositories](https://havaianasdestruido.github.io/top100/languages/lua.html): led by Kong/kong with 44,255 stars
-- [Top 100 Groovy repositories](https://havaianasdestruido.github.io/top100/languages/groovy.html): led by gradle/gradle with 18,883 stars
+- [Top 100 Groovy repositories](https://havaianasdestruido.github.io/top100/languages/groovy.html): led by gradle/gradle with 18,884 stars
 - [Top 100 Objective-C repositories](https://havaianasdestruido.github.io/top100/languages/objective-c.html): led by AFNetworking/AFNetworking with 33,348 stars
 - [Top 100 Perl repositories](https://havaianasdestruido.github.io/top100/languages/perl.html): led by AlDanial/cloc with 23,585 stars
-- [Top 100 Haskell repositories](https://havaianasdestruido.github.io/top100/languages/haskell.html): led by jgm/pandoc with 46,638 stars
-- [Top 100 Assembly repositories](https://havaianasdestruido.github.io/top100/languages/assembly.html): led by chrislgarry/Apollo-11 with 73,168 stars
-- [Top 100 R repositories](https://havaianasdestruido.github.io/top100/languages/r.html): led by cxli233/FriendsDontLetFriends with 7,143 stars
+- [Top 100 Haskell repositories](https://havaianasdestruido.github.io/top100/languages/haskell.html): led by jgm/pandoc with 46,639 stars
+- [Top 100 Assembly repositories](https://havaianasdestruido.github.io/top100/languages/assembly.html): led by chrislgarry/Apollo-11 with 73,215 stars
+- [Top 100 R repositories](https://havaianasdestruido.github.io/top100/languages/r.html): led by cxli233/FriendsDontLetFriends with 7,144 stars
 - [Top 100 Julia repositories](https://havaianasdestruido.github.io/top100/languages/julia.html): led by JuliaLang/julia with 49,195 stars
 - [Top 100 Elixir repositories](https://havaianasdestruido.github.io/top100/languages/elixir.html): led by anoma/anoma with 33,571 stars
-- [Top 100 PowerShell repositories](https://havaianasdestruido.github.io/top100/languages/powershell.html): led by ChrisTitusTech/winutil with 63,908 stars
-- [Top 100 Nix repositories](https://havaianasdestruido.github.io/top100/languages/nix.html): led by NixOS/nixpkgs with 26,412 stars
+- [Top 100 PowerShell repositories](https://havaianasdestruido.github.io/top100/languages/powershell.html): led by ChrisTitusTech/winutil with 63,917 stars
+- [Top 100 Nix repositories](https://havaianasdestruido.github.io/top100/languages/nix.html): led by NixOS/nixpkgs with 26,413 stars
 
 ## Reference
 
