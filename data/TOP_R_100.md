@@ -1,10 +1,10 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,139,072** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,139,133** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,146 | 290 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
+| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,147 | 290 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
 | 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,005 | 2,126 | 108 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,515 | 1,511 | 28 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,698 | 1,890 | 870 | NOASSERTION | 2026-10-09 | Easy interactive web applications with R |
@@ -64,7 +64,7 @@ Ranked by stars. GitHub reports **1,139,072** total repositories matching `langu
 | 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 2 | — | 2026-10-10 | Additional themes, scales, and geoms for ggplot2 |
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,344 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
-| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,297 | 203 | 284 | NOASSERTION | 2026-10-10 | Static Code Analysis for R |
+| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,297 | 203 | 281 | NOASSERTION | 2026-10-10 | Static Code Analysis for R |
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,282 | 90 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,280 | 183 | 5 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
@@ -78,11 +78,11 @@ Ranked by stars. GitHub reports **1,139,072** total repositories matching `langu
 | 72 | [juliasilge/tidytext](https://github.com/juliasilge/tidytext) | 1,205 | 181 | 8 | NOASSERTION | 2026-08-02 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: |
 | 73 | [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,204 | 356 | 0 | MIT | 2026-06-12 | Collection of various algorithms implemented in R. |
 | 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,182 | 337 | 7 | — | 2026-10-09 | Forecasting Functions for Time Series and Linear Models |
-| 75 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,170 | 195 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
+| 75 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,171 | 195 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,168 | 127 | 28 | NOASSERTION | 2026-09-17 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,164 | 170 | 197 | MIT | 2026-10-06 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,161 | 88 | 45 | NOASSERTION | 2026-09-10 | :milky_way: The R easystats-project |
-| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,159 | 108 | 101 | GPL-3.0 | 2026-10-01 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
+| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,159 | 108 | 102 | GPL-3.0 | 2026-10-10 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,120 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,101 | 85 | 0 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 266 | 357 | — | 2026-10-08 | RStan, the R interface to Stan |

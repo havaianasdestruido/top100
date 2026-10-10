@@ -1,10 +1,10 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,782** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,780** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,587 | 1,123 | 27 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,588 | 1,123 | 27 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,790 | 2,110 | 173 | — | 2024-10-20 | Stack trace visualizer |
 | 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,102 | 350 | 1 | MIT | 2026-10-06 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
 | 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,765 | 1,466 | 0 | NOASSERTION | 2026-10-10 | Nikto web server scanner |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **188,782** total repositories matching `languag
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,409 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,201 | 2,073 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
 | 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,069 | 378 | 22 | PostgreSQL | 2026-10-05 | A fast PostgreSQL Log Analyzer |
-| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,955 | 216 | 641 | BSD-3-Clause | 2026-09-23 | A terminal for iOS, with multiple windows |
+| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,955 | 216 | 641 | BSD-3-Clause | 2026-10-10 | A terminal for iOS, with multiple windows |
 | 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,879 | 350 | 161 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
 | 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,687 | 271 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
 | 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,561 | 401 | 144 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **188,782** total repositories matching `languag
 | 47 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,786 | 380 | 124 | NOASSERTION | 2026-09-23 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
 | 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,766 | 467 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 49 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,706 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
-| 50 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,699 | 330 | 583 | GPL-2.0 | 2026-10-10 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
+| 50 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,699 | 330 | 581 | GPL-2.0 | 2026-10-10 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
 | 51 | [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | 1,688 | 714 | 71 | — | 2025-03-12 | ggplot2: elegant graphics for data analysis |
 | 52 | [openresty/openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | 1,667 | 349 | 28 | — | 2023-03-14 | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap |
 | 53 | [shanleiguang/vRain](https://github.com/shanleiguang/vRain) | 1,667 | 191 | 10 | MIT | 2026-06-14 | 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator |
@@ -81,7 +81,7 @@ Ranked by stars. GitHub reports **188,782** total repositories matching `languag
 | 75 | [darold/ora2pg](https://github.com/darold/ora2pg) | 1,238 | 379 | 96 | GPL-3.0 | 2026-09-28 | Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle d... |
 | 76 | [mikaku/Monitorix](https://github.com/mikaku/Monitorix) | 1,211 | 169 | 44 | GPL-2.0 | 2026-06-23 | Monitorix is a free, open source, lightweight system monitoring tool. |
 | 77 | [creaktive/rainbarf](https://github.com/creaktive/rainbarf) | 1,208 | 65 | 2 | NOASSERTION | 2026-08-15 | it's like Rainmeter, but for CLI! |
-| 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,201 | 128 | 108 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
+| 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,202 | 128 | 108 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
 | 79 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,169 | 102 | 0 | — | 2026-10-05 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
 | 80 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,162 | 296 | 81 | GPL-2.0 | 2026-10-09 | Request Tracker, an enterprise-grade issue tracking system |
 | 81 | [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) | 1,158 | 304 | 267 | GPL-2.0 | 2026-05-06 | lm-sensors repository |
