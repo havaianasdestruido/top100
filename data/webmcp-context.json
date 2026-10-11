@@ -1,10 +1,10 @@
 {
  "schema": "top100.webmcp-context/1",
- "generated_at": "2026-10-10T23:02:31Z",
+ "generated_at": "2026-10-11T02:28:25Z",
  "faq": [
   {
    "q": "What are the top GitHub repositories by stars right now?",
-   "a": "As of 10 October 2026, the most-starred repositories on GitHub are public-apis/public-apis with 487,277 stars, freeCodeCamp/freeCodeCamp with 456,835, EbookFoundation/free-programming-books with 398,686, openclaw/openclaw with 391,615 and donnemartin/system-design-primer with 373,688. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
+   "a": "As of 11 October 2026, the most-starred repositories on GitHub are public-apis/public-apis with 487,300 stars, freeCodeCamp/freeCodeCamp with 456,836, EbookFoundation/free-programming-books with 398,695, openclaw/openclaw with 391,629 and donnemartin/system-design-primer with 373,699. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
   },
   {
    "q": "Where can I find a top 100 GitHub repositories list?",
@@ -32,7 +32,7 @@
   },
   {
    "q": "What is the average number of GitHub stars and how do repos rank by stars?",
-   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,858 stars and the mean is 23,564, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 58,545 for Python. See the statistics table for the per-language thresholds."
+   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,859 stars and the mean is 23,585, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 58,548 for Python. See the statistics table for the per-language thresholds."
   },
   {
    "q": "Is the Top100 dataset free to use?",
@@ -64,7 +64,7 @@
   },
   {
    "q": "How should I cite or attribute the dataset?",
-   "a": "Link to this site or to the repository, and credit GitHub as the source of the metadata. A reasonable citation is “Top 100 GitHub repositories by language, havaianasdestruido/top100, data refreshed 10 October 2026”. The per-page refresh timestamps are the version identifier, since the data changes hourly."
+   "a": "Link to this site or to the repository, and credit GitHub as the source of the metadata. A reasonable citation is “Top 100 GitHub repositories by language, havaianasdestruido/top100, data refreshed 11 October 2026”. The per-page refresh timestamps are the version identifier, since the data changes hourly."
   }
  ],
  "docs": [

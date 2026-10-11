@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,139,163** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,139,181** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **1,139,163** total repositories matching `langu
 | 21 | [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 2,206 | 201 | 0 | NOASSERTION | 2026-10-10 | Enhancing {ggplot2} plots with statistical analysis 📊📣 |
 | 22 | [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) | 2,182 | 219 | 48 | — | 2026-09-27 | R Package for 2D and 3D mapping and data visualization |
 | 23 | [genomicsclass/labs](https://github.com/genomicsclass/labs) | 2,177 | 1,947 | 23 | MIT | 2024-02-12 | Rmd source files for the HarvardX series PH525x |
-| 24 | [karthik/wesanderson](https://github.com/karthik/wesanderson) | 2,161 | 152 | 23 | NOASSERTION | 2024-06-13 | A Wes Anderson color palette for R |
+| 24 | [karthik/wesanderson](https://github.com/karthik/wesanderson) | 2,162 | 152 | 23 | NOASSERTION | 2024-06-13 | A Wes Anderson color palette for R |
 | 25 | [rstudio/gt](https://github.com/rstudio/gt) | 2,161 | 226 | 310 | NOASSERTION | 2026-09-14 | Easily generate information-rich, publication-quality tables from R |
 | 26 | [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 2,153 | 875 | 7 | MIT | 2023-03-10 | a curated list of R tutorials for Data Science, NLP and Machine Learning |
 | 27 | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 2,084 | 559 | 2 | MIT | 2026-09-25 | Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database |
@@ -100,7 +100,7 @@ Ranked by stars. GitHub reports **1,139,163** total repositories matching `langu
 | 94 | [tidyverse/magrittr](https://github.com/tidyverse/magrittr) | 972 | 161 | 27 | NOASSERTION | 2026-04-05 | Improve the readability of R code with the pipe |
 | 95 | [cutterkom/generativeart](https://github.com/cutterkom/generativeart) | 962 | 162 | 5 | GPL-3.0 | 2022-04-27 | Create Generative Art with R |
 | 96 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 958 | 108 | 75 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
-| 97 | [easystats/see](https://github.com/easystats/see) | 956 | 47 | 32 | NOASSERTION | 2026-10-01 | :art: Visualisation toolbox for beautiful and publication-ready figures |
+| 97 | [easystats/see](https://github.com/easystats/see) | 956 | 47 | 34 | NOASSERTION | 2026-10-11 | :art: Visualisation toolbox for beautiful and publication-ready figures |
 | 98 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 955 | 647 | 65 | NOASSERTION | 2026-10-10 | Building R packages |
 | 99 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 950 | 107 | 5 | CC0-1.0 | 2026-07-26 | A list of awesome resources for Computational Social Science |
 | 100 | [ThinkR-open/golem](https://github.com/ThinkR-open/golem) | 946 | 137 | 21 | NOASSERTION | 2026-09-15 | A Framework for Building Robust Shiny Apps |
