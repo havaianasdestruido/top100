@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,633** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,636** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -67,7 +67,7 @@ Ranked by stars. GitHub reports **4,633** total repositories matching `language:
 | 61 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
 | 62 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
 | 63 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
-| 64 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 12 | 4 | 5 | MIT | 2026-09-24 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
+| 64 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 12 | 4 | 5 | MIT | 2026-10-12 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
 | 65 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
 | 66 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
 | 67 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
