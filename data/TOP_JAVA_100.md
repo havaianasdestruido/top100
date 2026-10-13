@@ -1,106 +1,106 @@
 # Top 100 Java repositories on GitHub
 
-Ranked by stars. GitHub reports **21,832,204** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **21,834,428** total repositories matching `language:Java`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,602 | 15,502 | 18 | NOASSERTION | 2026-10-10 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS... |
-| 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,785 | 27,365 | 141 | NOASSERTION | 2026-10-08 | Design patterns implemented in Java |
-| 3 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 85,279 | 9,459 | 2,082 | Apache-2.0 | 2026-10-09 | Ghidra is a software reverse engineering (SRE) framework |
-| 4 | [macrozheng/mall](https://github.com/macrozheng/mall) | 84,881 | 29,835 | 48 | Apache-2.0 | 2026-09-15 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮... |
-| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,592 | 44,692 | 517 | Apache-2.0 | 2026-10-12 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
-| 6 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 79,150 | 19,130 | 0 | CC-BY-SA-4.0 | 2026-09-24 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微... |
-| 7 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78,246 | 26,119 | 6,156 | NOASSERTION | 2026-10-13 | Free and Open Source, Distributed, RESTful Search Engine |
-| 8 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76,706 | 13,850 | 22 | — | 2026-06-12 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.... |
-| 9 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 66,364 | 21,276 | 10 | MIT | 2026-10-10 | All Algorithms implemented in Java |
-| 10 | [kdn251/interviews](https://github.com/kdn251/interviews) | 65,275 | 12,884 | 122 | MIT | 2025-05-12 | Everything you need to know to get the job. |
-| 11 | [termux/termux-app](https://github.com/termux/termux-app) | 62,476 | 7,872 | 636 | NOASSERTION | 2026-09-26 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 12 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | 60,288 | 38,756 | 490 | Apache-2.0 | 2026-10-12 | Spring Framework |
-| 13 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52,034 | 4,406 | 3,350 | Apache-2.0 | 2026-10-13 | Free universal database tool and SQL client |
-| 14 | [google/guava](https://github.com/google/guava) | 51,918 | 11,211 | 751 | Apache-2.0 | 2026-10-12 | Google core libraries for Java |
-| 15 | [skylot/jadx](https://github.com/skylot/jadx) | 50,877 | 5,800 | 451 | Apache-2.0 | 2026-10-12 | Dex to Java decompiler |
+| 1 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130,628 | 15,502 | 18 | NOASSERTION | 2026-10-10 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS... |
+| 2 | [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) | 94,783 | 27,364 | 141 | NOASSERTION | 2026-10-08 | Design patterns implemented in Java |
+| 3 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 85,651 | 9,518 | 2,085 | Apache-2.0 | 2026-10-09 | Ghidra is a software reverse engineering (SRE) framework |
+| 4 | [macrozheng/mall](https://github.com/macrozheng/mall) | 84,883 | 29,834 | 48 | Apache-2.0 | 2026-09-15 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮... |
+| 5 | [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) | 81,592 | 44,704 | 519 | Apache-2.0 | 2026-10-13 | Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. |
+| 6 | [doocs/advanced-java](https://github.com/doocs/advanced-java) | 79,147 | 19,128 | 0 | CC-BY-SA-4.0 | 2026-09-24 | 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers \| 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微... |
+| 7 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78,249 | 26,119 | 6,165 | NOASSERTION | 2026-10-13 | Free and Open Source, Distributed, RESTful Search Engine |
+| 8 | [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) | 76,703 | 13,849 | 22 | — | 2026-06-12 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.... |
+| 9 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 66,366 | 21,276 | 10 | MIT | 2026-10-10 | All Algorithms implemented in Java |
+| 10 | [kdn251/interviews](https://github.com/kdn251/interviews) | 65,276 | 12,884 | 122 | MIT | 2025-05-12 | Everything you need to know to get the job. |
+| 11 | [termux/termux-app](https://github.com/termux/termux-app) | 62,503 | 7,872 | 637 | NOASSERTION | 2026-09-26 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| 12 | [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) | 60,284 | 38,758 | 492 | Apache-2.0 | 2026-10-13 | Spring Framework |
+| 13 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52,035 | 4,405 | 3,351 | Apache-2.0 | 2026-10-13 | Free universal database tool and SQL client |
+| 14 | [google/guava](https://github.com/google/guava) | 51,916 | 11,211 | 751 | Apache-2.0 | 2026-10-12 | Google core libraries for Java |
+| 15 | [skylot/jadx](https://github.com/skylot/jadx) | 50,886 | 5,799 | 451 | Apache-2.0 | 2026-10-12 | Dex to Java decompiler |
 | 16 | [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) | 48,256 | 7,586 | 12 | Apache-2.0 | 2026-10-12 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observ... |
-| 17 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,193 | 16,214 | 29 | Apache-2.0 | 2026-10-12 | 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大... |
+| 17 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48,195 | 16,213 | 23 | Apache-2.0 | 2026-10-13 | 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大... |
 | 18 | [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) | 44,000 | 7,333 | 153 | Apache-2.0 | 2026-10-09 | A type-safe HTTP client for Android and the JVM |
-| 19 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,182 | 8,817 | 19 | GPL-3.0 | 2026-02-16 | Learn System Design concepts and prepare for interviews using free resources. |
-| 20 | [apache/dubbo](https://github.com/apache/dubbo) | 41,580 | 26,337 | 1,030 | Apache-2.0 | 2026-10-10 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
-| 21 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40,101 | 3,868 | 1,467 | GPL-3.0 | 2026-10-12 | A libre lightweight streaming front-end for Android. |
-| 22 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,940 | 10,325 | 105 | GPL-3.0 | 2026-10-12 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
-| 23 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 39,704 | 8,564 | 29 | MIT | 2026-10-09 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据... |
-| 24 | [alibaba/arthas](https://github.com/alibaba/arthas) | 37,576 | 7,641 | 484 | Apache-2.0 | 2026-10-09 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
-| 25 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37,321 | 9,042 | 3,244 | Apache-2.0 | 2026-10-13 | Open Source Identity and Access Management For Modern Applications and Services |
-| 26 | [eugenp/tutorials](https://github.com/eugenp/tutorials) | 37,321 | 53,167 | 20 | MIT | 2026-10-12 | Getting Started with Spring Boot 3: |
-| 27 | [doocs/leetcode](https://github.com/doocs/leetcode) | 36,677 | 9,495 | 1 | CC-BY-SA-4.0 | 2026-10-12 | 🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| 28 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | 36,110 | 6,392 | 11 | — | 2023-06-13 | 🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站 |
-| 29 | [airbnb/lottie-android](https://github.com/airbnb/lottie-android) | 35,746 | 5,426 | 79 | Apache-2.0 | 2026-02-15 | Render After Effects animations natively on Android and iOS, Web, and React Native |
-| 30 | [netty/netty](https://github.com/netty/netty) | 35,062 | 16,272 | 764 | Apache-2.0 | 2026-10-06 | Netty project - an event-driven asynchronous network application framework |
-| 31 | [bumptech/glide](https://github.com/bumptech/glide) | 35,013 | 6,171 | 670 | NOASSERTION | 2026-10-10 | An image loading and caching library for Android focused on smooth scrolling |
-| 32 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 34,884 | 2,153 | 780 | MIT | 2026-10-12 | Browse media content with your own rules on Android TV |
-| 33 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34,541 | 8,719 | 187 | Apache-2.0 | 2026-10-13 | A browser automation framework and ecosystem. |
-| 34 | [zxing/zxing](https://github.com/zxing/zxing) | 34,140 | 9,440 | 5 | Apache-2.0 | 2026-10-12 | ZXing ("Zebra Crossing") barcode scanning library for Java, Android |
-| 35 | [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 34,075 | 10,859 | 143 | MIT | 2024-07-24 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
-| 36 | [apache/kafka](https://github.com/apache/kafka) | 33,947 | 15,579 | 638 | Apache-2.0 | 2026-10-13 | Apache Kafka - A distributed event streaming platform |
+| 19 | [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 42,192 | 8,818 | 19 | GPL-3.0 | 2026-02-16 | Learn System Design concepts and prepare for interviews using free resources. |
+| 20 | [apache/dubbo](https://github.com/apache/dubbo) | 41,580 | 26,337 | 1,033 | Apache-2.0 | 2026-10-10 | The java implementation of Apache Dubbo. An RPC and microservice framework. |
+| 21 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40,103 | 3,869 | 1,468 | GPL-3.0 | 2026-10-12 | A libre lightweight streaming front-end for Android. |
+| 22 | [halo-dev/halo](https://github.com/halo-dev/halo) | 39,941 | 10,324 | 105 | GPL-3.0 | 2026-10-13 | Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 |
+| 23 | [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 39,714 | 8,565 | 29 | MIT | 2026-10-09 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据... |
+| 24 | [alibaba/arthas](https://github.com/alibaba/arthas) | 37,576 | 7,642 | 484 | Apache-2.0 | 2026-10-09 | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |
+| 25 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37,323 | 9,044 | 3,251 | Apache-2.0 | 2026-10-13 | Open Source Identity and Access Management For Modern Applications and Services |
+| 26 | [eugenp/tutorials](https://github.com/eugenp/tutorials) | 37,320 | 53,167 | 20 | MIT | 2026-10-12 | Getting Started with Spring Boot 3: |
+| 27 | [doocs/leetcode](https://github.com/doocs/leetcode) | 36,678 | 9,497 | 1 | CC-BY-SA-4.0 | 2026-10-12 | 🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
+| 28 | [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) | 36,112 | 6,391 | 11 | — | 2023-06-13 | 🌍 针对小白的算法训练 \| 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站 |
+| 29 | [airbnb/lottie-android](https://github.com/airbnb/lottie-android) | 35,747 | 5,427 | 80 | Apache-2.0 | 2026-02-15 | Render After Effects animations natively on Android and iOS, Web, and React Native |
+| 30 | [netty/netty](https://github.com/netty/netty) | 35,061 | 16,274 | 767 | Apache-2.0 | 2026-10-06 | Netty project - an event-driven asynchronous network application framework |
+| 31 | [bumptech/glide](https://github.com/bumptech/glide) | 35,012 | 6,171 | 670 | NOASSERTION | 2026-10-10 | An image loading and caching library for Android focused on smooth scrolling |
+| 32 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 34,900 | 2,155 | 780 | MIT | 2026-10-12 | Browse media content with your own rules on Android TV |
+| 33 | [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) | 34,542 | 8,720 | 188 | Apache-2.0 | 2026-10-13 | A browser automation framework and ecosystem. |
+| 34 | [zxing/zxing](https://github.com/zxing/zxing) | 34,149 | 9,441 | 5 | Apache-2.0 | 2026-10-12 | ZXing ("Zebra Crossing") barcode scanning library for Java, Android |
+| 35 | [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) | 34,074 | 10,857 | 143 | MIT | 2024-07-24 | 🚀一个用来深入学习并实战 Spring Boot 的项目。 |
+| 36 | [apache/kafka](https://github.com/apache/kafka) | 33,949 | 15,579 | 637 | Apache-2.0 | 2026-10-13 | Apache Kafka - A distributed event streaming platform |
 | 37 | [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 33,619 | 10,590 | 328 | Apache-2.0 | 2024-08-15 | :fire: Android developers should collect the following utils(updating). |
-| 38 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 33,602 | 7,536 | 568 | Apache-2.0 | 2024-10-29 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
-| 39 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33,440 | 13,287 | 189 | Apache-2.0 | 2026-10-12 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native ... |
-| 40 | [binarywang/WxJava](https://github.com/binarywang/WxJava) | 33,153 | 9,052 | 7 | Apache-2.0 | 2026-10-10 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
-| 41 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32,283 | 1,031 | 268 | Apache-2.0 | 2026-10-12 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for appl... |
-| 42 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) | 30,609 | 11,496 | 66 | GPL-3.0 | 2026-10-09 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 43 | [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 30,470 | 12,124 | 17 | — | 2023-11-18 | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 |
-| 44 | [chinabugotech/hutool](https://github.com/chinabugotech/hutool) | 30,251 | 7,560 | 2 | MulanPSL-2.0 | 2026-10-12 | 🍬A set of tools that keep Java sweet. |
-| 45 | [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 30,066 | 10,232 | 620 | GPL-2.0 | 2026-09-30 | Telegram for Android source |
-| 46 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 29,820 | 10,142 | 160 | Apache-2.0 | 2026-10-11 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. |
-| 47 | [alibaba/canal](https://github.com/alibaba/canal) | 29,737 | 7,620 | 1,258 | Apache-2.0 | 2026-07-30 | 阿里巴巴 MySQL binlog 增量订阅&消费组件 |
-| 48 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,658 | 2,819 | 95 | Apache-2.0 | 2026-10-13 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| 49 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29,525 | 3,352 | 856 | Apache-2.0 | 2026-10-12 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
-| 50 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | 29,337 | 3,835 | 39 | GPL-3.0 | 2026-10-11 | The automation tower defense RTS |
-| 51 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,171 | 8,475 | 75 | Apache-2.0 | 2026-10-03 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab... |
-| 52 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28,938 | 8,070 | 35 | MIT | 2024-05-31 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Securi... |
-| 53 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,310 | 3,045 | 238 | NOASSERTION | 2026-10-09 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and ... |
-| 54 | [alibaba/druid](https://github.com/alibaba/druid) | 28,166 | 8,551 | 2,347 | Apache-2.0 | 2026-08-01 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 |
-| 55 | [lenve/vhr](https://github.com/lenve/vhr) | 28,036 | 10,136 | 216 | — | 2024-11-25 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 |
-| 56 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 27,354 | 6,609 | 81 | GPL-3.0 | 2026-08-19 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
-| 57 | [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) | 26,810 | 6,937 | 45 | MIT | 2024-05-21 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm |
-| 58 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,788 | 7,705 | 5,753 | Apache-2.0 | 2026-10-12 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configu... |
-| 59 | [floci-io/floci](https://github.com/floci-io/floci) | 26,737 | 2,914 | 196 | MIT | 2026-10-13 | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| 60 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26,645 | 9,836 | 3,590 | MIT | 2026-10-13 | Jenkins automation server |
-| 61 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 26,584 | 6,550 | 7 | — | 2025-04-18 | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
-| 62 | [apache/flink](https://github.com/apache/flink) | 26,402 | 14,057 | 400 | Apache-2.0 | 2026-10-12 | Apache Flink |
+| 38 | [alibaba/easyexcel](https://github.com/alibaba/easyexcel) | 33,602 | 7,535 | 568 | Apache-2.0 | 2024-10-29 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
+| 39 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33,439 | 13,286 | 191 | Apache-2.0 | 2026-10-12 | an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native ... |
+| 40 | [binarywang/WxJava](https://github.com/binarywang/WxJava) | 33,154 | 9,051 | 7 | Apache-2.0 | 2026-10-10 | 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发 |
+| 41 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32,285 | 1,032 | 269 | Apache-2.0 | 2026-10-12 | Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for appl... |
+| 42 | [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) | 30,609 | 11,497 | 67 | GPL-3.0 | 2026-10-09 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
+| 43 | [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | 30,470 | 12,123 | 17 | — | 2023-11-18 | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 |
+| 44 | [chinabugotech/hutool](https://github.com/chinabugotech/hutool) | 30,250 | 7,560 | 2 | MulanPSL-2.0 | 2026-10-12 | 🍬A set of tools that keep Java sweet. |
+| 45 | [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 30,066 | 10,235 | 620 | GPL-2.0 | 2026-09-30 | Telegram for Android source |
+| 46 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 29,820 | 10,141 | 161 | Apache-2.0 | 2026-10-11 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. |
+| 47 | [alibaba/canal](https://github.com/alibaba/canal) | 29,736 | 7,620 | 1,258 | Apache-2.0 | 2026-07-30 | 阿里巴巴 MySQL binlog 增量订阅&消费组件 |
+| 48 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 29,663 | 2,819 | 101 | Apache-2.0 | 2026-10-13 | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| 49 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29,532 | 3,358 | 854 | Apache-2.0 | 2026-10-13 | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications |
+| 50 | [Anuken/Mindustry](https://github.com/Anuken/Mindustry) | 29,342 | 3,835 | 39 | GPL-3.0 | 2026-10-11 | The automation tower defense RTS |
+| 51 | [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | 29,171 | 8,474 | 77 | Apache-2.0 | 2026-10-03 | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibab... |
+| 52 | [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | 28,935 | 8,069 | 35 | MIT | 2024-05-31 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Securi... |
+| 53 | [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 28,313 | 3,045 | 238 | NOASSERTION | 2026-10-09 | Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and ... |
+| 54 | [alibaba/druid](https://github.com/alibaba/druid) | 28,165 | 8,551 | 2,347 | Apache-2.0 | 2026-08-01 | 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池 |
+| 55 | [lenve/vhr](https://github.com/lenve/vhr) | 28,035 | 10,134 | 216 | — | 2024-11-25 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 |
+| 56 | [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) | 27,357 | 6,610 | 81 | GPL-3.0 | 2026-08-19 | Learn Low Level Design (LLD) and prepare for interviews using free resources. |
+| 57 | [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) | 26,809 | 6,937 | 45 | MIT | 2024-05-21 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm |
+| 58 | [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | 26,788 | 7,706 | 5,755 | Apache-2.0 | 2026-10-13 | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configu... |
+| 59 | [floci-io/floci](https://github.com/floci-io/floci) | 26,746 | 2,916 | 192 | MIT | 2026-10-13 | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| 60 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26,647 | 9,836 | 3,589 | MIT | 2026-10-13 | Jenkins automation server |
+| 61 | [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) | 26,582 | 6,550 | 7 | — | 2025-04-18 | ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 |
+| 62 | [apache/flink](https://github.com/apache/flink) | 26,404 | 14,057 | 398 | Apache-2.0 | 2026-10-13 | Apache Flink |
 | 63 | [apache/incubator-seata](https://github.com/apache/incubator-seata) | 26,008 | 8,837 | 908 | Apache-2.0 | 2026-10-11 | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
-| 64 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25,940 | 4,644 | 1,966 | Apache-2.0 | 2026-10-13 | a fast, scalable, multi-language and extensible build system |
-| 65 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 25,846 | 4,036 | 79 | Apache-2.0 | 2026-10-12 | A tool for reverse engineering Android apk files |
+| 64 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25,941 | 4,644 | 1,966 | Apache-2.0 | 2026-10-13 | a fast, scalable, multi-language and extensible build system |
+| 65 | [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) | 25,859 | 4,038 | 79 | Apache-2.0 | 2026-10-12 | A tool for reverse engineering Android apk files |
 | 66 | [alibaba/fastjson](https://github.com/alibaba/fastjson) | 25,581 | 6,386 | 2,112 | Apache-2.0 | 2026-07-29 | FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade. |
-| 67 | [libgdx/libgdx](https://github.com/libgdx/libgdx) | 25,481 | 6,517 | 344 | Apache-2.0 | 2026-10-06 | Desktop/Android/HTML5/iOS Java game development framework |
+| 67 | [libgdx/libgdx](https://github.com/libgdx/libgdx) | 25,481 | 6,518 | 344 | Apache-2.0 | 2026-10-06 | Desktop/Android/HTML5/iOS Java game development framework |
 | 68 | [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) | 25,328 | 4,535 | 118 | Apache-2.0 | 2023-09-02 | Bind Android views and callbacks to fields and methods. |
-| 69 | [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | 25,304 | 5,347 | 61 | — | 2024-01-03 | To Be Top Javaer - Java工程师成神之路 |
+| 69 | [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | 25,303 | 5,346 | 61 | — | 2024-01-03 | To Be Top Javaer - Java工程师成神之路 |
 | 70 | [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) | 25,107 | 4,955 | 341 | Apache-2.0 | 2024-12-04 | 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。 |
-| 71 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) | 25,018 | 3,588 | 5 | GPL-3.0 | 2026-10-08 | LSPosed Framework |
-| 72 | [apache/skywalking](https://github.com/apache/skywalking) | 24,966 | 6,629 | 31 | Apache-2.0 | 2026-10-13 | APM, Application Performance Monitoring System |
-| 73 | [greenrobot/EventBus](https://github.com/greenrobot/EventBus) | 24,693 | 4,634 | 147 | Apache-2.0 | 2024-02-21 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. L... |
+| 71 | [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) | 25,020 | 3,588 | 5 | GPL-3.0 | 2026-10-08 | LSPosed Framework |
+| 72 | [apache/skywalking](https://github.com/apache/skywalking) | 24,967 | 6,629 | 31 | Apache-2.0 | 2026-10-13 | APM, Application Performance Monitoring System |
+| 73 | [greenrobot/EventBus](https://github.com/greenrobot/EventBus) | 24,692 | 4,634 | 147 | Apache-2.0 | 2024-02-21 | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. L... |
 | 74 | [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) | 24,634 | 4,326 | 214 | Apache-2.0 | 2024-07-16 | http下载工具，基于http代理，支持多连接分块下载 |
-| 75 | [dataease/dataease](https://github.com/dataease/dataease) | 24,600 | 4,264 | 28 | NOASSERTION | 2026-10-13 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 76 | [Netflix/Hystrix](https://github.com/Netflix/Hystrix) | 24,483 | 4,666 | 58 | — | 2025-12-17 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and... |
-| 77 | [redisson/redisson](https://github.com/redisson/redisson) | 24,416 | 5,492 | 253 | Apache-2.0 | 2026-10-09 | Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and ... |
+| 75 | [dataease/dataease](https://github.com/dataease/dataease) | 24,603 | 4,264 | 30 | NOASSERTION | 2026-10-13 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 76 | [Netflix/Hystrix](https://github.com/Netflix/Hystrix) | 24,482 | 4,666 | 58 | — | 2025-12-17 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and... |
+| 77 | [redisson/redisson](https://github.com/redisson/redisson) | 24,415 | 5,492 | 253 | Apache-2.0 | 2026-10-09 | Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and ... |
 | 78 | [google/gson](https://github.com/google/gson) | 24,240 | 4,491 | 333 | Apache-2.0 | 2026-10-11 | A Java serialization/deserialization library to convert Java Objects into JSON and back |
-| 79 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,993 | 13,599 | 668 | — | 2024-08-18 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + inte... |
+| 79 | [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) | 23,994 | 13,601 | 668 | — | 2024-08-18 | This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + inte... |
 | 80 | [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) | 23,900 | 806 | 547 | — | 2024-07-15 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious busin... |
-| 81 | [openjdk/jdk](https://github.com/openjdk/jdk) | 23,429 | 6,485 | 413 | GPL-2.0 | 2026-10-13 | JDK main-line development https://openjdk.org/projects/jdk |
+| 81 | [openjdk/jdk](https://github.com/openjdk/jdk) | 23,428 | 6,486 | 406 | GPL-2.0 | 2026-10-13 | JDK main-line development https://openjdk.org/projects/jdk |
 | 82 | [alibaba/Sentinel](https://github.com/alibaba/Sentinel) | 23,147 | 8,134 | 881 | Apache-2.0 | 2026-05-27 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防... |
 | 83 | [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) | 23,129 | 4,217 | 0 | CC-BY-SA-4.0 | 2026-09-24 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
-| 84 | [apache/rocketmq](https://github.com/apache/rocketmq) | 22,634 | 12,038 | 847 | Apache-2.0 | 2026-10-13 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 85 | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 22,539 | 6,507 | 326 | NOASSERTION | 2026-10-12 | All-in-one IoT Platform - Device management, data collection, processing and visualization. |
-| 86 | [google/ExoPlayer](https://github.com/google/ExoPlayer) | 21,940 | 5,988 | 627 | Apache-2.0 | 2025-12-23 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media |
-| 87 | [elunez/eladmin](https://github.com/elunez/eladmin) | 21,905 | 7,330 | 27 | Apache-2.0 | 2026-05-09 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数... |
-| 88 | [oracle/graal](https://github.com/oracle/graal) | 21,727 | 1,830 | 875 | NOASSERTION | 2026-10-12 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resourc... |
+| 84 | [apache/rocketmq](https://github.com/apache/rocketmq) | 22,634 | 12,040 | 868 | Apache-2.0 | 2026-10-13 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
+| 85 | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 22,543 | 6,508 | 329 | NOASSERTION | 2026-10-13 | All-in-one IoT Platform - Device management, data collection, processing and visualization. |
+| 86 | [google/ExoPlayer](https://github.com/google/ExoPlayer) | 21,940 | 5,987 | 627 | Apache-2.0 | 2025-12-23 | This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media |
+| 87 | [elunez/eladmin](https://github.com/elunez/eladmin) | 21,903 | 7,329 | 27 | Apache-2.0 | 2026-05-09 | eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数... |
+| 88 | [oracle/graal](https://github.com/oracle/graal) | 21,727 | 1,830 | 875 | NOASSERTION | 2026-10-13 | GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resourc... |
 | 89 | [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) | 21,519 | 4,321 | 15 | Apache-2.0 | 2026-10-10 | Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subt... |
 | 90 | [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) | 21,238 | 3,017 | 544 | Apache-2.0 | 2026-06-14 | 光 HikariCP・A solid, high-performance, JDBC connection pool at last. |
-| 91 | [apache/shardingsphere](https://github.com/apache/shardingsphere) | 20,804 | 6,903 | 197 | Apache-2.0 | 2026-10-12 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
-| 92 | [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) | 20,628 | 6,093 | 150 | NOASSERTION | 2026-10-13 | IntelliJ IDEA & IntelliJ Platform |
-| 93 | [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) | 20,447 | 12,847 | 216 | Apache-2.0 | 2026-10-11 | MyBatis SQL mapper framework for Java |
-| 94 | [didi/DoKit](https://github.com/didi/DoKit) | 20,418 | 3,185 | 275 | Apache-2.0 | 2026-10-12 | 一款面向泛前端产品研发全生命周期的效率平台。 |
-| 95 | [linlinjava/litemall](https://github.com/linlinjava/litemall) | 20,381 | 7,308 | 57 | MIT | 2026-08-20 | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 |
-| 96 | [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) | 20,126 | 6,128 | 46 | — | 2024-04-28 | 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 |
+| 91 | [apache/shardingsphere](https://github.com/apache/shardingsphere) | 20,804 | 6,904 | 208 | Apache-2.0 | 2026-10-13 | Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases. |
+| 92 | [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) | 20,630 | 6,094 | 150 | NOASSERTION | 2026-10-13 | IntelliJ IDEA & IntelliJ Platform |
+| 93 | [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) | 20,446 | 12,847 | 216 | Apache-2.0 | 2026-10-11 | MyBatis SQL mapper framework for Java |
+| 94 | [didi/DoKit](https://github.com/didi/DoKit) | 20,419 | 3,185 | 276 | Apache-2.0 | 2026-10-12 | 一款面向泛前端产品研发全生命周期的效率平台。 |
+| 95 | [linlinjava/litemall](https://github.com/linlinjava/litemall) | 20,381 | 7,309 | 57 | MIT | 2026-08-20 | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 |
+| 96 | [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) | 20,127 | 6,128 | 46 | — | 2024-04-28 | 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024 |
 | 97 | [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) | 19,906 | 2,937 | 1 | Apache-2.0 | 2026-10-01 | RxJava bindings for Android |
 | 98 | [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) | 19,614 | 4,901 | 0 | MIT | 2026-10-07 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动... |
-| 99 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 19,074 | 2,912 | 118 | Apache-2.0 | 2026-09-27 | ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API... |
-| 100 | [antlr/antlr4](https://github.com/antlr/antlr4) | 19,027 | 3,468 | 1,097 | BSD-3-Clause | 2026-02-16 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or t... |
+| 99 | [dromara/Sa-Token](https://github.com/dromara/Sa-Token) | 19,075 | 2,913 | 119 | Apache-2.0 | 2026-09-27 | ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API... |
+| 100 | [antlr/antlr4](https://github.com/antlr/antlr4) | 19,028 | 3,468 | 1,098 | BSD-3-Clause | 2026-02-16 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or t... |
