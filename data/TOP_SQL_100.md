@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,640** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,626** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -83,12 +83,12 @@ Ranked by stars. GitHub reports **4,640** total repositories matching `language:
 | 77 | [davidrabko/learning-sql](https://github.com/davidrabko/learning-sql) | 9 | 1 | 0 | Unlicense | 2025-04-06 | Exercises and Examples from Learning SQL by Alan Beaulieu and LeetCode SQL 50 |
 | 78 | [iamAntimPal/LeetCode_SQL_Database](https://github.com/iamAntimPal/LeetCode_SQL_Database) | 9 | 5 | 3 | — | 2025-04-25 | This repo contains my SQL solutions for LeetCode problems. Each file includes a problem description, optimized SQL qu... |
 | 79 | [Prakashdeveloper03/Leetcode-SQL](https://github.com/Prakashdeveloper03/Leetcode-SQL) | 9 | 0 | 0 | — | 2023-06-07 | This repository contains all my Leetcode problem solutions source code in SQL programming language. |
-| 80 | [electronics4fun/PartDb-Altium-Connector](https://github.com/electronics4fun/PartDb-Altium-Connector) | 9 | 2 | 1 | MIT | 2025-10-07 | Connects PartDb with Altium using mySQL views |
-| 81 | [cistoner/Lstore](https://github.com/cistoner/Lstore) | 9 | 5 | 6 | — | 2014-05-20 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
-| 82 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
-| 83 | [j-b-ferguson/relational-database-design-and-test](https://github.com/j-b-ferguson/relational-database-design-and-test) | 8 | 0 | 0 | — | 2021-02-04 | Designing and testing a relational database for The Happy Phone Company. |
-| 84 | [AlysterF/8week-SQL-challenge](https://github.com/AlysterF/8week-SQL-challenge) | 8 | 2 | 0 | — | 2021-10-31 | 8 case studies to apply SQL query solutions! |
-| 85 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 8 | 1 | 0 | MIT | 2026-10-06 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
+| 80 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 9 | 1 | 0 | MIT | 2026-10-06 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
+| 81 | [electronics4fun/PartDb-Altium-Connector](https://github.com/electronics4fun/PartDb-Altium-Connector) | 9 | 2 | 1 | MIT | 2025-10-07 | Connects PartDb with Altium using mySQL views |
+| 82 | [cistoner/Lstore](https://github.com/cistoner/Lstore) | 9 | 5 | 6 | — | 2014-05-20 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
+| 83 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
+| 84 | [j-b-ferguson/relational-database-design-and-test](https://github.com/j-b-ferguson/relational-database-design-and-test) | 8 | 0 | 0 | — | 2021-02-04 | Designing and testing a relational database for The Happy Phone Company. |
+| 85 | [AlysterF/8week-SQL-challenge](https://github.com/AlysterF/8week-SQL-challenge) | 8 | 2 | 0 | — | 2021-10-31 | 8 case studies to apply SQL query solutions! |
 | 86 | [artie93/When-Was-the-Golden-Age-of-Video-Games-](https://github.com/artie93/When-Was-the-Golden-Age-of-Video-Games-) | 8 | 0 | 0 | — | 2024-07-08 |  |
 | 87 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
 | 88 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
