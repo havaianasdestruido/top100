@@ -5,7 +5,7 @@ Ranked by stars. GitHub reports **4,626** total repositories matching `language:
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,308 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,324 | 431 | 2 | MIT | 2026-10-13 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,325 | 431 | 2 | MIT | 2026-10-13 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 423 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
@@ -14,7 +14,7 @@ Ranked by stars. GitHub reports **4,626** total repositories matching `language:
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 285 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 229 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
-| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 178 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
+| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 179 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 132 | 19 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **4,626** total repositories matching `language:
 | 96 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
 | 97 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
 | 98 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-06 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
-| 99 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
-| 100 | [granthjoshi01/Event-Analytics-Platform](https://github.com/granthjoshi01/Event-Analytics-Platform) | 7 | 0 | 0 | MIT | 2026-02-26 | A production-style event analytics system focused on immutable event modeling, SQL-driven metrics, retention, and fun... |
+| 99 | [theammarngp-makes/olist-sales-analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | 7 | 1 | 0 | MIT | 2026-10-06 | Analyzed Olist e-commerce data using SQL and built a Tableau dashboard to identify revenue trends, top categories, an... |
+| 100 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
