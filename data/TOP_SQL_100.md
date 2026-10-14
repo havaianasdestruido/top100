@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,632** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,637** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -15,13 +15,13 @@ Ranked by stars. GitHub reports **4,632** total repositories matching `language:
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 285 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 229 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
 | 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 179 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
-| 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 132 | 19 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
+| 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
 | 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 116 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 113 | 36 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 90 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
-| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 81 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
+| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 82 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
 | 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 62 | 29 | 1 | MIT | 2026-10-13 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
