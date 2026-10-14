@@ -1,6 +1,6 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,276** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,274** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **543,276** total repositories matching `languag
 | 5 | [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) | 20,285 | 4,552 | 1,000 | BSD-3-Clause | 2024-02-16 | An open source iOS framework for GPU-based image and video processing |
 | 6 | [SnapKit/Masonry](https://github.com/SnapKit/Masonry) | 18,120 | 3,146 | 151 | MIT | 2023-04-13 | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS ... |
 | 7 | [realm/realm-swift](https://github.com/realm/realm-swift) | 16,602 | 2,235 | 497 | Apache-2.0 | 2026-09-27 | Realm is a mobile database: a replacement for Core Data & SQLite |
-| 8 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,269 | 726 | 699 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
+| 8 | [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) | 16,272 | 726 | 699 | MIT | 2026-07-08 | Staggeringly powerful macOS desktop automation with Lua |
 | 9 | [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) | 15,906 | 3,555 | 94 | MIT | 2024-08-14 | MBProgressHUD + Customizations |
 | 10 | [keycastr/keycastr](https://github.com/keycastr/keycastr) | 15,152 | 578 | 93 | BSD-3-Clause | 2026-09-07 | KeyCastr, an open-source keystroke visualizer |
 | 11 | [FLEXTool/FLEX](https://github.com/FLEXTool/FLEX) | 14,640 | 1,793 | 50 | NOASSERTION | 2026-06-11 | An in-app debugging and exploration tool for iOS |
@@ -23,7 +23,7 @@ Ranked by stars. GitHub reports **543,276** total repositories matching `languag
 | 17 | [eczarny/spectacle](https://github.com/eczarny/spectacle) | 13,622 | 861 | 148 | NOASSERTION | 2022-01-15 | Spectacle allows you to organize your windows without using a mouse. |
 | 18 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,434 | 538 | 419 | GPL-3.0 | 2026-10-12 | Darwin/macOS emulation layer for Linux |
 | 19 | [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13,318 | 2,274 | 6 | BSD-3-Clause | 2026-09-21 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS |
-| 20 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,317 | 604 | 536 | GPL-3.0 | 2026-10-04 | LuLu is the free open-source macOS firewall |
+| 20 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,318 | 604 | 536 | GPL-3.0 | 2026-10-04 | LuLu is the free open-source macOS firewall |
 | 21 | [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13,072 | 1,539 | 63 | MIT | 2026-08-19 | A data-driven UICollectionView framework for building fast and flexible lists. |
 | 22 | [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12,438 | 2,987 | 0 | NOASSERTION | 2026-08-30 | Asynchronous socket networking library for Mac and iOS |
 | 23 | [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12,432 | 2,663 | 91 | MIT | 2026-02-27 | A clean and lightweight progress HUD for your iOS and tvOS app. |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **543,276** total repositories matching `languag
 | 59 | [Grouper/FlatUIKit](https://github.com/Grouper/FlatUIKit) | 7,713 | 923 | 35 | MIT | 2016-09-29 | A collection of awesome flat UI components for iOS. |
 | 60 | [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) | 7,618 | 1,116 | 118 | GPL-3.0 | 2023-03-20 | GUI for v2ray-core on macOS |
 | 61 | [PureLayout/PureLayout](https://github.com/PureLayout/PureLayout) | 7,584 | 727 | 46 | NOASSERTION | 2023-03-16 | The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible. |
-| 62 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,554 | 341 | 195 | NOASSERTION | 2026-10-12 | MySQL/MariaDB database management for macOS |
+| 62 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,554 | 341 | 191 | NOASSERTION | 2026-10-14 | MySQL/MariaDB database management for macOS |
 | 63 | [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) | 7,355 | 359 | 11 | NOASSERTION | 2026-08-30 | Send User Notifications on macOS from the command-line. |
 | 64 | [facebookarchive/KVOController](https://github.com/facebookarchive/KVOController) | 7,275 | 914 | 15 | NOASSERTION | 2020-01-25 | Simple, modern, thread-safe key-value observing for iOS and OS X. |
 | 65 | [maderix/ANE](https://github.com/maderix/ANE) | 7,268 | 957 | 31 | MIT | 2026-03-10 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
@@ -89,7 +89,7 @@ Ranked by stars. GitHub reports **543,276** total repositories matching `languag
 | 83 | [swisspol/GCDWebServer](https://github.com/swisspol/GCDWebServer) | 6,613 | 1,323 | 42 | NOASSERTION | 2022-10-05 | The #1 HTTP server for iOS, macOS & tvOS (also includes web based uploader & WebDAV server) |
 | 84 | [mamaral/Onboard](https://github.com/mamaral/Onboard) | 6,548 | 749 | 45 | MIT | 2025-01-01 | An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code. |
 | 85 | [kanyun-inc/YTKNetwork](https://github.com/kanyun-inc/YTKNetwork) | 6,534 | 1,629 | 127 | MIT | 2021-04-22 | YTKNetwork is a high level request util based on AFNetworking. |
-| 86 | [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) | 6,531 | 562 | 76 | MIT | 2022-08-04 | Runtime Code Injection for Objective-C & Swift |
+| 86 | [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) | 6,532 | 562 | 76 | MIT | 2022-08-04 | Runtime Code Injection for Objective-C & Swift |
 | 87 | [jverkoey/nimbus](https://github.com/jverkoey/nimbus) | 6,405 | 1,269 | 3 | Apache-2.0 | 2024-04-25 | The iOS framework that grows only as fast as its documentation |
 | 88 | [IFTTT/JazzHands](https://github.com/IFTTT/JazzHands) | 6,351 | 659 | 14 | MIT | 2024-07-30 | A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros. |
 | 89 | [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) | 6,351 | 1,613 | 654 | MIT | 2026-09-29 | iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **543,276** total repositories matching `languag
 | 95 | [johnezang/JSONKit](https://github.com/johnezang/JSONKit) | 6,170 | 1,618 | 103 | — | 2020-11-22 | Objective-C JSON |
 | 96 | [pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView) | 6,150 | 1,146 | 39 | MIT | 2024-08-07 | A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日... |
 | 97 | [JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) | 6,087 | 1,381 | 18 | Apache-2.0 | 2026-10-12 | 原创全平台IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp、鸿蒙Next，服务... |
-| 98 | [tonsky/AnyBar](https://github.com/tonsky/AnyBar) | 6,038 | 158 | 16 | EPL-1.0 | 2026-03-21 | OS X menubar status indicator |
-| 99 | [iodefog/VipVideo](https://github.com/iodefog/VipVideo) | 5,942 | 700 | 37 | MIT | 2026-09-29 | 这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯... |
+| 98 | [tonsky/AnyBar](https://github.com/tonsky/AnyBar) | 6,039 | 158 | 16 | EPL-1.0 | 2026-03-21 | OS X menubar status indicator |
+| 99 | [iodefog/VipVideo](https://github.com/iodefog/VipVideo) | 5,943 | 700 | 37 | MIT | 2026-09-29 | 这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯... |
 | 100 | [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) | 5,901 | 453 | 80 | BSD-2-Clause | 2025-06-29 | A fast and clever hex editor for macOS |

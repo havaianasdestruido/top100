@@ -5,13 +5,13 @@ Ranked by stars. GitHub reports **111,336** total repositories matching `languag
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,888 | 5,324 | 3,518 | Apache-2.0 | 2026-10-13 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,720 | 2,425 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
-| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,334 | 988 | 60 | Apache-2.0 | 2026-10-13 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,721 | 2,425 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,334 | 988 | 61 | Apache-2.0 | 2026-10-13 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,476 | 1,913 | 24 | Apache-2.0 | 2026-10-13 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,287 | 3,563 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
 | 6 | [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) | 4,092 | 206 | 57 | Apache-2.0 | 2026-10-13 | Gradle plugin to discover dependency updates |
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,953 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
-| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,505 | 817 | 404 | Apache-2.0 | 2026-10-13 | A workflow language for data-driven computational pipelines |
+| 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,505 | 817 | 406 | Apache-2.0 | 2026-10-13 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,286 | 707 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
 | 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,937 | 977 | 842 | Apache-2.0 | 2026-10-13 | Grails - the Web Application Framework |
 | 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,666 | 86,217 | 2,506 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
