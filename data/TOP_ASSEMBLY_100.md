@@ -1,17 +1,17 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **216,240** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **216,258** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,150 | 8,171 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,167 | 8,172 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 2 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 32,267 | 4,684 | 3 | MIT | 2024-04-25 | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
-| 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,817 | 2,107 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
-| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,706 | 1,634 | 0 | Apache-2.0 | 2026-10-15 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
+| 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,819 | 2,107 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
+| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,711 | 1,634 | 0 | Apache-2.0 | 2026-10-15 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
 | 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 11,998 | 2,113 | 117 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
 | 6 | [corkami/pics](https://github.com/corkami/pics) | 11,494 | 793 | 5 | — | 2024-02-18 | File formats dissections and more... |
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,744 | 2,712 | 56 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
-| 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,282 | 506 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
+| 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,283 | 506 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
 | 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,908 | 746 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
 | 10 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | 6,475 | 492 | 207 | Apache-2.0 | 2026-10-01 | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
 | 11 | [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | 5,400 | 431 | 7 | NOASSERTION | 2022-07-18 | Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and rea... |
@@ -24,14 +24,14 @@ Ranked by stars. GitHub reports **216,240** total repositories matching `languag
 | 18 | [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) | 3,557 | 150 | 2 | NOASSERTION | 2026-02-02 | 📖 An approachable introduction to Assembly. |
 | 19 | [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) | 3,342 | 184 | 2 | NOASSERTION | 2026-04-20 | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and in... |
 | 20 | [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) | 3,330 | 425 | 91 | NOASSERTION | 2026-08-19 | A cross-platform x86 assembler with an Intel-like syntax |
-| 21 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,303 | 418 | 31 | NOASSERTION | 2026-10-15 | Virtual Apollo Guidance Computer (AGC) software |
+| 21 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,304 | 418 | 31 | NOASSERTION | 2026-10-15 | Virtual Apollo Guidance Computer (AGC) software |
 | 22 | [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) | 3,287 | 518 | 145 | MIT | 2026-10-13 | A FPGA friendly 32 bit RISC-V CPU implementation |
 | 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,161 | 1,039 | 290 | NOASSERTION | 2026-10-15 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
 | 24 | [nemasu/asmttpd](https://github.com/nemasu/asmttpd) | 3,095 | 204 | 12 | GPL-2.0 | 2025-03-01 | Web server for Linux written in amd64 assembly. |
 | 25 | [pooler/cpuminer](https://github.com/pooler/cpuminer) | 3,008 | 1,248 | 34 | NOASSERTION | 2023-04-05 | CPU miner for Litecoin and Bitcoin |
 | 26 | [SheerSt/pokewilds](https://github.com/SheerSt/pokewilds) | 2,915 | 223 | 320 | — | 2026-08-16 | PokeWilds - A Gen 2 Game/Engine using libGDX |
 | 27 | [dwelch67/raspberrypi](https://github.com/dwelch67/raspberrypi) | 2,826 | 481 | 34 | — | 2023-07-14 | Raspberry Pi ARM based bare metal examples |
-| 28 | [pret/pokecrystal](https://github.com/pret/pokecrystal) | 2,526 | 983 | 57 | — | 2026-10-06 | Disassembly of Pokémon Crystal |
+| 28 | [pret/pokecrystal](https://github.com/pret/pokecrystal) | 2,527 | 983 | 57 | — | 2026-10-06 | Disassembly of Pokémon Crystal |
 | 29 | [grimdoomer/Xbox360BadUpdate](https://github.com/grimdoomer/Xbox360BadUpdate) | 2,239 | 227 | 4 | — | 2026-08-05 | Software only hypervisor exploit for Xbox 360 |
 | 30 | [bitdump/BLHeli](https://github.com/bitdump/BLHeli) | 2,235 | 1,152 | 411 | GPL-3.0 | 2025-08-21 | BLHeli for brushless ESC firmware |
 | 31 | [nanochess/bootOS](https://github.com/nanochess/bootOS) | 2,145 | 121 | 0 | BSD-2-Clause | 2026-09-24 | bootOS is a monolithic operating system in 512 bytes of x86 machine code. |
@@ -46,7 +46,7 @@ Ranked by stars. GitHub reports **216,240** total repositories matching `languag
 | 40 | [ReturnInfinity/BareMetal-OS-legacy](https://github.com/ReturnInfinity/BareMetal-OS-legacy) | 1,763 | 298 | 23 | — | 2017-11-20 | BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be... |
 | 41 | [apple/swift-crypto](https://github.com/apple/swift-crypto) | 1,733 | 235 | 35 | Apache-2.0 | 2026-10-12 | Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift suppo... |
 | 42 | [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) | 1,709 | 59 | 25 | — | 2023-07-03 | Super Mario World (SNES) Widescreen Project |
-| 43 | [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal) | 1,666 | 342 | 142 | — | 2026-10-15 | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
+| 43 | [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal) | 1,667 | 342 | 142 | — | 2026-10-15 | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
 | 44 | [corkami/pocs](https://github.com/corkami/pocs) | 1,562 | 199 | 7 | — | 2024-12-22 | Proof of Concepts (PE, PDF...) |
 | 45 | [cemu-project/cemu_graphic_packs](https://github.com/cemu-project/cemu_graphic_packs) | 1,469 | 599 | 100 | CC0-1.0 | 2026-09-29 | Community Graphic Packs for Cemu |
 | 46 | [akkartik/mu](https://github.com/akkartik/mu) | 1,431 | 48 | 5 | NOASSERTION | 2026-04-02 | Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient ... |
