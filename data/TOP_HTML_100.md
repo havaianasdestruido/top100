@@ -1,28 +1,28 @@
 # Top 100 HTML repositories on GitHub
 
-Ranked by stars. GitHub reports **49,049,725** total repositories matching `language:HTML`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **49,052,862** total repositories matching `language:HTML`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ossu/computer-science](https://github.com/ossu/computer-science) | 209,997 | 26,001 | 28 | MIT | 2026-07-14 | 🎓 Path to a free self-taught education in Computer Science! |
-| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 172,990 | 22,142 | 87 | NOASSERTION | 2026-10-14 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-... |
-| 3 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 139,556 | 14,789 | 11 | — | 2026-10-14 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| 4 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76,212 | 8,014 | 167 | MIT | 2026-09-17 | 计算机自学指南 |
-| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 67,546 | 6,736 | 21 | MIT | 2026-10-14 | from vibe coding to agentic engineering - practice makes claude perfect |
-| 6 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 62,895 | 5,300 | 12 | CC-BY-4.0 | 2026-10-14 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
-| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 55,280 | 3,497 | 44 | MIT | 2026-10-14 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Sel... |
-| 8 | [docker/awesome-compose](https://github.com/docker/awesome-compose) | 46,534 | 8,330 | 432 | CC0-1.0 | 2026-10-14 | Awesome Docker Compose samples |
+| 1 | [ossu/computer-science](https://github.com/ossu/computer-science) | 210,000 | 26,001 | 28 | MIT | 2026-07-14 | 🎓 Path to a free self-taught education in Computer Science! |
+| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 173,003 | 22,142 | 87 | NOASSERTION | 2026-10-14 | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-... |
+| 3 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 139,558 | 14,789 | 11 | — | 2026-10-14 | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| 4 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76,213 | 8,014 | 167 | MIT | 2026-09-17 | 计算机自学指南 |
+| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 67,547 | 6,736 | 21 | MIT | 2026-10-14 | from vibe coding to agentic engineering - practice makes claude perfect |
+| 6 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 62,940 | 5,306 | 12 | CC-BY-4.0 | 2026-10-15 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 55,333 | 3,498 | 44 | MIT | 2026-10-14 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Sel... |
+| 8 | [docker/awesome-compose](https://github.com/docker/awesome-compose) | 46,536 | 8,330 | 432 | CC0-1.0 | 2026-10-14 | Awesome Docker Compose samples |
 | 9 | [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) | 41,257 | 9,586 | 12 | — | 2026-09-07 | 浙江大学课程攻略共享计划 |
-| 10 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41,094 | 5,498 | 856 | AGPL-3.0 | 2026-10-14 | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, busines... |
-| 11 | [google/styleguide](https://github.com/google/styleguide) | 39,673 | 12,930 | 106 | NOASSERTION | 2026-10-14 | Style guides for Google-originated open-source projects |
+| 10 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41,095 | 5,498 | 856 | AGPL-3.0 | 2026-10-14 | Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, busines... |
+| 11 | [google/styleguide](https://github.com/google/styleguide) | 39,674 | 12,929 | 106 | NOASSERTION | 2026-10-14 | Style guides for Google-originated open-source projects |
 | 12 | [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) | 37,957 | 11,181 | 68 | — | 2026-10-05 | 吴恩达老师的机器学习课程个人笔记 |
 | 13 | [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 37,856 | 7,865 | 4 | CC-BY-SA-4.0 | 2026-09-17 | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University |
-| 14 | [opentofu/manifesto](https://github.com/opentofu/manifesto) | 35,597 | 1,023 | 20 | Apache-2.0 | 2025-03-18 | The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Busin... |
+| 14 | [opentofu/manifesto](https://github.com/opentofu/manifesto) | 35,596 | 1,023 | 20 | Apache-2.0 | 2025-03-18 | The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Busin... |
 | 15 | [google/material-design-lite](https://github.com/google/material-design-lite) | 32,185 | 4,886 | 431 | Apache-2.0 | 2026-05-03 | Material Design Components in HTML/CSS/JS |
-| 16 | [alpinejs/alpine](https://github.com/alpinejs/alpine) | 31,972 | 1,391 | 19 | MIT | 2026-10-05 | A rugged, minimal framework for composing JavaScript behavior in your markup. |
-| 17 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | 30,067 | 4,141 | 177 | — | 2026-10-14 | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
+| 16 | [alpinejs/alpine](https://github.com/alpinejs/alpine) | 31,972 | 1,390 | 18 | MIT | 2026-10-05 | A rugged, minimal framework for composing JavaScript behavior in your markup. |
+| 17 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | 30,067 | 4,143 | 178 | — | 2026-10-14 | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
 | 18 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 29,811 | 5,999 | 8 | MIT | 2026-10-08 | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
-| 19 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | 29,306 | 42,371 | 3 | — | 2026-06-01 | 30 Day Vanilla JS Challenge |
+| 19 | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | 29,306 | 42,372 | 3 | — | 2026-06-01 | 30 Day Vanilla JS Challenge |
 | 20 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | 27,967 | 1,928 | 51 | AGPL-3.0 | 2026-08-07 | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social ... |
 | 21 | [Tencent/weui](https://github.com/Tencent/weui) | 27,441 | 6,270 | 64 | NOASSERTION | 2026-03-12 | A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications. |
 | 22 | [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) | 27,306 | 1,564 | 153 | CC-BY-SA-4.0 | 2026-09-10 | 🧠 Laws, Theories, Principles and Patterns for developers and technologists. |
@@ -32,8 +32,8 @@ Ranked by stars. GitHub reports **49,049,725** total repositories matching `lang
 | 26 | [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) | 25,504 | 3,993 | 541 | NOASSERTION | 2026-07-25 | Modern JavaScript Tutorial |
 | 27 | [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) | 25,327 | 6,174 | 191 | NOASSERTION | 2024-12-26 | Mastering Bitcoin 3rd Edition - Programming the Open Blockchain |
 | 28 | [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 25,164 | 2,858 | 20 | Apache-2.0 | 2026-10-14 | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） |
-| 29 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 24,956 | 2,816 | 5 | MIT | 2026-10-13 | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲... |
-| 30 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 22,819 | 2,911 | 50 | NOASSERTION | 2026-07-16 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step ... |
+| 29 | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 24,958 | 2,816 | 5 | MIT | 2026-10-13 | Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲... |
+| 30 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 22,820 | 2,911 | 50 | NOASSERTION | 2026-07-16 | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step ... |
 | 31 | [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) | 22,651 | 2,944 | 56 | — | 2025-03-22 | 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 |
 | 32 | [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) | 22,027 | 4,397 | 80 | — | 2023-01-20 | 程序员技能图谱 |
 | 33 | [Polymer/polymer](https://github.com/Polymer/polymer) | 22,009 | 1,956 | 85 | BSD-3-Clause | 2026-04-02 | Our original Web Component library. |
@@ -42,7 +42,7 @@ Ranked by stars. GitHub reports **49,049,725** total repositories matching `lang
 | 36 | [rough-stuff/rough](https://github.com/rough-stuff/rough) | 21,264 | 664 | 42 | MIT | 2024-07-28 | Create graphics with a hand-drawn, sketchy, appearance |
 | 37 | [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) | 21,158 | 6,151 | 55 | — | 2026-10-05 | deeplearning.ai（吴恩达老师的深度学习课程笔记及资源） |
 | 38 | [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) | 20,785 | 4,731 | 10 | — | 2024-02-17 | 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充 |
-| 39 | [google/fonts](https://github.com/google/fonts) | 20,620 | 2,926 | 1,451 | — | 2026-10-14 | Font files available from Google Fonts, and a public issue tracker for all things Google Fonts |
+| 39 | [google/fonts](https://github.com/google/fonts) | 20,620 | 2,926 | 1,451 | — | 2026-10-15 | Font files available from Google Fonts, and a public issue tracker for all things Google Fonts |
 | 40 | [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) | 20,579 | 1,243 | 329 | MIT | 2026-10-09 | Dism++ Multi-language Support & BUG Report |
 | 41 | [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | 20,576 | 1,493 | 77 | GPL-3.0 | 2025-12-04 | CSS is powerful, you can do a lot of things without JS. |
 | 42 | [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) | 20,344 | 2,054 | 126 | — | 2024-07-13 | 全国各省市停贷通知汇总 |
@@ -53,32 +53,32 @@ Ranked by stars. GitHub reports **49,049,725** total repositories matching `lang
 | 47 | [twitter/twemoji](https://github.com/twitter/twemoji) | 17,800 | 1,897 | 144 | MIT | 2026-07-07 | Emoji for everyone. https://twemoji.twitter.com/ |
 | 48 | [phil-opp/blog_os](https://github.com/phil-opp/blog_os) | 17,771 | 1,205 | 98 | Apache-2.0 | 2026-08-07 | Writing an OS in Rust |
 | 49 | [htr-tech/zphisher](https://github.com/htr-tech/zphisher) | 17,023 | 6,384 | 511 | GPL-3.0 | 2024-08-21 | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be re... |
-| 50 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 16,748 | 2,510 | 33 | MIT | 2026-10-12 | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。\| AI-era Berkshire: a value investing r... |
+| 50 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 16,748 | 2,510 | 34 | MIT | 2026-10-12 | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。\| AI-era Berkshire: a value investing r... |
 | 51 | [desandro/masonry](https://github.com/desandro/masonry) | 16,692 | 2,067 | 85 | — | 2024-06-07 | :love_hotel: Cascading grid layout plugin |
-| 52 | [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) | 16,597 | 3,890 | 556 | MIT | 2025-08-11 | Curso de HTML5 e CSS3 |
+| 52 | [gustavoguanabara/html-css](https://github.com/gustavoguanabara/html-css) | 16,598 | 3,890 | 556 | MIT | 2025-08-11 | Curso de HTML5 e CSS3 |
 | 53 | [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) | 16,535 | 1,541 | 22 | NOASSERTION | 2024-08-16 | A neural network that transforms a design mock-up into a static website. |
 | 54 | [alshedivat/al-folio](https://github.com/alshedivat/al-folio) | 16,247 | 13,070 | 11 | MIT | 2026-10-12 | A beautiful, simple, clean, and responsive Jekyll theme for academics |
 | 55 | [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) | 16,221 | 1,127 | 5 | CC-BY-SA-4.0 | 2026-04-19 | Modern C++ Programming Course (C++03/11/14/17/20/23/26) |
 | 56 | [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) | 15,785 | 2,195 | 24 | MIT | 2022-12-07 | Efficient Augmented Reality for the Web - 60fps on mobile! |
 | 57 | [github/opensource.guide](https://github.com/github/opensource.guide) | 15,733 | 15,551 | 10 | CC-BY-4.0 | 2026-10-12 | 📚 Community guides for open source creators |
 | 58 | [tc39/ecma262](https://github.com/tc39/ecma262) | 15,690 | 1,429 | 480 | NOASSERTION | 2026-10-09 | Status, process, and documents for ECMA-262 |
-| 59 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 15,566 | 1,349 | 339 | Apache-2.0 | 2026-10-14 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex ... |
+| 59 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 15,567 | 1,349 | 336 | Apache-2.0 | 2026-10-15 | Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex ... |
 | 60 | [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) | 15,440 | 993 | 16 | — | 2026-07-21 | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. |
 | 61 | [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) | 15,291 | 7,440 | 12 | MIT | 2026-09-01 | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML... |
 | 62 | [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note) | 15,244 | 1,481 | 24 | — | 2026-06-14 | 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题 |
-| 63 | [keiyoushi/extensions](https://github.com/keiyoushi/extensions) | 15,223 | 1,337 | 0 | — | 2026-10-14 | Extension repository for Mihon and variants |
+| 63 | [keiyoushi/extensions](https://github.com/keiyoushi/extensions) | 15,224 | 1,337 | 0 | — | 2026-10-14 | Extension repository for Mihon and variants |
 | 64 | [microsoft/dotnet](https://github.com/microsoft/dotnet) | 15,109 | 2,241 | 271 | MIT | 2025-09-23 | This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Mic... |
 | 65 | [madrobby/zepto](https://github.com/madrobby/zepto) | 15,060 | 3,822 | 2 | NOASSERTION | 2026-05-07 | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API |
 | 66 | [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) | 14,911 | 384 | 42 | OFL-1.1 | 2024-12-10 | 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 |
 | 67 | [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) | 14,700 | 3,759 | 20 | MIT | 2025-06-28 | 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly ... |
 | 68 | [graphql/graphql-spec](https://github.com/graphql/graphql-spec) | 14,592 | 1,158 | 194 | NOASSERTION | 2026-09-28 | GraphQL is a query language and execution engine tied to any backend service. |
 | 69 | [microsoft/ai-edu](https://github.com/microsoft/ai-edu) | 14,135 | 2,928 | 101 | NOASSERTION | 2024-05-16 | AI education materials for Chinese students, teachers and IT professionals. |
-| 70 | [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 14,114 | 160,133 | 21,443 | — | 2024-08-21 | This repo is for demonstration purposes only. |
+| 70 | [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) | 14,114 | 160,132 | 21,443 | — | 2024-08-21 | This repo is for demonstration purposes only. |
 | 71 | [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 13,995 | 3,438 | 14 | MIT | 2026-08-02 | A fast, clean, responsive Hugo theme. |
 | 72 | [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) | 13,702 | 4,282 | 10 | MIT | 2024-08-20 | A free simple responsive HTML email template |
 | 73 | [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) | 13,588 | 27,147 | 23 | MIT | 2026-10-09 | :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
-| 74 | [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | 13,517 | 954 | 14 | MIT | 2024-09-02 | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. |
-| 75 | [chartist-js/chartist](https://github.com/chartist-js/chartist) | 13,390 | 2,464 | 244 | MIT | 2026-10-14 | Simple responsive charts |
+| 74 | [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | 13,519 | 954 | 14 | MIT | 2024-09-02 | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. |
+| 75 | [chartist-js/chartist](https://github.com/chartist-js/chartist) | 13,389 | 2,464 | 246 | MIT | 2026-10-14 | Simple responsive charts |
 | 76 | [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) | 13,174 | 1,235 | 0 | — | 2026-10-05 | A collection of resources on modern C++ |
 | 77 | [keeweb/keeweb](https://github.com/keeweb/keeweb) | 13,013 | 1,167 | 441 | NOASSERTION | 2026-05-08 | Free cross-platform password manager compatible with KeePass |
 | 78 | [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) | 12,965 | 2,979 | 5 | — | 2026-08-22 | Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from... |
@@ -87,7 +87,7 @@ Ranked by stars. GitHub reports **49,049,725** total repositories matching `lang
 | 81 | [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) | 12,378 | 1,012 | 31 | MIT | 2024-08-01 | A collection of resources and papers on Diffusion Models |
 | 82 | [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | 12,250 | 3,128 | 4 | MIT | 2026-08-14 | Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development |
 | 83 | [tw93/Kami](https://github.com/tw93/Kami) | 11,964 | 557 | 0 | MIT | 2026-10-11 | 👩‍🚒 Paper-inspired typography for elegant reading on screen. Good content deserves good paper. |
-| 84 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | 11,845 | 870 | 9 | — | 2026-10-14 | 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线 |
+| 84 | [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) | 11,859 | 870 | 9 | — | 2026-10-15 | 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线 |
 | 85 | [mixmark-io/turndown](https://github.com/mixmark-io/turndown) | 11,473 | 998 | 151 | MIT | 2026-09-03 | 🛏 An HTML to Markdown converter written in JavaScript |
 | 86 | [JordanSchuetz/LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) | 11,215 | 198 | 2 | — | 2021-01-04 | Resume template website for the LearnCS8 Lab 3 |
 | 87 | [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) | 11,105 | 1,306 | 146 | NOASSERTION | 2024-08-07 | Repository for the book "Crafting Interpreters" |
