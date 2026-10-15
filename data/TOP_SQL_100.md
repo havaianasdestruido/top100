@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,643** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,646** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Ranked by stars. GitHub reports **4,643** total repositories matching `language:
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
 | 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 16 | 2 | — | 2024-01-29 |  |
 | 26 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
-| 27 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 43 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
+| 27 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 44 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
 | 28 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
 | 29 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 41 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
 | 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 1 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
