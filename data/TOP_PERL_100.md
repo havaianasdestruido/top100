@@ -1,18 +1,18 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,835** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,837** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,600 | 1,124 | 27 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,795 | 2,110 | 173 | — | 2024-10-20 | Stack trace visualizer |
-| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,105 | 349 | 1 | MIT | 2026-10-15 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
+| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,104 | 349 | 1 | MIT | 2026-10-15 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
 | 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,776 | 1,468 | 0 | NOASSERTION | 2026-10-15 | Nikto web server scanner |
 | 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,479 | 1,285 | 8 | GPL-3.0 | 2026-10-13 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,596 | 1,004 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
 | 7 | [astrid-runtime/book](https://github.com/astrid-runtime/book) | 7,452 | 32 | 1 | Apache-2.0 | 2026-09-08 | The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model. |
-| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,168 | 493 | 49 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
-| 9 | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) | 4,887 | 1,215 | 137 | BSD-2-Clause | 2024-04-10 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub |
+| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,169 | 493 | 49 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
+| 9 | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) | 4,886 | 1,215 | 137 | BSD-2-Clause | 2024-04-10 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub |
 | 10 | [Jack000/Expose](https://github.com/Jack000/Expose) | 4,436 | 257 | 23 | MIT | 2022-03-16 | A simple static site generator for photoessays |
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,408 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,205 | 2,075 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
@@ -49,7 +49,7 @@ Ranked by stars. GitHub reports **188,835** total repositories matching `languag
 | 43 | [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) | 1,859 | 311 | 76 | Apache-2.0 | 2026-09-26 | ModSecurity v3 Nginx Connector |
 | 44 | [duckduckgo/duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1,816 | 238 | 0 | NOASSERTION | 2022-10-14 | DuckDuckGo Instant Answer Infrastructure |
 | 45 | [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1,812 | 399 | 4 | GPL-2.0 | 2014-05-19 | Linux Exploit Suggester; based on operating system release number |
-| 46 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,790 | 380 | 119 | NOASSERTION | 2026-10-12 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
+| 46 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,792 | 380 | 119 | NOASSERTION | 2026-10-12 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
 | 47 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,789 | 314 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
 | 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,770 | 468 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 49 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,706 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
@@ -76,7 +76,7 @@ Ranked by stars. GitHub reports **188,835** total repositories matching `languag
 | 70 | [smxi/inxi](https://github.com/smxi/inxi) | 1,282 | 90 | 15 | GPL-3.0 | 2024-01-12 | inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and doe... |
 | 71 | [cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium) | 1,281 | 111 | 20 | — | 2023-08-25 | Enjoy the mysteries of the sea from the safety of your own terminal! |
 | 72 | [alx-tools/Betty](https://github.com/alx-tools/Betty) | 1,260 | 1,735 | 30 | GPL-3.0 | 2023-12-01 | Holberton-style C code checker written in Perl |
-| 73 | [pasky/speedread](https://github.com/pasky/speedread) | 1,260 | 105 | 13 | MIT | 2024-06-11 | A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) |
+| 73 | [pasky/speedread](https://github.com/pasky/speedread) | 1,258 | 105 | 13 | MIT | 2024-06-11 | A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) |
 | 74 | [hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin) | 1,250 | 253 | 19 | NOASSERTION | 2023-09-19 | 使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 |
 | 75 | [darold/ora2pg](https://github.com/darold/ora2pg) | 1,241 | 380 | 96 | GPL-3.0 | 2026-09-28 | Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle d... |
 | 76 | [mikaku/Monitorix](https://github.com/mikaku/Monitorix) | 1,210 | 169 | 44 | GPL-2.0 | 2026-06-23 | Monitorix is a free, open source, lightweight system monitoring tool. |
@@ -93,7 +93,7 @@ Ranked by stars. GitHub reports **188,835** total repositories matching `languag
 | 87 | [andrewning/sortphotos](https://github.com/andrewning/sortphotos) | 1,106 | 317 | 61 | MIT | 2026-03-06 | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
 | 88 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,102 | 340 | 95 | NOASSERTION | 2026-10-15 | Server for the MusicBrainz project (website, API, database tools) |
 | 89 | [arboliva/AirChat](https://github.com/arboliva/AirChat) | 1,087 | 149 | 18 | — | 2021-12-09 | Free Communications For Everyone. |
-| 90 | [fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1,072 | 508 | 4 | — | 2023-08-12 | This project is now deprecated.  Please use MultiMarkdown-7 instead! |
+| 90 | [fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1,071 | 508 | 4 | — | 2023-08-12 | This project is now deprecated.  Please use MultiMarkdown-7 instead! |
 | 91 | [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) | 1,068 | 147 | 15 | NOASSERTION | 2026-07-29 | Repository for various Broadcom Bluetooth firmware |
 | 92 | [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) | 1,067 | 66 | 17 | MIT | 2022-03-19 | Node.js version manager |
 | 93 | [munin-monitoring/contrib](https://github.com/munin-monitoring/contrib) | 1,047 | 664 | 58 | — | 2026-09-24 | Contributed stuff for munin (plugins, tools, etc...) |

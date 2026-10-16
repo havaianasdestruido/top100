@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,141,431** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,141,451** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@ Ranked by stars. GitHub reports **1,141,431** total repositories matching `langu
 | 33 | [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) | 1,804 | 292 | 15 | NOASSERTION | 2025-06-18 | Easily install and load packages from the tidyverse |
 | 34 | [geocompx/geocompr](https://github.com/geocompx/geocompr) | 1,794 | 618 | 12 | NOASSERTION | 2026-09-14 | Geocomputation with R: an open source book |
 | 35 | [rstudio/blogdown](https://github.com/rstudio/blogdown) | 1,791 | 325 | 30 | — | 2026-06-19 | Create Blogs and Websites with R Markdown |
-| 36 | [rstudio/reticulate](https://github.com/rstudio/reticulate) | 1,764 | 349 | 479 | Apache-2.0 | 2026-10-15 | R Interface to Python |
+| 36 | [rstudio/reticulate](https://github.com/rstudio/reticulate) | 1,764 | 349 | 480 | Apache-2.0 | 2026-10-15 | R Interface to Python |
 | 37 | [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1,750 | 244 | 172 | NOASSERTION | 2026-04-27 | Graph and network visualization using tabular data in R |
 | 38 | [zonination/investing](https://github.com/zonination/investing) | 1,743 | 109 | 0 | MIT | 2016-12-27 | Investing Returns on the Market as a Whole |
 | 39 | [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1,724 | 145 | 19 | — | 2026-06-01 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 |
@@ -64,7 +64,7 @@ Ranked by stars. GitHub reports **1,141,431** total repositories matching `langu
 | 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 1 | — | 2026-10-14 | Additional themes, scales, and geoms for ggplot2 |
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,344 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
-| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,299 | 203 | 258 | NOASSERTION | 2026-10-15 | Static Code Analysis for R |
+| 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,299 | 203 | 255 | NOASSERTION | 2026-10-16 | Static Code Analysis for R |
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,284 | 90 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,281 | 183 | 5 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **1,141,431** total repositories matching `langu
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,172 | 128 | 28 | NOASSERTION | 2026-10-13 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,163 | 169 | 199 | MIT | 2026-10-15 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,161 | 88 | 45 | NOASSERTION | 2026-09-10 | :milky_way: The R easystats-project |
-| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,159 | 107 | 85 | GPL-3.0 | 2026-10-15 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
+| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,159 | 107 | 86 | GPL-3.0 | 2026-10-15 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,120 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,101 | 86 | 0 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 266 | 357 | — | 2026-10-15 | RStan, the R interface to Stan |
@@ -100,7 +100,7 @@ Ranked by stars. GitHub reports **1,141,431** total repositories matching `langu
 | 94 | [tidyverse/magrittr](https://github.com/tidyverse/magrittr) | 972 | 161 | 27 | NOASSERTION | 2026-04-05 | Improve the readability of R code with the pipe |
 | 95 | [cutterkom/generativeart](https://github.com/cutterkom/generativeart) | 962 | 162 | 5 | GPL-3.0 | 2022-04-27 | Create Generative Art with R |
 | 96 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 958 | 108 | 75 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
-| 97 | [easystats/see](https://github.com/easystats/see) | 956 | 48 | 36 | NOASSERTION | 2026-10-15 | :art: Visualisation toolbox for beautiful and publication-ready figures |
+| 97 | [easystats/see](https://github.com/easystats/see) | 956 | 48 | 37 | NOASSERTION | 2026-10-15 | :art: Visualisation toolbox for beautiful and publication-ready figures |
 | 98 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 955 | 647 | 65 | NOASSERTION | 2026-10-15 | Building R packages |
-| 99 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 953 | 111 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |
+| 99 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 954 | 111 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |
 | 100 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 951 | 107 | 5 | CC0-1.0 | 2026-10-13 | A list of awesome resources for Computational Social Science |
