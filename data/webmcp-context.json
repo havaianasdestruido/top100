@@ -1,10 +1,10 @@
 {
  "schema": "top100.webmcp-context/1",
- "generated_at": "2026-10-16T01:53:37Z",
+ "generated_at": "2026-10-16T06:31:53Z",
  "faq": [
   {
    "q": "What are the top GitHub repositories by stars right now?",
-   "a": "As of 16 October 2026, the most-starred repositories on GitHub are public-apis/public-apis with 489,149 stars, freeCodeCamp/freeCodeCamp with 457,123, EbookFoundation/free-programming-books with 399,145, openclaw/openclaw with 392,129 and donnemartin/system-design-primer with 374,362. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
+   "a": "As of 16 October 2026, the most-starred repositories on GitHub are public-apis/public-apis with 489,206 stars, freeCodeCamp/freeCodeCamp with 457,134, EbookFoundation/free-programming-books with 399,151, openclaw/openclaw with 392,133 and donnemartin/system-design-primer with 374,379. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
   },
   {
    "q": "Where can I find a top 100 GitHub repositories list?",
@@ -32,7 +32,7 @@
   },
   {
    "q": "What is the average number of GitHub stars and how do repos rank by stars?",
-   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,900 stars and the mean is 23,723, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 59,583 for Python. See the statistics table for the per-language thresholds."
+   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 10,901 stars and the mean is 23,729, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 59,590 for Python. See the statistics table for the per-language thresholds."
   },
   {
    "q": "Is the Top100 dataset free to use?",
