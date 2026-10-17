@@ -1,6 +1,6 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,851** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,857** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@ Ranked by stars. GitHub reports **188,851** total repositories matching `languag
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,205 | 2,075 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
 | 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,071 | 379 | 25 | PostgreSQL | 2026-10-05 | A fast PostgreSQL Log Analyzer |
 | 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,967 | 217 | 652 | BSD-3-Clause | 2026-10-16 | A terminal for iOS, with multiple windows |
-| 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,890 | 350 | 162 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
+| 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,891 | 350 | 162 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
 | 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,689 | 272 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
 | 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,563 | 401 | 144 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
 | 18 | [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) | 3,471 | 311 | 36 | — | 2024-04-24 |  |
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **188,851** total repositories matching `languag
 | 21 | [thoughtbot/rcm](https://github.com/thoughtbot/rcm) | 3,268 | 139 | 33 | BSD-3-Clause | 2025-05-23 | rc file (dotfile) management |
 | 22 | [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) | 3,222 | 315 | 25 | GPL-3.0 | 2026-07-16 | An open-source digital image forensic toolset |
 | 23 | [sqitchers/sqitch](https://github.com/sqitchers/sqitch) | 3,173 | 215 | 82 | MIT | 2026-09-26 | Sensible database change management |
-| 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,131 | 231 | 87 | MIT | 2026-10-03 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
+| 24 | [Difegue/LANraragi](https://github.com/Difegue/LANraragi) | 3,132 | 231 | 87 | MIT | 2026-10-03 | Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers. |
 | 25 | [openresty/nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 2,867 | 431 | 5 | — | 2021-03-05 | Nginx Tutorials |
 | 26 | [mojolicious/mojo](https://github.com/mojolicious/mojo) | 2,754 | 589 | 109 | Artistic-2.0 | 2026-10-16 | :sparkles: Mojolicious - Perl real-time web framework |
 | 27 | [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 2,703 | 191 | 13 | GPL-3.0 | 2024-01-08 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice |
@@ -70,7 +70,7 @@ Ranked by stars. GitHub reports **188,851** total repositories matching `languag
 | 64 | [infobyte/evilgrade](https://github.com/infobyte/evilgrade) | 1,326 | 272 | 11 | — | 2021-09-01 | Evilgrade is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting ... |
 | 65 | [p0pr0ck5/lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | 1,324 | 306 | 38 | GPL-3.0 | 2024-01-31 | High-performance WAF built on the OpenResty stack |
 | 66 | [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) | 1,319 | 156 | 356 | NOASSERTION | 2026-09-20 | LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. |
-| 67 | [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) | 1,316 | 92 | 47 | Artistic-2.0 | 2026-06-15 | Lightweight YouTube client for Linux |
+| 67 | [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) | 1,317 | 92 | 47 | Artistic-2.0 | 2026-06-15 | Lightweight YouTube client for Linux |
 | 68 | [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) | 1,304 | 156 | 110 | GPL-3.0 | 2026-08-04 | Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive... |
 | 69 | [sighook/pixload](https://github.com/sighook/pixload) | 1,302 | 253 | 8 | WTFPL | 2023-11-30 | Image Payload Creating/Injecting tools |
 | 70 | [smxi/inxi](https://github.com/smxi/inxi) | 1,282 | 90 | 15 | GPL-3.0 | 2024-01-12 | inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and doe... |
@@ -82,8 +82,8 @@ Ranked by stars. GitHub reports **188,851** total repositories matching `languag
 | 76 | [mikaku/Monitorix](https://github.com/mikaku/Monitorix) | 1,210 | 169 | 44 | GPL-2.0 | 2026-06-23 | Monitorix is a free, open source, lightweight system monitoring tool. |
 | 77 | [creaktive/rainbarf](https://github.com/creaktive/rainbarf) | 1,209 | 65 | 2 | NOASSERTION | 2026-08-15 | it's like Rainmeter, but for CLI! |
 | 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,203 | 129 | 108 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
-| 79 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,174 | 102 | 0 | — | 2026-10-12 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
-| 80 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,162 | 297 | 81 | GPL-2.0 | 2026-10-16 | Request Tracker, an enterprise-grade issue tracking system |
+| 79 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,175 | 102 | 0 | — | 2026-10-12 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
+| 80 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,162 | 296 | 81 | GPL-2.0 | 2026-10-16 | Request Tracker, an enterprise-grade issue tracking system |
 | 81 | [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) | 1,158 | 304 | 267 | GPL-2.0 | 2026-05-06 | lm-sensors repository |
 | 82 | [aspiers/stow](https://github.com/aspiers/stow) | 1,151 | 57 | 44 | GPL-3.0 | 2025-12-03 | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |
 | 83 | [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 1,137 | 136 | 1 | — | 2023-02-01 | Golang - Regular Expression Tutorial |
@@ -91,7 +91,7 @@ Ranked by stars. GitHub reports **188,851** total repositories matching `languag
 | 85 | [linux-test-project/lcov](https://github.com/linux-test-project/lcov) | 1,117 | 271 | 19 | GPL-2.0 | 2026-10-07 | LCOV |
 | 86 | [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) | 1,117 | 184 | 3 | GPL-3.0 | 2022-09-28 | DotDotPwn - The Directory Traversal Fuzzer |
 | 87 | [andrewning/sortphotos](https://github.com/andrewning/sortphotos) | 1,106 | 317 | 61 | MIT | 2026-03-06 | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
-| 88 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,104 | 340 | 95 | NOASSERTION | 2026-10-15 | Server for the MusicBrainz project (website, API, database tools) |
+| 88 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,104 | 341 | 95 | NOASSERTION | 2026-10-15 | Server for the MusicBrainz project (website, API, database tools) |
 | 89 | [arboliva/AirChat](https://github.com/arboliva/AirChat) | 1,087 | 149 | 18 | — | 2021-12-09 | Free Communications For Everyone. |
 | 90 | [fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1,071 | 508 | 4 | — | 2023-08-12 | This project is now deprecated.  Please use MultiMarkdown-7 instead! |
 | 91 | [winterheart/broadcom-bt-firmware](https://github.com/winterheart/broadcom-bt-firmware) | 1,068 | 147 | 15 | NOASSERTION | 2026-07-29 | Repository for various Broadcom Bluetooth firmware |
