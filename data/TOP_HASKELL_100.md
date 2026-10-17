@@ -1,22 +1,22 @@
 # Top 100 Haskell repositories on GitHub
 
-Ranked by stars. GitHub reports **164,682** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **164,685** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,613 | 6,853 | 1,044 | GPL-2.0 | 2026-10-17 | Universal markup converter |
-| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,184 | 1,961 | 1,087 | GPL-3.0 | 2026-10-14 | ShellCheck, a static analysis tool for shell scripts |
-| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,721 | 1,234 | 409 | MIT | 2026-10-16 | REST API for any Postgres database |
-| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,576 | 1,366 | 1,289 | AGPL-3.0 | 2026-10-17 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
+| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,614 | 6,853 | 1,044 | GPL-2.0 | 2026-10-17 | Universal markup converter |
+| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,184 | 1,961 | 1,089 | GPL-3.0 | 2026-10-14 | ShellCheck, a static analysis tool for shell scripts |
+| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,721 | 1,234 | 409 | MIT | 2026-10-17 | REST API for any Postgres database |
+| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,577 | 1,366 | 1,293 | AGPL-3.0 | 2026-10-17 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
 | 5 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12,480 | 510 | 194 | GPL-3.0 | 2026-10-14 | Dockerfile linter, validate inline bash, written in Haskell |
-| 6 | [github/semantic](https://github.com/github/semantic) | 9,046 | 469 | 0 | — | 2025-04-01 | Parsing, analyzing, and comparing source code across many languages |
-| 7 | [purescript/purescript](https://github.com/purescript/purescript) | 8,913 | 574 | 308 | NOASSERTION | 2026-10-14 | A strongly-typed language that compiles to JavaScript |
-| 8 | [elm/compiler](https://github.com/elm/compiler) | 7,915 | 690 | 306 | BSD-3-Clause | 2026-10-02 | Compiler for Elm, a functional language for reliable webapps. |
-| 9 | [unisonweb/unison](https://github.com/unisonweb/unison) | 6,763 | 311 | 1,294 | NOASSERTION | 2026-10-17 | A friendly programming language from the future |
-| 10 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,068 | 188 | 144 | Apache-2.0 | 2026-10-16 | A statically typed lisp, without a GC, for real-time applications. |
-| 11 | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 5,361 | 225 | 286 | MIT | 2026-10-17 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm p... |
-| 12 | [kmonad/kmonad](https://github.com/kmonad/kmonad) | 5,077 | 339 | 210 | MIT | 2026-06-15 | An advanced keyboard manager |
-| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,769 | 417 | 316 | GPL-3.0 | 2026-10-15 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
+| 6 | [github/semantic](https://github.com/github/semantic) | 9,045 | 469 | 0 | — | 2025-04-01 | Parsing, analyzing, and comparing source code across many languages |
+| 7 | [purescript/purescript](https://github.com/purescript/purescript) | 8,912 | 574 | 308 | NOASSERTION | 2026-10-14 | A strongly-typed language that compiles to JavaScript |
+| 8 | [elm/compiler](https://github.com/elm/compiler) | 7,914 | 690 | 306 | BSD-3-Clause | 2026-10-02 | Compiler for Elm, a functional language for reliable webapps. |
+| 9 | [unisonweb/unison](https://github.com/unisonweb/unison) | 6,764 | 311 | 1,294 | NOASSERTION | 2026-10-17 | A friendly programming language from the future |
+| 10 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,069 | 188 | 144 | Apache-2.0 | 2026-10-16 | A statically typed lisp, without a GC, for real-time applications. |
+| 11 | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 5,362 | 225 | 286 | MIT | 2026-10-17 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm p... |
+| 12 | [kmonad/kmonad](https://github.com/kmonad/kmonad) | 5,078 | 339 | 210 | MIT | 2026-06-15 | An advanced keyboard manager |
+| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,769 | 417 | 315 | GPL-3.0 | 2026-10-17 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
 | 14 | [facebook/Haxl](https://github.com/facebook/Haxl) | 4,369 | 310 | 8 | BSD-3-Clause | 2026-03-15 | A Haskell library that simplifies access to remote data, such as databases or web-based services. |
 | 15 | [facebook/duckling](https://github.com/facebook/duckling) | 4,322 | 738 | 140 | NOASSERTION | 2026-03-15 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. |
 | 16 | [system-f/fp-course](https://github.com/system-f/fp-course) | 4,245 | 1,192 | 16 | — | 2025-10-07 | Functional Programming Course |
@@ -53,12 +53,12 @@ Ranked by stars. GitHub reports **164,682** total repositories matching `languag
 | 47 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 1,962 | 83 | 41 | AGPL-3.0 | 2026-10-17 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
 | 48 | [tweag/asterius](https://github.com/tweag/asterius) | 1,948 | 56 | 137 | — | 2022-11-14 | DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc |
 | 49 | [fosskers/aura](https://github.com/fosskers/aura) | 1,917 | 122 | 64 | GPL-3.0 | 2026-02-05 | A multilingual package manager for Arch Linux and the AUR. |
-| 50 | [lamdu/lamdu](https://github.com/lamdu/lamdu) | 1,894 | 78 | 25 | GPL-3.0 | 2026-09-25 | lamdu - towards the next generation IDE |
+| 50 | [lamdu/lamdu](https://github.com/lamdu/lamdu) | 1,894 | 77 | 25 | GPL-3.0 | 2026-09-25 | lamdu - towards the next generation IDE |
 | 51 | [nmattia/niv](https://github.com/nmattia/niv) | 1,864 | 75 | 87 | MIT | 2026-09-11 | Easy dependency management for Nix projects |
 | 52 | [BurntSushi/erd](https://github.com/BurntSushi/erd) | 1,863 | 153 | 19 | Unlicense | 2024-09-09 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. |
 | 53 | [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) | 1,782 | 74 | 54 | BSD-3-Clause | 2023-10-03 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects |
 | 54 | [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1,777 | 391 | 58 | MIT | 2023-11-08 | Informative git prompt for zsh |
-| 55 | [scotty-web/scotty](https://github.com/scotty-web/scotty) | 1,773 | 134 | 29 | BSD-3-Clause | 2026-06-26 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |
+| 55 | [scotty-web/scotty](https://github.com/scotty-web/scotty) | 1,774 | 134 | 29 | BSD-3-Clause | 2026-06-26 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |
 | 56 | [haskell/cabal](https://github.com/haskell/cabal) | 1,745 | 760 | 1,979 | NOASSERTION | 2026-10-17 | Official upstream development repository for Cabal and cabal-install |
 | 57 | [jtdaugherty/brick](https://github.com/jtdaugherty/brick) | 1,744 | 175 | 4 | BSD-3-Clause | 2026-09-26 | A declarative Unix terminal UI library written in Haskell |
 | 58 | [google-research/dex-lang](https://github.com/google-research/dex-lang) | 1,704 | 117 | 139 | BSD-3-Clause | 2026-01-05 | Research language for array processing in the Haskell/ML family |

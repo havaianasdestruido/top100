@@ -1,10 +1,10 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,662** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,663** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,308 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,307 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,326 | 432 | 2 | MIT | 2026-10-16 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 424 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
@@ -71,7 +71,7 @@ Ranked by stars. GitHub reports **4,662** total repositories matching `language:
 | 65 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
 | 66 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
 | 67 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
-| 68 | [tacohirosystems/remotehiro](https://github.com/tacohirosystems/remotehiro) | 11 | 0 | 1 | EUPL-1.2 | 2026-08-05 | find work, anywhere |
+| 68 | [tacohirosystems/remotehiro](https://github.com/tacohirosystems/remotehiro) | 11 | 0 | 1 | EUPL-1.2 | 2026-10-17 | find work, anywhere |
 | 69 | [tschf/pl-gapi](https://github.com/tschf/pl-gapi) | 10 | 5 | 1 | GPL-2.0 | 2014-07-14 |  |
 | 70 | [RKNITH/MY-SQL-PRACTICE](https://github.com/RKNITH/MY-SQL-PRACTICE) | 10 | 0 | 0 | — | 2024-11-13 |  |
 | 71 | [qanhnn12/SQL-Leetcode-Challenge-Solutions](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions) | 10 | 7 | 0 | MIT | 2022-11-05 | Solutions for all free SQL questions on Leetcode executed on MySQL and MS SQL Server. |
