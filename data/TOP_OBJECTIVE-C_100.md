@@ -1,6 +1,6 @@
 # Top 100 Objective-C repositories on GitHub
 
-Ranked by stars. GitHub reports **543,436** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **543,444** total repositories matching `language:Objective-C`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -21,19 +21,19 @@ Ranked by stars. GitHub reports **543,436** total repositories matching `languag
 | 15 | [ccgus/fmdb](https://github.com/ccgus/fmdb) | 13,820 | 2,729 | 270 | NOASSERTION | 2026-03-15 | A Cocoa / Objective-C wrapper around SQLite |
 | 16 | [CoderMJLee/MJRefresh](https://github.com/CoderMJLee/MJRefresh) | 13,794 | 3,513 | 58 | MIT | 2025-11-11 | An easy way to use pull-to-refresh. |
 | 17 | [eczarny/spectacle](https://github.com/eczarny/spectacle) | 13,620 | 861 | 148 | NOASSERTION | 2022-01-15 | Spectacle allows you to organize your windows without using a mouse. |
-| 18 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,570 | 544 | 419 | GPL-3.0 | 2026-10-12 | Darwin/macOS emulation layer for Linux |
-| 19 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,348 | 607 | 536 | GPL-3.0 | 2026-10-17 | LuLu is the free open-source macOS firewall |
+| 18 | [darlinghq/darling](https://github.com/darlinghq/darling) | 13,571 | 544 | 419 | GPL-3.0 | 2026-10-12 | Darwin/macOS emulation layer for Linux |
+| 19 | [objective-see/LuLu](https://github.com/objective-see/LuLu) | 13,349 | 607 | 536 | GPL-3.0 | 2026-10-17 | LuLu is the free open-source macOS firewall |
 | 20 | [CocoaLumberjack/CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) | 13,317 | 2,273 | 6 | BSD-3-Clause | 2026-10-15 | A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS |
 | 21 | [Instagram/IGListKit](https://github.com/Instagram/IGListKit) | 13,072 | 1,538 | 63 | MIT | 2026-08-19 | A data-driven UICollectionView framework for building fast and flexible lists. |
 | 22 | [robbiehanson/CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 12,436 | 2,986 | 0 | NOASSERTION | 2026-08-30 | Asynchronous socket networking library for Mac and iOS |
 | 23 | [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) | 12,430 | 2,663 | 91 | MIT | 2026-02-27 | A clean and lightweight progress HUD for your iOS and tvOS app. |
 | 24 | [vicc/chameleon](https://github.com/vicc/chameleon) | 12,295 | 1,278 | 66 | NOASSERTION | 2021-05-03 | Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). |
-| 25 | [git-up/GitUp](https://github.com/git-up/GitUp) | 12,138 | 1,503 | 361 | GPL-3.0 | 2026-10-08 | The Git interface you've been missing all your life has finally arrived. |
+| 25 | [git-up/GitUp](https://github.com/git-up/GitUp) | 12,139 | 1,503 | 361 | GPL-3.0 | 2026-10-08 | The Git interface you've been missing all your life has finally arrived. |
 | 26 | [nicklockwood/iCarousel](https://github.com/nicklockwood/iCarousel) | 12,085 | 2,517 | 400 | NOASSERTION | 2024-06-27 | A simple, highly customisable, data-driven 3D carousel for iOS and Mac OS |
 | 27 | [dzenbot/DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) | 11,999 | 1,702 | 190 | MIT | 2022-07-06 | A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no conten... |
 | 28 | [bang590/JSPatch](https://github.com/bang590/JSPatch) | 11,315 | 2,209 | 106 | MIT | 2020-12-01 | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and metho... |
 | 29 | [Mantle/Mantle](https://github.com/Mantle/Mantle) | 11,235 | 1,467 | 0 | NOASSERTION | 2022-10-18 | Model framework for Cocoa and Cocoa Touch |
-| 30 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,106 | 446 | 1,298 | NOASSERTION | 2026-10-17 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
+| 30 | [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | 11,106 | 447 | 1,298 | NOASSERTION | 2026-10-17 | Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! |
 | 31 | [jessesquires/JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) | 11,052 | 2,750 | 0 | NOASSERTION | 2018-12-12 | An elegant messages UI library for iOS |
 | 32 | [magicalpanda/MagicalRecord](https://github.com/magicalpanda/MagicalRecord) | 10,689 | 1,760 | 242 | NOASSERTION | 2021-04-27 | Super Awesome Easy Fetching for Core Data! |
 | 33 | [WenchaoD/FSCalendar](https://github.com/WenchaoD/FSCalendar) | 10,628 | 1,942 | 503 | MIT | 2024-08-10 | A fully customizable iOS calendar library, compatible with Objective-C and Swift |
@@ -68,7 +68,7 @@ Ranked by stars. GitHub reports **543,436** total repositories matching `languag
 | 62 | [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) | 7,555 | 340 | 192 | NOASSERTION | 2026-10-16 | MySQL/MariaDB database management for macOS |
 | 63 | [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) | 7,358 | 359 | 12 | NOASSERTION | 2026-08-30 | Send User Notifications on macOS from the command-line. |
 | 64 | [facebookarchive/KVOController](https://github.com/facebookarchive/KVOController) | 7,274 | 914 | 15 | NOASSERTION | 2020-01-25 | Simple, modern, thread-safe key-value observing for iOS and OS X. |
-| 65 | [maderix/ANE](https://github.com/maderix/ANE) | 7,270 | 957 | 31 | MIT | 2026-03-10 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
+| 65 | [maderix/ANE](https://github.com/maderix/ANE) | 7,270 | 956 | 31 | MIT | 2026-03-10 | Training neural networks on Apple Neural Engine via reverse-engineered private APIs |
 | 66 | [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) | 7,191 | 1,448 | 223 | NOASSERTION | 2024-09-21 | QMUI iOS——致力于提高项目 UI 开发效率的解决方案 |
 | 67 | [MatthewYork/DateTools](https://github.com/MatthewYork/DateTools) | 7,168 | 934 | 109 | MIT | 2024-08-21 | Dates and times made easy in iOS |
 | 68 | [facebookarchive/three20](https://github.com/facebookarchive/three20) | 7,156 | 1,451 | 204 | NOASSERTION | 2017-05-02 | Three20 is an Objective-C library for iPhone developers |
@@ -77,7 +77,7 @@ Ranked by stars. GitHub reports **543,436** total repositories matching `languag
 | 71 | [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) | 7,088 | 904 | 38 | NOASSERTION | 2021-03-28 | Dash for iOS was discontinued. Please check out Dash for macOS instead. |
 | 72 | [CEWendel/SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) | 7,051 | 1,239 | 171 | MIT | 2021-05-20 | An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (simil... |
 | 73 | [romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu) | 7,032 | 1,312 | 131 | MIT | 2017-12-05 | iOS 7/8 style side menu with parallax effect. |
-| 74 | [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | 6,988 | 273 | 34 | MIT | 2026-08-15 | Prevents your Mac from going to sleep. |
+| 74 | [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) | 6,989 | 273 | 34 | MIT | 2026-08-15 | Prevents your Mac from going to sleep. |
 | 75 | [tonymillion/Reachability](https://github.com/tonymillion/Reachability) | 6,941 | 1,245 | 71 | BSD-2-Clause | 2026-03-25 | ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability |
 | 76 | [MortimerGoro/MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) | 6,907 | 1,055 | 132 | MIT | 2023-03-22 | An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. |
 | 77 | [MacPass/MacPass](https://github.com/MacPass/MacPass) | 6,882 | 472 | 296 | NOASSERTION | 2026-10-03 | A native macOS KeePass client |
