@@ -1,6 +1,6 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,846** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,845** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **188,846** total repositories matching `languag
 | 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,479 | 1,285 | 8 | GPL-3.0 | 2026-10-13 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,596 | 1,004 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
 | 7 | [astrid-runtime/book](https://github.com/astrid-runtime/book) | 7,452 | 32 | 1 | Apache-2.0 | 2026-09-08 | The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model. |
-| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,169 | 492 | 48 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
+| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,170 | 492 | 48 | GPL-3.0 | 2026-05-27 | ExifTool meta information reader/writer |
 | 9 | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) | 4,886 | 1,215 | 137 | BSD-2-Clause | 2024-04-10 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub |
 | 10 | [Jack000/Expose](https://github.com/Jack000/Expose) | 4,436 | 257 | 23 | MIT | 2022-03-16 | A simple static site generator for photoessays |
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,409 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
@@ -37,7 +37,7 @@ Ranked by stars. GitHub reports **188,846** total repositories matching `languag
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,399 | 341 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 755 | 75 | MIT | 2018-10-14 |  |
 | 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,346 | 647 | 2,368 | NOASSERTION | 2026-10-16 | 🐪 The Perl programming language |
-| 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,268 | 339 | 11 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
+| 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,269 | 339 | 11 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,197 | 135 | 44 | NOASSERTION | 2026-09-29 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,162 | 141 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
 | 37 | [munin-monitoring/munin](https://github.com/munin-monitoring/munin) | 2,144 | 485 | 214 | NOASSERTION | 2026-10-09 | Main repository for munin master / node / plugins |
@@ -53,13 +53,13 @@ Ranked by stars. GitHub reports **188,846** total repositories matching `languag
 | 47 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,789 | 314 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
 | 48 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,770 | 468 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 49 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,706 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
-| 50 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,704 | 331 | 750 | GPL-2.0 | 2026-10-16 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
+| 50 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,704 | 331 | 751 | GPL-2.0 | 2026-10-17 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
 | 51 | [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | 1,687 | 715 | 75 | — | 2025-03-12 | ggplot2: elegant graphics for data analysis |
 | 52 | [shanleiguang/vRain](https://github.com/shanleiguang/vRain) | 1,668 | 191 | 10 | MIT | 2026-06-14 | 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator |
 | 53 | [openresty/openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | 1,666 | 349 | 28 | — | 2023-03-14 | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap |
 | 54 | [backuppc/backuppc](https://github.com/backuppc/backuppc) | 1,627 | 204 | 50 | GPL-3.0 | 2026-05-31 | BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk. |
 | 55 | [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 1,588 | 350 | 7 | MIT | 2024-08-10 | Advanced dork Search & Mass Exploit Scanner |
-| 56 | [percona/percona-toolkit](https://github.com/percona/percona-toolkit) | 1,555 | 379 | 21 | GPL-2.0 | 2026-10-16 | Percona Toolkit: a collection of advanced open source command-line tools. |
+| 56 | [percona/percona-toolkit](https://github.com/percona/percona-toolkit) | 1,555 | 379 | 21 | GPL-2.0 | 2026-10-17 | Percona Toolkit: a collection of advanced open source command-line tools. |
 | 57 | [OpenKore/openkore](https://github.com/OpenKore/openkore) | 1,532 | 1,226 | 122 | NOASSERTION | 2026-10-13 | A free/open source client and automation tool for Ragnarok Online |
 | 58 | [yoshinorim/mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 1,509 | 503 | 73 | GPL-2.0 | 2020-08-14 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part |
 | 59 | [mrash/fwknop](https://github.com/mrash/fwknop) | 1,470 | 256 | 126 | GPL-2.0 | 2026-06-01 | Single Packet Authorization > Port Knocking |

@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,141,887** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,141,924** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -35,7 +35,7 @@ Ranked by stars. GitHub reports **1,141,887** total repositories matching `langu
 | 29 | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) | 1,897 | 326 | 12 | MIT | 2022-09-16 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Pyt... |
 | 30 | [dreamRs/esquisse](https://github.com/dreamRs/esquisse) | 1,865 | 243 | 55 | NOASSERTION | 2025-02-21 | RStudio add-in to make plots interactively with ggplot2 |
 | 31 | [google/CausalImpact](https://github.com/google/CausalImpact) | 1,864 | 263 | 31 | Apache-2.0 | 2026-03-31 | An R package for causal inference in time series |
-| 32 | [rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) | 1,834 | 214 | 3 | CC0-1.0 | 2024-03-08 |  |
+| 32 | [rmcelreath/stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) | 1,833 | 214 | 3 | CC0-1.0 | 2024-03-08 |  |
 | 33 | [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) | 1,805 | 292 | 15 | NOASSERTION | 2025-06-18 | Easily install and load packages from the tidyverse |
 | 34 | [geocompx/geocompr](https://github.com/geocompx/geocompr) | 1,794 | 618 | 12 | NOASSERTION | 2026-09-14 | Geocomputation with R: an open source book |
 | 35 | [rstudio/blogdown](https://github.com/rstudio/blogdown) | 1,791 | 325 | 30 | — | 2026-06-19 | Create Blogs and Websites with R Markdown |
@@ -57,8 +57,8 @@ Ranked by stars. GitHub reports **1,141,887** total repositories matching `langu
 | 51 | [tidyverse/tidyr](https://github.com/tidyverse/tidyr) | 1,442 | 419 | 60 | NOASSERTION | 2026-06-02 | Tidy Messy Data |
 | 52 | [rstudio/plumber](https://github.com/rstudio/plumber) | 1,439 | 258 | 128 | NOASSERTION | 2026-02-09 | Turn your R code into a web API. |
 | 53 | [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial) | 1,436 | 611 | 6 | NOASSERTION | 2023-05-31 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RN... |
-| 54 | [paul-buerkner/brms](https://github.com/paul-buerkner/brms) | 1,435 | 229 | 160 | GPL-2.0 | 2026-10-16 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
-| 55 | [tidyverse/purrr](https://github.com/tidyverse/purrr) | 1,411 | 297 | 42 | NOASSERTION | 2026-09-19 | A functional programming toolkit for R |
+| 54 | [paul-buerkner/brms](https://github.com/paul-buerkner/brms) | 1,435 | 229 | 161 | GPL-2.0 | 2026-10-16 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
+| 55 | [tidyverse/purrr](https://github.com/tidyverse/purrr) | 1,411 | 297 | 43 | NOASSERTION | 2026-09-19 | A functional programming toolkit for R |
 | 56 | [hadley/mastering-shiny](https://github.com/hadley/mastering-shiny) | 1,381 | 560 | 79 | NOASSERTION | 2026-02-03 | Mastering Shiny: a book |
 | 57 | [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) | 1,357 | 98 | 34 | NOASSERTION | 2026-10-10 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components |
 | 58 | [jrnold/ggthemes](https://github.com/jrnold/ggthemes) | 1,353 | 224 | 1 | — | 2026-10-14 | Additional themes, scales, and geoms for ggplot2 |
@@ -80,7 +80,7 @@ Ranked by stars. GitHub reports **1,141,887** total repositories matching `langu
 | 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,185 | 337 | 6 | — | 2026-10-14 | Forecasting Functions for Time Series and Linear Models |
 | 75 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,174 | 196 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 76 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,173 | 128 | 30 | NOASSERTION | 2026-10-16 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
-| 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,163 | 169 | 199 | MIT | 2026-10-15 | renv: Project environments for R. |
+| 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,163 | 169 | 200 | MIT | 2026-10-16 | renv: Project environments for R. |
 | 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,161 | 88 | 45 | NOASSERTION | 2026-10-16 | :milky_way: The R easystats-project |
 | 79 | [easystats/performance](https://github.com/easystats/performance) | 1,160 | 107 | 77 | GPL-3.0 | 2026-10-16 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,120 | 114 | 58 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **1,141,887** total repositories matching `langu
 | 95 | [cutterkom/generativeart](https://github.com/cutterkom/generativeart) | 962 | 162 | 5 | GPL-3.0 | 2022-04-27 | Create Generative Art with R |
 | 96 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 958 | 108 | 75 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
 | 97 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 956 | 111 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |
-| 98 | [easystats/see](https://github.com/easystats/see) | 956 | 48 | 26 | NOASSERTION | 2026-10-16 | :art: Visualisation toolbox for beautiful and publication-ready figures |
+| 98 | [easystats/see](https://github.com/easystats/see) | 956 | 48 | 27 | NOASSERTION | 2026-10-16 | :art: Visualisation toolbox for beautiful and publication-ready figures |
 | 99 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 955 | 648 | 65 | NOASSERTION | 2026-10-16 | Building R packages |
-| 100 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 952 | 107 | 5 | CC0-1.0 | 2026-10-13 | A list of awesome resources for Computational Social Science |
+| 100 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 953 | 107 | 5 | CC0-1.0 | 2026-10-13 | A list of awesome resources for Computational Social Science |

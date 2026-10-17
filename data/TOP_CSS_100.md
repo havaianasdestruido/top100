@@ -1,45 +1,45 @@
 # Top 100 CSS repositories on GitHub
 
-Ranked by stars. GitHub reports **11,459,828** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **11,460,103** total repositories matching `language:CSS`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [animate-css/animate.css](https://github.com/animate-css/animate.css) | 82,876 | 15,859 | 81 | NOASSERTION | 2024-07-29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
+| 1 | [animate-css/animate.css](https://github.com/animate-css/animate.css) | 82,876 | 15,858 | 81 | NOASSERTION | 2024-07-29 | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. |
 | 2 | [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | 64,898 | 3,958 | 27 | NOASSERTION | 2026-10-15 | Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph co... |
 | 3 | [necolas/normalize.css](https://github.com/necolas/normalize.css) | 53,512 | 10,302 | 75 | MIT | 2024-06-12 | A modern alternative to CSS resets |
 | 4 | [jgthms/bulma](https://github.com/jgthms/bulma) | 50,038 | 3,871 | 526 | MIT | 2026-09-21 | Modern CSS framework based on Flexbox |
 | 5 | [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) | 45,382 | 5,555 | 248 | NOASSERTION | 2026-10-01 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
-| 6 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 40,650 | 9,715 | 49 | MIT | 2025-02-26 | 50+ mini web projects using HTML, CSS & JS |
-| 7 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 38,145 | 3,194 | 0 | — | 2026-10-16 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
+| 6 | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 40,649 | 9,715 | 49 | MIT | 2025-02-26 | 50+ mini web projects using HTML, CSS & JS |
+| 7 | [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) | 38,146 | 3,194 | 0 | — | 2026-10-16 | 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 |
 | 8 | [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) | 37,787 | 1,417 | 159 | NOASSERTION | 2023-07-16 | FCC China open source codebase and curriculum. Learn to code and help nonprofits. |
-| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 30,222 | 1,547 | 49 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| 9 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 30,226 | 1,547 | 49 | MIT | 2026-08-06 | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 | 10 | [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) | 26,851 | 5,162 | 103 | — | 2022-02-28 | 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the exper... |
 | 11 | [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) | 20,455 | 1,643 | 87 | OFL-1.1 | 2025-10-28 | Monospaced font family for user interface and coding environments |
 | 12 | [uvdesk/community-skeleton](https://github.com/uvdesk/community-skeleton) | 19,635 | 563 | 81 | OSL-3.0 | 2026-10-07 | UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering rob... |
-| 13 | [dhg/Skeleton](https://github.com/dhg/Skeleton) | 19,347 | 3,057 | 137 | MIT | 2023-11-14 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development |
+| 13 | [dhg/Skeleton](https://github.com/dhg/Skeleton) | 19,346 | 3,057 | 137 | MIT | 2023-11-14 | Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development |
 | 14 | [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) | 19,320 | 1,754 | 11 | MIT | 2020-08-01 | A collection of loading indicators animated with CSS |
-| 15 | [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper) | 18,985 | 745 | 93 | — | 2026-06-07 | Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。 |
-| 16 | [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17,224 | 2,819 | 18 | NOASSERTION | 2026-10-16 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation |
+| 15 | [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper) | 18,988 | 746 | 93 | — | 2026-06-07 | Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。 |
+| 16 | [architecture-decision-record/architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) | 17,227 | 2,819 | 18 | NOASSERTION | 2026-10-16 | Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation |
 | 17 | [picocss/pico](https://github.com/picocss/pico) | 16,844 | 506 | 126 | MIT | 2026-10-04 | Minimal CSS Framework for semantic HTML |
 | 18 | [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) | 15,978 | 995 | 0 | CC-BY-4.0 | 2023-05-07 | Short CSS code snippets for all your development needs |
 | 19 | [CodeByZach/pace](https://github.com/CodeByZach/pace) | 15,589 | 1,835 | 278 | MIT | 2024-02-26 | Automatically add a progress bar to your site. |
 | 20 | [twbs/ratchet](https://github.com/twbs/ratchet) | 14,715 | 1,408 | 222 | MIT | 2025-03-18 | Build mobile apps with simple HTML, CSS, and JavaScript components. |
 | 21 | [chriskempson/tomorrow-theme](https://github.com/chriskempson/tomorrow-theme) | 13,984 | 3,087 | 88 | NOASSERTION | 2022-07-09 | Tomorrow Theme |
-| 22 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,938 | 1,550 | 22 | MIT | 2026-10-11 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
+| 22 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | 12,939 | 1,550 | 22 | MIT | 2026-10-11 | ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. |
 | 23 | [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | 12,905 | 976 | 38 | MIT | 2022-12-03 | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. |
-| 24 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12,884 | 1,311 | 332 | — | 2024-06-18 | The simplest way to run LLaMA on your local machine |
+| 24 | [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) | 12,883 | 1,311 | 332 | — | 2024-06-18 | The simplest way to run LLaMA on your local machine |
 | 25 | [devicons/devicon](https://github.com/devicons/devicon) | 11,842 | 2,445 | 460 | MIT | 2026-10-12 | Set of icons representing programming languages, designing & development tools |
 | 26 | [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) | 11,725 | 778 | 89 | MIT | 2026-07-20 | Functional css for humans |
 | 27 | [IBM/plex](https://github.com/IBM/plex) | 11,695 | 625 | 85 | OFL-1.1 | 2026-10-16 | The package of IBM’s typeface, IBM Plex. |
-| 28 | [jdan/98.css](https://github.com/jdan/98.css) | 11,537 | 382 | 44 | MIT | 2025-09-07 | A design system for building faithful recreations of old UIs |
+| 28 | [jdan/98.css](https://github.com/jdan/98.css) | 11,538 | 382 | 44 | MIT | 2025-09-07 | A design system for building faithful recreations of old UIs |
 | 29 | [picturepan2/spectre](https://github.com/picturepan2/spectre) | 11,305 | 778 | 193 | MIT | 2024-04-11 | Spectre.css - A Lightweight, Responsive and Modern CSS Framework |
 | 30 | [Automattic/_s](https://github.com/Automattic/_s) | 10,956 | 2,993 | 20 | GPL-2.0 | 2025-09-05 | Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress the... |
 | 31 | [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) | 10,844 | 995 | 371 | — | 2025-02-13 | CSS Inspiration，在这里找到写 CSS 的灵感！ |
 | 32 | [h5bp/Effeckt.css](https://github.com/h5bp/Effeckt.css) | 10,805 | 1,344 | 0 | MIT | 2019-03-01 | This repo is archived. Thanks! |
 | 33 | [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) | 10,222 | 1,184 | 15 | — | 2023-05-03 | Delightful, performance-focused pure css loading animations. |
-| 34 | [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) | 10,154 | 2,318 | 30 | MIT | 2026-06-19 | Accurately Locate Smartphones using Social Engineering |
+| 34 | [thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker) | 10,154 | 2,317 | 30 | MIT | 2026-06-19 | Accurately Locate Smartphones using Social Engineering |
 | 35 | [connors/photon](https://github.com/connors/photon) | 10,109 | 565 | 81 | MIT | 2026-04-03 | The fastest way to build beautiful Electron apps using simple HTML and CSS |
-| 36 | [OWASP/wstg](https://github.com/OWASP/wstg) | 10,046 | 1,714 | 25 | CC-BY-SA-4.0 | 2026-10-15 | The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and w... |
+| 36 | [OWASP/wstg](https://github.com/OWASP/wstg) | 10,047 | 1,714 | 25 | CC-BY-SA-4.0 | 2026-10-15 | The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and w... |
 | 37 | [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) | 9,988 | 640 | 53 | BSD-2-Clause | 2026-10-16 | :octocat: Dark GitHub style |
 | 38 | [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) | 9,819 | 1,019 | 205 | MIT | 2025-06-22 | Custom Jupyter Notebook Themes |
 | 39 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) | 9,584 | 30,968 | 8 | Apache-2.0 | 2026-09-29 | A sample Spring-based application |
@@ -74,7 +74,7 @@ Ranked by stars. GitHub reports **11,459,828** total repositories matching `lang
 | 68 | [HubSpot/vex](https://github.com/HubSpot/vex) | 6,865 | 479 | 54 | MIT | 2023-02-26 | A modern dialog library which is highly configurable and easy to style. #hubspot-open-source |
 | 69 | [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) | 6,675 | 400 | 10 | MIT | 2025-05-28 | A CSS course to turn you into a magician. |
 | 70 | [Compass/compass](https://github.com/Compass/compass) | 6,651 | 1,157 | 451 | NOASSERTION | 2023-04-24 | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website desig... |
-| 71 | [progit/progit2](https://github.com/progit/progit2) | 6,609 | 2,120 | 221 | NOASSERTION | 2026-05-25 | Pro Git 2nd Edition |
+| 71 | [progit/progit2](https://github.com/progit/progit2) | 6,610 | 2,120 | 221 | NOASSERTION | 2026-05-25 | Pro Git 2nd Edition |
 | 72 | [thedevdojo/wave](https://github.com/thedevdojo/wave) | 6,551 | 905 | 10 | MIT | 2026-07-31 | Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰 |
 | 73 | [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) | 6,471 | 1,303 | 9 | Apache-2.0 | 2022-07-11 | 📘《Python进阶》（Intermediate Python - Chinese Version） |
 | 74 | [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) | 6,409 | 766 | 21 | MIT | 2023-04-11 | 在线制作`sorry 为所欲为`的gif |
@@ -86,8 +86,8 @@ Ranked by stars. GitHub reports **11,459,828** total repositories matching `lang
 | 80 | [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) | 6,116 | 2,220 | 22 | MIT | 2026-10-16 | :dolphin: A comprehensive tutorial on getting started with Docker! |
 | 81 | [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) | 6,113 | 1,507 | 8 | NOASSERTION | 2026-10-08 | The Missing Semester of Your CS Education 📚 |
 | 82 | [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) | 6,109 | 430 | 9 | MIT | 2026-04-08 | 程序员工作中常见的英语词汇 |
-| 83 | [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) | 6,107 | 1,330 | 19 | MIT | 2026-10-05 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli |
-| 84 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 6,097 | 557 | 11 | Apache-2.0 | 2026-10-16 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
+| 83 | [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) | 6,107 | 1,330 | 18 | MIT | 2026-10-05 | A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli |
+| 84 | [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) | 6,102 | 557 | 11 | Apache-2.0 | 2026-10-16 | ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI ... |
 | 85 | [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | 6,008 | 1,230 | 4 | MIT | 2025-10-20 | An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git... |
 | 86 | [basscss/basscss](https://github.com/basscss/basscss) | 5,899 | 294 | 39 | MIT | 2022-12-30 | Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library |
 | 87 | [connorferster/handcalcs](https://github.com/connorferster/handcalcs) | 5,806 | 454 | 107 | Apache-2.0 | 2026-10-16 | Python library for converting Python calculations into rendered latex. |
