@@ -1,14 +1,14 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **216,640** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **216,651** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,432 | 8,200 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,437 | 8,200 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 2 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 32,268 | 4,688 | 3 | MIT | 2024-04-25 | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
 | 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,831 | 2,104 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
-| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,840 | 1,648 | 0 | Apache-2.0 | 2026-10-18 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
-| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 12,000 | 2,114 | 118 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
+| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,842 | 1,648 | 0 | Apache-2.0 | 2026-10-18 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
+| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 12,001 | 2,113 | 118 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
 | 6 | [corkami/pics](https://github.com/corkami/pics) | 11,492 | 793 | 5 | — | 2024-02-18 | File formats dissections and more... |
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,747 | 2,711 | 56 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
 | 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,287 | 506 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
@@ -26,7 +26,7 @@ Ranked by stars. GitHub reports **216,640** total repositories matching `languag
 | 20 | [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) | 3,335 | 423 | 91 | NOASSERTION | 2026-08-19 | A cross-platform x86 assembler with an Intel-like syntax |
 | 21 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,309 | 417 | 31 | NOASSERTION | 2026-10-18 | Virtual Apollo Guidance Computer (AGC) software |
 | 22 | [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) | 3,293 | 519 | 145 | MIT | 2026-10-13 | A FPGA friendly 32 bit RISC-V CPU implementation |
-| 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,162 | 1,040 | 294 | NOASSERTION | 2026-10-17 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
+| 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,162 | 1,040 | 294 | NOASSERTION | 2026-10-18 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
 | 24 | [nemasu/asmttpd](https://github.com/nemasu/asmttpd) | 3,094 | 204 | 12 | GPL-2.0 | 2025-03-01 | Web server for Linux written in amd64 assembly. |
 | 25 | [pooler/cpuminer](https://github.com/pooler/cpuminer) | 3,007 | 1,247 | 34 | NOASSERTION | 2023-04-05 | CPU miner for Litecoin and Bitcoin |
 | 26 | [SheerSt/pokewilds](https://github.com/SheerSt/pokewilds) | 2,917 | 223 | 320 | — | 2026-08-16 | PokeWilds - A Gen 2 Game/Engine using libGDX |
@@ -37,7 +37,7 @@ Ranked by stars. GitHub reports **216,640** total repositories matching `languag
 | 31 | [nanochess/bootOS](https://github.com/nanochess/bootOS) | 2,149 | 121 | 0 | BSD-2-Clause | 2026-09-24 | bootOS is a monolithic operating system in 512 bytes of x86 machine code. |
 | 32 | [hasherezade/malware_training_vol1](https://github.com/hasherezade/malware_training_vol1) | 2,103 | 208 | 10 | — | 2024-07-01 | Materials for Windows Malware Analysis training (volume 1) |
 | 33 | [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) | 2,096 | 279 | 1 | MIT | 2026-09-25 | Reed-Solomon Erasure Coding in Go |
-| 34 | [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial) | 2,061 | 140 | 0 | — | 2026-05-03 | Programming in assembly language tutorial |
+| 34 | [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial) | 2,062 | 140 | 0 | — | 2026-05-03 | Programming in assembly language tutorial |
 | 35 | [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) | 2,026 | 276 | 6 | Apache-2.0 | 2023-01-01 | AV/EDR evasion via direct system calls. |
 | 36 | [klezVirus/inceptor](https://github.com/klezVirus/inceptor) | 1,834 | 281 | 15 | NOASSERTION | 2023-11-03 | Template-Driven AV/EDR Evasion Framework |
 | 37 | [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) | 1,830 | 265 | 3 | Apache-2.0 | 2022-09-03 | AV/EDR evasion via direct system calls. |
@@ -100,7 +100,7 @@ Ranked by stars. GitHub reports **216,640** total repositories matching `languag
 | 94 | [pret/pokegold](https://github.com/pret/pokegold) | 729 | 207 | 4 | — | 2026-10-06 | Disassembly of Pokémon Gold/Silver |
 | 95 | [xuhongv/StudyInEsp8266](https://github.com/xuhongv/StudyInEsp8266) | 715 | 428 | 3 | — | 2021-05-28 | 【深度开源】Wi-FI模块esp8266学习之旅（持续更新，欢迎 Star...） |
 | 96 | [sim-/tgy](https://github.com/sim-/tgy) | 711 | 384 | 80 | — | 2023-08-25 | tgy -- Open Source Firmware for ATmega-based Brushless ESCs |
-| 97 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 710 | 236 | 19 | — | 2026-10-18 | Decompilation of Pokemon HeartGold/SoulSilver |
+| 97 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 711 | 236 | 19 | — | 2026-10-18 | Decompilation of Pokemon HeartGold/SoulSilver |
 | 98 | [tsoding/pinpog](https://github.com/tsoding/pinpog) | 700 | 43 | 4 | MIT | 2021-08-27 | Ping-Pong-like game in Assembly that works without OS |
 | 99 | [tuhdo/sample-os](https://github.com/tuhdo/sample-os) | 689 | 87 | 1 | — | 2017-09-12 | A sample OS as demonstrated in the book Operating System: From 0 to 1 |
 | 100 | [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) | 677 | 70 | 6 | Apache-2.0 | 2026-09-19 | An Operating System for Z80 computers, written in assembly |

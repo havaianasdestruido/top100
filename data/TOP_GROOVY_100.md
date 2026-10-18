@@ -5,7 +5,7 @@ Ranked by stars. GitHub reports **111,408** total repositories matching `languag
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,897 | 5,328 | 3,530 | Apache-2.0 | 2026-10-18 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,726 | 2,424 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,727 | 2,424 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,343 | 987 | 57 | Apache-2.0 | 2026-10-17 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,474 | 1,911 | 22 | Apache-2.0 | 2026-10-18 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,285 | 3,562 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **111,408** total repositories matching `languag
 | 28 | [progrium/buildstep](https://github.com/progrium/buildstep) | 907 | 269 | 11 | MIT | 2018-06-11 | Buildstep uses Docker and Buildpacks to build applications like Heroku |
 | 29 | [dorongold/gradle-task-tree](https://github.com/dorongold/gradle-task-tree) | 899 | 58 | 7 | Apache-2.0 | 2026-08-08 | Gradle plugin that adds a 'taskTree' task that prints task dependency tree |
 | 30 | [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) | 892 | 146 | 37 | GPL-3.0 | 2023-01-17 | A web frontend/UI for easy private/local Docker Registry integration |
-| 31 | [researchgate/gradle-release](https://github.com/researchgate/gradle-release) | 888 | 218 | 137 | MIT | 2026-09-30 | gradle-release is a plugin for providing a Maven-like release process for projects using Gradle |
+| 31 | [researchgate/gradle-release](https://github.com/researchgate/gradle-release) | 888 | 218 | 138 | MIT | 2026-09-30 | gradle-release is a plugin for providing a Maven-like release process for projects using Gradle |
 | 32 | [radarsh/gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 887 | 40 | 36 | Apache-2.0 | 2026-03-15 | A Gradle plugin for printing beautiful logs on the console while running tests |
 | 33 | [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) | 869 | 243 | 307 | MIT | 2026-10-15 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation |
 | 34 | [srs/gradle-node-plugin](https://github.com/srs/gradle-node-plugin) | 863 | 202 | 187 | Apache-2.0 | 2021-03-25 | Gradle plugin for integrating NodeJS in your build. :rocket: |

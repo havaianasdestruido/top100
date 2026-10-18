@@ -1,27 +1,27 @@
 # Top 100 PHP repositories on GitHub
 
-Ranked by stars. GitHub reports **6,450,257** total repositories matching `language:PHP`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **6,450,335** total repositories matching `language:PHP`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) | 74,186 | 25,151 | 10 | MIT | 2026-10-18 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assess... |
-| 2 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 63,151 | 5,687 | 589 | Apache-2.0 | 2026-10-18 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, ... |
+| 2 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 63,156 | 5,686 | 588 | Apache-2.0 | 2026-10-18 | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, ... |
 | 3 | [nextcloud/server](https://github.com/nextcloud/server) | 37,173 | 5,288 | 3,817 | AGPL-3.0 | 2026-10-18 | ☁️ Nextcloud server, a safe home for all your data |
 | 4 | [laravel/framework](https://github.com/laravel/framework) | 34,964 | 12,019 | 98 | MIT | 2026-10-18 | Laravel is a web application framework with expressive, elegant syntax. |
-| 5 | [filamentphp/filament](https://github.com/filamentphp/filament) | 32,295 | 4,222 | 26 | MIT | 2026-10-18 | A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire |
-| 6 | [symfony/symfony](https://github.com/symfony/symfony) | 31,191 | 9,913 | 203 | MIT | 2026-10-18 | The Symfony PHP framework |
+| 5 | [filamentphp/filament](https://github.com/filamentphp/filament) | 32,296 | 4,222 | 26 | MIT | 2026-10-18 | A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire |
+| 6 | [symfony/symfony](https://github.com/symfony/symfony) | 31,191 | 9,913 | 205 | MIT | 2026-10-18 | The Symfony PHP framework |
 | 7 | [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | 30,689 | 7,712 | 53 | MIT | 2026-04-08 | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audi... |
 | 8 | [composer/composer](https://github.com/composer/composer) | 29,555 | 4,846 | 151 | MIT | 2026-10-17 | Dependency Manager for PHP |
 | 9 | [bagisto/bagisto](https://github.com/bagisto/bagisto) | 28,254 | 3,333 | 32 | MIT | 2026-10-16 | Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supportin... |
 | 10 | [fzaninotto/Faker](https://github.com/fzaninotto/Faker) | 26,621 | 3,566 | 218 | MIT | 2024-03-20 | Faker is a PHP library that generates fake data for you |
-| 11 | [monicahq/monica](https://github.com/monicahq/monica) | 25,504 | 2,620 | 791 | AGPL-3.0 | 2026-09-24 | Personal CRM. Remember everything about your friends, family and business relationships. |
+| 11 | [monicahq/monica](https://github.com/monicahq/monica) | 25,505 | 2,621 | 791 | AGPL-3.0 | 2026-09-24 | Personal CRM. Remember everything about your friends, family and business relationships. |
 | 12 | [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) | 24,933 | 2,348 | 166 | AGPL-3.0 | 2026-10-18 | Firefly III: a personal finances manager |
 | 13 | [krayin/laravel-crm](https://github.com/krayin/laravel-crm) | 24,020 | 1,667 | 105 | MIT | 2026-10-16 | Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management. |
 | 14 | [livewire/livewire](https://github.com/livewire/livewire) | 23,586 | 1,754 | 59 | MIT | 2026-10-16 | A full-stack framework for Laravel that takes the pain out of building dynamic UIs. |
 | 15 | [guzzle/guzzle](https://github.com/guzzle/guzzle) | 23,446 | 2,391 | 4 | MIT | 2026-10-18 | Guzzle, an extensible PHP HTTP client |
 | 16 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | 22,317 | 9,775 | 26 | LGPL-2.1 | 2026-10-06 | The classic email sending library for PHP |
 | 17 | [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) | 22,187 | 4,484 | 0 | MIT | 2025-02-03 | Sample code for several design patterns in PHP 8.x |
-| 18 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21,959 | 2,918 | 2,562 | GPL-3.0 | 2026-10-18 | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source... |
+| 18 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21,959 | 2,918 | 2,563 | GPL-3.0 | 2026-10-18 | Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source... |
 | 19 | [WordPress/WordPress](https://github.com/WordPress/WordPress) | 21,482 | 12,969 | 3 | NOASSERTION | 2026-10-18 | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pul... |
 | 20 | [Seldaek/monolog](https://github.com/Seldaek/monolog) | 21,399 | 1,918 | 9 | MIT | 2026-10-05 | Sends your logs to files, sockets, inboxes, databases and various web services |
 | 21 | [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) | 20,069 | 2,214 | 22 | BSD-3-Clause | 2026-10-17 | The PHP Unit Testing framework. |
@@ -31,7 +31,7 @@ Ranked by stars. GitHub reports **6,450,257** total repositories matching `langu
 | 25 | [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) | 18,148 | 7,530 | 106 | MIT | 2024-07-15 | Open Source PHP Framework (originally from EllisLab) |
 | 26 | [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) | 17,462 | 1,138 | 73 | BSD-3-Clause | 2026-10-05 | A PHP parser written in PHP |
 | 27 | [koel/koel](https://github.com/koel/koel) | 17,279 | 2,114 | 16 | MIT | 2026-10-18 | Music streaming solution that works. |
-| 28 | [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16,946 | 1,920 | 6 | NOASSERTION | 2026-04-23 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
+| 28 | [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 16,948 | 1,920 | 6 | NOASSERTION | 2026-04-23 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
 | 29 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | 16,587 | 1,288 | 4 | MIT | 2026-10-18 | A simple PHP API extension for DateTime. |
 | 30 | [flarum/flarum](https://github.com/flarum/flarum) | 16,424 | 1,671 | 0 | MIT | 2026-10-09 | Simple forum software for building great communities. |
 | 31 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16,318 | 1,305 | 683 | AGPL-3.0 | 2026-10-18 | A free, self-hostable news aggregator… |
@@ -65,15 +65,15 @@ Ranked by stars. GitHub reports **6,450,257** total repositories matching `langu
 | 59 | [assimon/dujiaoka](https://github.com/assimon/dujiaoka) | 12,136 | 2,800 | 11 | MIT | 2026-03-12 | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 |
 | 60 | [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) | 12,083 | 603 | 52 | MIT | 2026-10-16 | Free and Open Source ERP software |
 | 61 | [docker-archive-public/docker.labs](https://github.com/docker-archive-public/docker.labs) | 11,884 | 5,161 | 140 | Apache-2.0 | 2023-07-27 | This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome. |
-| 62 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11,861 | 1,153 | 235 | AGPL-3.0 | 2026-10-18 | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dysle... |
+| 62 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11,862 | 1,153 | 235 | AGPL-3.0 | 2026-10-18 | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dysle... |
 | 63 | [thedevdojo/voyager](https://github.com/thedevdojo/voyager) | 11,784 | 2,637 | 457 | MIT | 2025-02-07 | Voyager - The Missing Laravel Admin |
-| 64 | [pestphp/pest](https://github.com/pestphp/pest) | 11,740 | 548 | 275 | MIT | 2026-10-18 | The elegant testing framework for PHP developers and AI agents. |
+| 64 | [pestphp/pest](https://github.com/pestphp/pest) | 11,740 | 548 | 276 | MIT | 2026-10-18 | The elegant testing framework for PHP developers and AI agents. |
 | 65 | [egulias/EmailValidator](https://github.com/egulias/EmailValidator) | 11,640 | 233 | 38 | MIT | 2025-03-20 | PHP Email address validator |
 | 66 | [walkor/workerman](https://github.com/walkor/workerman) | 11,545 | 2,244 | 108 | MIT | 2026-10-09 | An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. |
 | 67 | [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) | 11,486 | 1,535 | 614 | MIT | 2026-03-06 | 🔐 JSON Web Token Authentication for Laravel & Lumen |
 | 68 | [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) | 11,346 | 4,105 | 662 | NOASSERTION | 2019-01-02 | ARCHIVED |
 | 69 | [doctrine/inflector](https://github.com/doctrine/inflector) | 11,331 | 144 | 18 | MIT | 2026-10-18 | Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and si... |
-| 70 | [dompdf/dompdf](https://github.com/dompdf/dompdf) | 11,197 | 1,848 | 562 | LGPL-2.1 | 2026-10-02 | HTML to PDF converter for PHP |
+| 70 | [dompdf/dompdf](https://github.com/dompdf/dompdf) | 11,197 | 1,847 | 563 | LGPL-2.1 | 2026-10-02 | HTML to PDF converter for PHP |
 | 71 | [octobercms/october](https://github.com/octobercms/october) | 11,146 | 2,205 | 15 | NOASSERTION | 2026-10-16 | Self-hosted CMS platform based on the Laravel PHP Framework. |
 | 72 | [doctrine/lexer](https://github.com/doctrine/lexer) | 11,141 | 68 | 1 | MIT | 2026-10-18 | Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers. |
 | 73 | [z-song/laravel-admin](https://github.com/z-song/laravel-admin) | 11,130 | 2,806 | 262 | MIT | 2026-05-02 | Build a full-featured administrative interface in ten minutes |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **6,450,257** total repositories matching `langu
 | 76 | [doctrine/instantiator](https://github.com/doctrine/instantiator) | 10,981 | 65 | 1 | MIT | 2026-10-18 |  |
 | 77 | [phalcon/cphalcon](https://github.com/phalcon/cphalcon) | 10,818 | 1,931 | 49 | BSD-3-Clause | 2026-10-17 | High performance, full-stack PHP framework delivered as a C extension. |
 | 78 | [tennc/webshell](https://github.com/tennc/webshell) | 10,793 | 5,544 | 0 | MIT | 2024-12-24 | This is a webshell open source project |
-| 79 | [mautic/mautic](https://github.com/mautic/mautic) | 10,791 | 3,499 | 303 | NOASSERTION | 2026-10-16 | Mautic: Open Source Marketing Automation Software. |
+| 79 | [mautic/mautic](https://github.com/mautic/mautic) | 10,792 | 3,499 | 303 | NOASSERTION | 2026-10-16 | Mautic: Open Source Marketing Automation Software. |
 | 80 | [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) | 10,766 | 1,443 | 248 | BSD-3-Clause | 2024-04-01 | PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. |
 | 81 | [mockery/mockery](https://github.com/mockery/mockery) | 10,723 | 471 | 96 | BSD-3-Clause | 2026-10-18 | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other... |
 | 82 | [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) | 10,677 | 2,597 | 18 | MIT | 2026-08-11 | Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent str... |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **6,450,257** total repositories matching `langu
 | 96 | [bobthecow/psysh](https://github.com/bobthecow/psysh) | 9,829 | 329 | 9 | MIT | 2026-10-18 | A REPL for PHP |
 | 97 | [symfony/console](https://github.com/symfony/console) | 9,814 | 272 | 0 | MIT | 2026-10-18 | Eases the creation of beautiful and testable command line interfaces |
 | 98 | [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) | 9,811 | 3,529 | 15 | Apache-2.0 | 2026-09-25 | A PHP client library for accessing Google APIs |
-| 99 | [doctrine/dbal](https://github.com/doctrine/dbal) | 9,698 | 1,373 | 312 | MIT | 2026-10-08 | Doctrine Database Abstraction Layer |
-| 100 | [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | 9,442 | 1,622 | 35 | MIT | 2026-10-03 | ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profi... |
+| 99 | [doctrine/dbal](https://github.com/doctrine/dbal) | 9,699 | 1,373 | 312 | MIT | 2026-10-08 | Doctrine Database Abstraction Layer |
+| 100 | [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | 9,442 | 1,622 | 33 | MIT | 2026-10-03 | ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profi... |
