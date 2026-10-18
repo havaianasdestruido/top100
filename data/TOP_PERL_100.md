@@ -1,10 +1,10 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **188,860** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **188,859** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,605 | 1,124 | 27 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,606 | 1,124 | 27 | GPL-2.0 | 2026-09-20 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,797 | 2,110 | 173 | — | 2024-10-20 | Stack trace visualizer |
 | 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,103 | 349 | 1 | MIT | 2026-10-15 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
 | 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,780 | 1,467 | 0 | NOASSERTION | 2026-10-15 | Nikto web server scanner |
@@ -17,10 +17,10 @@ Ranked by stars. GitHub reports **188,860** total repositories matching `languag
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,409 | 554 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,205 | 2,075 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
 | 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,070 | 379 | 25 | PostgreSQL | 2026-10-05 | A fast PostgreSQL Log Analyzer |
-| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,968 | 217 | 656 | BSD-3-Clause | 2026-10-18 | A terminal for iOS, with multiple windows |
+| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 3,968 | 217 | 657 | BSD-3-Clause | 2026-10-18 | A terminal for iOS, with multiple windows |
 | 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,892 | 350 | 163 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
-| 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,688 | 272 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
-| 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,563 | 401 | 144 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
+| 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,687 | 272 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
+| 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,565 | 401 | 144 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
 | 18 | [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) | 3,472 | 311 | 36 | — | 2024-04-24 |  |
 | 19 | [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) | 3,446 | 378 | 139 | GPL-3.0 | 2026-10-13 | Client for PPP+TLS VPN tunnel services |
 | 20 | [curl/trurl](https://github.com/curl/trurl) | 3,359 | 118 | 6 | NOASSERTION | 2026-10-01 | a command line tool for URL parsing and manipulation. |
@@ -34,9 +34,9 @@ Ranked by stars. GitHub reports **188,860** total repositories matching `languag
 | 28 | [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) | 2,674 | 511 | 13 | MIT | 2025-04-21 | Th3Inspector 🕵️ Best Tool For Information Gathering 🔎 |
 | 29 | [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2,552 | 247 | 0 | GPL-3.0 | 2025-05-04 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds |
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,486 | 721 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
-| 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,398 | 341 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
+| 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,399 | 341 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 755 | 75 | MIT | 2018-10-14 |  |
-| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,346 | 647 | 2,369 | NOASSERTION | 2026-10-18 | 🐪 The Perl programming language |
+| 33 | [Perl/perl5](https://github.com/Perl/perl5) | 2,346 | 647 | 2,365 | NOASSERTION | 2026-10-18 | 🐪 The Perl programming language |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,269 | 340 | 11 | CC-BY-4.0 | 2026-10-01 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,199 | 136 | 44 | NOASSERTION | 2026-09-29 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,162 | 141 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
@@ -99,8 +99,8 @@ Ranked by stars. GitHub reports **188,860** total repositories matching `languag
 | 93 | [munin-monitoring/contrib](https://github.com/munin-monitoring/contrib) | 1,047 | 664 | 58 | — | 2026-09-24 | Contributed stuff for munin (plugins, tools, etc...) |
 | 94 | [idevz/vanilla](https://github.com/idevz/vanilla) | 1,039 | 215 | 3 | MIT | 2019-01-09 | An OpenResty Lua MVC Web Framework |
 | 95 | [webfrogs/xcode_shell](https://github.com/webfrogs/xcode_shell) | 1,032 | 389 | 1 | — | 2019-09-07 | shell script that used to auto-build xcode project |
-| 96 | [rjust/defects4j](https://github.com/rjust/defects4j) | 1,005 | 384 | 57 | MIT | 2026-04-07 | A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering... |
-| 97 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util) | 1,004 | 113 | 0 | NOASSERTION | 2020-03-30 | Tools for Linux/Unix sysadmins. |
-| 98 | [sipwise/rtpengine](https://github.com/sipwise/rtpengine) | 996 | 464 | 120 | GPL-3.0 | 2026-10-16 | The Sipwise media proxy for Kamailio |
+| 96 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util) | 1,004 | 113 | 0 | NOASSERTION | 2020-03-30 | Tools for Linux/Unix sysadmins. |
+| 97 | [rjust/defects4j](https://github.com/rjust/defects4j) | 1,004 | 385 | 57 | MIT | 2026-04-07 | A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering... |
+| 98 | [sipwise/rtpengine](https://github.com/sipwise/rtpengine) | 996 | 465 | 120 | GPL-3.0 | 2026-10-16 | The Sipwise media proxy for Kamailio |
 | 99 | [tseemann/prokka](https://github.com/tseemann/prokka) | 995 | 238 | 246 | GPL-3.0 | 2026-01-06 | :zap: :aquarius: Rapid prokaryotic genome annotation |
 | 100 | [duncs/clusterssh](https://github.com/duncs/clusterssh) | 988 | 75 | 29 | — | 2026-04-28 | Cluster SSH - Cluster Admin Via SSH |
