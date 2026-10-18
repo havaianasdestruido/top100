@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,663** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,665** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Ranked by stars. GitHub reports **4,663** total repositories matching `language:
 | 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 82 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
-| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 62 | 29 | 1 | MIT | 2026-10-13 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
+| 21 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 62 | 29 | 1 | MIT | 2026-10-18 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 22 | [TrinityCore/TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | 59 | 111 | 0 | — | 2014-10-18 | If you are looking for TDB for 4.3.4 go to: |
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 51 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
@@ -99,8 +99,8 @@ Ranked by stars. GitHub reports **4,663** total repositories matching `language:
 | 93 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
 | 94 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
 | 95 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
-| 96 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
-| 97 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
-| 98 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-06 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
-| 99 | [theammarngp-makes/olist-sales-analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | 7 | 1 | 0 | MIT | 2026-10-06 | Analyzed Olist e-commerce data using SQL and built a Tableau dashboard to identify revenue trends, top categories, an... |
-| 100 | [GiuseppeBellamacina/DentistBase](https://github.com/GiuseppeBellamacina/DentistBase) | 7 | 0 | 0 | — | 2024-11-05 |  |
+| 96 | [vincentclee/mh370_satellite_data_communication_logs](https://github.com/vincentclee/mh370_satellite_data_communication_logs) | 8 | 5 | 0 | — | 2014-05-31 | Data from communications between Inmarsat satellites and the missing Boeing 777 Malaysia Airlines Flight MH370 (9M-MRO) |
+| 97 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
+| 98 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
+| 99 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-06 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
+| 100 | [theammarngp-makes/olist-sales-analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | 7 | 1 | 0 | MIT | 2026-10-06 | Analyzed Olist e-commerce data using SQL and built a Tableau dashboard to identify revenue trends, top categories, an... |

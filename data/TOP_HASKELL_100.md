@@ -1,14 +1,14 @@
 # Top 100 Haskell repositories on GitHub
 
-Ranked by stars. GitHub reports **164,690** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **164,691** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,615 | 6,853 | 1,044 | GPL-2.0 | 2026-10-17 | Universal markup converter |
-| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,185 | 1,962 | 1,088 | GPL-3.0 | 2026-10-18 | ShellCheck, a static analysis tool for shell scripts |
-| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,720 | 1,234 | 411 | MIT | 2026-10-17 | REST API for any Postgres database |
-| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,576 | 1,366 | 1,297 | AGPL-3.0 | 2026-10-17 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
-| 5 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12,481 | 510 | 194 | GPL-3.0 | 2026-10-14 | Dockerfile linter, validate inline bash, written in Haskell |
+| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,619 | 6,853 | 1,044 | GPL-2.0 | 2026-10-17 | Universal markup converter |
+| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,186 | 1,962 | 1,088 | GPL-3.0 | 2026-10-18 | ShellCheck, a static analysis tool for shell scripts |
+| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,721 | 1,234 | 411 | MIT | 2026-10-17 | REST API for any Postgres database |
+| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,575 | 1,366 | 1,297 | AGPL-3.0 | 2026-10-18 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
+| 5 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12,482 | 510 | 194 | GPL-3.0 | 2026-10-14 | Dockerfile linter, validate inline bash, written in Haskell |
 | 6 | [github/semantic](https://github.com/github/semantic) | 9,045 | 469 | 0 | — | 2025-04-01 | Parsing, analyzing, and comparing source code across many languages |
 | 7 | [purescript/purescript](https://github.com/purescript/purescript) | 8,912 | 574 | 308 | NOASSERTION | 2026-10-14 | A strongly-typed language that compiles to JavaScript |
 | 8 | [elm/compiler](https://github.com/elm/compiler) | 7,914 | 690 | 306 | BSD-3-Clause | 2026-10-02 | Compiler for Elm, a functional language for reliable webapps. |
@@ -16,7 +16,7 @@ Ranked by stars. GitHub reports **164,690** total repositories matching `languag
 | 10 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,069 | 188 | 144 | Apache-2.0 | 2026-10-16 | A statically typed lisp, without a GC, for real-time applications. |
 | 11 | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 5,362 | 225 | 286 | MIT | 2026-10-17 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm p... |
 | 12 | [kmonad/kmonad](https://github.com/kmonad/kmonad) | 5,078 | 339 | 210 | MIT | 2026-06-15 | An advanced keyboard manager |
-| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,770 | 417 | 317 | GPL-3.0 | 2026-10-17 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
+| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,770 | 417 | 317 | GPL-3.0 | 2026-10-18 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
 | 14 | [facebook/Haxl](https://github.com/facebook/Haxl) | 4,368 | 310 | 8 | BSD-3-Clause | 2026-03-15 | A Haskell library that simplifies access to remote data, such as databases or web-based services. |
 | 15 | [facebook/duckling](https://github.com/facebook/duckling) | 4,322 | 738 | 140 | NOASSERTION | 2026-03-15 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. |
 | 16 | [system-f/fp-course](https://github.com/system-f/fp-course) | 4,245 | 1,192 | 16 | — | 2025-10-07 | Functional Programming Course |
@@ -31,9 +31,9 @@ Ranked by stars. GitHub reports **164,690** total repositories matching `languag
 | 25 | [crytic/echidna](https://github.com/crytic/echidna) | 3,185 | 437 | 105 | AGPL-3.0 | 2026-10-15 | Ethereum smart contract fuzzer |
 | 26 | [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) | 3,174 | 762 | 83 | Apache-2.0 | 2026-10-18 | The core component that is used to participate in a Cardano decentralised blockchain. |
 | 27 | [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) | 2,965 | 469 | 580 | Apache-2.0 | 2026-10-14 | Official Haskell IDE support via the language server protocol (LSP) |
-| 28 | [agda/agda](https://github.com/agda/agda) | 2,941 | 431 | 1,042 | NOASSERTION | 2026-10-17 | Agda is a dependently typed programming language / interactive theorem prover. |
+| 28 | [agda/agda](https://github.com/agda/agda) | 2,941 | 431 | 1,041 | NOASSERTION | 2026-10-17 | Agda is a dependently typed programming language / interactive theorem prover. |
 | 29 | [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) | 2,875 | 428 | 123 | NOASSERTION | 2026-10-09 | A static website compiler library in Haskell |
-| 30 | [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) | 2,844 | 272 | 113 | GPL-3.0 | 2025-06-13 | Pattern language |
+| 30 | [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) | 2,845 | 272 | 113 | GPL-3.0 | 2025-06-13 | Pattern language |
 | 31 | [diku-dk/futhark](https://github.com/diku-dk/futhark) | 2,813 | 211 | 71 | ISC | 2026-10-17 | :boom::computer::boom: A data-parallel functional programming language |
 | 32 | [wireapp/wire-server](https://github.com/wireapp/wire-server) | 2,781 | 332 | 169 | AGPL-3.0 | 2026-10-16 | 🇪🇺 Wire back-end services |
 | 33 | [jaspervdj/patat](https://github.com/jaspervdj/patat) | 2,746 | 66 | 23 | GPL-2.0 | 2026-06-25 | Terminal-based presentations using Pandoc |
@@ -50,13 +50,13 @@ Ranked by stars. GitHub reports **164,690** total repositories matching `languag
 | 44 | [dapphub/dapptools](https://github.com/dapphub/dapptools) | 2,121 | 320 | 171 | — | 2025-02-25 | Dapp, Seth, Hevm, and more |
 | 45 | [ekmett/lens](https://github.com/ekmett/lens) | 2,110 | 274 | 91 | NOASSERTION | 2026-10-14 | Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens |
 | 46 | [haskell-servant/servant](https://github.com/haskell-servant/servant) | 1,967 | 429 | 299 | — | 2026-10-07 | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more! |
-| 47 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 1,962 | 83 | 41 | AGPL-3.0 | 2026-10-17 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
+| 47 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 1,962 | 83 | 41 | AGPL-3.0 | 2026-10-18 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
 | 48 | [tweag/asterius](https://github.com/tweag/asterius) | 1,948 | 56 | 137 | — | 2022-11-14 | DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc |
-| 49 | [fosskers/aura](https://github.com/fosskers/aura) | 1,917 | 122 | 64 | GPL-3.0 | 2026-02-05 | A multilingual package manager for Arch Linux and the AUR. |
+| 49 | [fosskers/aura](https://github.com/fosskers/aura) | 1,916 | 122 | 64 | GPL-3.0 | 2026-02-05 | A multilingual package manager for Arch Linux and the AUR. |
 | 50 | [lamdu/lamdu](https://github.com/lamdu/lamdu) | 1,894 | 77 | 25 | GPL-3.0 | 2026-09-25 | lamdu - towards the next generation IDE |
 | 51 | [nmattia/niv](https://github.com/nmattia/niv) | 1,864 | 75 | 87 | MIT | 2026-09-11 | Easy dependency management for Nix projects |
 | 52 | [BurntSushi/erd](https://github.com/BurntSushi/erd) | 1,863 | 153 | 19 | Unlicense | 2024-09-09 | Translates a plain text description of a relational database schema to a graphical entity-relationship diagram. |
-| 53 | [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) | 1,782 | 74 | 54 | BSD-3-Clause | 2023-10-03 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects |
+| 53 | [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) | 1,783 | 74 | 54 | BSD-3-Clause | 2023-10-03 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects |
 | 54 | [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1,777 | 391 | 58 | MIT | 2023-11-08 | Informative git prompt for zsh |
 | 55 | [scotty-web/scotty](https://github.com/scotty-web/scotty) | 1,774 | 134 | 29 | BSD-3-Clause | 2026-06-26 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |
 | 56 | [haskell/cabal](https://github.com/haskell/cabal) | 1,745 | 760 | 1,979 | NOASSERTION | 2026-10-17 | Official upstream development repository for Cabal and cabal-install |
@@ -70,7 +70,7 @@ Ranked by stars. GitHub reports **164,690** total repositories matching `languag
 | 64 | [ndmitchell/hlint](https://github.com/ndmitchell/hlint) | 1,613 | 212 | 316 | NOASSERTION | 2026-09-26 | Haskell source code suggestions |
 | 65 | [tensorflow/haskell](https://github.com/tensorflow/haskell) | 1,601 | 195 | 39 | Apache-2.0 | 2024-08-15 | Haskell bindings for TensorFlow |
 | 66 | [huangzworks/real-world-haskell-cn](https://github.com/huangzworks/real-world-haskell-cn) | 1,571 | 227 | 27 | — | 2022-02-14 | 《Real World Haskell》中文翻译项目 |
-| 67 | [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) | 1,562 | 64 | 0 | MPL-2.0 | 2023-07-09 | 📜 Haskell course info, plan, video lectures, slides |
+| 67 | [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) | 1,563 | 64 | 0 | MPL-2.0 | 2023-07-09 | 📜 Haskell course info, plan, video lectures, slides |
 | 68 | [srid/neuron](https://github.com/srid/neuron) | 1,560 | 145 | 23 | AGPL-3.0 | 2026-09-28 | Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote) |
 | 69 | [yi-editor/yi](https://github.com/yi-editor/yi) | 1,549 | 196 | 222 | GPL-2.0 | 2024-11-01 | The Haskell-Scriptable Editor |
 | 70 | [erebe/greenclip](https://github.com/erebe/greenclip) | 1,536 | 39 | 9 | BSD-3-Clause | 2025-03-22 | Simple clipboard manager to be integrated with rofi - Static binary available |
@@ -86,7 +86,7 @@ Ranked by stars. GitHub reports **164,690** total repositories matching `languag
 | 80 | [haskell/aeson](https://github.com/haskell/aeson) | 1,305 | 338 | 82 | NOASSERTION | 2026-10-02 | A fast Haskell JSON library |
 | 81 | [faylang/fay](https://github.com/faylang/fay) | 1,285 | 86 | 24 | BSD-3-Clause | 2021-06-09 | A proper subset of Haskell that compiles to JavaScript |
 | 82 | [google/codeworld](https://github.com/google/codeworld) | 1,270 | 201 | 312 | Apache-2.0 | 2026-01-25 | Educational computer programming environment using Haskell |
-| 83 | [GaloisInc/cryptol](https://github.com/GaloisInc/cryptol) | 1,224 | 129 | 255 | BSD-3-Clause | 2026-10-15 | Cryptol: The Language of Cryptography |
+| 83 | [GaloisInc/cryptol](https://github.com/GaloisInc/cryptol) | 1,225 | 129 | 255 | BSD-3-Clause | 2026-10-15 | Cryptol: The Language of Cryptography |
 | 84 | [fullstack-development/developers-roadmap](https://github.com/fullstack-development/developers-roadmap) | 1,221 | 259 | 57 | — | 2025-08-26 | How to learn front-end or back-end development |
 | 85 | [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) | 1,216 | 127 | 89 | NOASSERTION | 2026-08-19 | Tensors and neural networks in Haskell |
 | 86 | [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) | 1,201 | 117 | 119 | NOASSERTION | 2026-10-01 | Very low feature GHCi based IDE |
