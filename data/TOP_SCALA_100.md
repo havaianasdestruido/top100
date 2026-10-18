@@ -5,45 +5,45 @@ Ranked by stars. GitHub reports **260,494** total repositories matching `languag
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 73,978 | 13,256 | 526 | AGPL-3.0 | 2025-09-08 | Source code for the X Recommendation Algorithm |
-| 2 | [apache/spark](https://github.com/apache/spark) | 44,235 | 29,458 | 694 | Apache-2.0 | 2026-10-17 | Apache Spark - A unified analytics engine for large-scale data processing |
-| 3 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18,851 | 2,836 | 1,290 | AGPL-3.0 | 2026-10-17 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
+| 2 | [apache/spark](https://github.com/apache/spark) | 44,235 | 29,457 | 689 | Apache-2.0 | 2026-10-17 | Apache Spark - A unified analytics engine for large-scale data processing |
+| 3 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18,851 | 2,835 | 1,290 | AGPL-3.0 | 2026-10-17 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
 | 4 | [prisma/prisma1](https://github.com/prisma/prisma1) | 16,372 | 838 | 2 | Apache-2.0 | 2022-09-01 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated] |
-| 5 | [scala/scala](https://github.com/scala/scala) | 14,566 | 3,206 | 23 | Apache-2.0 | 2026-10-17 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/sc... |
+| 5 | [scala/scala](https://github.com/scala/scala) | 14,567 | 3,206 | 23 | Apache-2.0 | 2026-10-17 | Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/sc... |
 | 6 | [akka/akka-core](https://github.com/akka/akka-core) | 13,281 | 3,531 | 901 | NOASSERTION | 2026-10-16 | A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments. |
 | 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12,619 | 4,010 | 486 | Apache-2.0 | 2026-10-17 | The Community Maintained High Velocity Web Framework For Java and Scala. |
 | 8 | [apache/predictionio](https://github.com/apache/predictionio) | 12,515 | 1,892 | 80 | Apache-2.0 | 2021-01-09 | PredictionIO, a machine learning server for developers and ML engineers. |
-| 9 | [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12,203 | 583 | 274 | GPL-3.0 | 2025-01-19 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala |
+| 9 | [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) | 12,202 | 583 | 274 | GPL-3.0 | 2025-01-19 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala |
 | 10 | [yahoo/CMAK](https://github.com/yahoo/CMAK) | 11,917 | 2,469 | 521 | Apache-2.0 | 2023-08-02 | CMAK is a tool for managing Apache Kafka clusters |
 | 11 | [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) | 9,404 | 1,264 | 328 | Apache-2.0 | 2026-10-10 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility |
 | 12 | [delta-io/delta](https://github.com/delta-io/delta) | 9,047 | 2,200 | 990 | Apache-2.0 | 2026-10-17 | An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark,... |
 | 13 | [twitter/finagle](https://github.com/twitter/finagle) | 8,868 | 1,427 | 65 | Apache-2.0 | 2026-08-13 | A fault tolerant, protocol-agnostic RPC system |
 | 14 | [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) | 7,754 | 1,109 | 4 | — | 2020-07-22 | Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees. |
-| 15 | [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7,317 | 962 | 329 | MulanPSL-2.0 | 2026-10-17 | Open-source high-performance RISC-V processor |
+| 15 | [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) | 7,318 | 962 | 329 | MulanPSL-2.0 | 2026-10-17 | Open-source high-performance RISC-V processor |
 | 16 | [snowplow/snowplow](https://github.com/snowplow/snowplow) | 7,041 | 1,171 | 59 | Apache-2.0 | 2026-06-26 | The leader in Customer Data Infrastructure |
 | 17 | [gatling/gatling](https://github.com/gatling/gatling) | 6,955 | 1,208 | 18 | Apache-2.0 | 2026-10-16 | Modern Load Testing as Code |
 | 18 | [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) | 6,887 | 294 | 73 | Apache-2.0 | 2024-01-31 | Arnold Schwarzenegger based programming language |
 | 19 | [apache/openwhisk](https://github.com/apache/openwhisk) | 6,805 | 1,178 | 437 | Apache-2.0 | 2026-09-08 | Apache OpenWhisk is an open source serverless cloud platform |
 | 20 | [scala/scala3](https://github.com/scala/scala3) | 6,322 | 1,181 | 1,824 | Apache-2.0 | 2026-10-16 | The Scala 3 compiler, also known as Dotty. |
 | 21 | [guardian/frontend](https://github.com/guardian/frontend) | 5,899 | 575 | 201 | NOASSERTION | 2026-10-16 | The Guardian DotCom. |
-| 22 | [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala) | 5,878 | 3,041 | 130 | MIT | 2024-12-11 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" |
+| 22 | [fpinscala/fpinscala](https://github.com/fpinscala/fpinscala) | 5,877 | 3,041 | 130 | MIT | 2024-12-11 | Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" |
 | 23 | [typelevel/cats](https://github.com/typelevel/cats) | 5,474 | 1,242 | 279 | NOASSERTION | 2026-10-17 | Lightweight, modular, and extensible library for functional programming. |
 | 24 | [linkerd/linkerd](https://github.com/linkerd/linkerd) | 5,307 | 493 | 147 | Apache-2.0 | 2023-03-04 | Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x. |
 | 25 | [microsoft/SynapseML](https://github.com/microsoft/SynapseML) | 5,247 | 868 | 143 | MIT | 2026-10-16 | Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark |
-| 26 | [sbt/sbt](https://github.com/sbt/sbt) | 4,954 | 1,052 | 483 | Apache-2.0 | 2026-10-17 | sbt, the interactive build tool |
+| 26 | [sbt/sbt](https://github.com/sbt/sbt) | 4,954 | 1,052 | 484 | Apache-2.0 | 2026-10-17 | sbt, the interactive build tool |
 | 27 | [chipsalliance/chisel](https://github.com/chipsalliance/chisel) | 4,811 | 664 | 522 | Apache-2.0 | 2026-10-17 | Chisel: A Modern Hardware Design Language |
 | 28 | [airbnb/aerosolve](https://github.com/airbnb/aerosolve) | 4,808 | 562 | 10 | Apache-2.0 | 2025-11-06 | A machine learning package built for humans. |
 | 29 | [scala-js/scala-js](https://github.com/scala-js/scala-js) | 4,709 | 405 | 49 | Apache-2.0 | 2026-10-13 | Scala.js, the Scala to JavaScript compiler |
 | 30 | [scala-native/scala-native](https://github.com/scala-native/scala-native) | 4,696 | 398 | 380 | NOASSERTION | 2026-10-16 | Your favorite language gets closer to bare metal. |
 | 31 | [scalaz/scalaz](https://github.com/scalaz/scalaz) | 4,669 | 696 | 154 | NOASSERTION | 2026-10-16 | Principled Functional Programming in Scala |
-| 32 | [zio/zio](https://github.com/zio/zio) | 4,427 | 1,587 | 189 | Apache-2.0 | 2026-10-17 | ZIO — A type-safe, composable library for async and concurrent programming in Scala |
+| 32 | [zio/zio](https://github.com/zio/zio) | 4,427 | 1,587 | 190 | Apache-2.0 | 2026-10-18 | ZIO — A type-safe, composable library for async and concurrent programming in Scala |
 | 33 | [mesos/chronos](https://github.com/mesos/chronos) | 4,374 | 518 | 232 | Apache-2.0 | 2022-06-29 | Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules |
 | 34 | [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) | 4,160 | 743 | 35 | Apache-2.0 | 2026-10-14 | State of the Art Natural Language Processing |
 | 35 | [d2iq-archive/marathon](https://github.com/d2iq-archive/marathon) | 4,025 | 829 | 29 | Apache-2.0 | 2022-09-08 | Deploy and manage containers (including Docker) on top of Apache Mesos at scale. |
 | 36 | [TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive) | 3,947 | 703 | 834 | AGPL-3.0 | 2025-07-25 | TheHive is a Collaborative Case Management Platform, now distributed as a commercial version |
 | 37 | [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip) | 3,888 | 1,304 | 358 | NOASSERTION | 2026-09-13 | Rocket Chip Generator |
-| 38 | [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | 3,809 | 359 | 5 | Apache-2.0 | 2020-07-01 | Find potential bugs in your services with Diffy |
+| 38 | [twitter-archive/diffy](https://github.com/twitter-archive/diffy) | 3,808 | 359 | 5 | Apache-2.0 | 2020-07-01 | Find potential bugs in your services with Diffy |
 | 39 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3,650 | 585 | 61 | Apache-2.0 | 2026-10-13 | Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in lar... |
-| 40 | [joernio/joern](https://github.com/joernio/joern) | 3,581 | 471 | 300 | Apache-2.0 | 2026-10-17 | Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Disc... |
+| 40 | [joernio/joern](https://github.com/joernio/joern) | 3,581 | 471 | 302 | Apache-2.0 | 2026-10-17 | Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Disc... |
 | 41 | [Netflix/atlas](https://github.com/Netflix/atlas) | 3,572 | 358 | 9 | Apache-2.0 | 2026-10-15 | In-memory dimensional time series database. |
 | 42 | [twitter/scalding](https://github.com/twitter/scalding) | 3,522 | 697 | 317 | Apache-2.0 | 2023-05-28 | A Scala API for Cascading |
 | 43 | [lw-lin/CoolplaySpark](https://github.com/lw-lin/CoolplaySpark) | 3,473 | 1,376 | 35 | — | 2022-05-18 | 酷玩 Spark: Spark 源代码解析、Spark 类库等 |
@@ -58,7 +58,7 @@ Ranked by stars. GitHub reports **260,494** total repositories matching `languag
 | 52 | [twitter-archive/kestrel](https://github.com/twitter-archive/kestrel) | 2,752 | 307 | 24 | NOASSERTION | 2016-01-22 | simple, distributed message queue system (inactive) |
 | 53 | [aditya-grover/node2vec](https://github.com/aditya-grover/node2vec) | 2,741 | 904 | 95 | MIT | 2022-07-21 |  |
 | 54 | [twitter/util](https://github.com/twitter/util) | 2,719 | 569 | 16 | Apache-2.0 | 2025-12-08 | Wonderful reusable code from Twitter |
-| 55 | [slick/slick](https://github.com/slick/slick) | 2,665 | 608 | 410 | BSD-2-Clause | 2026-10-17 | Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala |
+| 55 | [slick/slick](https://github.com/slick/slick) | 2,665 | 608 | 410 | BSD-2-Clause | 2026-10-18 | Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala |
 | 56 | [scalatra/scalatra](https://github.com/scalatra/scalatra) | 2,648 | 334 | 72 | NOASSERTION | 2026-10-13 | Tiny Scala high-performance, async web framework, inspired by Sinatra |
 | 57 | [scala-exercises/scala-exercises](https://github.com/scala-exercises/scala-exercises) | 2,644 | 534 | 70 | Apache-2.0 | 2025-09-23 | The easy way to learn Scala. |
 | 58 | [spotify/scio](https://github.com/spotify/scio) | 2,631 | 537 | 134 | Apache-2.0 | 2026-10-16 | A Scala API for Apache Beam and Google Cloud Dataflow. |
@@ -71,7 +71,7 @@ Ranked by stars. GitHub reports **260,494** total repositories matching `languag
 | 65 | [typelevel/fs2](https://github.com/typelevel/fs2) | 2,454 | 633 | 148 | NOASSERTION | 2026-10-17 | Compositional, streaming I/O library for Scala |
 | 66 | [metarank/metarank](https://github.com/metarank/metarank) | 2,453 | 110 | 114 | Apache-2.0 | 2026-10-06 | A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that... |
 | 67 | [ucb-bar/chipyard](https://github.com/ucb-bar/chipyard) | 2,424 | 926 | 201 | BSD-3-Clause | 2026-10-17 | An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more |
-| 68 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2,370 | 1,027 | 540 | Apache-2.0 | 2026-10-16 | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. |
+| 68 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2,370 | 1,028 | 541 | Apache-2.0 | 2026-10-16 | Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses. |
 | 69 | [scalameta/metals](https://github.com/scalameta/metals) | 2,334 | 446 | 283 | Apache-2.0 | 2026-10-11 | Scala language server with rich IDE features 🚀 |
 | 70 | [twitter/algebird](https://github.com/twitter/algebird) | 2,294 | 346 | 117 | Apache-2.0 | 2025-11-21 | Abstract Algebra for Scala |
 | 71 | [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) | 2,278 | 398 | 46 | BSD-3-Clause | 2026-06-02 | TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machin... |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **260,494** total repositories matching `languag
 | 88 | [feathr-ai/feathr](https://github.com/feathr-ai/feathr) | 1,946 | 247 | 165 | Apache-2.0 | 2024-04-04 | Feathr – A scalable, unified data and AI engineering platform for enterprise |
 | 89 | [monix/monix](https://github.com/monix/monix) | 1,930 | 244 | 81 | Apache-2.0 | 2026-10-12 | Asynchronous, Reactive Programming for Scala and Scala.js. |
 | 90 | [byzer-org/byzer-lang](https://github.com/byzer-org/byzer-lang) | 1,835 | 537 | 121 | Apache-2.0 | 2024-05-29 | Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI. |
-| 91 | [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | 1,772 | 100 | 35 | GPL-3.0 | 2026-10-17 | Steam Play for macOS |
+| 91 | [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | 1,775 | 99 | 34 | GPL-3.0 | 2026-10-18 | Steam Play for macOS |
 | 92 | [typelevel/spire](https://github.com/typelevel/spire) | 1,772 | 239 | 165 | MIT | 2026-07-27 | Powerful new number types and numeric abstractions for Scala. |
 | 93 | [Graphcool/graphcool-framework](https://github.com/Graphcool/graphcool-framework) | 1,754 | 125 | 533 | Apache-2.0 | 2020-09-04 |  |
 | 94 | [foundweekends/giter8](https://github.com/foundweekends/giter8) | 1,751 | 225 | 50 | Apache-2.0 | 2026-10-16 | a command line tool to apply templates defined on GitHub |

@@ -1,13 +1,13 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **216,537** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **216,543** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,386 | 8,197 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,395 | 8,197 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 2 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 32,268 | 4,684 | 3 | MIT | 2024-04-25 | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
 | 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,827 | 2,105 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
-| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,807 | 1,643 | 0 | Apache-2.0 | 2026-10-17 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
+| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,807 | 1,644 | 0 | Apache-2.0 | 2026-10-17 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
 | 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 12,000 | 2,114 | 118 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
 | 6 | [corkami/pics](https://github.com/corkami/pics) | 11,493 | 793 | 5 | — | 2024-02-18 | File formats dissections and more... |
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,745 | 2,711 | 56 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
@@ -15,13 +15,13 @@ Ranked by stars. GitHub reports **216,537** total repositories matching `languag
 | 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,909 | 746 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
 | 10 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | 6,477 | 494 | 208 | Apache-2.0 | 2026-10-01 | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
 | 11 | [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | 5,404 | 431 | 7 | NOASSERTION | 2022-07-18 | Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and rea... |
-| 12 | [below/HelloSilicon](https://github.com/below/HelloSilicon) | 5,009 | 330 | 9 | MIT | 2026-05-15 | An introduction to ARM64 assembly on Apple Silicon Macs |
+| 12 | [below/HelloSilicon](https://github.com/below/HelloSilicon) | 5,006 | 330 | 9 | MIT | 2026-05-15 | An introduction to ARM64 assembly on Apple Silicon Macs |
 | 13 | [pret/pokered](https://github.com/pret/pokered) | 5,000 | 1,334 | 22 | — | 2026-10-06 | Disassembly of Pokémon Red/Blue |
 | 14 | [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) | 4,501 | 520 | 0 | MIT | 2025-09-03 | Microsoft BASIC for 6502 Microprocessor - Version 1.1 |
 | 15 | [xiph/rav1e](https://github.com/xiph/rav1e) | 4,160 | 295 | 256 | BSD-2-Clause | 2026-10-17 | The fastest and safest AV1 encoder. |
 | 16 | [briansmith/ring](https://github.com/briansmith/ring) | 4,107 | 810 | 54 | NOASSERTION | 2026-07-23 | An experiment. |
 | 17 | [ebitengine/purego](https://github.com/ebitengine/purego) | 4,040 | 135 | 35 | Apache-2.0 | 2026-10-17 | A library for calling C functions from Go without Cgo |
-| 18 | [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) | 3,557 | 150 | 2 | NOASSERTION | 2026-02-02 | 📖 An approachable introduction to Assembly. |
+| 18 | [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) | 3,556 | 150 | 2 | NOASSERTION | 2026-02-02 | 📖 An approachable introduction to Assembly. |
 | 19 | [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) | 3,342 | 184 | 2 | NOASSERTION | 2026-04-20 | A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and in... |
 | 20 | [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) | 3,332 | 423 | 91 | NOASSERTION | 2026-08-19 | A cross-platform x86 assembler with an Intel-like syntax |
 | 21 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,308 | 418 | 31 | NOASSERTION | 2026-10-17 | Virtual Apollo Guidance Computer (AGC) software |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **216,537** total repositories matching `languag
 | 42 | [VitorVilela7/wide-snes](https://github.com/VitorVilela7/wide-snes) | 1,710 | 59 | 25 | — | 2023-07-03 | Super Mario World (SNES) Widescreen Project |
 | 43 | [Rangi42/polishedcrystal](https://github.com/Rangi42/polishedcrystal) | 1,672 | 342 | 145 | — | 2026-10-16 | An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content. |
 | 44 | [corkami/pocs](https://github.com/corkami/pocs) | 1,562 | 199 | 7 | — | 2024-12-22 | Proof of Concepts (PE, PDF...) |
-| 45 | [cemu-project/cemu_graphic_packs](https://github.com/cemu-project/cemu_graphic_packs) | 1,470 | 600 | 98 | CC0-1.0 | 2026-10-17 | Community Graphic Packs for Cemu |
+| 45 | [cemu-project/cemu_graphic_packs](https://github.com/cemu-project/cemu_graphic_packs) | 1,470 | 601 | 100 | CC0-1.0 | 2026-10-17 | Community Graphic Packs for Cemu |
 | 46 | [akkartik/mu](https://github.com/akkartik/mu) | 1,431 | 48 | 5 | NOASSERTION | 2026-04-02 | Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient ... |
 | 47 | [donno2048/snake](https://github.com/donno2048/snake) | 1,428 | 44 | 0 | MIT | 2026-10-03 | A 54 bytes snake game in x86 assembly |
 | 48 | [fcambus/spleen](https://github.com/fcambus/spleen) | 1,407 | 38 | 5 | BSD-2-Clause | 2026-10-11 | Monospaced bitmap fonts |
@@ -97,10 +97,10 @@ Ranked by stars. GitHub reports **216,537** total repositories matching `languag
 | 91 | [bytecode77/pe-union](https://github.com/bytecode77/pe-union) | 739 | 144 | 2 | MIT | 2025-06-28 | Crypter, binder & downloader with native & .NET stub, evasive by design, user friendly UI |
 | 92 | [DGivney/assemblytutorials](https://github.com/DGivney/assemblytutorials) | 735 | 128 | 2 | — | 2025-04-08 | This project was put together to teach myself NASM x86 assembly language on linux. |
 | 93 | [openhwfoundation/core-v-verif](https://github.com/openhwfoundation/core-v-verif) | 730 | 330 | 160 | NOASSERTION | 2026-09-14 | Functional verification project for the CORE-V family of RISC-V cores. |
-| 94 | [pret/pokegold](https://github.com/pret/pokegold) | 728 | 206 | 4 | — | 2026-10-06 | Disassembly of Pokémon Gold/Silver |
+| 94 | [pret/pokegold](https://github.com/pret/pokegold) | 728 | 207 | 4 | — | 2026-10-06 | Disassembly of Pokémon Gold/Silver |
 | 95 | [xuhongv/StudyInEsp8266](https://github.com/xuhongv/StudyInEsp8266) | 715 | 428 | 3 | — | 2021-05-28 | 【深度开源】Wi-FI模块esp8266学习之旅（持续更新，欢迎 Star...） |
 | 96 | [sim-/tgy](https://github.com/sim-/tgy) | 711 | 384 | 80 | — | 2023-08-25 | tgy -- Open Source Firmware for ATmega-based Brushless ESCs |
-| 97 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 703 | 233 | 11 | — | 2026-10-17 | Decompilation of Pokemon HeartGold/SoulSilver |
+| 97 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 703 | 233 | 11 | — | 2026-10-18 | Decompilation of Pokemon HeartGold/SoulSilver |
 | 98 | [tsoding/pinpog](https://github.com/tsoding/pinpog) | 699 | 43 | 4 | MIT | 2021-08-27 | Ping-Pong-like game in Assembly that works without OS |
 | 99 | [tuhdo/sample-os](https://github.com/tuhdo/sample-os) | 689 | 87 | 1 | — | 2017-09-12 | A sample OS as demonstrated in the book Operating System: From 0 to 1 |
 | 100 | [Zeal8bit/Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) | 677 | 70 | 6 | Apache-2.0 | 2026-09-19 | An Operating System for Z80 computers, written in assembly |
