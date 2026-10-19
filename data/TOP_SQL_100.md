@@ -1,18 +1,18 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,666** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,672** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,307 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,327 | 432 | 6 | MIT | 2026-10-19 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,327 | 432 | 1 | MIT | 2026-10-19 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 424 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 402 | 167 | 61 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 310 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
-| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 285 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
+| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 286 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 229 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
 | 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 179 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
@@ -53,12 +53,12 @@ Ranked by stars. GitHub reports **4,666** total repositories matching `language:
 | 47 | [ndleah/health-analysis](https://github.com/ndleah/health-analysis) | 16 | 11 | 0 | — | 2021-09-14 | This case study is contained within the Serious SQL course by Danny Ma |
 | 48 | [mennamamdouh/Analysis-of-Video-Games](https://github.com/mennamamdouh/Analysis-of-Video-Games) | 15 | 2 | 0 | — | 2023-03-31 | This repository is for a data analytics project using SQL. The project is about analyzing and getting insights about ... |
 | 49 | [kolorobot/quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | 15 | 15 | 0 | — | 2014-05-21 | Quartz with Clustering JEE demo application |
-| 50 | [bharathguntreddi3/Oracle_DB_SSMS_Development](https://github.com/bharathguntreddi3/Oracle_DB_SSMS_Development) | 14 | 0 | 0 | — | 2022-05-11 | This repo Contains Basic commands and Queries and intro to SQL and Oracle and PLSQL and TOAD ! |
-| 51 | [Flowminder/COVID-19](https://github.com/Flowminder/COVID-19) | 14 | 7 | 5 | MPL-2.0 | 2025-10-10 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
-| 52 | [ITurres/vet-clinic-db](https://github.com/ITurres/vet-clinic-db) | 14 | 0 | 0 | MIT | 2023-08-23 | 🐘PostgreSQL🐘 \| The objective of this project is to cultivate a comprehensive understanding of relational databases a... |
-| 53 | [thatjpcsguy/shorts](https://github.com/thatjpcsguy/shorts) | 14 | 6 | 0 | — | 2014-05-19 | Can i wear shorts today? http://shorts.today |
-| 54 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
-| 55 | [vipul-shinde/people-analytics-cs](https://github.com/vipul-shinde/people-analytics-cs) | 13 | 4 | 0 | MIT | 2021-09-25 | People Analytics Case Study - Serious SQL 🎃 |
+| 50 | [vipul-shinde/people-analytics-cs](https://github.com/vipul-shinde/people-analytics-cs) | 14 | 4 | 0 | MIT | 2021-09-25 | People Analytics Case Study - Serious SQL 🎃 |
+| 51 | [bharathguntreddi3/Oracle_DB_SSMS_Development](https://github.com/bharathguntreddi3/Oracle_DB_SSMS_Development) | 14 | 0 | 0 | — | 2022-05-11 | This repo Contains Basic commands and Queries and intro to SQL and Oracle and PLSQL and TOAD ! |
+| 52 | [Flowminder/COVID-19](https://github.com/Flowminder/COVID-19) | 14 | 7 | 5 | MPL-2.0 | 2025-10-10 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
+| 53 | [ITurres/vet-clinic-db](https://github.com/ITurres/vet-clinic-db) | 14 | 0 | 0 | MIT | 2023-08-23 | 🐘PostgreSQL🐘 \| The objective of this project is to cultivate a comprehensive understanding of relational databases a... |
+| 54 | [thatjpcsguy/shorts](https://github.com/thatjpcsguy/shorts) | 14 | 6 | 0 | — | 2014-05-19 | Can i wear shorts today? http://shorts.today |
+| 55 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
 | 56 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-05-18 | An example HR database for management of company's organization, employees, etc. |
 | 57 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
 | 58 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
