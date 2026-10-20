@@ -1,14 +1,14 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,142,914** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,142,958** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,176 | 292 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
+| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,177 | 292 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
 | 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,015 | 2,125 | 112 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,525 | 1,508 | 29 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,704 | 1,890 | 873 | NOASSERTION | 2026-10-16 | Easy interactive web applications with R |
-| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,184 | 4,440 | 43 | NOASSERTION | 2026-07-18 | R for data science: a book |
+| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,184 | 4,440 | 43 | NOASSERTION | 2026-10-19 | R for data science: a book |
 | 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,076 | 2,110 | 94 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
 | 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,621 | 7,191 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
 | 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,132 | 650 | 22 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
@@ -16,8 +16,8 @@ Ranked by stars. GitHub reports **1,142,914** total repositories matching `langu
 | 10 | [Rdatatable/data.table](https://github.com/Rdatatable/data.table) | 3,928 | 1,060 | 992 | MPL-2.0 | 2026-10-19 | R's data.table package extends data.frame: |
 | 11 | [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3,729 | 2,173 | 35 | — | 2019-05-26 | Code accompanying the book "Machine Learning for Hackers" |
 | 12 | [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) | 3,606 | 760 | 71 | GPL-3.0 | 2019-08-30 | Anomaly Detection with R |
-| 13 | [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) | 3,065 | 991 | 260 | NOASSERTION | 2026-10-16 | Dynamic Documents for R |
-| 14 | [satijalab/seurat](https://github.com/satijalab/seurat) | 2,807 | 999 | 225 | NOASSERTION | 2026-10-19 | R toolkit for single cell genomics |
+| 13 | [rstudio/rmarkdown](https://github.com/rstudio/rmarkdown) | 3,065 | 990 | 260 | NOASSERTION | 2026-10-16 | Dynamic Documents for R |
+| 14 | [satijalab/seurat](https://github.com/satijalab/seurat) | 2,807 | 999 | 226 | NOASSERTION | 2026-10-19 | R toolkit for single cell genomics |
 | 15 | [plotly/plotly.R](https://github.com/plotly/plotly.R) | 2,684 | 640 | 762 | NOASSERTION | 2026-07-25 | An interactive graphing library for R |
 | 16 | [thomasp85/patchwork](https://github.com/thomasp85/patchwork) | 2,616 | 171 | 82 | NOASSERTION | 2025-08-25 | The Composer of ggplots |
 | 17 | [r-lib/devtools](https://github.com/r-lib/devtools) | 2,522 | 761 | 8 | NOASSERTION | 2026-09-30 | Tools to make an R developer's life easier |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **1,142,914** total repositories matching `langu
 | 37 | [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1,749 | 244 | 172 | NOASSERTION | 2026-04-27 | Graph and network visualization using tabular data in R |
 | 38 | [zonination/investing](https://github.com/zonination/investing) | 1,743 | 108 | 0 | MIT | 2016-12-27 | Investing Returns on the Market as a Whole |
 | 39 | [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1,725 | 146 | 19 | — | 2026-06-01 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 |
-| 40 | [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) | 1,688 | 194 | 0 | CC0-1.0 | 2026-10-07 | 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny |
+| 40 | [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) | 1,688 | 195 | 0 | CC0-1.0 | 2026-10-07 | 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny |
 | 41 | [mlr-org/mlr](https://github.com/mlr-org/mlr) | 1,687 | 400 | 15 | NOASSERTION | 2026-10-11 | Machine Learning in R |
 | 42 | [topepo/caret](https://github.com/topepo/caret) | 1,667 | 625 | 246 | — | 2026-08-24 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting class... |
 | 43 | [bbc/bbplot](https://github.com/bbc/bbplot) | 1,644 | 269 | 14 | — | 2021-07-02 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team |
@@ -67,7 +67,7 @@ Ranked by stars. GitHub reports **1,142,914** total repositories matching `langu
 | 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,300 | 203 | 249 | NOASSERTION | 2026-10-16 | Static Code Analysis for R |
 | 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,284 | 89 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,282 | 183 | 6 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
-| 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,273 | 245 | 33 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
+| 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,274 | 245 | 32 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
 | 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 95 | 23 | GPL-3.0 | 2026-10-09 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
 | 66 | [wch/r-source](https://github.com/wch/r-source) | 1,254 | 331 | 3 | GPL-2.0 | 2026-10-19 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on th... |
 | 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,243 | 267 | 251 | — | 2026-10-18 | :bar_chart: A universal enrichment tool for interpreting omics data |
