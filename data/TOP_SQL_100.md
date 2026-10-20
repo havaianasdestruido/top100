@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,674** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,676** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,12 +9,12 @@ Ranked by stars. GitHub reports **4,674** total repositories matching `language:
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 424 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
-| 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 402 | 167 | 61 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
+| 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 402 | 166 | 61 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 310 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 286 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 229 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
-| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 179 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
+| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 180 | 44 | 8 | Apache-2.0 | 2026-09-30 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 11 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
@@ -62,12 +62,12 @@ Ranked by stars. GitHub reports **4,674** total repositories matching `language:
 | 56 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-05-18 | An example HR database for management of company's organization, employees, etc. |
 | 57 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
 | 58 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
-| 59 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
-| 60 | [valencprado/mysql-colinha](https://github.com/valencprado/mysql-colinha) | 13 | 3 | 0 | MIT | 2024-08-22 | Resumos sobre o banco de dados MySQL. |
-| 61 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
-| 62 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
-| 63 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
-| 64 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 12 | 4 | 6 | MIT | 2026-10-19 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
+| 59 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 13 | 4 | 6 | MIT | 2026-10-19 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
+| 60 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
+| 61 | [valencprado/mysql-colinha](https://github.com/valencprado/mysql-colinha) | 13 | 3 | 0 | MIT | 2024-08-22 | Resumos sobre o banco de dados MySQL. |
+| 62 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
+| 63 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
+| 64 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
 | 65 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
 | 66 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
 | 67 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
