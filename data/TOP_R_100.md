@@ -1,17 +1,17 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,143,130** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,143,249** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,178 | 292 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
-| 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,015 | 2,125 | 112 | NOASSERTION | 2026-10-05 | An implementation of the Grammar of Graphics in R |
-| 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,525 | 1,508 | 29 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
+| 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,015 | 2,125 | 113 | NOASSERTION | 2026-10-20 | An implementation of the Grammar of Graphics in R |
+| 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,525 | 1,509 | 30 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,704 | 1,890 | 873 | NOASSERTION | 2026-10-16 | Easy interactive web applications with R |
-| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,185 | 4,440 | 44 | NOASSERTION | 2026-10-19 | R for data science: a book |
+| 5 | [hadley/r4ds](https://github.com/hadley/r4ds) | 5,185 | 4,441 | 45 | NOASSERTION | 2026-10-19 | R for data science: a book |
 | 6 | [tidyverse/dplyr](https://github.com/tidyverse/dplyr) | 5,076 | 2,110 | 94 | NOASSERTION | 2026-06-02 | dplyr: A grammar of data manipulation |
-| 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,620 | 7,191 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
-| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,132 | 650 | 22 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
+| 7 | [swirldev/swirl_courses](https://github.com/swirldev/swirl_courses) | 4,620 | 7,192 | 210 | NOASSERTION | 2024-01-10 | :mortar_board: A collection of interactive courses for the swirl R package. |
+| 8 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4,133 | 651 | 22 | — | 2026-08-20 | A curated list of awesome network analysis resources. |
 | 9 | [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) | 4,105 | 431 | 12 | — | 2022-03-15 | Statistical Rethinking course winter 2022 |
 | 10 | [Rdatatable/data.table](https://github.com/Rdatatable/data.table) | 3,928 | 1,060 | 993 | MPL-2.0 | 2026-10-20 | R's data.table package extends data.frame: |
 | 11 | [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) | 3,729 | 2,173 | 35 | — | 2019-05-26 | Code accompanying the book "Machine Learning for Hackers" |
@@ -26,10 +26,10 @@ Ranked by stars. GitHub reports **1,143,130** total repositories matching `langu
 | 20 | [rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023) | 2,389 | 268 | 13 | CC0-1.0 | 2023-11-28 | Statistical Rethinking Course for Jan-Mar 2023 |
 | 21 | [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 2,206 | 200 | 0 | NOASSERTION | 2026-10-18 | Enhancing {ggplot2} plots with statistical analysis 📊📣 |
 | 22 | [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) | 2,183 | 220 | 48 | — | 2026-09-27 | R Package for 2D and 3D mapping and data visualization |
-| 23 | [genomicsclass/labs](https://github.com/genomicsclass/labs) | 2,178 | 1,949 | 23 | MIT | 2024-02-12 | Rmd source files for the HarvardX series PH525x |
+| 23 | [genomicsclass/labs](https://github.com/genomicsclass/labs) | 2,178 | 1,950 | 24 | MIT | 2024-02-12 | Rmd source files for the HarvardX series PH525x |
 | 24 | [karthik/wesanderson](https://github.com/karthik/wesanderson) | 2,163 | 152 | 23 | NOASSERTION | 2024-06-13 | A Wes Anderson color palette for R |
 | 25 | [rstudio/gt](https://github.com/rstudio/gt) | 2,163 | 228 | 264 | NOASSERTION | 2026-10-15 | Easily generate information-rich, publication-quality tables from R |
-| 26 | [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 2,152 | 875 | 7 | MIT | 2023-03-10 | a curated list of R tutorials for Data Science, NLP and Machine Learning |
+| 26 | [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 2,152 | 876 | 8 | MIT | 2023-03-10 | a curated list of R tutorials for Data Science, NLP and Machine Learning |
 | 27 | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 2,084 | 559 | 2 | MIT | 2026-09-25 | Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database |
 | 28 | [thomasp85/gganimate](https://github.com/thomasp85/gganimate) | 1,984 | 315 | 90 | NOASSERTION | 2025-09-04 | A Grammar of Animated Graphics |
 | 29 | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) | 1,897 | 326 | 12 | MIT | 2022-09-16 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Pyt... |
@@ -43,8 +43,8 @@ Ranked by stars. GitHub reports **1,143,130** total repositories matching `langu
 | 37 | [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) | 1,750 | 244 | 172 | NOASSERTION | 2026-04-27 | Graph and network visualization using tabular data in R |
 | 38 | [zonination/investing](https://github.com/zonination/investing) | 1,744 | 108 | 0 | MIT | 2016-12-27 | Investing Returns on the Market as a Whole |
 | 39 | [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes) | 1,725 | 146 | 19 | — | 2026-06-01 | Comprehensive list of color palettes available in R ❤️🧡💛💚💙💜 |
-| 40 | [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) | 1,688 | 195 | 0 | CC0-1.0 | 2026-10-07 | 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny |
-| 41 | [mlr-org/mlr](https://github.com/mlr-org/mlr) | 1,686 | 400 | 15 | NOASSERTION | 2026-10-11 | Machine Learning in R |
+| 40 | [nanxstats/awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) | 1,688 | 196 | 0 | CC0-1.0 | 2026-10-07 | 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny |
+| 41 | [mlr-org/mlr](https://github.com/mlr-org/mlr) | 1,686 | 401 | 15 | NOASSERTION | 2026-10-11 | Machine Learning in R |
 | 42 | [topepo/caret](https://github.com/topepo/caret) | 1,667 | 625 | 246 | — | 2026-08-24 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting class... |
 | 43 | [bbc/bbplot](https://github.com/bbc/bbplot) | 1,644 | 269 | 14 | — | 2021-07-02 | R package that helps create and export ggplot2 charts in the style used by the BBC News data team |
 | 44 | [hadley/stats337](https://github.com/hadley/stats337) | 1,610 | 223 | 7 | CC-BY-SA-4.0 | 2018-06-21 | Readings in applied data science |
@@ -65,24 +65,24 @@ Ranked by stars. GitHub reports **1,143,130** total repositories matching `langu
 | 59 | [ropensci/drake](https://github.com/ropensci/drake) | 1,344 | 129 | 0 | GPL-3.0 | 2024-12-04 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
 | 60 | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) | 1,340 | 316 | 41 | Apache-2.0 | 2026-05-08 | TensorFlow for R |
 | 61 | [r-lib/lintr](https://github.com/r-lib/lintr) | 1,300 | 203 | 249 | NOASSERTION | 2026-10-16 | Static Code Analysis for R |
-| 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,284 | 89 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
+| 62 | [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer) | 1,286 | 89 | 11 | CC0-1.0 | 2025-01-03 | Color palette package in R inspired by works at the Metropolitan Museum of Art in New York |
 | 63 | [kassambara/ggpubr](https://github.com/kassambara/ggpubr) | 1,282 | 183 | 6 | — | 2026-07-31 | 'ggplot2' Based Publication Ready Plots |
 | 64 | [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae) | 1,274 | 245 | 32 | GPL-3.0 | 2026-08-21 | R Markdown Résumés and CVs |
 | 65 | [slowkow/ggrepel](https://github.com/slowkow/ggrepel) | 1,262 | 95 | 23 | GPL-3.0 | 2026-10-09 | :round_pushpin: Repel overlapping text labels away from each other in your ggplot2 figures. |
 | 66 | [wch/r-source](https://github.com/wch/r-source) | 1,255 | 332 | 3 | GPL-2.0 | 2026-10-20 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on th... |
 | 67 | [YuLab-SMU/clusterProfiler](https://github.com/YuLab-SMU/clusterProfiler) | 1,243 | 267 | 251 | — | 2026-10-18 | :bar_chart: A universal enrichment tool for interpreting omics data |
-| 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,236 | 660 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
+| 68 | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) | 1,237 | 660 | 14 | — | 2022-12-16 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
 | 69 | [swirldev/swirl](https://github.com/swirldev/swirl) | 1,220 | 595 | 326 | NOASSERTION | 2023-10-27 | :cyclone: Learn R, in R. |
 | 70 | [daattali/advanced-shiny](https://github.com/daattali/advanced-shiny) | 1,217 | 379 | 2 | — | 2025-12-21 | 🤹 Shiny tips & tricks for improving your apps and solving common problems |
-| 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,216 | 151 | 21 | NOASSERTION | 2026-10-17 | Presentation-Ready Data Summary and Analytic Result Tables |
+| 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,217 | 151 | 20 | NOASSERTION | 2026-10-17 | Presentation-Ready Data Summary and Analytic Result Tables |
 | 72 | [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,213 | 365 | 0 | MIT | 2026-06-12 | Collection of various algorithms implemented in R. |
 | 73 | [juliasilge/tidytext](https://github.com/juliasilge/tidytext) | 1,205 | 182 | 8 | NOASSERTION | 2026-08-02 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: |
-| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,185 | 337 | 6 | — | 2026-10-17 | Forecasting Functions for Time Series and Linear Models |
+| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,185 | 337 | 8 | — | 2026-10-20 | Forecasting Functions for Time Series and Linear Models |
 | 75 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,175 | 128 | 30 | NOASSERTION | 2026-10-16 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 76 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,173 | 196 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,164 | 169 | 197 | MIT | 2026-10-17 | renv: Project environments for R. |
-| 78 | [easystats/performance](https://github.com/easystats/performance) | 1,161 | 108 | 79 | GPL-3.0 | 2026-10-19 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
-| 79 | [easystats/easystats](https://github.com/easystats/easystats) | 1,161 | 88 | 45 | NOASSERTION | 2026-10-19 | :milky_way: The R easystats-project |
+| 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,162 | 88 | 45 | NOASSERTION | 2026-10-19 | :milky_way: The R easystats-project |
+| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,161 | 108 | 79 | GPL-3.0 | 2026-10-19 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,120 | 114 | 59 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,101 | 86 | 2 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 266 | 358 | — | 2026-10-19 | RStan, the R interface to Stan |
@@ -94,12 +94,12 @@ Ranked by stars. GitHub reports **1,143,130** total repositories matching `langu
 | 88 | [allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins) | 1,020 | 266 | 18 | CC0-1.0 | 2024-09-19 | A great intro dataset for data exploration & visualization (alternative to iris). |
 | 89 | [futureverse/future](https://github.com/futureverse/future) | 1,015 | 94 | 81 | Apache-2.0 | 2026-10-18 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
 | 90 | [MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio) | 989 | 115 | 10 | NOASSERTION | 2026-01-03 | GPT RStudio addins that enable GPT assisted coding, writing & analysis |
-| 91 | [r-lib/httr](https://github.com/r-lib/httr) | 983 | 1,954 | 12 | NOASSERTION | 2026-09-01 | httr: a friendly http package for R |
-| 92 | [klmr/box](https://github.com/klmr/box) | 982 | 49 | 72 | MIT | 2026-08-16 | Write reusable, composable and modular R code |
+| 91 | [klmr/box](https://github.com/klmr/box) | 984 | 49 | 72 | MIT | 2026-08-16 | Write reusable, composable and modular R code |
+| 92 | [r-lib/httr](https://github.com/r-lib/httr) | 983 | 1,954 | 12 | NOASSERTION | 2026-09-01 | httr: a friendly http package for R |
 | 93 | [sparklyr/sparklyr](https://github.com/sparklyr/sparklyr) | 972 | 310 | 356 | Apache-2.0 | 2026-10-06 | R interface for Apache Spark |
 | 94 | [tidyverse/magrittr](https://github.com/tidyverse/magrittr) | 972 | 161 | 28 | NOASSERTION | 2026-04-05 | Improve the readability of R code with the pipe |
 | 95 | [cutterkom/generativeart](https://github.com/cutterkom/generativeart) | 962 | 162 | 5 | GPL-3.0 | 2022-04-27 | Create Generative Art with R |
-| 96 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 959 | 112 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |
+| 96 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 960 | 113 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |
 | 97 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 958 | 108 | 76 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
 | 98 | [easystats/see](https://github.com/easystats/see) | 956 | 48 | 27 | NOASSERTION | 2026-10-20 | :art: Visualisation toolbox for beautiful and publication-ready figures |
 | 99 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 955 | 648 | 65 | NOASSERTION | 2026-10-20 | Building R packages |
