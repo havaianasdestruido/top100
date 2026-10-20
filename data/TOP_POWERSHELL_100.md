@@ -1,99 +1,99 @@
 # Top 100 PowerShell repositories on GitHub
 
-Ranked by stars. GitHub reports **382,879** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **382,978** total repositories matching `language:PowerShell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 64,658 | 3,777 | 67 | MIT | 2026-10-19 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
-| 2 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 60,180 | 2,626 | 50 | MIT | 2026-10-18 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... |
-| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 42,783 | 6,265 | 35 | MIT | 2026-09-22 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
+| 1 | [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | 64,668 | 3,777 | 68 | MIT | 2026-10-20 | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates |
+| 2 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 60,195 | 2,627 | 50 | MIT | 2026-10-18 | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as p... |
+| 3 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 42,790 | 6,267 | 35 | MIT | 2026-09-22 | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
 | 4 | [cmderdev/cmder](https://github.com/cmderdev/cmder) | 27,005 | 2,074 | 74 | MIT | 2026-10-19 | Lovely console emulator package for Windows |
 | 5 | [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) | 24,751 | 1,546 | 509 | NOASSERTION | 2026-10-19 | A command-line installer for Windows. |
-| 6 | [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) | 22,790 | 1,140 | 2 | MIT | 2026-10-18 | SpotX patcher used for patching the desktop version of Spotify |
-| 7 | [dotnet/core](https://github.com/dotnet/core) | 22,050 | 4,931 | 352 | MIT | 2026-10-15 | .NET news, announcements, release notes, and more! |
-| 8 | [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18,805 | 2,052 | 299 | MIT | 2023-03-10 | Script to remove Windows 10 bloatware. |
+| 6 | [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) | 22,792 | 1,140 | 2 | MIT | 2026-10-18 | SpotX patcher used for patching the desktop version of Spotify |
+| 7 | [dotnet/core](https://github.com/dotnet/core) | 22,051 | 4,931 | 352 | MIT | 2026-10-15 | .NET news, announcements, release notes, and more! |
+| 8 | [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | 18,806 | 2,052 | 299 | MIT | 2023-03-10 | Script to remove Windows 10 bloatware. |
 | 9 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | 14,558 | 1,089 | 1 | MIT | 2026-10-19 | Office Tool Plus localization projects. |
 | 10 | [actions/runner-images](https://github.com/actions/runner-images) | 13,505 | 3,939 | 152 | MIT | 2026-10-20 | GitHub Actions runner images |
-| 11 | [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) | 13,406 | 470 | 7 | MIT | 2026-10-17 | Force Remove Copilot, Recall and More in Windows 11 |
-| 12 | [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 13,073 | 4,707 | 102 | NOASSERTION | 2020-08-17 | PowerSploit - A PowerShell Post-Exploitation Framework |
-| 13 | [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) | 11,262 | 9,079 | 286 | NOASSERTION | 2026-10-20 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azur... |
-| 14 | [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) | 10,615 | 1,788 | 93 | GPL-3.0 | 2026-03-02 | Six Degrees of Domain Admin |
+| 11 | [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) | 13,408 | 470 | 7 | MIT | 2026-10-17 | Force Remove Copilot, Recall and More in Windows 11 |
+| 12 | [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | 13,074 | 4,707 | 102 | NOASSERTION | 2020-08-17 | PowerSploit - A PowerShell Post-Exploitation Framework |
+| 13 | [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) | 11,262 | 9,078 | 286 | NOASSERTION | 2026-10-20 | Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azur... |
+| 14 | [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) | 10,616 | 1,788 | 93 | GPL-3.0 | 2026-03-02 | Six Degrees of Domain Admin |
 | 15 | [samratashok/nishang](https://github.com/samratashok/nishang) | 10,160 | 2,541 | 22 | NOASSERTION | 2024-04-25 | Nishang - Offensive PowerShell for red team, penetration testing and offensive security. |
-| 16 | [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9,828 | 643 | 0 | MIT | 2026-10-20 | :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub |
+| 16 | [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) | 9,829 | 643 | 0 | MIT | 2026-10-20 | :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub |
 | 17 | [dotnet/blazor](https://github.com/dotnet/blazor) | 9,253 | 637 | 0 | Apache-2.0 | 2021-02-23 | Blazor moved to https://github.com/dotnet/aspnetcore |
-| 18 | [mandiant/flare-vm](https://github.com/mandiant/flare-vm) | 9,164 | 1,126 | 27 | Apache-2.0 | 2026-10-07 | A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a rev... |
-| 19 | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | 8,515 | 1,169 | 153 | GPL-3.0 | 2026-03-12 | game of active directory |
+| 18 | [mandiant/flare-vm](https://github.com/mandiant/flare-vm) | 9,167 | 1,126 | 27 | Apache-2.0 | 2026-10-07 | A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a rev... |
+| 19 | [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD) | 8,517 | 1,169 | 153 | GPL-3.0 | 2026-03-12 | game of active directory |
 | 20 | [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) | 8,274 | 821 | 118 | MIT | 2024-09-02 | A PowerShell environment for Git |
-| 21 | [EmpireProject/Empire](https://github.com/EmpireProject/Empire) | 7,850 | 2,925 | 101 | BSD-3-Clause | 2020-01-19 | Empire is a PowerShell and Python post-exploitation agent. |
-| 22 | [mandiant/commando-vm](https://github.com/mandiant/commando-vm) | 7,823 | 1,373 | 9 | Apache-2.0 | 2025-10-16 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribut... |
-| 23 | [javaht/claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | 7,794 | 362 | 4 | MIT | 2026-10-18 | Claude Desktop Chinese Patch (macOS & Windows & Linux) |
+| 21 | [EmpireProject/Empire](https://github.com/EmpireProject/Empire) | 7,849 | 2,925 | 101 | BSD-3-Clause | 2020-01-19 | Empire is a PowerShell and Python post-exploitation agent. |
+| 22 | [mandiant/commando-vm](https://github.com/mandiant/commando-vm) | 7,824 | 1,373 | 9 | Apache-2.0 | 2025-10-16 | Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribut... |
+| 23 | [javaht/claude-desktop-zh-cn](https://github.com/javaht/claude-desktop-zh-cn) | 7,793 | 362 | 4 | MIT | 2026-10-18 | Claude Desktop Chinese Patch (macOS & Windows & Linux) |
 | 24 | [jenkinsci/docker](https://github.com/jenkinsci/docker) | 7,670 | 4,577 | 21 | MIT | 2026-10-20 | Docker official jenkins repo |
 | 25 | [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) | 7,154 | 893 | 66 | — | 2024-06-15 | Repository for my flipper zero badUSB payloads. Now almost entirely plug and play. |
 | 26 | [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) | 6,353 | 316 | 24 | MIT | 2025-10-03 | Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality. |
 | 27 | [k8gege/K8tools](https://github.com/k8gege/K8tools) | 6,235 | 2,050 | 10 | MIT | 2025-01-25 | K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/P... |
 | 28 | [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | 6,138 | 783 | 43 | NOASSERTION | 2025-09-23 | A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps |
-| 29 | [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) | 6,128 | 1,689 | 58 | — | 2026-09-01 | The Official USB Rubber Ducky Payload Repository |
+| 29 | [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) | 6,126 | 1,688 | 58 | — | 2026-09-01 | The Official USB Rubber Ducky Payload Repository |
 | 30 | [jamesstringer90/Easy-GPU-PV](https://github.com/jamesstringer90/Easy-GPU-PV) | 5,576 | 570 | 13 | — | 2026-06-01 | A Project dedicated to making GPU Partitioning on Windows easier! |
-| 31 | [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) | 5,406 | 445 | 14 | AGPL-3.0 | 2025-04-14 | This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location... |
+| 31 | [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) | 5,407 | 445 | 14 | AGPL-3.0 | 2025-04-14 | This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location... |
 | 32 | [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) | 5,209 | 274 | 0 | MIT | 2021-02-16 | A prompt theming engine for Powershell |
 | 33 | [denverdino/k8s-for-docker-desktop](https://github.com/denverdino/k8s-for-docker-desktop) | 5,034 | 1,104 | 36 | — | 2026-05-19 | 为Docker Desktop for Mac/Windows开启Kubernetes和Istio。 |
-| 34 | [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 4,720 | 1,142 | 10 | — | 2026-06-13 | Red Teaming Tactics and Techniques |
+| 34 | [mantvydasb/RedTeaming-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) | 4,722 | 1,142 | 10 | — | 2026-06-13 | Red Teaming Tactics and Techniques |
 | 35 | [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | 4,685 | 2,658 | 210 | MIT | 2026-09-03 | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. |
 | 36 | [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) | 4,639 | 1,015 | 37 | MIT | 2021-05-28 | PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server... |
-| 37 | [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) | 4,524 | 255 | 0 | CC0-1.0 | 2026-09-26 | A curated list of amazingly awesome LÖVE libraries, resources and shiny things. |
-| 38 | [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) | 4,337 | 819 | 13 | Apache-2.0 | 2023-08-10 | PowerShell Obfuscator |
-| 39 | [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) | 3,990 | 507 | 1 | BSD-3-Clause | 2026-10-07 | Privilege Escalation Enumeration Script for Windows |
+| 37 | [love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d) | 4,524 | 248 | 0 | CC0-1.0 | 2026-09-26 | A curated list of amazingly awesome LÖVE libraries, resources and shiny things. |
+| 38 | [danielbohannon/Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) | 4,338 | 819 | 13 | Apache-2.0 | 2023-08-10 | PowerShell Obfuscator |
+| 39 | [itm4n/PrivescCheck](https://github.com/itm4n/PrivescCheck) | 3,991 | 507 | 1 | BSD-3-Clause | 2026-10-07 | Privilege Escalation Enumeration Script for Windows |
 | 40 | [0xsyr0/OSCP](https://github.com/0xsyr0/OSCP) | 3,866 | 770 | 0 | — | 2026-09-12 | OSCP Cheat Sheet |
 | 41 | [omerbsezer/Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) | 3,859 | 1,436 | 4 | MIT | 2025-04-14 | This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset... |
 | 42 | [tibold/svg-explorer-extension](https://github.com/tibold/svg-explorer-extension) | 3,719 | 201 | 51 | NOASSERTION | 2020-06-01 | Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files |
-| 43 | [psmux/psmux](https://github.com/psmux/psmux) | 3,706 | 238 | 35 | MIT | 2026-10-20 | Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands.... |
-| 44 | [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 3,706 | 539 | 3 | BSD-3-Clause | 2025-08-28 | Automation for internal Windows Penetrationtest / AD-Security |
+| 43 | [psmux/psmux](https://github.com/psmux/psmux) | 3,708 | 234 | 37 | MIT | 2026-10-20 | Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands.... |
+| 44 | [S3cur3Th1sSh1t/WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) | 3,707 | 539 | 3 | BSD-3-Clause | 2025-08-28 | Automation for internal Windows Penetrationtest / AD-Security |
 | 45 | [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) | 3,485 | 995 | 121 | MIT | 2022-06-24 | This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. |
-| 46 | [pester/Pester](https://github.com/pester/Pester) | 3,363 | 477 | 85 | NOASSERTION | 2026-10-01 | Pester is the ubiquitous test and mock framework for PowerShell. |
-| 47 | [dafthack/MailSniper](https://github.com/dafthack/MailSniper) | 3,285 | 595 | 21 | MIT | 2026-09-21 | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific... |
+| 46 | [pester/Pester](https://github.com/pester/Pester) | 3,363 | 478 | 85 | NOASSERTION | 2026-10-01 | Pester is the ubiquitous test and mock framework for PowerShell. |
+| 47 | [dafthack/MailSniper](https://github.com/dafthack/MailSniper) | 3,286 | 595 | 21 | MIT | 2026-09-21 | MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific... |
 | 48 | [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) | 3,277 | 548 | 1 | CC0-1.0 | 2026-10-14 | 600+ free PowerShell scripts (.ps1) for Linux, macOS, and Windows. |
-| 49 | [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) | 3,180 | 221 | 23 | MIT | 2026-10-16 | Automate the setup and configuration of your Windows development environment. |
+| 49 | [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig) | 3,181 | 221 | 23 | MIT | 2026-10-16 | Automate the setup and configuration of your Windows development environment. |
 | 50 | [mgeeky/Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) | 3,029 | 545 | 3 | MIT | 2023-06-27 | A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Tea... |
-| 51 | [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) | 2,974 | 1,474 | 110 | — | 2026-06-13 | The Official Bash Bunny Payload Repository |
+| 51 | [hak5/bashbunny-payloads](https://github.com/hak5/bashbunny-payloads) | 2,975 | 1,474 | 110 | — | 2026-06-13 | The Official Bash Bunny Payload Repository |
 | 52 | [hotvulcan/Thanos.sh](https://github.com/hotvulcan/Thanos.sh) | 2,959 | 282 | 45 | MIT | 2026-02-12 | if you are Thanos(root), this command could delete half your files randomly |
 | 53 | [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) | 2,952 | 138 | 63 | MIT | 2024-08-06 | A PowerShell module to show file and folder icons in the terminal |
 | 54 | [pbatard/Fido](https://github.com/pbatard/Fido) | 2,916 | 257 | 0 | GPL-3.0 | 2026-09-30 | A PowerShell script to download Windows or UEFI Shell ISOs |
-| 55 | [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) | 2,885 | 743 | 19 | MIT | 2026-10-14 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) |
+| 55 | [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) | 2,886 | 743 | 19 | MIT | 2026-10-14 | PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...) |
 | 56 | [dataplat/dbatools](https://github.com/dataplat/dbatools) | 2,854 | 868 | 37 | MIT | 2026-10-19 | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer |
 | 57 | [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) | 2,792 | 331 | 164 | Apache-2.0 | 2017-03-03 | [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows. |
-| 58 | [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) | 2,776 | 518 | 2 | MIT | 2025-07-06 | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. |
+| 58 | [Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet) | 2,777 | 518 | 2 | MIT | 2025-07-06 | A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. |
 | 59 | [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) | 2,749 | 415 | 24 | Apache-2.0 | 2026-08-22 | PowerShell module to import/export Excel spreadsheets, without Excel |
-| 60 | [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 2,745 | 468 | 26 | NOASSERTION | 2024-12-12 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server |
+| 60 | [NetSPI/PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | 2,746 | 468 | 26 | NOASSERTION | 2024-12-12 | PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server |
 | 61 | [FuzzySecurity/PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) | 2,737 | 759 | 8 | BSD-3-Clause | 2021-11-19 | My musings with PowerShell |
-| 62 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2,731 | 395 | 254 | CC0-1.0 | 2026-10-20 | Automation to assess the state of your M365 tenant against CISA's baselines |
-| 63 | [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) | 2,669 | 333 | 26 | MIT | 2026-08-31 | HardeningKitty and Windows Hardening Settings |
+| 62 | [cisagov/ScubaGear](https://github.com/cisagov/ScubaGear) | 2,732 | 395 | 252 | CC0-1.0 | 2026-10-20 | Automation to assess the state of your M365 tenant against CISA's baselines |
+| 63 | [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) | 2,670 | 333 | 26 | MIT | 2026-08-31 | HardeningKitty and Windows Hardening Settings |
 | 64 | [Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) | 2,575 | 368 | 12 | MIT | 2026-10-19 | This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Ac... |
-| 65 | [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 2,567 | 1,725 | 41 | NOASSERTION | 2026-09-24 | The official PowerShell documentation sources |
+| 65 | [MicrosoftDocs/PowerShell-Docs](https://github.com/MicrosoftDocs/PowerShell-Docs) | 2,567 | 1,725 | 40 | NOASSERTION | 2026-09-24 | The official PowerShell documentation sources |
 | 66 | [monoxgas/sRDI](https://github.com/monoxgas/sRDI) | 2,555 | 490 | 16 | NOASSERTION | 2023-11-15 | Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode |
-| 67 | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) | 2,467 | 344 | 5 | BSD-3-Clause | 2026-06-29 | A collection of scripts for assessing Microsoft Azure security |
+| 67 | [NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst) | 2,468 | 344 | 5 | BSD-3-Clause | 2026-06-29 | A collection of scripts for assessing Microsoft Azure security |
 | 68 | [sans-blue-team/DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) | 2,440 | 377 | 14 | GPL-3.0 | 2023-10-14 |  |
-| 69 | [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) | 2,425 | 681 | 48 | MIT | 2026-10-20 | Manages, configures, extracts and monitors Microsoft 365 tenant configurations |
-| 70 | [besimorhino/powercat](https://github.com/besimorhino/powercat) | 2,396 | 480 | 12 | Apache-2.0 | 2024-03-05 | netshell features all in version 2 powershell |
-| 71 | [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) | 2,340 | 446 | 11 | MIT | 2024-04-12 | Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab |
+| 69 | [Microsoft365DSC/Microsoft365DSC](https://github.com/Microsoft365DSC/Microsoft365DSC) | 2,425 | 681 | 51 | MIT | 2026-10-20 | Manages, configures, extracts and monitors Microsoft 365 tenant configurations |
+| 70 | [besimorhino/powercat](https://github.com/besimorhino/powercat) | 2,397 | 480 | 12 | Apache-2.0 | 2024-03-05 | netshell features all in version 2 powershell |
+| 71 | [safebuffer/vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) | 2,341 | 446 | 11 | MIT | 2024-04-12 | Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab |
 | 72 | [davidprowe/BadBlood](https://github.com/davidprowe/BadBlood) | 2,274 | 290 | 8 | GPL-3.0 | 2023-06-07 | BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of ob... |
 | 73 | [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) | 2,248 | 264 | 10 | Apache-2.0 | 2024-08-01 | Remote Desktop entirely coded in PowerShell. |
 | 74 | [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) | 2,232 | 384 | 31 | MIT | 2026-07-06 | AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simp... |
 | 75 | [PowerShellEmpire/PowerTools](https://github.com/PowerShellEmpire/PowerTools) | 2,210 | 816 | 7 | NOASSERTION | 2021-12-28 | PowerTools is a collection of PowerShell projects with a focus on offensive operations. |
 | 76 | [peewpw/Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage) | 2,188 | 382 | 7 | MIT | 2019-09-23 | Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute |
-| 77 | [pnp/List-Formatting](https://github.com/pnp/List-Formatting) | 2,180 | 927 | 54 | MIT | 2026-10-02 | List Formatting Samples for use in SharePoint and Microsoft Lists |
-| 78 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2,164 | 1,832 | 840 | Unlicense | 2026-10-20 | 📦 The Extras bucket for Scoop. |
+| 77 | [pnp/List-Formatting](https://github.com/pnp/List-Formatting) | 2,181 | 927 | 54 | MIT | 2026-10-02 | List Formatting Samples for use in SharePoint and Microsoft Lists |
+| 78 | [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) | 2,165 | 1,833 | 842 | Unlicense | 2026-10-20 | 📦 The Extras bucket for Scoop. |
 | 79 | [last-byte/PersistenceSniper](https://github.com/last-byte/PersistenceSniper) | 2,146 | 219 | 8 | NOASSERTION | 2024-12-11 | Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences ... |
-| 80 | [nettitude/PoshC2](https://github.com/nettitude/PoshC2) | 2,140 | 356 | 25 | BSD-3-Clause | 2025-11-20 | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. |
+| 80 | [nettitude/PoshC2](https://github.com/nettitude/PoshC2) | 2,141 | 356 | 25 | BSD-3-Clause | 2025-11-20 | A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement. |
 | 81 | [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | 2,111 | 385 | 14 | MIT | 2026-09-23 | Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script a... |
-| 82 | [meetrevision/playbook](https://github.com/meetrevision/playbook) | 2,103 | 126 | 7 | CC-BY-SA-4.0 | 2026-10-09 | A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility |
-| 83 | [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) | 2,097 | 412 | 23 | MIT | 2024-07-11 | DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By ... |
+| 82 | [meetrevision/playbook](https://github.com/meetrevision/playbook) | 2,104 | 126 | 7 | CC-BY-SA-4.0 | 2026-10-09 | A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility |
+| 83 | [dafthack/DomainPasswordSpray](https://github.com/dafthack/DomainPasswordSpray) | 2,098 | 412 | 23 | MIT | 2024-07-11 | DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By ... |
 | 84 | [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) | 2,091 | 361 | 10 | — | 2023-09-11 | The goal of this repository is to document the most common techniques to bypass AppLocker. |
 | 85 | [ThioJoe/Windows-Super-God-Mode](https://github.com/ThioJoe/Windows-Super-God-Mode) | 2,074 | 143 | 2 | GPL-3.0 | 2026-06-04 | Creates shortcuts to virtually every special location or action built into Windows |
 | 86 | [admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts) | 2,038 | 488 | 3 | — | 2026-09-16 | Office 365 Reporting PowerShell Scripts |
 | 87 | [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) | 2,027 | 1,849 | 0 | CC-BY-4.0 | 2026-10-20 | Open source documentation for the Azure Architecture Center on Microsoft Learn. |
 | 88 | [Romanitho/Winget-AutoUpdate](https://github.com/Romanitho/Winget-AutoUpdate) | 2,022 | 199 | 16 | MIT | 2026-10-09 | WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support) |
-| 89 | [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) | 2,020 | 413 | 3 | GPL-3.0 | 2018-10-10 | PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. |
-| 90 | [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) | 2,020 | 281 | 0 | NOASSERTION | 2026-10-01 | Flipper Zero badusb payload library |
+| 89 | [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) | 2,021 | 281 | 0 | NOASSERTION | 2026-10-01 | Flipper Zero badusb payload library |
+| 90 | [rasta-mouse/Sherlock](https://github.com/rasta-mouse/Sherlock) | 2,020 | 413 | 3 | GPL-3.0 | 2018-10-10 | PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. |
 | 91 | [GuDaStudio/skills](https://github.com/GuDaStudio/skills) | 2,017 | 98 | 12 | MIT | 2025-12-23 | This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration betwee... |
 | 92 | [411Hall/JAWS](https://github.com/411Hall/JAWS) | 2,011 | 334 | 6 | MIT | 2021-04-19 | JAWS - Just Another Windows (Enum) Script |
 | 93 | [Azure/Enterprise-Scale](https://github.com/Azure/Enterprise-Scale) | 1,963 | 1,068 | 9 | MIT | 2026-10-20 | The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practi... |
