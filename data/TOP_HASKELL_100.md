@@ -1,22 +1,22 @@
 # Top 100 Haskell repositories on GitHub
 
-Ranked by stars. GitHub reports **164,733** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **164,738** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,634 | 6,983 | 1,047 | GPL-2.0 | 2026-10-19 | Universal markup converter |
+| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,642 | 6,982 | 1,047 | GPL-2.0 | 2026-10-19 | Universal markup converter |
 | 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,199 | 1,961 | 1,072 | GPL-3.0 | 2026-10-19 | ShellCheck, a static analysis tool for shell scripts |
-| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,724 | 1,234 | 408 | MIT | 2026-10-19 | REST API for any Postgres database |
+| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,725 | 1,234 | 408 | MIT | 2026-10-19 | REST API for any Postgres database |
 | 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,586 | 1,367 | 1,295 | AGPL-3.0 | 2026-10-19 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
 | 5 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12,484 | 510 | 185 | GPL-3.0 | 2026-10-19 | Dockerfile linter, validate inline bash, written in Haskell |
 | 6 | [github/semantic](https://github.com/github/semantic) | 9,043 | 469 | 0 | — | 2025-04-01 | Parsing, analyzing, and comparing source code across many languages |
 | 7 | [purescript/purescript](https://github.com/purescript/purescript) | 8,914 | 574 | 308 | NOASSERTION | 2026-10-14 | A strongly-typed language that compiles to JavaScript |
 | 8 | [elm/compiler](https://github.com/elm/compiler) | 7,916 | 690 | 306 | BSD-3-Clause | 2026-10-02 | Compiler for Elm, a functional language for reliable webapps. |
-| 9 | [unisonweb/unison](https://github.com/unisonweb/unison) | 6,767 | 313 | 1,298 | NOASSERTION | 2026-10-17 | A friendly programming language from the future |
-| 10 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,070 | 188 | 145 | Apache-2.0 | 2026-10-19 | A statically typed lisp, without a GC, for real-time applications. |
+| 9 | [unisonweb/unison](https://github.com/unisonweb/unison) | 6,767 | 313 | 1,299 | NOASSERTION | 2026-10-17 | A friendly programming language from the future |
+| 10 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,071 | 188 | 145 | Apache-2.0 | 2026-10-19 | A statically typed lisp, without a GC, for real-time applications. |
 | 11 | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 5,364 | 225 | 286 | MIT | 2026-10-17 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm p... |
-| 12 | [kmonad/kmonad](https://github.com/kmonad/kmonad) | 5,080 | 339 | 210 | MIT | 2026-06-15 | An advanced keyboard manager |
-| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,775 | 417 | 313 | GPL-3.0 | 2026-10-19 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
+| 12 | [kmonad/kmonad](https://github.com/kmonad/kmonad) | 5,082 | 339 | 210 | MIT | 2026-06-15 | An advanced keyboard manager |
+| 13 | [hledgerorg/hledger](https://github.com/hledgerorg/hledger) | 4,776 | 417 | 313 | GPL-3.0 | 2026-10-20 | Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. |
 | 14 | [facebook/Haxl](https://github.com/facebook/Haxl) | 4,367 | 310 | 8 | BSD-3-Clause | 2026-03-15 | A Haskell library that simplifies access to remote data, such as databases or web-based services. |
 | 15 | [facebook/duckling](https://github.com/facebook/duckling) | 4,322 | 739 | 140 | NOASSERTION | 2026-03-15 | Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. |
 | 16 | [system-f/fp-course](https://github.com/system-f/fp-course) | 4,244 | 1,192 | 16 | — | 2025-10-07 | Functional Programming Course |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **164,733** total repositories matching `languag
 | 59 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) | 1,681 | 58 | 116 | — | 2026-10-19 | Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. |
 | 60 | [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) | 1,646 | 134 | 23 | NOASSERTION | 2016-05-29 | Homomorphic machine learning |
 | 61 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1,633 | 507 | 259 | Apache-2.0 | 2026-10-19 | The Plutus language implementation and tools |
-| 62 | [NixOS/nixfmt](https://github.com/NixOS/nixfmt) | 1,630 | 78 | 21 | MPL-2.0 | 2026-10-14 | The official formatter for Nix code |
+| 62 | [NixOS/nixfmt](https://github.com/NixOS/nixfmt) | 1,631 | 78 | 22 | MPL-2.0 | 2026-10-14 | The official formatter for Nix code |
 | 63 | [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) | 1,623 | 170 | 402 | NOASSERTION | 2026-10-19 | Haskell to VHDL/Verilog/SystemVerilog compiler |
 | 64 | [ndmitchell/hlint](https://github.com/ndmitchell/hlint) | 1,613 | 212 | 316 | NOASSERTION | 2026-09-26 | Haskell source code suggestions |
 | 65 | [tensorflow/haskell](https://github.com/tensorflow/haskell) | 1,601 | 195 | 39 | Apache-2.0 | 2024-08-15 | Haskell bindings for TensorFlow |
@@ -74,7 +74,7 @@ Ranked by stars. GitHub reports **164,733** total repositories matching `languag
 | 68 | [srid/neuron](https://github.com/srid/neuron) | 1,560 | 145 | 23 | AGPL-3.0 | 2026-09-28 | Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote) |
 | 69 | [yi-editor/yi](https://github.com/yi-editor/yi) | 1,549 | 196 | 222 | GPL-2.0 | 2024-11-01 | The Haskell-Scriptable Editor |
 | 70 | [erebe/greenclip](https://github.com/erebe/greenclip) | 1,537 | 39 | 9 | BSD-3-Clause | 2025-03-22 | Simple clipboard manager to be integrated with rofi - Static binary available |
-| 71 | [fossas/fossa-cli](https://github.com/fossas/fossa-cli) | 1,524 | 207 | 17 | NOASSERTION | 2026-10-19 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for larg... |
+| 71 | [fossas/fossa-cli](https://github.com/fossas/fossa-cli) | 1,524 | 207 | 18 | NOASSERTION | 2026-10-20 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for larg... |
 | 72 | [valderman/haste-compiler](https://github.com/valderman/haste-compiler) | 1,474 | 106 | 63 | BSD-3-Clause | 2019-03-17 | A GHC-based Haskell to JavaScript compiler |
 | 73 | [lettier/gifcurry](https://github.com/lettier/gifcurry) | 1,452 | 59 | 41 | BSD-3-Clause | 2021-08-13 | 😎 The open-source, Haskell-built video editor for GIF makers. |
 | 74 | [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) | 1,449 | 81 | 24 | BSD-2-Clause | 2023-12-08 | Deep Learning in Haskell |
@@ -95,7 +95,7 @@ Ranked by stars. GitHub reports **164,733** total repositories matching `languag
 | 89 | [matterhorn-chat/matterhorn](https://github.com/matterhorn-chat/matterhorn) | 1,162 | 79 | 22 | BSD-3-Clause | 2026-10-11 | A feature-rich Unix terminal client for the Mattermost chat system |
 | 90 | [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) | 1,146 | 185 | 376 | NOASSERTION | 2026-10-03 | Bluespec Compiler (BSC) |
 | 91 | [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) | 1,144 | 55 | 0 | MIT | 2017-10-17 | Huge list of  videos, talks, courses for Haskell programming language. |
-| 92 | [cachix/cachix](https://github.com/cachix/cachix) | 1,134 | 58 | 126 | — | 2026-10-18 | Command line client for Nix binary cache hosting: |
+| 92 | [cachix/cachix](https://github.com/cachix/cachix) | 1,135 | 58 | 126 | — | 2026-10-18 | Command line client for Nix binary cache hosting: |
 | 93 | [reflex-frp/reflex](https://github.com/reflex-frp/reflex) | 1,119 | 150 | 87 | BSD-3-Clause | 2026-10-19 | Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events ... |
 | 94 | [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) | 1,113 | 69 | 4 | — | 2024-12-18 | Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell. |
 | 95 | [utdemir/nix-tree](https://github.com/utdemir/nix-tree) | 1,085 | 22 | 20 | BSD-3-Clause | 2026-10-01 | Interactively browse dependency graphs of Nix derivations. |

@@ -1,22 +1,22 @@
 # Top 100 Assembly repositories on GitHub
 
-Ranked by stars. GitHub reports **216,798** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **216,813** total repositories matching `language:Assembly`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,502 | 8,213 | 146 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 1 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 75,510 | 8,214 | 147 | NOASSERTION | 2026-07-15 | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 | 2 | [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) | 32,268 | 4,687 | 3 | MIT | 2024-04-25 | The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes |
-| 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,840 | 2,108 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
-| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,873 | 1,655 | 0 | Apache-2.0 | 2026-10-19 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
-| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 12,005 | 2,114 | 118 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
+| 3 | [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) | 18,840 | 2,107 | 14 | — | 2026-05-30 | Collection of malware source code for a variety of platforms in an array of different programming languages. |
+| 4 | [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | 14,877 | 1,655 | 0 | Apache-2.0 | 2026-10-19 | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V a... |
+| 5 | [leachim6/hello-world](https://github.com/leachim6/hello-world) | 12,006 | 2,114 | 118 | MIT | 2026-01-19 | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md... |
 | 6 | [corkami/pics](https://github.com/corkami/pics) | 11,492 | 793 | 5 | — | 2024-02-18 | File formats dissections and more... |
 | 7 | [kanaka/mal](https://github.com/kanaka/mal) | 10,749 | 2,712 | 56 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
 | 8 | [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) | 7,287 | 506 | 0 | NOASSERTION | 2026-01-05 | Continuous Unix commit history from 1970 until today |
-| 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,910 | 746 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
+| 9 | [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | 6,909 | 746 | 6 | NOASSERTION | 2024-09-27 | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
 | 10 | [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) | 6,485 | 494 | 209 | Apache-2.0 | 2026-10-01 | the official Rust and C implementations of the BLAKE3 cryptographic hash function |
 | 11 | [cirosantilli/x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | 5,406 | 431 | 7 | NOASSERTION | 2022-07-18 | Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and rea... |
 | 12 | [below/HelloSilicon](https://github.com/below/HelloSilicon) | 5,006 | 330 | 9 | MIT | 2026-05-15 | An introduction to ARM64 assembly on Apple Silicon Macs |
-| 13 | [pret/pokered](https://github.com/pret/pokered) | 4,998 | 1,337 | 22 | — | 2026-10-06 | Disassembly of Pokémon Red/Blue |
+| 13 | [pret/pokered](https://github.com/pret/pokered) | 4,998 | 1,338 | 22 | — | 2026-10-06 | Disassembly of Pokémon Red/Blue |
 | 14 | [microsoft/BASIC-M6502](https://github.com/microsoft/BASIC-M6502) | 4,501 | 519 | 0 | MIT | 2025-09-03 | Microsoft BASIC for 6502 Microprocessor - Version 1.1 |
 | 15 | [xiph/rav1e](https://github.com/xiph/rav1e) | 4,162 | 295 | 256 | BSD-2-Clause | 2026-10-17 | The fastest and safest AV1 encoder. |
 | 16 | [briansmith/ring](https://github.com/briansmith/ring) | 4,108 | 810 | 54 | NOASSERTION | 2026-07-23 | An experiment. |
@@ -26,7 +26,7 @@ Ranked by stars. GitHub reports **216,798** total repositories matching `languag
 | 20 | [netwide-assembler/nasm](https://github.com/netwide-assembler/nasm) | 3,335 | 423 | 92 | NOASSERTION | 2026-08-19 | A cross-platform x86 assembler with an Intel-like syntax |
 | 21 | [virtualagc/virtualagc](https://github.com/virtualagc/virtualagc) | 3,310 | 417 | 31 | NOASSERTION | 2026-10-19 | Virtual Apollo Guidance Computer (AGC) software |
 | 22 | [SpinalHDL/VexRiscv](https://github.com/SpinalHDL/VexRiscv) | 3,294 | 519 | 145 | MIT | 2026-10-13 | A FPGA friendly 32 bit RISC-V CPU implementation |
-| 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,164 | 1,040 | 300 | NOASSERTION | 2026-10-19 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
+| 23 | [openhwfoundation/cva6](https://github.com/openhwfoundation/cva6) | 3,164 | 1,039 | 301 | NOASSERTION | 2026-10-19 | The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Applica... |
 | 24 | [nemasu/asmttpd](https://github.com/nemasu/asmttpd) | 3,094 | 204 | 12 | GPL-2.0 | 2025-03-01 | Web server for Linux written in amd64 assembly. |
 | 25 | [pooler/cpuminer](https://github.com/pooler/cpuminer) | 3,007 | 1,247 | 34 | NOASSERTION | 2023-04-05 | CPU miner for Litecoin and Bitcoin |
 | 26 | [SheerSt/pokewilds](https://github.com/SheerSt/pokewilds) | 2,918 | 223 | 320 | — | 2026-08-16 | PokeWilds - A Gen 2 Game/Engine using libGDX |
@@ -54,13 +54,13 @@ Ranked by stars. GitHub reports **216,798** total repositories matching `languag
 | 48 | [fcambus/spleen](https://github.com/fcambus/spleen) | 1,408 | 38 | 5 | BSD-2-Clause | 2026-10-11 | Monospaced bitmap fonts |
 | 49 | [KnightOS/KnightOS](https://github.com/KnightOS/KnightOS) | 1,323 | 181 | 108 | NOASSERTION | 2021-05-02 | OS for z80 calculators |
 | 50 | [obdev/v-usb](https://github.com/obdev/v-usb) | 1,320 | 263 | 12 | — | 2026-08-26 | A Firmware-Only USB implementation for Atmel's AVR Microcontrollers |
-| 51 | [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) | 1,258 | 567 | 144 | NOASSERTION | 2026-10-19 |  |
+| 51 | [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests) | 1,258 | 568 | 144 | NOASSERTION | 2026-10-19 |  |
 | 52 | [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) | 1,253 | 123 | 1 | GPL-3.0 | 2022-06-19 | Doom/FX for Super Nintendo with SuperFX GSU2A |
 | 53 | [mtuomi/SecondReality](https://github.com/mtuomi/SecondReality) | 1,243 | 140 | 2 | Unlicense | 2022-06-27 | Source code and data of Second Reality by Future Crew in 1993 |
 | 54 | [RibShark/OmniDrive](https://github.com/RibShark/OmniDrive) | 1,201 | 62 | 28 | NOASSERTION | 2026-07-18 |  |
 | 55 | [ROCm/MIOpen](https://github.com/ROCm/MIOpen) | 1,194 | 273 | 13 | NOASSERTION | 2026-10-14 | [DEPRECATED] Moved to ROCm/rocm-libraries repo |
 | 56 | [alvin-tosh/Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit) | 1,193 | 198 | 0 | MIT | 2024-01-12 | 🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have  Compiled & analysed by researchers🔥 to understand more about... |
-| 57 | [espressif/esp-dl](https://github.com/espressif/esp-dl) | 1,188 | 228 | 48 | MIT | 2026-10-19 | Espressif deep-learning library for AIoT applications |
+| 57 | [espressif/esp-dl](https://github.com/espressif/esp-dl) | 1,189 | 228 | 48 | MIT | 2026-10-19 | Espressif deep-learning library for AIoT applications |
 | 58 | [z88dk/z88dk](https://github.com/z88dk/z88dk) | 1,147 | 212 | 176 | NOASSERTION | 2026-10-19 | The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries. |
 | 59 | [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings) | 1,135 | 137 | 3 | MIT | 2026-09-06 | Transcription of Tim Paterson's DOS printouts. |
 | 60 | [nornagon/jonesforth](https://github.com/nornagon/jonesforth) | 1,132 | 159 | 4 | — | 2023-04-04 | Mirror of JONESFORTH |
@@ -84,7 +84,7 @@ Ranked by stars. GitHub reports **216,798** total repositories matching `languag
 | 78 | [Unity-Technologies/com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) | 854 | 240 | 134 | NOASSERTION | 2026-08-18 | WebRTC package for Unity |
 | 79 | [aws/aws-lc](https://github.com/aws/aws-lc) | 845 | 226 | 115 | NOASSERTION | 2026-10-19 | AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers... |
 | 80 | [PrincetonUniversity/openpiton](https://github.com/PrincetonUniversity/openpiton) | 833 | 280 | 61 | — | 2026-02-25 | The OpenPiton Platform |
-| 81 | [niekiran/Embedded-C](https://github.com/niekiran/Embedded-C) | 824 | 490 | 6 | — | 2025-06-13 | Repository for udemy Embedded-C course |
+| 81 | [niekiran/Embedded-C](https://github.com/niekiran/Embedded-C) | 824 | 491 | 6 | — | 2025-06-13 | Repository for udemy Embedded-C course |
 | 82 | [videolan/dav1d](https://github.com/videolan/dav1d) | 819 | 108 | 0 | BSD-2-Clause | 2026-10-18 | A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/ |
 | 83 | [videolan/x265](https://github.com/videolan/x265) | 814 | 323 | 7 | GPL-2.0 | 2023-09-11 | https://bitbucket.org/multicoreware/x265/ git mirror |
 | 84 | [HazyResearch/hyena-dna](https://github.com/HazyResearch/hyena-dna) | 810 | 112 | 39 | Apache-2.0 | 2025-04-22 | Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena |
@@ -98,7 +98,7 @@ Ranked by stars. GitHub reports **216,798** total repositories matching `languag
 | 92 | [DGivney/assemblytutorials](https://github.com/DGivney/assemblytutorials) | 735 | 128 | 2 | — | 2025-04-08 | This project was put together to teach myself NASM x86 assembly language on linux. |
 | 93 | [openhwfoundation/core-v-verif](https://github.com/openhwfoundation/core-v-verif) | 731 | 330 | 160 | NOASSERTION | 2026-10-19 | Functional verification project for the CORE-V family of RISC-V cores. |
 | 94 | [pret/pokegold](https://github.com/pret/pokegold) | 729 | 208 | 4 | — | 2026-10-06 | Disassembly of Pokémon Gold/Silver |
-| 95 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 718 | 237 | 19 | — | 2026-10-19 | Decompilation of Pokemon HeartGold/SoulSilver |
+| 95 | [pret/pokeheartgold](https://github.com/pret/pokeheartgold) | 719 | 238 | 19 | — | 2026-10-19 | Decompilation of Pokemon HeartGold/SoulSilver |
 | 96 | [xuhongv/StudyInEsp8266](https://github.com/xuhongv/StudyInEsp8266) | 715 | 428 | 3 | — | 2021-05-28 | 【深度开源】Wi-FI模块esp8266学习之旅（持续更新，欢迎 Star...） |
 | 97 | [sim-/tgy](https://github.com/sim-/tgy) | 711 | 384 | 80 | — | 2023-08-25 | tgy -- Open Source Firmware for ATmega-based Brushless ESCs |
 | 98 | [tsoding/pinpog](https://github.com/tsoding/pinpog) | 700 | 43 | 4 | MIT | 2021-08-27 | Ping-Pong-like game in Assembly that works without OS |

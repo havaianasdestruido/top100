@@ -1,11 +1,11 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,673** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,674** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,307 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,327 | 432 | 1 | MIT | 2026-10-19 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,328 | 432 | 1 | MIT | 2026-10-20 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 820 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 424 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 422 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
@@ -31,8 +31,8 @@ Ranked by stars. GitHub reports **4,673** total repositories matching `language:
 | 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 45 | 16 | 2 | — | 2024-01-29 |  |
 | 26 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 45 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
 | 27 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
-| 28 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
-| 29 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 41 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
+| 28 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 42 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
+| 29 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
 | 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 38 | 71 | 1 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
 | 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 32 | 34 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
 | 32 | [ritakalach/sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions) | 30 | 9 | 1 | — | 2024-07-22 | SQL practice problems and solutions. |
