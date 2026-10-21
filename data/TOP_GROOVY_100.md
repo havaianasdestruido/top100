@@ -1,10 +1,10 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,456** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,457** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,888 | 5,275 | 3,530 | Apache-2.0 | 2026-10-20 | Adaptable, fast automation for all |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,890 | 5,275 | 3,532 | Apache-2.0 | 2026-10-20 | Adaptable, fast automation for all |
 | 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,725 | 2,424 | 29 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,344 | 988 | 56 | Apache-2.0 | 2026-10-20 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,474 | 1,912 | 18 | Apache-2.0 | 2026-10-20 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
@@ -13,8 +13,8 @@ Ranked by stars. GitHub reports **111,456** total repositories matching `languag
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,953 | 573 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
 | 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,513 | 816 | 422 | Apache-2.0 | 2026-10-20 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,285 | 706 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,936 | 978 | 855 | Apache-2.0 | 2026-10-20 | Grails - the Web Application Framework |
-| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,665 | 86,163 | 2,505 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,936 | 978 | 856 | Apache-2.0 | 2026-10-21 | Grails - the Web Application Framework |
+| 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,665 | 86,162 | 2,505 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,225 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,924 | 820 | 188 | Apache-2.0 | 2026-10-01 | A Groovy DSL for Jenkins Jobs |
 | 14 | [novoda/bintray-release](https://github.com/novoda/bintray-release) | 1,833 | 209 | 0 | NOASSERTION | 2022-02-11 | A helper for releasing from gradle up to bintray |
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **111,456** total repositories matching `languag
 | 56 | [node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin) | 677 | 120 | 97 | Apache-2.0 | 2026-08-14 | Gradle plugin for integrating NodeJS in your build. :rocket: |
 | 57 | [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) | 649 | 136 | 83 | Apache-2.0 | 2020-08-20 | A Gradle plugin to build Docker images from the build script. |
 | 58 | [akhikhl/gretty](https://github.com/akhikhl/gretty) | 648 | 179 | 234 | MIT | 2023-12-28 | Advanced gradle plugin for running web-apps on jetty and tomcat. |
-| 59 | [allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin) | 641 | 164 | 79 | Apache-2.0 | 2026-10-19 | Gradle release & version management plugin. |
+| 59 | [allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin) | 641 | 164 | 79 | Apache-2.0 | 2026-10-20 | Gradle release & version management plugin. |
 | 60 | [brown-uk/dict_uk](https://github.com/brown-uk/dict_uk) | 633 | 75 | 37 | GPL-3.0 | 2026-09-22 | Project to generate POS tag dictionary for Ukrainian language |
 | 61 | [pledbrook/lazybones](https://github.com/pledbrook/lazybones) | 616 | 101 | 53 | Apache-2.0 | 2020-10-13 | A simple project creation tool that uses packaged project templates. |
 | 62 | [adobe/aem-project-archetype](https://github.com/adobe/aem-project-archetype) | 597 | 428 | 178 | Apache-2.0 | 2026-09-18 | Maven template to create best-practice websites on AEM. |
@@ -86,7 +86,7 @@ Ranked by stars. GitHub reports **111,456** total repositories matching `languag
 | 80 | [grails/grails](https://github.com/grails/grails) | 454 | 70 | 0 | — | 2010-02-11 | A powerful web application framework based on the Groovy language |
 | 81 | [sheehan/job-dsl-gradle-example](https://github.com/sheehan/job-dsl-gradle-example) | 451 | 322 | 15 | Apache-2.0 | 2022-04-21 | An example Job DSL project that uses Gradle for building and testing. |
 | 82 | [spinnaker/clouddriver](https://github.com/spinnaker/clouddriver) | 446 | 998 | 14 | Apache-2.0 | 2025-12-20 | read and write operations across cloud providers |
-| 83 | [jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 443 | 71 | 11 | Apache-2.0 | 2026-10-20 | Gradle plugin that provides a task to generate a HTML license report of your project. |
+| 83 | [jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 443 | 71 | 10 | Apache-2.0 | 2026-10-20 | Gradle plugin that provides a task to generate a HTML license report of your project. |
 | 84 | [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) | 435 | 204 | 64 | Apache-2.0 | 2024-04-09 | Fabric8 Pipeline for Jenkins |
 | 85 | [fabiomsr/drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer) | 432 | 43 | 4 | Apache-2.0 | 2016-05-19 | Gradle plugin to optimize png files and reduce resultant apk size within an Android project. |
 | 86 | [avast/gradle-docker-compose-plugin](https://github.com/avast/gradle-docker-compose-plugin) | 429 | 103 | 33 | MIT | 2026-06-18 | Simplifies usage of Docker Compose for integration testing in Gradle environment. |

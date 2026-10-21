@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,143,526** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,143,591** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **1,143,526** total repositories matching `langu
 | 23 | [genomicsclass/labs](https://github.com/genomicsclass/labs) | 2,178 | 1,950 | 24 | MIT | 2024-02-12 | Rmd source files for the HarvardX series PH525x |
 | 24 | [karthik/wesanderson](https://github.com/karthik/wesanderson) | 2,163 | 152 | 23 | NOASSERTION | 2024-06-13 | A Wes Anderson color palette for R |
 | 25 | [rstudio/gt](https://github.com/rstudio/gt) | 2,163 | 228 | 264 | NOASSERTION | 2026-10-15 | Easily generate information-rich, publication-quality tables from R |
-| 26 | [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 2,152 | 876 | 8 | MIT | 2023-03-10 | a curated list of R tutorials for Data Science, NLP and Machine Learning |
+| 26 | [ujjwalkarn/DataScienceR](https://github.com/ujjwalkarn/DataScienceR) | 2,153 | 876 | 8 | MIT | 2023-03-10 | a curated list of R tutorials for Data Science, NLP and Machine Learning |
 | 27 | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) | 2,084 | 559 | 2 | MIT | 2026-09-25 | Import public NYC taxi and for-hire vehicle (Uber, Lyft) trip data into a PostgreSQL or ClickHouse database |
 | 28 | [thomasp85/gganimate](https://github.com/thomasp85/gganimate) | 1,984 | 315 | 90 | NOASSERTION | 2025-09-04 | A Grammar of Animated Graphics |
 | 29 | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) | 1,897 | 326 | 12 | MIT | 2022-09-16 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Pyt... |
@@ -77,12 +77,12 @@ Ranked by stars. GitHub reports **1,143,526** total repositories matching `langu
 | 71 | [ddsjoberg/gtsummary](https://github.com/ddsjoberg/gtsummary) | 1,217 | 151 | 18 | NOASSERTION | 2026-10-20 | Presentation-Ready Data Summary and Analytic Result Tables |
 | 72 | [TheAlgorithms/R](https://github.com/TheAlgorithms/R) | 1,213 | 357 | 0 | MIT | 2026-06-12 | Collection of various algorithms implemented in R. |
 | 73 | [juliasilge/tidytext](https://github.com/juliasilge/tidytext) | 1,205 | 182 | 8 | NOASSERTION | 2026-08-02 | Text mining using tidy tools :sparkles::page_facing_up::sparkles: |
-| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,185 | 337 | 6 | — | 2026-10-20 | Forecasting Functions for Time Series and Linear Models |
+| 74 | [robjhyndman/forecast](https://github.com/robjhyndman/forecast) | 1,186 | 337 | 6 | — | 2026-10-20 | Forecasting Functions for Time Series and Linear Models |
 | 75 | [rstudio/tinytex](https://github.com/rstudio/tinytex) | 1,175 | 128 | 30 | NOASSERTION | 2026-10-16 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
 | 76 | [matloff/fasteR](https://github.com/matloff/fasteR) | 1,173 | 196 | 15 | — | 2026-01-03 | Fast Lane to Learning R! |
 | 77 | [rstudio/renv](https://github.com/rstudio/renv) | 1,164 | 169 | 197 | MIT | 2026-10-17 | renv: Project environments for R. |
-| 78 | [easystats/easystats](https://github.com/easystats/easystats) | 1,162 | 88 | 45 | NOASSERTION | 2026-10-19 | :milky_way: The R easystats-project |
-| 79 | [easystats/performance](https://github.com/easystats/performance) | 1,161 | 108 | 79 | GPL-3.0 | 2026-10-19 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
+| 78 | [easystats/performance](https://github.com/easystats/performance) | 1,162 | 108 | 79 | GPL-3.0 | 2026-10-19 | :muscle: Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...) |
+| 79 | [easystats/easystats](https://github.com/easystats/easystats) | 1,162 | 88 | 45 | NOASSERTION | 2026-10-19 | :milky_way: The R easystats-project |
 | 80 | [thomasp85/ggraph](https://github.com/thomasp85/ggraph) | 1,120 | 114 | 59 | NOASSERTION | 2025-08-25 | Grammar of Graph Graphics |
 | 81 | [ropensci/targets](https://github.com/ropensci/targets) | 1,102 | 86 | 2 | NOASSERTION | 2026-05-13 | Function-oriented Make-like declarative workflows for R |
 | 82 | [stan-dev/rstan](https://github.com/stan-dev/rstan) | 1,087 | 266 | 358 | — | 2026-10-19 | RStan, the R interface to Stan |
