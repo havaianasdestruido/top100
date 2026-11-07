@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
     inputs:
       languages:
-        description: "Comma-separated list of languages to fetch (blank = the default 30)"
+        description: "Comma-separated list of languages to search (blank = the default 30)"
         required: false
         default: ""
   schedule:
