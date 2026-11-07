@@ -1,27 +1,27 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,766** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,799** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,312 | 108 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,334 | 431 | 1 | MIT | 2026-10-31 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
-| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 240 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,338 | 431 | 1 | MIT | 2026-11-05 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
-| 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 423 | 88 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
+| 5 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 424 | 88 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 403 | 167 | 62 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 310 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
-| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 287 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
+| 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 289 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 230 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
 | 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 180 | 44 | 0 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 10 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
-| 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 117 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
-| 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 116 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
+| 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 118 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
+| 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 117 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 113 | 37 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 90 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
-| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 82 | 30 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
+| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 82 | 31 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 64 | 29 | 2 | MIT | 2026-10-26 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 21 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **4,766** total repositories matching `language:
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 52 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
 | 24 | [maf345/sql-hands-on](https://github.com/maf345/sql-hands-on) | 50 | 23 | 0 | — | 2026-07-29 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
 | 25 | [SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study) | 46 | 16 | 2 | — | 2024-01-29 |  |
-| 26 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 46 | 12 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
+| 26 | [cahyadsn/wilayah_kodepos](https://github.com/cahyadsn/wilayah_kodepos) | 46 | 13 | 0 | MIT | 2026-07-17 | Kodepos berdasarkan kode wilayah Indonesia Kepmendagri No 300.2.2-3128 Tahun 2025 |
 | 27 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
 | 28 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 42 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
 | 29 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
@@ -45,62 +45,62 @@ Ranked by stars. GitHub reports **4,766** total repositories matching `language:
 | 39 | [FL-Marine/8-Week-SQL-Challenge](https://github.com/FL-Marine/8-Week-SQL-Challenge) | 19 | 7 | 0 | — | 2022-08-04 | Case Study's from Danny Ma's Serious SQL Course |
 | 40 | [Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | 19 | 8 | 0 | — | 2023-01-13 | MySQL and Oracle in 100 days |
 | 41 | [folio-org/folio-analytics](https://github.com/folio-org/folio-analytics) | 18 | 36 | 59 | Apache-2.0 | 2026-10-22 | Community query repository for FOLIO analytics based on Metadb/LDP |
-| 42 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
-| 43 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
-| 44 | [jhajagos/DocGraph](https://github.com/jhajagos/DocGraph) | 17 | 10 | 0 | — | 2014-05-21 | Code related to DocGraph analysis |
-| 45 | [pietdaniel/poetification](https://github.com/pietdaniel/poetification) | 17 | 3 | 0 | — | 2014-05-18 | give texts give poems |
-| 46 | [DFE-Digital/gias-query-tool](https://github.com/DFE-Digital/gias-query-tool) | 17 | 4 | 1 | — | 2025-10-03 | The easiest way to write advanced queries against the Get Information About Schools (GIAS) database |
-| 47 | [ndleah/health-analysis](https://github.com/ndleah/health-analysis) | 16 | 11 | 0 | — | 2021-09-14 | This case study is contained within the Serious SQL course by Danny Ma |
-| 48 | [mennamamdouh/Analysis-of-Video-Games](https://github.com/mennamamdouh/Analysis-of-Video-Games) | 15 | 2 | 0 | — | 2023-03-31 | This repository is for a data analytics project using SQL. The project is about analyzing and getting insights about ... |
-| 49 | [kolorobot/quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | 15 | 15 | 0 | — | 2014-05-21 | Quartz with Clustering JEE demo application |
-| 50 | [vipul-shinde/people-analytics-cs](https://github.com/vipul-shinde/people-analytics-cs) | 14 | 4 | 0 | MIT | 2021-09-25 | People Analytics Case Study - Serious SQL 🎃 |
-| 51 | [bharathguntreddi3/Oracle_DB_SSMS_Development](https://github.com/bharathguntreddi3/Oracle_DB_SSMS_Development) | 14 | 0 | 0 | — | 2022-05-11 | This repo Contains Basic commands and Queries and intro to SQL and Oracle and PLSQL and TOAD ! |
-| 52 | [Flowminder/COVID-19](https://github.com/Flowminder/COVID-19) | 14 | 7 | 5 | MPL-2.0 | 2025-10-10 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
-| 53 | [ITurres/vet-clinic-db](https://github.com/ITurres/vet-clinic-db) | 14 | 0 | 0 | MIT | 2023-08-23 | 🐘PostgreSQL🐘 \| The objective of this project is to cultivate a comprehensive understanding of relational databases a... |
-| 54 | [thatjpcsguy/shorts](https://github.com/thatjpcsguy/shorts) | 14 | 6 | 0 | — | 2014-05-19 | Can i wear shorts today? http://shorts.today |
-| 55 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
-| 56 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-05-18 | An example HR database for management of company's organization, employees, etc. |
-| 57 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
-| 58 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
-| 59 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 13 | 4 | 6 | MIT | 2026-10-25 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
-| 60 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
-| 61 | [valencprado/mysql-colinha](https://github.com/valencprado/mysql-colinha) | 13 | 3 | 0 | MIT | 2024-08-22 | Resumos sobre o banco de dados MySQL. |
-| 62 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
-| 63 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
-| 64 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
-| 65 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
-| 66 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
-| 67 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
-| 68 | [tacohirosystems/remotehiro](https://github.com/tacohirosystems/remotehiro) | 11 | 0 | 1 | EUPL-1.2 | 2026-10-17 | find work, anywhere |
-| 69 | [tschf/pl-gapi](https://github.com/tschf/pl-gapi) | 10 | 5 | 1 | GPL-2.0 | 2014-07-14 |  |
-| 70 | [RKNITH/MY-SQL-PRACTICE](https://github.com/RKNITH/MY-SQL-PRACTICE) | 10 | 0 | 0 | — | 2024-11-13 |  |
-| 71 | [wetory/sql-server-replication-monitoring](https://github.com/wetory/sql-server-replication-monitoring) | 10 | 10 | 0 | — | 2020-04-29 | Simple solution for monitoring replication subscribers health state. |
-| 72 | [ShenHongFei/dolphindb-vs-influxdb](https://github.com/ShenHongFei/dolphindb-vs-influxdb) | 10 | 0 | 0 | — | 2019-04-15 | DolphinDB vs InfluxDB 性能对比测试报告 (Performance Comparision Test Report) |
-| 73 | [MHeydari/BCrypt-algorithm-in-Oracle-plsql](https://github.com/MHeydari/BCrypt-algorithm-in-Oracle-plsql) | 10 | 7 | 1 | — | 2025-07-05 | Implementation of BCrypt hashing in Oracle PLSQL |
-| 74 | [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector) | 10 | 0 | 0 | MIT | 2025-10-28 | CVE-2025-59287 — Critical unauthenticated RCE in Windows Server Update Services (WSUS) via unsafe deserialization of ... |
-| 75 | [manaswikamila05/RSVP-Movies](https://github.com/manaswikamila05/RSVP-Movies) | 10 | 10 | 0 | — | 2023-02-14 | SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights. |
-| 76 | [davidrabko/learning-sql](https://github.com/davidrabko/learning-sql) | 9 | 1 | 0 | Unlicense | 2025-04-06 | Exercises and Examples from Learning SQL by Alan Beaulieu and LeetCode SQL 50 |
-| 77 | [iamAntimPal/LeetCode_SQL_Database](https://github.com/iamAntimPal/LeetCode_SQL_Database) | 9 | 5 | 3 | — | 2025-04-25 | This repo contains my SQL solutions for LeetCode problems. Each file includes a problem description, optimized SQL qu... |
-| 78 | [Prakashdeveloper03/Leetcode-SQL](https://github.com/Prakashdeveloper03/Leetcode-SQL) | 9 | 0 | 0 | — | 2023-06-07 | This repository contains all my Leetcode problem solutions source code in SQL programming language. |
-| 79 | [qanhnn12/SQL-Leetcode-Challenge-Solutions](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions) | 9 | 7 | 0 | MIT | 2022-11-05 | Solutions for all free SQL questions on Leetcode executed on MySQL and MS SQL Server. |
-| 80 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 9 | 1 | 0 | MIT | 2026-10-06 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
-| 81 | [electronics4fun/PartDb-Altium-Connector](https://github.com/electronics4fun/PartDb-Altium-Connector) | 9 | 2 | 1 | MIT | 2025-10-07 | Connects PartDb with Altium using mySQL views |
-| 82 | [cistoner/Lstore](https://github.com/cistoner/Lstore) | 9 | 5 | 6 | — | 2014-05-20 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
-| 83 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
-| 84 | [j-b-ferguson/relational-database-design-and-test](https://github.com/j-b-ferguson/relational-database-design-and-test) | 8 | 0 | 0 | — | 2021-02-04 | Designing and testing a relational database for The Happy Phone Company. |
-| 85 | [AlysterF/8week-SQL-challenge](https://github.com/AlysterF/8week-SQL-challenge) | 8 | 2 | 0 | — | 2021-10-31 | 8 case studies to apply SQL query solutions! |
-| 86 | [artie93/When-Was-the-Golden-Age-of-Video-Games-](https://github.com/artie93/When-Was-the-Golden-Age-of-Video-Games-) | 8 | 0 | 0 | — | 2024-07-08 |  |
-| 87 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
-| 88 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
-| 89 | [Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers](https://github.com/Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers) | 8 | 2 | 0 | MIT | 2022-11-18 | This repository contains practice questions and solutions and is solely dedicated to mastering SQL |
-| 90 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
-| 91 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
-| 92 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
-| 93 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
-| 94 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
-| 95 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
-| 96 | [vincentclee/mh370_satellite_data_communication_logs](https://github.com/vincentclee/mh370_satellite_data_communication_logs) | 8 | 5 | 0 | — | 2014-05-31 | Data from communications between Inmarsat satellites and the missing Boeing 777 Malaysia Airlines Flight MH370 (9M-MRO) |
-| 97 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
-| 98 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
-| 99 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-10-30 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
-| 100 | [theammarngp-makes/olist-sales-analysis](https://github.com/theammarngp-makes/olist-sales-analysis) | 7 | 1 | 0 | MIT | 2026-10-28 | Analyzed Olist e-commerce data using SQL and built a Tableau dashboard to identify revenue trends, top categories, an... |
+| 42 | [ashleeeyAv/estetica-bem-estar](https://github.com/ashleeeyAv/estetica-bem-estar) | 18 | 0 | 0 | — | 2026-11-06 |  |
+| 43 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
+| 44 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
+| 45 | [jhajagos/DocGraph](https://github.com/jhajagos/DocGraph) | 17 | 10 | 0 | — | 2014-05-21 | Code related to DocGraph analysis |
+| 46 | [pietdaniel/poetification](https://github.com/pietdaniel/poetification) | 17 | 3 | 0 | — | 2014-05-18 | give texts give poems |
+| 47 | [DFE-Digital/gias-query-tool](https://github.com/DFE-Digital/gias-query-tool) | 17 | 4 | 1 | — | 2025-10-03 | The easiest way to write advanced queries against the Get Information About Schools (GIAS) database |
+| 48 | [ndleah/health-analysis](https://github.com/ndleah/health-analysis) | 16 | 11 | 0 | — | 2021-09-14 | This case study is contained within the Serious SQL course by Danny Ma |
+| 49 | [mennamamdouh/Analysis-of-Video-Games](https://github.com/mennamamdouh/Analysis-of-Video-Games) | 15 | 2 | 0 | — | 2023-03-31 | This repository is for a data analytics project using SQL. The project is about analyzing and getting insights about ... |
+| 50 | [kolorobot/quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | 15 | 15 | 0 | — | 2014-05-21 | Quartz with Clustering JEE demo application |
+| 51 | [vipul-shinde/people-analytics-cs](https://github.com/vipul-shinde/people-analytics-cs) | 14 | 4 | 0 | MIT | 2021-09-25 | People Analytics Case Study - Serious SQL 🎃 |
+| 52 | [bharathguntreddi3/Oracle_DB_SSMS_Development](https://github.com/bharathguntreddi3/Oracle_DB_SSMS_Development) | 14 | 0 | 0 | — | 2022-05-11 | This repo Contains Basic commands and Queries and intro to SQL and Oracle and PLSQL and TOAD ! |
+| 53 | [Flowminder/COVID-19](https://github.com/Flowminder/COVID-19) | 14 | 7 | 5 | MPL-2.0 | 2025-10-10 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
+| 54 | [ITurres/vet-clinic-db](https://github.com/ITurres/vet-clinic-db) | 14 | 0 | 0 | MIT | 2023-08-23 | 🐘PostgreSQL🐘 \| The objective of this project is to cultivate a comprehensive understanding of relational databases a... |
+| 55 | [thatjpcsguy/shorts](https://github.com/thatjpcsguy/shorts) | 14 | 6 | 0 | — | 2014-05-19 | Can i wear shorts today? http://shorts.today |
+| 56 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 14 | 4 | 6 | MIT | 2026-10-25 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
+| 57 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
+| 58 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-11-05 | An example HR database for management of company's organization, employees, etc. |
+| 59 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
+| 60 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
+| 61 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
+| 62 | [valencprado/mysql-colinha](https://github.com/valencprado/mysql-colinha) | 13 | 3 | 0 | MIT | 2024-08-22 | Resumos sobre o banco de dados MySQL. |
+| 63 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
+| 64 | [fhoffa/AdventOfCodeSQL](https://github.com/fhoffa/AdventOfCodeSQL) | 12 | 4 | 0 | Apache-2.0 | 2020-12-16 | advent of code with SQL |
+| 65 | [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | 12 | 4 | 2 | — | 2014-05-28 | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
+| 66 | [tacohirosystems/remotehiro](https://github.com/tacohirosystems/remotehiro) | 12 | 0 | 1 | EUPL-1.2 | 2026-10-17 | find work, anywhere |
+| 67 | [Emon-ProCoder7/sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository) | 11 | 1 | 0 | — | 2021-05-24 | Some of my sql projects with sqlite. |
+| 68 | [vipul-shinde/marketing-analytics-cs](https://github.com/vipul-shinde/marketing-analytics-cs) | 11 | 9 | 0 | MIT | 2021-09-25 | DVD Rental Co Marketing Analytics Case Study - Serious SQL ✨ |
+| 69 | [simandebvu/SQL-Zoo](https://github.com/simandebvu/SQL-Zoo) | 11 | 0 | 0 | MIT | 2020-07-08 | My Solution Set for the SQL Zoo Challenges and quizzes. Written in SQL. |
+| 70 | [tschf/pl-gapi](https://github.com/tschf/pl-gapi) | 10 | 5 | 1 | GPL-2.0 | 2014-07-14 |  |
+| 71 | [RKNITH/MY-SQL-PRACTICE](https://github.com/RKNITH/MY-SQL-PRACTICE) | 10 | 0 | 0 | — | 2024-11-13 |  |
+| 72 | [wetory/sql-server-replication-monitoring](https://github.com/wetory/sql-server-replication-monitoring) | 10 | 10 | 0 | — | 2020-04-29 | Simple solution for monitoring replication subscribers health state. |
+| 73 | [ShenHongFei/dolphindb-vs-influxdb](https://github.com/ShenHongFei/dolphindb-vs-influxdb) | 10 | 0 | 0 | — | 2019-04-15 | DolphinDB vs InfluxDB 性能对比测试报告 (Performance Comparision Test Report) |
+| 74 | [MHeydari/BCrypt-algorithm-in-Oracle-plsql](https://github.com/MHeydari/BCrypt-algorithm-in-Oracle-plsql) | 10 | 7 | 1 | — | 2025-07-05 | Implementation of BCrypt hashing in Oracle PLSQL |
+| 75 | [AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector](https://github.com/AdityaBhatt3010/CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector) | 10 | 0 | 0 | MIT | 2025-10-28 | CVE-2025-59287 — Critical unauthenticated RCE in Windows Server Update Services (WSUS) via unsafe deserialization of ... |
+| 76 | [manaswikamila05/RSVP-Movies](https://github.com/manaswikamila05/RSVP-Movies) | 10 | 10 | 0 | — | 2023-02-14 | SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights. |
+| 77 | [davidrabko/learning-sql](https://github.com/davidrabko/learning-sql) | 9 | 1 | 0 | Unlicense | 2025-04-06 | Exercises and Examples from Learning SQL by Alan Beaulieu and LeetCode SQL 50 |
+| 78 | [iamAntimPal/LeetCode_SQL_Database](https://github.com/iamAntimPal/LeetCode_SQL_Database) | 9 | 5 | 3 | — | 2025-04-25 | This repo contains my SQL solutions for LeetCode problems. Each file includes a problem description, optimized SQL qu... |
+| 79 | [Prakashdeveloper03/Leetcode-SQL](https://github.com/Prakashdeveloper03/Leetcode-SQL) | 9 | 0 | 0 | — | 2023-06-07 | This repository contains all my Leetcode problem solutions source code in SQL programming language. |
+| 80 | [qanhnn12/SQL-Leetcode-Challenge-Solutions](https://github.com/qanhnn12/SQL-Leetcode-Challenge-Solutions) | 9 | 7 | 0 | MIT | 2022-11-05 | Solutions for all free SQL questions on Leetcode executed on MySQL and MS SQL Server. |
+| 81 | [theammarngp-makes/ecommerce-rfm-customer-segmentation](https://github.com/theammarngp-makes/ecommerce-rfm-customer-segmentation) | 9 | 1 | 0 | MIT | 2026-10-06 | RFM (Recency, Frequency, Monetary) analysis using SQL to segment customers and identify high-value, loyal, and at-ris... |
+| 82 | [electronics4fun/PartDb-Altium-Connector](https://github.com/electronics4fun/PartDb-Altium-Connector) | 9 | 2 | 1 | MIT | 2025-10-07 | Connects PartDb with Altium using mySQL views |
+| 83 | [cistoner/Lstore](https://github.com/cistoner/Lstore) | 9 | 5 | 6 | — | 2014-05-20 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
+| 84 | [hacker9/Donor9](https://github.com/hacker9/Donor9) | 9 | 2 | 0 | BSD-3-Clause | 2014-06-02 |  |
+| 85 | [j-b-ferguson/relational-database-design-and-test](https://github.com/j-b-ferguson/relational-database-design-and-test) | 8 | 0 | 0 | — | 2021-02-04 | Designing and testing a relational database for The Happy Phone Company. |
+| 86 | [AlysterF/8week-SQL-challenge](https://github.com/AlysterF/8week-SQL-challenge) | 8 | 2 | 0 | — | 2021-10-31 | 8 case studies to apply SQL query solutions! |
+| 87 | [artie93/When-Was-the-Golden-Age-of-Video-Games-](https://github.com/artie93/When-Was-the-Golden-Age-of-Video-Games-) | 8 | 0 | 0 | — | 2024-07-08 |  |
+| 88 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
+| 89 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
+| 90 | [Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers](https://github.com/Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers) | 8 | 2 | 0 | MIT | 2022-11-18 | This repository contains practice questions and solutions and is solely dedicated to mastering SQL |
+| 91 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
+| 92 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
+| 93 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
+| 94 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
+| 95 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| 96 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
+| 97 | [vincentclee/mh370_satellite_data_communication_logs](https://github.com/vincentclee/mh370_satellite_data_communication_logs) | 8 | 5 | 0 | — | 2014-05-31 | Data from communications between Inmarsat satellites and the missing Boeing 777 Malaysia Airlines Flight MH370 (9M-MRO) |
+| 98 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
+| 99 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
+| 100 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-11-04 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
