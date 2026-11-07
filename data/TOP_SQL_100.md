@@ -45,7 +45,7 @@ Ranked by stars. GitHub reports **4,799** total repositories matching `language:
 | 39 | [FL-Marine/8-Week-SQL-Challenge](https://github.com/FL-Marine/8-Week-SQL-Challenge) | 19 | 7 | 0 | — | 2022-08-04 | Case Study's from Danny Ma's Serious SQL Course |
 | 40 | [Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | 19 | 8 | 0 | — | 2023-01-13 | MySQL and Oracle in 100 days |
 | 41 | [folio-org/folio-analytics](https://github.com/folio-org/folio-analytics) | 18 | 36 | 59 | Apache-2.0 | 2026-10-22 | Community query repository for FOLIO analytics based on Metadb/LDP |
-| 42 | [ashleeeyAv/estetica-bem-estar](https://github.com/ashleeeyAv/estetica-bem-estar) | 18 | 0 | 0 | — | 2026-11-06 |  |
+| 42 | [ashley-andrade/estetica-bem-estar](https://github.com/ashley-andrade/estetica-bem-estar) | 18 | 0 | 0 | — | 2026-11-06 |  |
 | 43 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
 | 44 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
 | 45 | [jhajagos/DocGraph](https://github.com/jhajagos/DocGraph) | 17 | 10 | 0 | — | 2014-05-21 | Code related to DocGraph analysis |

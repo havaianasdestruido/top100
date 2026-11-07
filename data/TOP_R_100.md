@@ -1,10 +1,10 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,151,690** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,151,697** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,198 | 292 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
+| 1 | [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) | 7,199 | 292 | 12 | MIT | 2025-09-03 | Friends don't let friends make certain types of data visualization - What are they and why are they bad. |
 | 2 | [tidyverse/ggplot2](https://github.com/tidyverse/ggplot2) | 7,025 | 2,126 | 116 | NOASSERTION | 2026-11-06 | An implementation of the Grammar of Graphics in R |
 | 3 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6,540 | 1,508 | 30 | — | 2025-09-18 | A curated list of awesome R packages, frameworks and software. |
 | 4 | [rstudio/shiny](https://github.com/rstudio/shiny) | 5,705 | 1,893 | 877 | NOASSERTION | 2026-11-06 | Easy interactive web applications with R |
@@ -92,7 +92,7 @@ Ranked by stars. GitHub reports **1,151,690** total repositories matching `langu
 | 86 | [tidyverse/readr](https://github.com/tidyverse/readr) | 1,041 | 297 | 107 | NOASSERTION | 2026-04-10 | Read flat files (csv, tsv, fwf) into R |
 | 87 | [jokergoo/circlize](https://github.com/jokergoo/circlize) | 1,030 | 147 | 67 | NOASSERTION | 2023-11-11 | Circular visualization in R |
 | 88 | [allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins) | 1,023 | 267 | 18 | CC0-1.0 | 2024-09-19 | A great intro dataset for data exploration & visualization (alternative to iris). |
-| 89 | [futureverse/future](https://github.com/futureverse/future) | 1,015 | 94 | 79 | Apache-2.0 | 2026-11-05 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
+| 89 | [futureverse/future](https://github.com/futureverse/future) | 1,015 | 94 | 79 | Apache-2.0 | 2026-11-07 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
 | 90 | [MichelNivard/gptstudio](https://github.com/MichelNivard/gptstudio) | 989 | 115 | 10 | NOASSERTION | 2026-01-03 | GPT RStudio addins that enable GPT assisted coding, writing & analysis |
 | 91 | [klmr/box](https://github.com/klmr/box) | 989 | 49 | 72 | MIT | 2026-08-16 | Write reusable, composable and modular R code |
 | 92 | [rmcelreath/stat_rethinking_2026](https://github.com/rmcelreath/stat_rethinking_2026) | 984 | 114 | 6 | CC0-1.0 | 2026-03-20 | Statistical Rethinking Course 2026 |

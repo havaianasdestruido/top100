@@ -1,10 +1,10 @@
 # Top 100 Nix repositories on GitHub
 
-Ranked by stars. GitHub reports **88,404** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **88,407** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,741 | 20,656 | 22,608 | MIT | 2026-11-07 | Nix Packages collection & NixOS |
+| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,742 | 20,658 | 22,616 | MIT | 2026-11-07 | Nix Packages collection & NixOS |
 | 2 | [nix-community/home-manager](https://github.com/nix-community/home-manager) | 10,498 | 2,507 | 982 | MIT | 2026-11-07 | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] |
 | 3 | [zardus/ctf-tools](https://github.com/zardus/ctf-tools) | 9,569 | 1,906 | 3 | BSD-3-Clause | 2026-10-21 | Some setup scripts for security research tools. |
 | 4 | [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) | 6,057 | 670 | 486 | MIT | 2026-10-31 | Manage your macOS using Nix |
@@ -22,7 +22,7 @@ Ranked by stars. GitHub reports **88,404** total repositories matching `language
 | 16 | [nix-community/stylix](https://github.com/nix-community/stylix) | 2,465 | 373 | 305 | MIT | 2026-11-01 | Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] |
 | 17 | [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) | 2,388 | 156 | 95 | MIT | 2026-01-30 | Collection of image builders [maintainer=@Lassulus] |
 | 18 | [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) | 2,378 | 188 | 12 | MPL-2.0 | 2026-10-13 | Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins] |
-| 19 | [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) | 2,251 | 321 | 30 | MIT | 2026-11-07 | Nix packages for AI coding agents and development tools. Automatically updated daily. |
+| 19 | [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) | 2,251 | 321 | 29 | MIT | 2026-11-07 | Nix packages for AI coding agents and development tools. Automatically updated daily. |
 | 20 | [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) | 2,201 | 171 | 138 | MIT | 2026-10-26 | Nix-enabled environment for your Android device. [maintainers=@t184256] |
 | 21 | [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) | 2,114 | 102 | 0 | MIT | 2026-11-07 | ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS). |
 | 22 | [nix-community/impermanence](https://github.com/nix-community/impermanence) | 1,941 | 142 | 109 | MIT | 2026-10-23 | Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz] |
@@ -31,8 +31,8 @@ Ranked by stars. GitHub reports **88,404** total repositories matching `language
 | 25 | [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) | 1,710 | 178 | 5 | MIT | 2026-11-06 | Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka] |
 | 26 | [NotAShelf/nvf](https://github.com/NotAShelf/nvf) | 1,667 | 240 | 123 | MIT | 2026-11-07 | Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS |
 | 27 | [numtide/flake-utils](https://github.com/numtide/flake-utils) | 1,652 | 86 | 24 | MIT | 2026-10-13 | Pure Nix flake utility functions [maintainer=@zimbatm] |
-| 28 | [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) | 1,580 | 87 | 25 | MIT | 2026-11-07 | Pure and reproducible nix overlay of binary distributed rust toolchains |
-| 29 | [numtide/devshell](https://github.com/numtide/devshell) | 1,570 | 88 | 97 | MIT | 2026-10-15 | Per project developer environments |
+| 28 | [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) | 1,581 | 87 | 25 | MIT | 2026-11-07 | Pure and reproducible nix overlay of binary distributed rust toolchains |
+| 29 | [numtide/devshell](https://github.com/numtide/devshell) | 1,570 | 88 | 98 | MIT | 2026-10-15 | Per project developer environments |
 | 30 | [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) | 1,555 | 58 | 6 | CC0-1.0 | 2026-11-05 | An awesome list for niri related projects [Maintainer - @Vortriz] |
 | 31 | [azuwis/pianotrans](https://github.com/azuwis/pianotrans) | 1,539 | 148 | 1 | — | 2026-09-14 | Simple GUI for ByteDance's Piano Transcription with Pedals |
 | 32 | [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) | 1,512 | 84 | 73 | MIT | 2026-11-01 | ❄️ Simplify Nix Flakes with the module system |
@@ -75,7 +75,7 @@ Ranked by stars. GitHub reports **88,404** total repositories matching `language
 | 69 | [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) | 880 | 229 | 103 | Apache-2.0 | 2026-11-05 | Seamless integration of https://pre-commit.com git hooks with Nix. |
 | 70 | [nix-community/nix-bundle](https://github.com/nix-community/nix-bundle) | 861 | 58 | 58 | MIT | 2025-09-01 | Bundle Nix derivations to run anywhere! [maintainer=@matthewbauer, @Artturin] |
 | 71 | [haskell-nix/hnix](https://github.com/haskell-nix/hnix) | 842 | 117 | 147 | BSD-3-Clause | 2026-03-17 | A Haskell re-implementation of the Nix expression language |
-| 72 | [nixified-ai/flake](https://github.com/nixified-ai/flake) | 841 | 95 | 51 | AGPL-3.0 | 2026-11-07 | A Nix flake for many AI projects |
+| 72 | [nixified-ai/flake](https://github.com/nixified-ai/flake) | 841 | 95 | 50 | AGPL-3.0 | 2026-11-07 | A Nix flake for many AI projects |
 | 73 | [joshsymonds/nix-config](https://github.com/joshsymonds/nix-config) | 835 | 115 | 3 | MIT | 2026-11-07 |  |
 | 74 | [frectonz/pglite-fusion](https://github.com/frectonz/pglite-fusion) | 833 | 9 | 1 | MIT | 2026-08-13 | Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved. |
 | 75 | [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) | 831 | 64 | 5 | — | 2025-11-13 | An opinionated NixOS config based on DHH's Omarchy |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **88,404** total repositories matching `language
 | 97 | [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) | 664 | 182 | 90 | MIT | 2026-10-13 | treefmt nix configuration |
 | 98 | [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) | 660 | 40 | 1 | MIT | 2026-11-05 | A continually evolving multi-user, multi-host NixOS configuration. |
 | 99 | [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) | 652 | 48 | 57 | MIT | 2026-11-07 | Flake for using COSMIC on NixOS |
-| 100 | [denful/den](https://github.com/denful/den) | 643 | 58 | 22 | Apache-2.0 | 2026-11-07 | Aspect-oriented, context-driven Nix configurations. |
+| 100 | [denful/den](https://github.com/denful/den) | 643 | 58 | 23 | Apache-2.0 | 2026-11-07 | Aspect-oriented, context-driven Nix configurations. |
