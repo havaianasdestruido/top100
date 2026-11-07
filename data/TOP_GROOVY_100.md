@@ -1,10 +1,10 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,727** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,729** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,918 | 5,265 | 3,527 | Apache-2.0 | 2026-11-07 | Adaptable, fast automation for all |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,917 | 5,265 | 3,527 | Apache-2.0 | 2026-11-07 | Adaptable, fast automation for all |
 | 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,736 | 2,426 | 30 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,367 | 990 | 53 | Apache-2.0 | 2026-11-06 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,482 | 1,914 | 112 | Apache-2.0 | 2026-11-07 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
