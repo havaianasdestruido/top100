@@ -1,17 +1,5 @@
 name: Top Repos by Language
 
-# Fetches the top 100 GitHub repos (by stars) for each configured language
-# using the GitHub Search API, rebuilds the static site, and commits the
-# results back to the repo.
-#
-# API usage: exactly 1 search request per language (per_page=100 gets the
-# top 100 in a single call), plus small pauses to stay inside the search
-# API's rate limit. N languages configured = N API calls per run.
-#
-# NOTE: commits made with the automatic GITHUB_TOKEN do not trigger other
-# workflows, so the Pages deployment (jekyll-gh-pages.yml) listens for this
-# workflow's completion instead of for pushes. Both triggers are needed.
-
 on:
   workflow_dispatch:
     inputs:
@@ -20,13 +8,13 @@ on:
         required: false
         default: ""
   schedule:
-    - cron: "0 0/1 * * *"
+    - cron: "0 * * * *"
   push:
     branches:
       - main
 
 permissions:
-  contents: write # needed for writing files
+  contents: write
 
 concurrency:
   group: top-repos
@@ -49,10 +37,7 @@ jobs:
 
       - name: Fetch top repos per language
         env:
-          # GITHUB_TOKEN is auto-provided by Actions; no secret setup needed.
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Empty for scheduled runs -> the script uses its default list of
-          # 30 languages, so every language is refreshed on every run.
           LANGUAGES: ${{ github.event.inputs.languages }}
         run: python scripts/fetch_top_repos.py
 
@@ -65,10 +50,6 @@ jobs:
       - name: Build the static site
         run: python scripts/build_site.py
 
-      # The build prints the catalogue, but these two checks are the gate:
-      # a tool that breaks a naming, annotation, budget or security rule, or a
-      # page whose embedded data does not line up with the generated HTML,
-      # fails the run before anything is committed.
       - name: Validate the WebMCP tool catalogue
         run: python scripts/webmcp_catalog.py
 
