@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,801** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,802** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **4,801** total repositories matching `language:
 | 55 | [thatjpcsguy/shorts](https://github.com/thatjpcsguy/shorts) | 14 | 6 | 0 | — | 2014-05-19 | Can i wear shorts today? http://shorts.today |
 | 56 | [theammarngp-makes/SQL-Engineering-Handbook](https://github.com/theammarngp-makes/SQL-Engineering-Handbook) | 14 | 4 | 6 | MIT | 2026-10-25 | SQL Engineeering Handbook by Mohammad Ammar . Production-ready with SQL tutorials, interview questions, real-world pr... |
 | 57 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
-| 58 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-11-05 | An example HR database for management of company's organization, employees, etc. |
+| 58 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-11-08 | An example HR database for management of company's organization, employees, etc. |
 | 59 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
 | 60 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
 | 61 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
