@@ -4,9 +4,9 @@ Ranked by stars. GitHub reports **189,215** total repositories matching `languag
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,646 | 1,125 | 26 | GPL-2.0 | 2026-10-26 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,647 | 1,125 | 26 | GPL-2.0 | 2026-10-26 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
 | 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,820 | 2,106 | 173 | — | 2024-10-20 | Stack trace visualizer |
-| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,108 | 350 | 2 | MIT | 2026-10-18 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
+| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,107 | 350 | 2 | MIT | 2026-10-18 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
 | 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,834 | 1,473 | 0 | NOASSERTION | 2026-11-06 | Nikto web server scanner |
 | 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,477 | 1,282 | 40 | GPL-3.0 | 2026-10-28 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,596 | 1,002 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **189,215** total repositories matching `languag
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,411 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,207 | 2,073 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
 | 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,074 | 378 | 15 | PostgreSQL | 2026-11-03 | A fast PostgreSQL Log Analyzer |
-| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 4,007 | 222 | 659 | BSD-3-Clause | 2026-11-07 | A terminal for iOS, with multiple windows |
+| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 4,007 | 222 | 657 | BSD-3-Clause | 2026-11-07 | A terminal for iOS, with multiple windows |
 | 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,905 | 349 | 166 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
 | 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,690 | 272 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
 | 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,584 | 403 | 146 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
@@ -35,19 +35,19 @@ Ranked by stars. GitHub reports **189,215** total repositories matching `languag
 | 29 | [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2,563 | 249 | 0 | GPL-3.0 | 2025-05-04 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds |
 | 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,488 | 722 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,409 | 340 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
-| 32 | [Perl/perl5](https://github.com/Perl/perl5) | 2,355 | 657 | 2,359 | NOASSERTION | 2026-11-07 | 🐪 The Perl programming language |
+| 32 | [Perl/perl5](https://github.com/Perl/perl5) | 2,355 | 657 | 2,360 | NOASSERTION | 2026-11-07 | 🐪 The Perl programming language |
 | 33 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,347 | 754 | 75 | MIT | 2018-10-14 |  |
 | 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,273 | 342 | 10 | CC-BY-4.0 | 2026-11-06 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
-| 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,203 | 133 | 45 | NOASSERTION | 2026-11-06 | Authentication, authorization, traceability and auditability for SSH accesses. |
+| 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,203 | 134 | 45 | NOASSERTION | 2026-11-06 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,176 | 142 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
-| 37 | [munin-monitoring/munin](https://github.com/munin-monitoring/munin) | 2,150 | 483 | 215 | NOASSERTION | 2026-11-04 | Main repository for munin master / node / plugins |
+| 37 | [munin-monitoring/munin](https://github.com/munin-monitoring/munin) | 2,151 | 483 | 215 | NOASSERTION | 2026-11-04 | Main repository for munin master / node / plugins |
 | 38 | [YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) | 2,085 | 134 | 47 | — | 2023-07-11 | [DEPRECATED] A minimal dark Theme for Sublime Text 2 and 3 |
 | 39 | [samyk/slipstream](https://github.com/samyk/slipstream) | 1,986 | 214 | 5 | — | 2023-01-14 | NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the... |
 | 40 | [oetiker/SmokePing](https://github.com/oetiker/SmokePing) | 1,985 | 215 | 7 | GPL-2.0 | 2026-08-10 | The Active Monitoring System |
 | 41 | [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 1,975 | 298 | 0 | GPL-2.0 | 2023-01-28 | Next-Generation Linux Kernel Exploit Suggester |
 | 42 | [tobie/ua-parser](https://github.com/tobie/ua-parser) | 1,961 | 480 | 0 | NOASSERTION | 2016-12-26 | A multi-language port of Browserscope's user agent parser. |
 | 43 | [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) | 1,864 | 311 | 75 | Apache-2.0 | 2026-10-25 | ModSecurity v3 Nginx Connector |
-| 44 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,815 | 388 | 119 | NOASSERTION | 2026-11-06 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
+| 44 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,815 | 388 | 120 | NOASSERTION | 2026-11-06 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
 | 45 | [duckduckgo/duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1,814 | 238 | 0 | NOASSERTION | 2022-10-14 | DuckDuckGo Instant Answer Infrastructure |
 | 46 | [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1,814 | 396 | 4 | GPL-2.0 | 2014-05-19 | Linux Exploit Suggester; based on operating system release number |
 | 47 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,790 | 313 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
@@ -83,7 +83,7 @@ Ranked by stars. GitHub reports **189,215** total repositories matching `languag
 | 77 | [creaktive/rainbarf](https://github.com/creaktive/rainbarf) | 1,209 | 65 | 2 | NOASSERTION | 2026-10-31 | it's like Rainmeter, but for CLI! |
 | 78 | [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | 1,204 | 127 | 107 | GPL-2.0 | 2025-05-11 | Infrastructure for examining and patching Thinkpad embedded controller firmware |
 | 79 | [sbwml/halflife-list](https://github.com/sbwml/halflife-list) | 1,197 | 102 | 0 | — | 2026-11-02 | ABP/ublock 广告过滤规则（每周一早上 8 点更新） |
-| 80 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,170 | 298 | 82 | GPL-2.0 | 2026-11-06 | Request Tracker, an enterprise-grade issue tracking system |
+| 80 | [bestpractical/rt](https://github.com/bestpractical/rt) | 1,170 | 297 | 82 | GPL-2.0 | 2026-11-06 | Request Tracker, an enterprise-grade issue tracking system |
 | 81 | [lm-sensors/lm-sensors](https://github.com/lm-sensors/lm-sensors) | 1,164 | 305 | 267 | GPL-2.0 | 2026-05-06 | lm-sensors repository |
 | 82 | [aspiers/stow](https://github.com/aspiers/stow) | 1,158 | 58 | 46 | GPL-3.0 | 2026-11-05 | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |
 | 83 | [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 1,135 | 136 | 1 | — | 2023-02-01 | Golang - Regular Expression Tutorial |
