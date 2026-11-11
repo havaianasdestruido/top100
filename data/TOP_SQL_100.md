@@ -1,13 +1,13 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,823** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,826** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,339 | 432 | 1 | MIT | 2026-11-11 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
-| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 430 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
+| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 431 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 403 | 167 | 62 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 310 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
