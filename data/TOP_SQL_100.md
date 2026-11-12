@@ -1,11 +1,11 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,826** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,833** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,339 | 432 | 1 | MIT | 2026-11-11 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,338 | 432 | 1 | MIT | 2026-11-12 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 431 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
@@ -45,9 +45,9 @@ Ranked by stars. GitHub reports **4,826** total repositories matching `language:
 | 39 | [FL-Marine/8-Week-SQL-Challenge](https://github.com/FL-Marine/8-Week-SQL-Challenge) | 19 | 7 | 0 | — | 2022-08-04 | Case Study's from Danny Ma's Serious SQL Course |
 | 40 | [Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | 19 | 8 | 0 | — | 2023-01-13 | MySQL and Oracle in 100 days |
 | 41 | [folio-org/folio-analytics](https://github.com/folio-org/folio-analytics) | 18 | 36 | 59 | Apache-2.0 | 2026-10-22 | Community query repository for FOLIO analytics based on Metadb/LDP |
-| 42 | [ashley-andrade/estetica-bem-estar](https://github.com/ashley-andrade/estetica-bem-estar) | 18 | 0 | 0 | — | 2026-11-06 | Este é um projeto Full Stack completo desenvolvido especificamente para o cenário de clínicas de estética e salões de... |
-| 43 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
-| 44 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
+| 42 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
+| 43 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
+| 44 | [ashley-andrade/estetica-bem-estar](https://github.com/ashley-andrade/estetica-bem-estar) | 17 | 0 | 0 | — | 2026-11-06 | Este é um projeto Full Stack completo desenvolvido especificamente para o cenário de clínicas de estética e salões de... |
 | 45 | [jhajagos/DocGraph](https://github.com/jhajagos/DocGraph) | 17 | 10 | 0 | — | 2014-05-21 | Code related to DocGraph analysis |
 | 46 | [pietdaniel/poetification](https://github.com/pietdaniel/poetification) | 17 | 3 | 0 | — | 2014-05-18 | give texts give poems |
 | 47 | [DFE-Digital/gias-query-tool](https://github.com/DFE-Digital/gias-query-tool) | 17 | 4 | 1 | — | 2025-10-03 | The easiest way to write advanced queries against the Get Information About Schools (GIAS) database |
