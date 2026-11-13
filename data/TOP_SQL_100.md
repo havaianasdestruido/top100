@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,844** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,846** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Ranked by stars. GitHub reports **4,844** total repositories matching `language:
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 290 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 230 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
-| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 181 | 44 | 0 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
+| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 181 | 44 | 1 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 10 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 118 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
