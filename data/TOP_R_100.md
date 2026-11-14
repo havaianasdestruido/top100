@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,154,907** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,154,997** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Ranked by stars. GitHub reports **1,154,907** total repositories matching `langu
 | 15 | [plotly/plotly.R](https://github.com/plotly/plotly.R) | 2,684 | 641 | 762 | NOASSERTION | 2026-07-25 | An interactive graphing library for R |
 | 16 | [thomasp85/patchwork](https://github.com/thomasp85/patchwork) | 2,617 | 170 | 82 | NOASSERTION | 2025-08-25 | The Composer of ggplots |
 | 17 | [r-lib/devtools](https://github.com/r-lib/devtools) | 2,526 | 760 | 9 | NOASSERTION | 2026-09-30 | Tools to make an R developer's life easier |
-| 18 | [yihui/knitr](https://github.com/yihui/knitr) | 2,469 | 875 | 4 | — | 2026-11-02 | A general-purpose tool for dynamic report generation in R |
+| 18 | [yihui/knitr](https://github.com/yihui/knitr) | 2,469 | 876 | 4 | — | 2026-11-02 | A general-purpose tool for dynamic report generation in R |
 | 19 | [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) | 2,431 | 631 | 288 | — | 2026-10-30 | Statistical Rethinking course and book package |
 | 20 | [rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023) | 2,387 | 267 | 13 | CC0-1.0 | 2023-11-28 | Statistical Rethinking Course for Jan-Mar 2023 |
 | 21 | [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 2,209 | 199 | 0 | NOASSERTION | 2026-11-13 | Enhancing {ggplot2} plots with statistical analysis 📊📣 |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **1,154,907** total repositories matching `langu
 | 95 | [sparklyr/sparklyr](https://github.com/sparklyr/sparklyr) | 970 | 310 | 356 | Apache-2.0 | 2026-11-09 | R interface for Apache Spark |
 | 96 | [gesiscss/awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) | 964 | 107 | 5 | CC0-1.0 | 2026-10-13 | A list of awesome resources for Computational Social Science |
 | 97 | [cutterkom/generativeart](https://github.com/cutterkom/generativeart) | 962 | 160 | 5 | GPL-3.0 | 2022-04-27 | Create Generative Art with R |
-| 98 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 957 | 646 | 65 | NOASSERTION | 2026-11-13 | Building R packages |
+| 98 | [hadley/r-pkgs](https://github.com/hadley/r-pkgs) | 957 | 646 | 65 | NOASSERTION | 2026-11-14 | Building R packages |
 | 99 | [easystats/see](https://github.com/easystats/see) | 957 | 49 | 23 | NOASSERTION | 2026-11-03 | :art: Visualisation toolbox for beautiful and publication-ready figures |
-| 100 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 956 | 107 | 76 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
+| 100 | [thomasp85/ggforce](https://github.com/thomasp85/ggforce) | 955 | 107 | 76 | NOASSERTION | 2025-09-15 | Accelerating ggplot2 |
