@@ -1,11 +1,11 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,804** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,805** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,936 | 5,260 | 3,503 | Apache-2.0 | 2026-11-15 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,742 | 2,424 | 30 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,937 | 5,260 | 3,503 | Apache-2.0 | 2026-11-15 | Adaptable, fast automation for all |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,742 | 2,425 | 30 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,378 | 991 | 54 | Apache-2.0 | 2026-11-15 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,482 | 1,914 | 101 | Apache-2.0 | 2026-11-15 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,282 | 3,560 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
@@ -13,7 +13,7 @@ Ranked by stars. GitHub reports **111,804** total repositories matching `languag
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,949 | 571 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
 | 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,527 | 823 | 421 | Apache-2.0 | 2026-11-15 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,287 | 702 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,942 | 979 | 915 | Apache-2.0 | 2026-11-15 | Grails - the Web Application Framework |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,942 | 978 | 916 | Apache-2.0 | 2026-11-15 | Grails - the Web Application Framework |
 | 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,670 | 85,922 | 2,503 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,225 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,922 | 820 | 189 | Apache-2.0 | 2026-11-13 | A Groovy DSL for Jenkins Jobs |
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **111,804** total repositories matching `languag
 | 56 | [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) | 650 | 136 | 83 | Apache-2.0 | 2020-08-20 | A Gradle plugin to build Docker images from the build script. |
 | 57 | [akhikhl/gretty](https://github.com/akhikhl/gretty) | 648 | 179 | 234 | MIT | 2023-12-28 | Advanced gradle plugin for running web-apps on jetty and tomcat. |
 | 58 | [allegro/axion-release-plugin](https://github.com/allegro/axion-release-plugin) | 643 | 165 | 81 | Apache-2.0 | 2026-11-09 | Gradle release & version management plugin. |
-| 59 | [brown-uk/dict_uk](https://github.com/brown-uk/dict_uk) | 637 | 76 | 38 | GPL-3.0 | 2026-11-09 | Project to generate POS tag dictionary for Ukrainian language |
+| 59 | [brown-uk/dict_uk](https://github.com/brown-uk/dict_uk) | 637 | 77 | 39 | GPL-3.0 | 2026-11-09 | Project to generate POS tag dictionary for Ukrainian language |
 | 60 | [pledbrook/lazybones](https://github.com/pledbrook/lazybones) | 617 | 101 | 53 | Apache-2.0 | 2020-10-13 | A simple project creation tool that uses packaged project templates. |
 | 61 | [adobe/aem-project-archetype](https://github.com/adobe/aem-project-archetype) | 597 | 426 | 183 | Apache-2.0 | 2026-11-03 | Maven template to create best-practice websites on AEM. |
 | 62 | [dqzboy/DevOps](https://github.com/dqzboy/DevOps) | 585 | 75 | 0 | — | 2024-07-09 | DevOps. Make the project development and release simpler, easier and more efficient. |
@@ -84,7 +84,7 @@ Ranked by stars. GitHub reports **111,804** total repositories matching `languag
 | 78 | [UCodeUStory/GradlePluginDevelop](https://github.com/UCodeUStory/GradlePluginDevelop) | 462 | 32 | 1 | — | 2019-01-20 | 💍Gradle 执行流程、什么叫DSL、领域专用语言、Gradle常见用法、Gradle高级插件用法、Gradle对Android优化、结合Javassist使用给上一层楼以及Gradle开发中的遇到的问题 |
 | 79 | [grails/grails](https://github.com/grails/grails) | 454 | 70 | 0 | — | 2010-02-11 | A powerful web application framework based on the Groovy language |
 | 80 | [sheehan/job-dsl-gradle-example](https://github.com/sheehan/job-dsl-gradle-example) | 451 | 320 | 15 | Apache-2.0 | 2022-04-21 | An example Job DSL project that uses Gradle for building and testing. |
-| 81 | [jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 445 | 71 | 10 | Apache-2.0 | 2026-11-14 | Gradle plugin that provides a task to generate a HTML license report of your project. |
+| 81 | [jaredsburrows/gradle-license-plugin](https://github.com/jaredsburrows/gradle-license-plugin) | 445 | 71 | 10 | Apache-2.0 | 2026-11-15 | Gradle plugin that provides a task to generate a HTML license report of your project. |
 | 82 | [spinnaker/clouddriver](https://github.com/spinnaker/clouddriver) | 444 | 996 | 14 | Apache-2.0 | 2025-12-20 | read and write operations across cloud providers |
 | 83 | [fabric8io/fabric8-pipeline-library](https://github.com/fabric8io/fabric8-pipeline-library) | 435 | 204 | 64 | Apache-2.0 | 2024-04-09 | Fabric8 Pipeline for Jenkins |
 | 84 | [fabiomsr/drawable-optimizer](https://github.com/fabiomsr/drawable-optimizer) | 432 | 42 | 4 | Apache-2.0 | 2016-05-19 | Gradle plugin to optimize png files and reduce resultant apk size within an Android project. |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **111,804** total repositories matching `languag
 | 97 | [tonesto7/nest-manager](https://github.com/tonesto7/nest-manager) | 389 | 2,102 | 83 | NOASSERTION | 2021-08-22 | NST Manager (SmartThings) |
 | 98 | [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) | 386 | 99 | 18 | Apache-2.0 | 2026-11-14 | The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor depe... |
 | 99 | [tangpj/calces-gradle-plugin](https://github.com/tangpj/calces-gradle-plugin) | 385 | 47 | 0 | — | 2021-02-03 | Android构建工具集：包含快速实现组件化构建脚本，快速实现屏幕最小宽度适配脚本 |
-| 100 | [jk1/Gradle-License-Report](https://github.com/jk1/Gradle-License-Report) | 382 | 107 | 60 | Apache-2.0 | 2026-11-01 | A plugin for generating reports about the licenses of third party software using Gradle |
+| 100 | [jk1/Gradle-License-Report](https://github.com/jk1/Gradle-License-Report) | 383 | 107 | 60 | Apache-2.0 | 2026-11-01 | A plugin for generating reports about the licenses of third party software using Gradle |
