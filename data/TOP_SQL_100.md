@@ -1,11 +1,11 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,858** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,866** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,341 | 431 | 1 | MIT | 2026-11-14 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,312 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,342 | 431 | 1 | MIT | 2026-11-14 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 433 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
@@ -14,7 +14,7 @@ Ranked by stars. GitHub reports **4,858** total repositories matching `language:
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 291 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 230 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
-| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 182 | 43 | 1 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
+| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 182 | 44 | 1 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 10 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 118 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
@@ -44,7 +44,7 @@ Ranked by stars. GitHub reports **4,858** total repositories matching `language:
 | 38 | [ndleah/people-data-analysis](https://github.com/ndleah/people-data-analysis) | 19 | 9 | 0 | — | 2021-09-14 | 👥 Employee analysis #DWD |
 | 39 | [FL-Marine/8-Week-SQL-Challenge](https://github.com/FL-Marine/8-Week-SQL-Challenge) | 19 | 7 | 0 | — | 2022-08-04 | Case Study's from Danny Ma's Serious SQL Course |
 | 40 | [Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | 19 | 8 | 0 | — | 2023-01-13 | MySQL and Oracle in 100 days |
-| 41 | [folio-org/folio-analytics](https://github.com/folio-org/folio-analytics) | 18 | 35 | 59 | Apache-2.0 | 2026-10-22 | Community query repository for FOLIO analytics based on Metadb/LDP |
+| 41 | [folio-org/folio-analytics](https://github.com/folio-org/folio-analytics) | 18 | 36 | 59 | Apache-2.0 | 2026-10-22 | Community query repository for FOLIO analytics based on Metadb/LDP |
 | 42 | [longwall/voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | 17 | 2 | 0 | MIT | 2014-06-11 | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functi... |
 | 43 | [dwijendra626/DataAnalysis_and_Visualization_Projects](https://github.com/dwijendra626/DataAnalysis_and_Visualization_Projects) | 17 | 1 | 0 | — | 2023-06-06 | This repository contains End-to-end Data Analytics Projects |
 | 44 | [ashley-andrade/estetica-bem-estar](https://github.com/ashley-andrade/estetica-bem-estar) | 17 | 0 | 0 | — | 2026-11-06 | Este é um projeto Full Stack completo desenvolvido especificamente para o cenário de clínicas de estética e salões de... |
