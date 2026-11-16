@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,855** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,858** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Ranked by stars. GitHub reports **4,855** total repositories matching `language:
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 291 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 230 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
-| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 181 | 44 | 1 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
+| 11 | [Snowflake-Labs/dbt_constraints](https://github.com/Snowflake-Labs/dbt_constraints) | 182 | 43 | 1 | Apache-2.0 | 2026-10-21 | This package generates database constraints based on the tests in a dbt project |
 | 12 | [tnightengale/dbt-meta-testing](https://github.com/tnightengale/dbt-meta-testing) | 133 | 20 | 10 | GPL-3.0 | 2026-04-16 | A dbt SQL package for ensuring documentation and test coverage, with granular control. |
 | 13 | [leehach/census-postgres](https://github.com/leehach/census-postgres) | 122 | 70 | 0 | — | 2014-05-22 | PostgreSQL schema and import scripts for recent US Census data |
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 118 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
@@ -63,7 +63,7 @@ Ranked by stars. GitHub reports **4,855** total repositories matching `language:
 | 57 | [andrewmunro/Vanilla](https://github.com/andrewmunro/Vanilla) | 14 | 5 | 1 | — | 2014-05-16 | Vanilla WoW Emulator for Educational Purposes |
 | 58 | [gdsotirov/hr_schema](https://github.com/gdsotirov/hr_schema) | 13 | 0 | 0 | GPL-2.0 | 2026-11-08 | An example HR database for management of company's organization, employees, etc. |
 | 59 | [nextail/pulpocon-data-pipelines](https://github.com/nextail/pulpocon-data-pipelines) | 13 | 8 | 2 | — | 2026-07-17 | Repositorio para el taller "Construyendo pipelines de datos a escala" de la PulpoCon 2022 |
-| 60 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 1 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
+| 60 | [nvmaxim/india-atd-postgis-database](https://github.com/nvmaxim/india-atd-postgis-database) | 13 | 0 | 0 | — | 2026-02-07 | PostGIS database for India's Administrative-Territorial Division (ATD). ETL pipeline with hierarchical structure from... |
 | 61 | [01walid/Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | 13 | 7 | 3 | MIT | 2014-05-20 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
 | 62 | [valencprado/mysql-colinha](https://github.com/valencprado/mysql-colinha) | 13 | 3 | 0 | MIT | 2024-08-22 | Resumos sobre o banco de dados MySQL. |
 | 63 | [grahamwetzler/advent-of-code-dbt-2022](https://github.com/grahamwetzler/advent-of-code-dbt-2022) | 13 | 0 | 0 | — | 2023-02-05 | Advent of Code solutions using dbt, duckdb, dbt-duckdb |
