@@ -201,7 +201,10 @@ def write_lists_md():
         for p in md_files:
             title = p.stem.replace("_", " ").title()
             rel = p.relative_to(ROOT).as_posix()
-            lines.append(f"- [{title}]({rel})")
+            # Encode spaces and URL-significant characters such as '#' in Markdown
+            # destinations so filenames remain valid links in rendered indexes.
+            destination = urllib.parse.quote(rel, safe="/")
+            lines.append(f"- [{title}]({destination})")
     else:
         lines.append("_No markdown files found in `data/` yet._")
     path = ROOT / "LISTS.md"

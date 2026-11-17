@@ -304,7 +304,7 @@
         // Paths are relative to base_url, so the origin appears exactly once
         // and an agent joins them as base_url + "/" + path.
         payload.site_files = [
-          { file: "data/search-index.json", path: "data/search-index.json", note: "3,000 records, one per repository" },
+          { file: "data/search-index.json", path: "data/search-index.json", note: "repository records, one per repository" },
           { file: "data/webmcp-manifest.json", path: "data/webmcp-manifest.json", note: "tools, files, every SHA-256" },
           { file: "data/webmcp-context.json", path: "data/webmcp-context.json", note: "methodology and fields as data" },
           { file: "feed.xml", path: "feed.xml", note: "RSS 2.0 ranking feed" },
@@ -340,7 +340,7 @@
   });
 
   /* ===================================================================== *
-   * 3. Repository data — page rows and the full 3,000-record index.
+   * 3. Repository data — page rows and the full repository index.
    * ===================================================================== */
 
   define({
@@ -439,7 +439,7 @@
 
   define({
     name: "search_repositories",
-    description: "Search all 3,000 repositories in the dataset by keyword (matched " +
+    description: "Search the full repository dataset by keyword (matched " +
       "against name, description and topics) with optional filters for language, star " +
       "range, SPDX licence and topic. Returns ranked matches with stars, forks, licence " +
       "and page links. Sorting is deterministic: relevance, stars, forks, issues or " +

@@ -26,9 +26,12 @@ import { fileURLToPath } from "node:url";
 import http from "node:http";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const META = JSON.parse(fs.readFileSync(path.join(ROOT, "data/meta.json"), "utf8"));
-const LANGUAGE_COUNT = META.languages.length;
-const RECORD_COUNT = META.records;
+const DATASET_FILES = fs.readdirSync(path.join(ROOT, "data/JSONL"))
+  .filter((name) => name.endsWith(".jsonl"));
+const LANGUAGE_COUNT = DATASET_FILES.length;
+const SEARCH_INDEX = JSON.parse(
+  fs.readFileSync(path.join(ROOT, "data/search-index.json"), "utf8"));
+const RECORD_COUNT = SEARCH_INDEX.repos.length;
 const VERBOSE = process.argv.includes("--verbose");
 
 const CORE = fs.readFileSync(path.join(ROOT, "assets/webmcp-core.js"), "utf8");
@@ -469,6 +472,14 @@ async function testBuiltPages() {
     `${missingData} page(s)`);
   ok(weakCsp === 0, "every page carries the CSP and Permissions-Policy meta tags");
   ok(pages.includes("webmcp.html"), "webmcp.html is generated");
+  const webmcpHtml = fs.readFileSync(path.join(ROOT, "webmcp.html"), "utf8");
+  ok(webmcpHtml.includes(`${RECORD_COUNT.toLocaleString()}-record`) &&
+    !webmcpHtml.includes("3,000-record"),
+    "WebMCP documentation reports the generated repository count");
+  const listIndex = fs.readFileSync(path.join(ROOT, "LISTS.md"), "utf8");
+  ok(listIndex.includes("data/TOP_F%23_100.md") &&
+    listIndex.includes("data/TOP_VIM%20SCRIPT_100.md"),
+    "Markdown index encodes special characters in dataset links");
 
   // The manifest is the machine-readable contract; it must agree with the HTML.
   const manifest = JSON.parse(

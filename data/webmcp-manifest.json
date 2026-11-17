@@ -265,7 +265,7 @@
   },
   {
    "name": "search_repositories",
-   "description": "Search all 3,000 repositories in the dataset by keyword (matched against name, description and topics) with optional filters for language, star range, SPDX licence and topic. Returns ranked matches with stars, forks, licence and page links. Sorting is deterministic: relevance, stars, forks, issues or recency.",
+   "description": "Search the full repository dataset by keyword (matched against name, description and topics) with optional filters for language, star range, SPDX licence and topic. Returns ranked matches with stars, forks, licence and page links. Sorting is deterministic: relevance, stars, forks, issues or recency.",
    "inputSchema": {
     "type": "object",
     "properties": {
