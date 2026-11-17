@@ -353,7 +353,7 @@ def build_manifest(ctx, tools, data_files=None) -> dict:
             "name": "Top100",
             "url": C.BASE_URL + "/",
             "description": (
-                "The 100 most-starred GitHub repositories for 30 programming languages, "
+                f"The 100 most-starred GitHub repositories for {ctx['languages']} programming languages, "
                 "rebuilt hourly from the GitHub Search API and published as raw JSONL."
             ),
             "repository": C.REPO_URL,

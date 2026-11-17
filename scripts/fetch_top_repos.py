@@ -55,7 +55,8 @@ DEFAULT_LANGUAGES = [
     "TypeScript", "Python", "JavaScript", "Java", "C#", "C++", "PHP", "Shell",
     "C", "Go", "Rust", "Ruby", "Kotlin", "Swift", "Dart", "HTML", "CSS", "SQL",
     "Scala", "Lua", "Groovy", "Objective-C", "Perl", "Haskell", "Assembly",
-    "R", "Julia", "Elixir", "PowerShell", "Nix",
+    "R", "Julia", "Elixir", "PowerShell", "Nix", "Zig", "Clojure",
+    "Erlang", "OCaml", "Solidity", "Fortran", "Vim Script", "F#",
 ]
 
 # Set to True to additionally call GET /repos/{owner}/{repo} for every

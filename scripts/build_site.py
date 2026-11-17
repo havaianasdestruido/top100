@@ -491,7 +491,7 @@ def jsonld_website(ctx):
         "url": f"{C.BASE_URL}/",
         "inLanguage": "en",
         "description": (
-            "The 100 most-starred GitHub repositories for 30 programming languages, "
+            f"The 100 most-starred GitHub repositories for {ctx['languages']} programming languages, "
             "refreshed hourly from the GitHub Search API and published as raw JSONL."
         ),
         "publisher": {"@id": f"{C.BASE_URL}/#org"},
@@ -511,12 +511,12 @@ def jsonld_software(ctx):
         "operatingSystem": "Any (Python 3 and GitHub Actions)",
         "description": (
             "Open-source tool that fetches the 100 most-starred GitHub repositories "
-            "for 30 programming languages with one Search API request per language, "
+            f"for {ctx['languages']} programming languages with one Search API request per language, "
             "publishes them as HTML tables and raw JSONL, and refreshes them hourly "
             "via a scheduled GitHub Actions workflow."
         ),
         "featureList": [
-            "Top 100 repositories by stars for 30 programming languages",
+            f"Top 100 repositories by stars for {ctx['languages']} programming languages",
             "Raw, unmodified GitHub Search API repository objects as JSONL",
             "Hourly refresh via scheduled GitHub Actions workflow",
             "One Search API request per language",
@@ -531,10 +531,10 @@ def jsonld_software(ctx):
 
 def jsonld_dataset(ctx, key=None):
     if key is None:
-        name = "Top 100 GitHub repositories by stars for 30 programming languages"
+        name = f"Top 100 GitHub repositories by stars for {ctx['languages']} programming languages"
         desc = (
             f"{ctx['records']} GitHub repository records — the 100 most-starred "
-            "repositories for each of 30 programming languages — as newline-delimited "
+            f"repositories for each of {ctx['languages']} programming languages — as newline-delimited "
             "JSON. Each record is the complete, unmodified repository object returned "
             "by the GitHub Search API, refreshed hourly."
         )
@@ -731,7 +731,7 @@ stacks up against GitHub Trending, gitstar-ranking.com and EvanLi/Github-Ranking
 A scheduled GitHub Actions workflow runs that for all {ctx['languages']} languages
 every hour, rebuilds the Markdown tables and this website, and commits the result
 back to the repository. The whole pipeline is
-{fmt(30)} requests per refresh &mdash; one per language &mdash; and the
+{fmt(ctx["languages"])} requests per refresh &mdash; one per language &mdash; and the
 <a href="methodology.html">methodology page</a> documents the query, the back-off
 behaviour and the known limitations.</p>
 
@@ -756,14 +756,14 @@ languages, forks &mdash; are answered on the <a href="faq.html">FAQ page</a>.</p
             jsonld_dataset(ctx),
             jsonld_faq(faq, f"{C.BASE_URL}/"),
             jsonld_webpage(ctx, name="Top 100 GitHub repositories by stars, for every major language",
-                           description="Top 100 GitHub repositories by stars for 30 programming languages, with a free JSONL dataset refreshed hourly.",
+                           description=f"Top 100 GitHub repositories by stars for {ctx['languages']} programming languages, with a free JSONL dataset refreshed hourly.",
                            page_url=f"{C.BASE_URL}/"),
         ]},
     ]
     return html_page(
-        ctx=ctx, prefix="", title="Top 100 GitHub Repositories by Stars — 30 Languages, Free JSONL Dataset",
+        ctx=ctx, prefix="", title=f"Top 100 GitHub Repositories by Stars — {ctx['languages']} Languages, Free JSONL Dataset",
         description=(
-            "Ranked lists of the 100 most-starred GitHub repositories for 30 programming "
+            f"Ranked lists of the 100 most-starred GitHub repositories for {ctx['languages']} programming "
             "languages, refreshed hourly from the GitHub Search API. Download the raw "
             "JSONL dataset of GitHub repository metadata for free."
         ),
@@ -825,7 +825,7 @@ details.</p>
     jsonld = [
         {"@context": "https://schema.org", "@graph": [
             jsonld_webpage(ctx, name=f"Top 100 GitHub repositories for all {ctx['languages']} languages",
-                           description="Index of the top 100 most-starred GitHub repositories for 30 programming languages.",
+                           description=f"Index of the top 100 most-starred GitHub repositories for {ctx['languages']} programming languages.",
                            page_url=f"{C.BASE_URL}/languages/index.html"),
             jsonld_breadcrumb([
                 ("Top100", f"{C.BASE_URL}/"),
@@ -837,7 +837,7 @@ details.</p>
     return html_page(
         ctx=ctx, prefix="../", title=f"Top 100 GitHub Repositories for All {ctx['languages']} Languages",
         description=(
-            "Index of the 100 most-starred GitHub repositories for 30 programming "
+            f"Index of the 100 most-starred GitHub repositories for {ctx['languages']} programming "
             "languages, with entry star counts, medians and JSONL downloads."
         ),
         canonical=f"{C.BASE_URL}/languages/index.html",
@@ -1104,7 +1104,7 @@ link back here and credit GitHub as the source.</p>
     return html_page(
         ctx=ctx, prefix="", title="GitHub Repository Metadata JSONL Dataset — Field Reference & Download",
         description=(
-            "Download 30 JSONL files of raw GitHub repository metadata — 3,000 records, "
+            f"Download {ctx['languages']} JSONL files of raw GitHub repository metadata — {fmt(ctx['records'])} records, "
             "one complete Search API object per line — with a documented reference for "
             "every field."
         ),
@@ -1315,7 +1315,7 @@ def build_llms_txt(ctx):
     lines = [
         "# Top100",
         "",
-        "> The 100 most-starred GitHub repositories for 30 programming languages, "
+        f"> The 100 most-starred GitHub repositories for {ctx['languages']} programming languages, "
         "rebuilt every hour from the GitHub Search API and published as raw "
         "newline-delimited JSON you can download without an API key.",
         "",
@@ -1369,7 +1369,7 @@ def build_llms_txt(ctx):
         "",
         "## Data",
         "",
-        f"- JSONL files (30 files, 100 records each, {fmt(ctx['records'])} total): "
+        f"- JSONL files ({ctx['languages']} files, 100 records each, {fmt(ctx['records'])} total): "
         f"{C.TREE_URL}/data/JSONL",
         f"- Raw download pattern: {C.RAW_URL}/data/JSONL/python.jsonl",
         f"- Markdown tables: {C.TREE_URL}/data",
@@ -1457,10 +1457,10 @@ def build_llms_full(ctx):
         "",
         "One GitHub Search API request per language: "
         "`GET /search/repositories?q=language:<name>&sort=stars&order=desc&per_page=100`. "
-        "A scheduled GitHub Actions workflow runs it for all 30 languages every hour, "
+        f"A scheduled GitHub Actions workflow runs it for all {ctx['languages']} languages every hour, "
         "writes the raw JSONL and a Markdown table per language, rebuilds this site and "
         "commits everything back to the repository. No per-repository calls are made, so "
-        "a full refresh costs 30 Search API requests. Fields only available from the "
+        f"a full refresh costs {ctx['languages']} Search API requests. Fields only available from the "
         "single-repository endpoint (subscribers_count, network_count, parent/source) "
         "are absent unless ENRICH_WITH_REPO_DETAILS is enabled.",
         "",

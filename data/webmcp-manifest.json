@@ -1,10 +1,10 @@
 {
  "schema": "top100.webmcp/1",
- "generated_at": "2026-11-17T13:03:32Z",
+ "generated_at": "2026-11-17T17:17:12Z",
  "site": {
   "name": "Top100",
   "url": "https://havaianasdestruido.github.io/top100/",
-  "description": "The 100 most-starred GitHub repositories for 30 programming languages, rebuilt hourly from the GitHub Search API and published as raw JSONL.",
+  "description": "The 100 most-starred GitHub repositories for 38 programming languages, rebuilt hourly from the GitHub Search API and published as raw JSONL.",
   "repository": "https://github.com/havaianasdestruido/top100",
   "license": "MIT",
   "data_license": "GitHub API output; each listed project keeps its own licence"
@@ -100,7 +100,7 @@
   },
   {
    "name": "list_languages",
-   "description": "List the languages Top100 ranks, with each one's most-starred repository, the star count to reach 100th place, the median inside the top 100 and how many repositories GitHub reports for it. Paged: five rows per call, use offset to walk all 30. Every row's page URL is base_url + /languages/<slug>.html.",
+   "description": "List the languages Top100 ranks, with each one's most-starred repository, the star count to reach 100th place, the median inside the top 100 and how many repositories GitHub reports for it. Paged: five rows per call, use offset to page through the full language list. Every row's page URL is base_url + /languages/<slug>.html.",
    "inputSchema": {
     "type": "object",
     "properties": {
@@ -172,7 +172,7 @@
   },
   {
    "name": "get_download_links",
-   "description": "List every file this site publishes for machine use, with its URL: the JSONL dataset (one file per language), the Markdown lists, feed.xml, sitemap.xml, robots.txt, llms.txt, llms-full.txt, README.md, LISTS.md, the search index and the WebMCP manifest that carries all 30 checksums. Pass language=<key> for one file's size and SHA-256; pass family=dataset for the per-language URLs.",
+   "description": "List every file this site publishes for machine use, with its URL: the JSONL dataset (one file per language), the Markdown lists, feed.xml, sitemap.xml, robots.txt, llms.txt, llms-full.txt, README.md, LISTS.md, the search index and the WebMCP manifest that carries every dataset checksum. Pass language=<key> for one file's size and SHA-256; pass family=dataset for the per-language URLs.",
    "inputSchema": {
     "type": "object",
     "properties": {
@@ -1019,6 +1019,110 @@
    "sha256": "6b6cbac028b7834e7ef96a5cded64b52dcd6e062dbade511eed1f982e55e8216",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_NIX_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/nix.html",
+   "exists": true
+  },
+  {
+   "language": "zig",
+   "display": "Zig",
+   "path": "data/JSONL/zig.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/zig.jsonl",
+   "local_url": "data/JSONL/zig.jsonl",
+   "records": 100,
+   "bytes": 548769,
+   "sha256": "f74026a5eb6a39b50d5af50ddd0786426eec091f9b21f9faa937700ba97ee80e",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ZIG_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/zig.html",
+   "exists": true
+  },
+  {
+   "language": "clojure",
+   "display": "Clojure",
+   "path": "data/JSONL/clojure.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/clojure.jsonl",
+   "local_url": "data/JSONL/clojure.jsonl",
+   "records": 100,
+   "bytes": 555306,
+   "sha256": "2345dd808f2773aecaa36a55bfda39f491693eb4dd4637367325c5f73ecf83c3",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_CLOJURE_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/clojure.html",
+   "exists": true
+  },
+  {
+   "language": "erlang",
+   "display": "Erlang",
+   "path": "data/JSONL/erlang.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/erlang.jsonl",
+   "local_url": "data/JSONL/erlang.jsonl",
+   "records": 100,
+   "bytes": 544729,
+   "sha256": "1a55a8ded4e6399deb102e862b9313cc677f600dccd47afea100044824660938",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ERLANG_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/erlang.html",
+   "exists": true
+  },
+  {
+   "language": "ocaml",
+   "display": "OCaml",
+   "path": "data/JSONL/ocaml.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ocaml.jsonl",
+   "local_url": "data/JSONL/ocaml.jsonl",
+   "records": 100,
+   "bytes": 559415,
+   "sha256": "905273849df9cf6804c83c32b84e7a847457d25dfa5e82bebca04e4248216924",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_OCAML_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/ocaml.html",
+   "exists": true
+  },
+  {
+   "language": "solidity",
+   "display": "Solidity",
+   "path": "data/JSONL/solidity.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/solidity.jsonl",
+   "local_url": "data/JSONL/solidity.jsonl",
+   "records": 100,
+   "bytes": 580896,
+   "sha256": "4e36f5d4b26f669e1a4f86a5b6539111611c81c1429b268cc01849540689fd84",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SOLIDITY_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/solidity.html",
+   "exists": true
+  },
+  {
+   "language": "fortran",
+   "display": "Fortran",
+   "path": "data/JSONL/fortran.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/fortran.jsonl",
+   "local_url": "data/JSONL/fortran.jsonl",
+   "records": 100,
+   "bytes": 564070,
+   "sha256": "142fffe7a42fc9ca2842b18d282c1ccfab700f14e6f0fa4e5d7ec540367787dd",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_FORTRAN_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/fortran.html",
+   "exists": true
+  },
+  {
+   "language": "vim script",
+   "display": "Vim Script",
+   "path": "data/JSONL/vim script.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/vim%20script.jsonl",
+   "local_url": "data/JSONL/vim%20script.jsonl",
+   "records": 100,
+   "bytes": 557942,
+   "sha256": "30ae8bf9398d09ee22c5f91ee87e3b6789cadb9e1e1dc893e5b09b34de3ed94e",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_VIM%20SCRIPT_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/vim-script.html",
+   "exists": true
+  },
+  {
+   "language": "f#",
+   "display": "F#",
+   "path": "data/JSONL/f#.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/f%23.jsonl",
+   "local_url": "data/JSONL/f%23.jsonl",
+   "records": 100,
+   "bytes": 571424,
+   "sha256": "c41c1a627a365422790cc5a992c075ddb12c4ac91e87827b8dce0216c4ef711c",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_F%23_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/fsharp.html",
    "exists": true
   }
  ]

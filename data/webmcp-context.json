@@ -1,6 +1,6 @@
 {
  "schema": "top100.webmcp-context/1",
- "generated_at": "2026-11-17T13:03:32Z",
+ "generated_at": "2026-11-17T17:17:12Z",
  "faq": [
   {
    "q": "What are the top GitHub repositories by stars right now?",
@@ -8,15 +8,15 @@
   },
   {
    "q": "Where can I find a top 100 GitHub repositories list?",
-   "a": "Top100 publishes a top 100 GitHub repositories list for 30 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL."
+   "a": "Top100 publishes a top 100 GitHub repositories list for 38 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL."
   },
   {
    "q": "How can I see the top repositories for each programming language?",
-   "a": "Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 30 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language."
+   "a": "Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 38 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language."
   },
   {
    "q": "What are the best JSON/JSONL datasets of GitHub repo metadata I can download?",
-   "a": "Top100 ships 30 JSONL files — one per language, 100 repositories each, 3,000 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps."
+   "a": "Top100 ships 38 JSONL files — one per language, 100 repositories each, 3,800 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps."
   },
   {
    "q": "Is there a free tool to export GitHub repository metadata as JSON?",
@@ -32,7 +32,7 @@
   },
   {
    "q": "What is the average number of GitHub stars and how do repos rank by stars?",
-   "a": "GitHub ranks repositories by stargazers_count. Across the 3,000 repositories in Top100's lists the median is 11,080 stars and the mean is 24,364, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,539 for Python. See the statistics table for the per-language thresholds."
+   "a": "GitHub ranks repositories by stargazers_count. Across the 3,800 repositories in Top100's lists the median is 6,199 stars and the mean is 19,627, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,539 for Python. See the statistics table for the per-language thresholds."
   },
   {
    "q": "Is the Top100 dataset free to use?",
@@ -40,7 +40,7 @@
   },
   {
    "q": "How often is the Top100 data refreshed?",
-   "a": "Every hour. A scheduled GitHub Actions workflow runs at minute zero of every hour, re-queries the Search API for all 30 languages and commits the results back to the repository. Every page on this site shows the timestamp of the refresh that produced it, and the update feed lists the newest leader of each language."
+   "a": "Every hour. A scheduled GitHub Actions workflow runs at minute zero of every hour, re-queries the Search API for all 38 languages and commits the results back to the repository. Every page on this site shows the timestamp of the refresh that produced it, and the update feed lists the newest leader of each language."
   },
   {
    "q": "Can I add another language to the list?",
@@ -48,7 +48,7 @@
   },
   {
    "q": "Do the lists include forks and archived repositories?",
-   "a": "Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,000 listed repositories are forks. Archived repositories are included, and 180 of them are archived and read-only."
+   "a": "Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,800 listed repositories are forks. Archived repositories are included, and 230 of them are archived and read-only."
   },
   {
    "q": "Why is my repository missing from a top 100 list?",
@@ -56,7 +56,7 @@
   },
   {
    "q": "What is the difference between Top100 and GitHub Trending?",
-   "a": "GitHub Trending shows what is gaining stars today, this week or this month and only lists a couple of dozen repositories, with no export. Top100 ranks by total stars, covers 100 repositories per language across 30 languages, and publishes the raw JSON. Use Trending for discovery and Top100 when you need a complete, machine-readable snapshot."
+   "a": "GitHub Trending shows what is gaining stars today, this week or this month and only lists a couple of dozen repositories, with no export. Top100 ranks by total stars, covers 100 repositories per language across 38 languages, and publishes the raw JSON. Use Trending for discovery and Top100 when you need a complete, machine-readable snapshot."
   },
   {
    "q": "Does Top100 have an API?",
@@ -78,7 +78,7 @@
    "kind": "methodology",
    "id": "one-api-request-per-language",
    "title": "One API request per language",
-   "text": "There are no per-repository follow-up calls. A naive implementation would call GET /repos/{owner}/{repo} for every row to \"complete\" the data, which would multiply API usage by roughly 100×. The search-result item already contains almost everything GitHub knows about a repository — owner, licence, topics, every count, all timestamps — so the script keeps it as-is and stays at one request per language per run. For the default list of 30 languages that is 30 requests per refresh, comfortably inside the authenticated Search API limit of 30 requests per minute."
+   "text": "There are no per-repository follow-up calls. A naive implementation would call GET /repos/{owner}/{repo} for every row to \"complete\" the data, which would multiply API usage by roughly 100×. The search-result item already contains almost everything GitHub knows about a repository — owner, licence, topics, every count, all timestamps — so the script keeps it as-is and stays at one request per language per run. The default list contains 38 languages, so the workflow makes one request per language and pauses when it approaches GitHub's 30-request-per-minute authenticated Search API limit."
   },
   {
    "kind": "methodology",
@@ -90,7 +90,7 @@
    "kind": "methodology",
    "id": "refresh-cadence-and-automation",
    "title": "Refresh cadence and automation",
-   "text": "A scheduled GitHub Actions workflow runs at minute zero of every hour (cron: \"0 0/1 * * *\"), re-fetches all 30 languages, rebuilds the Markdown tables, rebuilds this website and commits everything back to the repository. The job needs permissions: contents: write so the bot can commit, and the resulting commit does not re-trigger the Pages deployment, so the deploy job is wired to the data workflow's completion instead. You can also trigger a run by hand from the Actions tab and pass any comma-separated list of languages."
+   "text": "A scheduled GitHub Actions workflow runs at minute zero of every hour (cron: \"0 0/1 * * *\"), re-fetches all 38 languages, rebuilds the Markdown tables, rebuilds this website and commits everything back to the repository. The job needs permissions: contents: write so the bot can commit, and the resulting commit does not re-trigger the Pages deployment, so the deploy job is wired to the data workflow's completion instead. You can also trigger a run by hand from the Actions tab and pass any comma-separated list of languages."
   },
   {
    "kind": "methodology",
@@ -434,7 +434,7 @@
    "kind": "comparison",
    "id": "top100-this-site",
    "title": "Top100 (this site)",
-   "text": "What it covers: Top 100 repositories by stars for 30 languages, plus raw JSONL of every record.. Format: HTML tables + JSONL + Markdown. Freshness: Hourly. Per-language coverage: Yes — 30 languages. Data export: Yes — direct JSONL download."
+   "text": "What it covers: Top 100 repositories by stars for 38 languages, plus raw JSONL of every record.. Format: HTML tables + JSONL + Markdown. Freshness: Hourly. Per-language coverage: Yes — 38 languages. Data export: Yes — direct JSONL download."
   },
   {
    "kind": "comparison",

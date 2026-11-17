@@ -26,6 +26,9 @@ import { fileURLToPath } from "node:url";
 import http from "node:http";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const META = JSON.parse(fs.readFileSync(path.join(ROOT, "data/meta.json"), "utf8"));
+const LANGUAGE_COUNT = META.languages.length;
+const RECORD_COUNT = META.records;
 const VERBOSE = process.argv.includes("--verbose");
 
 const CORE = fs.readFileSync(path.join(ROOT, "assets/webmcp-core.js"), "utf8");
@@ -395,7 +398,7 @@ async function testBuiltPages() {
     "methodology.html", "dataset.html", "compare.html", "faq.html",
     "404.html", "webmcp.html"].filter((rel) => fs.existsSync(path.join(ROOT, rel)));
 
-  ok(pages.length === 38, `every generated page is on disk (${pages.length})`);
+  ok(pages.length === LANGUAGE_COUNT + 8, `every generated page is on disk (${pages.length})`);
 
   const expectedTypes = {
     "index.html": "home", "languages/index.html": "languages",
@@ -475,7 +478,7 @@ async function testBuiltPages() {
   ok(manifest.data_files.reduce((n, f) => n + f.records, 0) === home.site.records,
     "the manifest's dataset adds up to the record count the pages quote");
   ok(manifest.tools.length === 16, `the manifest lists all 16 tools (${manifest.tools.length})`);
-  ok(manifest.data_files.length === 30 &&
+  ok(manifest.data_files.length === LANGUAGE_COUNT &&
     manifest.data_files.every((f) => fs.existsSync(path.join(ROOT, f.path))),
     "every dataset file in the manifest exists on disk");
   const context = JSON.parse(
@@ -600,8 +603,8 @@ async function testTools() {
   ok(notFound.ok === false && notFound.error.code === "NOT_FOUND", "unknown language → NOT_FOUND");
 
   const search = await call("search_repositories", { query: "web framework", language: "python" });
-  ok(search.ok && search.data.scanned === 3000,
-    "search_repositories reads the 3,000-record index");
+  ok(search.ok && search.data.scanned === RECORD_COUNT,
+    `search_repositories reads the ${RECORD_COUNT.toLocaleString()}-record index`);
   ok(search.data.results.every((r) => r.language === "python"),
     "language filter applies to search results");
   ok(ctx.fetchLog.some((f) => f.href.includes("search-index.json")),
@@ -635,7 +638,7 @@ async function testTools() {
   const file = await call("get_dataset_schema", { language: "python" });
   ok(file.ok && file.data.file.sha256.length === 64, "get_dataset_schema returns a checksum");
   const list = await call("get_dataset_schema", {});
-  ok(list.ok && list.data.fields.length > 5 && list.data.data_files.count === 30,
+  ok(list.ok && list.data.fields.length > 5 && list.data.data_files.count === LANGUAGE_COUNT,
     "get_dataset_schema lists fields and data files");
 
   const links = await call("get_download_links", {});

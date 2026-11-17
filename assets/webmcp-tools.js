@@ -133,7 +133,7 @@
     description: "List the languages Top100 ranks, with each one's most-starred " +
       "repository, the star count to reach 100th place, the median inside the top 100 " +
       "and how many repositories GitHub reports for it. Paged: five rows per call, " +
-      "use offset to walk all 30. Every row's page URL is base_url + /languages/<slug>.html.",
+      "use offset to page through the full language list. Every row's page URL is base_url + /languages/<slug>.html.",
     inputSchema: {
       "type": "object",
       "properties": {
@@ -251,7 +251,7 @@
     description: "List every file this site publishes for machine use, with its URL: the " +
       "JSONL dataset (one file per language), the Markdown lists, feed.xml, sitemap.xml, " +
       "robots.txt, llms.txt, llms-full.txt, README.md, LISTS.md, the search index and " +
-      "the WebMCP manifest that carries all 30 checksums. Pass language=<key> for one " +
+      "the WebMCP manifest that carries every dataset checksum. Pass language=<key> for one " +
       "file's size and SHA-256; pass family=dataset for the per-language URLs.",
     inputSchema: {
       "type": "object",
@@ -332,7 +332,7 @@
         });
         payload.dataset.__notes = ["language=<key> returns one file's SHA-256."];
       } else if (family !== "site") {
-        payload.__notes = ["family=dataset returns all 30 URLs; language=<key> one checksum."];
+        payload.__notes = ["family=dataset returns all language URLs; language=<key> one checksum."];
       }
 
       return payload;
