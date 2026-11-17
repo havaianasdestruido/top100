@@ -1,14 +1,14 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,070** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,072** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,367 | 12,415 | 341 | MIT | 2026-11-17 | OpenZeppelin Contracts is a library for secure smart contract development. |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,368 | 12,415 | 341 | MIT | 2026-11-17 | OpenZeppelin Contracts is a library for secure smart contract development. |
 | 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,067 | 2,432 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
 | 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,329 | 74 | 4 | AGPL-3.0 | 2026-11-12 |  |
 | 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,202 | 34 | 1 | AGPL-3.0 | 2026-11-09 | Solidity contracts implementing hash based post quantum signatures |
-| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,846 | 1,491 | 2 | Apache-2.0 | 2026-11-17 | Reproduce DeFi hacked incidents using Foundry. |
+| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,847 | 1,491 | 2 | Apache-2.0 | 2026-11-17 | Reproduce DeFi hacked incidents using Foundry. |
 | 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,827 | 1,457 | 38 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
 | 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,303 | 704 | 129 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
 | 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,405 | 501 | 47 | MIT | 2026-10-20 | Optimized Solidity snippets. |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **302,070** total repositories matching `languag
 | 11 | [Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash) | 2,724 | 589 | 0 | MIT | 2022-04-10 | Cash system for AIR. |
 | 12 | [Uniswap/v4-core](https://github.com/Uniswap/v4-core) | 2,565 | 1,345 | 71 | — | 2026-10-23 | 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4 |
 | 13 | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | 2,486 | 394 | 61 | AGPL-3.0 | 2026-10-22 | Guidelines and training material to write secure smart contracts |
-| 14 | [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) | 2,348 | 786 | 77 | AGPL-3.0 | 2026-11-16 | Web3/Solidity based wargame |
+| 14 | [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) | 2,349 | 786 | 77 | AGPL-3.0 | 2026-11-17 | Web3/Solidity based wargame |
 | 15 | [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) | 2,262 | 660 | 1 | MIT | 2026-11-10 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. |
 | 16 | [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) | 2,225 | 364 | 10 | Apache-2.0 | 2023-02-24 | Examples of Solidity security issues |
 | 17 | [libevm/subway](https://github.com/libevm/subway) | 2,207 | 522 | 6 | MIT | 2023-08-02 | A practical example on how to perform sandwich attacks on Ethereum |
@@ -50,7 +50,7 @@ Ranked by stars. GitHub reports **302,070** total repositories matching `languag
 | 44 | [Uniswap/permit2](https://github.com/Uniswap/permit2) | 954 | 310 | 44 | MIT | 2024-08-19 | 🔑🔑🔑 next generation token approvals mechanism |
 | 45 | [bacen/pilotord-kit-onboarding](https://github.com/bacen/pilotord-kit-onboarding) | 953 | 235 | 8 | — | 2025-08-28 | Documentação e arquivos de configuração para participação no Piloto do Real Digital |
 | 46 | [spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) | 944 | 187 | 1 | — | 2023-04-26 | I'm sharing everything I'm learning to become a Blockchain Engineer |
-| 47 | [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) | 910 | 673 | 58 | MIT | 2026-11-17 | 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4 |
+| 47 | [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) | 910 | 673 | 59 | MIT | 2026-11-17 | 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4 |
 | 48 | [sky-ecosystem/multicall](https://github.com/sky-ecosystem/multicall) | 871 | 558 | 22 | MIT | 2023-03-26 | Multicall: Aggregate multiple constant function call results into one |
 | 49 | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | 838 | 457 | 36 | AGPL-3.0 | 2023-10-01 | Dai Stablecoin System |
 | 50 | [HashLips/hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 826 | 646 | 57 | MIT | 2022-10-23 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. |

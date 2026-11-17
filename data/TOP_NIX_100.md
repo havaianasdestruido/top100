@@ -1,45 +1,45 @@
 # Top 100 Nix repositories on GitHub
 
-Ranked by stars. GitHub reports **88,873** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **88,885** total repositories matching `language:Nix`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,868 | 20,782 | 22,597 | MIT | 2026-11-17 | Nix Packages collection & NixOS |
-| 2 | [nix-community/home-manager](https://github.com/nix-community/home-manager) | 10,528 | 2,512 | 987 | MIT | 2026-11-17 | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] |
+| 1 | [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) | 26,874 | 20,785 | 22,570 | MIT | 2026-11-17 | Nix Packages collection & NixOS |
+| 2 | [nix-community/home-manager](https://github.com/nix-community/home-manager) | 10,528 | 2,512 | 982 | MIT | 2026-11-17 | Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] |
 | 3 | [zardus/ctf-tools](https://github.com/zardus/ctf-tools) | 9,580 | 1,903 | 6 | BSD-3-Clause | 2026-11-14 | Some setup scripts for security research tools. |
-| 4 | [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) | 6,086 | 673 | 491 | MIT | 2026-10-31 | Manage your macOS using Nix |
+| 4 | [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) | 6,086 | 673 | 493 | MIT | 2026-10-31 | Manage your macOS using Nix |
 | 5 | [NixOS/nix.dev](https://github.com/NixOS/nix.dev) | 4,055 | 345 | 164 | CC-BY-SA-4.0 | 2026-11-16 | Official documentation for getting things done with Nix. |
 | 6 | [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) | 3,858 | 172 | 16 | CC0-1.0 | 2026-04-24 | Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplat... |
 | 7 | [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) | 3,653 | 198 | 29 | BSD-3-Clause | 2026-11-11 | General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions |
 | 8 | [nix-community/disko](https://github.com/nix-community/disko) | 3,431 | 342 | 242 | MIT | 2026-11-16 | Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] |
 | 9 | [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) | 3,364 | 1,007 | 340 | CC0-1.0 | 2026-11-17 | A collection of NixOS modules covering hardware quirks. |
-| 10 | [Mic92/sops-nix](https://github.com/Mic92/sops-nix) | 3,284 | 242 | 111 | MIT | 2026-11-16 | Atomic secret provisioning for NixOS based on sops |
+| 10 | [Mic92/sops-nix](https://github.com/Mic92/sops-nix) | 3,285 | 242 | 111 | MIT | 2026-11-16 | Atomic secret provisioning for NixOS based on sops |
 | 11 | [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) | 3,164 | 165 | 52 | Apache-2.0 | 2026-11-17 | NixOS on WSL [maintainer=@nzbr] |
 | 12 | [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) | 3,129 | 244 | 15 | MIT | 2026-09-28 | My NixOS configurations. |
 | 13 | [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) | 3,094 | 245 | 49 | MIT | 2026-11-16 | NixOS MicroVMs |
-| 14 | [nix-community/nixvim](https://github.com/nix-community/nixvim) | 2,986 | 408 | 165 | MIT | 2026-11-16 | Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] |
+| 14 | [nix-community/nixvim](https://github.com/nix-community/nixvim) | 2,985 | 408 | 165 | MIT | 2026-11-17 | Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] |
 | 15 | [ryantm/agenix](https://github.com/ryantm/agenix) | 2,544 | 159 | 118 | CC0-1.0 | 2026-10-20 | age-encrypted secrets for NixOS and Home manager |
 | 16 | [nix-community/stylix](https://github.com/nix-community/stylix) | 2,475 | 376 | 310 | MIT | 2026-11-16 | Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] |
 | 17 | [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) | 2,386 | 156 | 95 | MIT | 2026-01-30 | Collection of image builders [maintainer=@Lassulus] |
 | 18 | [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) | 2,384 | 188 | 10 | MPL-2.0 | 2026-11-16 | Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins] |
-| 19 | [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) | 2,298 | 330 | 43 | MIT | 2026-11-17 | Nix packages for AI coding agents and development tools. Automatically updated daily. |
+| 19 | [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) | 2,298 | 331 | 39 | MIT | 2026-11-17 | Nix packages for AI coding agents and development tools. Automatically updated daily. |
 | 20 | [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) | 2,209 | 172 | 138 | MIT | 2026-10-26 | Nix-enabled environment for your Android device. [maintainers=@t184256] |
 | 21 | [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) | 2,116 | 101 | 0 | MIT | 2026-11-17 | ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS). |
 | 22 | [nix-community/impermanence](https://github.com/nix-community/impermanence) | 1,944 | 142 | 109 | MIT | 2026-10-23 | Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz] |
-| 23 | [supabase/postgres](https://github.com/supabase/postgres) | 1,809 | 279 | 113 | PostgreSQL | 2026-11-17 | Unmodified Postgres with some useful extensions |
-| 24 | [numtide/system-manager](https://github.com/numtide/system-manager) | 1,807 | 72 | 71 | NOASSERTION | 2026-11-17 | Manage system config using nix on any distro |
-| 25 | [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) | 1,723 | 179 | 2 | MIT | 2026-11-17 | Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka] |
-| 26 | [NotAShelf/nvf](https://github.com/NotAShelf/nvf) | 1,672 | 241 | 125 | MIT | 2026-11-17 | Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS |
+| 23 | [numtide/system-manager](https://github.com/numtide/system-manager) | 1,810 | 73 | 71 | NOASSERTION | 2026-11-17 | Manage system config using nix on any distro |
+| 24 | [supabase/postgres](https://github.com/supabase/postgres) | 1,809 | 279 | 114 | PostgreSQL | 2026-11-17 | Unmodified Postgres with some useful extensions |
+| 25 | [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) | 1,722 | 179 | 2 | MIT | 2026-11-17 | Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka] |
+| 26 | [NotAShelf/nvf](https://github.com/NotAShelf/nvf) | 1,673 | 241 | 124 | MIT | 2026-11-17 | Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS |
 | 27 | [numtide/flake-utils](https://github.com/numtide/flake-utils) | 1,655 | 85 | 21 | MIT | 2026-11-13 | Pure Nix flake utility functions [maintainer=@zimbatm] |
 | 28 | [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) | 1,587 | 87 | 25 | MIT | 2026-11-17 | Pure and reproducible nix overlay of binary distributed rust toolchains |
 | 29 | [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) | 1,577 | 60 | 12 | CC0-1.0 | 2026-11-05 | An awesome list for niri related projects [Maintainer - @Vortriz] |
 | 30 | [numtide/devshell](https://github.com/numtide/devshell) | 1,572 | 87 | 96 | MIT | 2026-11-16 | Per project developer environments |
 | 31 | [azuwis/pianotrans](https://github.com/azuwis/pianotrans) | 1,542 | 148 | 1 | — | 2026-09-14 | Simple GUI for ByteDance's Piano Transcription with Pedals |
-| 32 | [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) | 1,519 | 84 | 73 | MIT | 2026-11-01 | ❄️ Simplify Nix Flakes with the module system |
-| 33 | [ipetkov/crane](https://github.com/ipetkov/crane) | 1,505 | 143 | 43 | MIT | 2026-11-16 | A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching. |
+| 32 | [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) | 1,521 | 84 | 73 | MIT | 2026-11-01 | ❄️ Simplify Nix Flakes with the module system |
+| 33 | [ipetkov/crane](https://github.com/ipetkov/crane) | 1,506 | 143 | 43 | MIT | 2026-11-16 | A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching. |
 | 34 | [DavHau/nix-portable](https://github.com/DavHau/nix-portable) | 1,436 | 68 | 72 | MIT | 2026-11-16 | Nix - Static, Permissionless, Installation-free, Pre-configured |
-| 35 | [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) | 1,427 | 57 | 38 | Unlicense | 2026-11-11 | The Uncompromising Nix Code Formatter |
-| 36 | [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) | 1,426 | 75 | 33 | AGPL-3.0 | 2026-11-16 | The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] |
+| 35 | [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) | 1,427 | 75 | 34 | AGPL-3.0 | 2026-11-16 | The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] |
+| 36 | [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra) | 1,427 | 57 | 38 | Unlicense | 2026-11-11 | The Uncompromising Nix Code Formatter |
 | 37 | [Misterio77/Foundry](https://github.com/Misterio77/Foundry) | 1,348 | 57 | 17 | MIT | 2026-11-13 | Personal monorepo. NixOS+home-manager configs, website, and other projects. |
 | 38 | [nix-community/dream2nix](https://github.com/nix-community/dream2nix) | 1,271 | 146 | 202 | MIT | 2026-08-19 | Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau] |
 | 39 | [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) | 1,258 | 124 | 125 | MIT | 2026-10-30 | Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] |
@@ -54,7 +54,7 @@ Ranked by stars. GitHub reports **88,873** total repositories matching `language
 | 48 | [max-baz/dotfiles](https://github.com/max-baz/dotfiles) | 1,085 | 91 | 0 | ISC | 2026-11-05 | Configuration for NixOS, sway, kitty, helix, zsh and more |
 | 49 | [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) | 1,060 | 93 | 5 | — | 2026-11-17 | Community-driven Nix Flake for the Zen browser |
 | 50 | [nix-community/nixGL](https://github.com/nix-community/nixGL) | 1,048 | 151 | 100 | MIT | 2026-11-04 | A wrapper tool for nix OpenGL application [maintainer=@guibou] |
-| 51 | [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) | 1,043 | 92 | 68 | MIT | 2026-11-17 | Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org |
+| 51 | [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) | 1,045 | 92 | 68 | MIT | 2026-11-17 | Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org |
 | 52 | [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) | 1,040 | 69 | 7 | GPL-3.0 | 2025-12-27 | Nix noob trying to build his system |
 | 53 | [oddlama/nix-topology](https://github.com/oddlama/nix-topology) | 1,033 | 46 | 16 | MIT | 2026-11-16 | 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations |
 | 54 | [nix-community/srvos](https://github.com/nix-community/srvos) | 1,029 | 61 | 10 | MIT | 2026-11-16 | NixOS profiles for servers [maintainer=@numtide] |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **88,873** total repositories matching `language
 | 76 | [nix-community/robotnix](https://github.com/nix-community/robotnix) | 819 | 102 | 80 | — | 2026-10-25 | Build Android (AOSP) using Nix [maintainer=@cyclic-pentane] |
 | 77 | [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) | 800 | 84 | 7 | MIT | 2026-11-17 | Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_... |
 | 78 | [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) | 798 | 46 | 3 | MIT | 2026-11-16 | Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis] |
-| 79 | [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) | 792 | 28 | 8 | GPL-2.0 | 2026-11-17 | CachyOS kernel for NixOS |
+| 79 | [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) | 793 | 28 | 8 | GPL-2.0 | 2026-11-17 | CachyOS kernel for NixOS |
 | 80 | [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) | 790 | 60 | 52 | MIT | 2026-11-13 | Homebrew installation manager for nix-darwin |
 | 81 | [juspay/services-flake](https://github.com/juspay/services-flake) | 783 | 70 | 58 | MIT | 2026-11-15 | NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid] |
 | 82 | [babarot/dotfiles](https://github.com/babarot/dotfiles) | 782 | 91 | 0 | — | 2026-11-14 | A repository that gathered files starting with dot |

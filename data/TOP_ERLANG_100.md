@@ -1,11 +1,11 @@
 # Top 100 Erlang repositories on GitHub
 
-Ranked by stars. GitHub reports **34,447** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,448** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,918 | 2,581 | 276 | NOASSERTION | 2026-11-17 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,219 | 739 | Apache-2.0 | 2026-11-17 | Erlang/OTP |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,918 | 2,582 | 276 | NOASSERTION | 2026-11-17 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,219 | 742 | Apache-2.0 | 2026-11-17 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,522 | 1,173 | 61 | ISC | 2026-11-17 | Small, fast, modern HTTP server for Erlang/OTP. |
 | 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,014 | 1,091 | 372 | Apache-2.0 | 2026-11-16 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
 | 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,554 | 231 | NOASSERTION | 2026-11-17 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
@@ -40,7 +40,7 @@ Ranked by stars. GitHub reports **34,447** total repositories matching `language
 | 34 | [erlang-lager/lager](https://github.com/erlang-lager/lager) | 1,129 | 446 | 52 | Apache-2.0 | 2025-08-26 | A logging framework for Erlang/OTP |
 | 35 | [uwiger/gproc](https://github.com/uwiger/gproc) | 1,101 | 230 | 41 | Apache-2.0 | 2026-08-09 | Extended process registry for Erlang |
 | 36 | [aeternity/aeternity](https://github.com/aeternity/aeternity) | 1,088 | 242 | 275 | ISC | 2026-09-15 | æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens |
-| 37 | [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) | 1,079 | 233 | 120 | GPL-2.0 | 2026-11-11 | The Arweave server and App Developer Toolkit. |
+| 37 | [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) | 1,080 | 233 | 120 | GPL-2.0 | 2026-11-11 | The Arweave server and App Developer Toolkit. |
 | 38 | [lasp-lang/partisan](https://github.com/lasp-lang/partisan) | 1,059 | 73 | 22 | Apache-2.0 | 2026-11-16 | High-performance, high-scalability distributed computing for the BEAM. |
 | 39 | [basho/rebar](https://github.com/basho/rebar) | 1,052 | 233 | 29 | Apache-2.0 | 2016-11-02 | ATTENTION: Please find the canonical repository here: |
 | 40 | [hamler-lang/hamler](https://github.com/hamler-lang/hamler) | 1,041 | 39 | 33 | BSD-3-Clause | 2022-02-03 | Haskell-style functional programming language running on Erlang VM. |
@@ -78,7 +78,7 @@ Ranked by stars. GitHub reports **34,447** total repositories matching `language
 | 72 | [wooga/eredis](https://github.com/wooga/eredis) | 629 | 277 | 28 | MIT | 2023-03-27 | Erlang Redis client |
 | 73 | [josefs/Gradualizer](https://github.com/josefs/Gradualizer) | 618 | 35 | 104 | MIT | 2026-03-24 | A Gradual type system for Erlang |
 | 74 | [saleyn/erlexec](https://github.com/saleyn/erlexec) | 616 | 156 | 0 | NOASSERTION | 2026-11-09 | Execute and control OS processes from Erlang/OTP |
-| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 606 | 47 | 6 | Apache-2.0 | 2026-11-13 | An Erlang implementation of RAFT from WhatsApp |
+| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 606 | 47 | 6 | Apache-2.0 | 2026-11-17 | An Erlang implementation of RAFT from WhatsApp |
 | 76 | [helium/miner](https://github.com/helium/miner) | 605 | 249 | 149 | Apache-2.0 | 2023-05-20 | Miner for the helium blockchain |
 | 77 | [boundary/flake](https://github.com/boundary/flake) | 587 | 69 | 8 | — | 2018-07-09 | A decentralized, k-ordered id generation service in Erlang |
 | 78 | [boundary/folsom](https://github.com/boundary/folsom) | 583 | 157 | 14 | Apache-2.0 | 2018-11-07 | Expose Erlang Events and Metrics |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **34,447** total repositories matching `language
 | 97 | [WhatsApp/erlfmt](https://github.com/WhatsApp/erlfmt) | 469 | 68 | 24 | Apache-2.0 | 2026-10-07 | An automated code formatter for Erlang |
 | 98 | [erlware/Erlang-and-OTP-in-Action-Source](https://github.com/erlware/Erlang-and-OTP-in-Action-Source) | 451 | 186 | 6 | MIT | 2016-05-19 | The official "Erlang and OTP in Action" source code - see the README below for more details |
 | 99 | [epgsql/epgsql](https://github.com/epgsql/epgsql) | 448 | 166 | 47 | BSD-3-Clause | 2026-08-16 | Erlang PostgreSQL client library. |
-| 100 | [emqx/emqtt](https://github.com/emqx/emqtt) | 444 | 176 | 39 | Apache-2.0 | 2026-09-10 | Erlang MQTT 5.0 Client |
+| 100 | [emqx/emqtt](https://github.com/emqx/emqtt) | 444 | 176 | 37 | Apache-2.0 | 2026-11-17 | Erlang MQTT 5.0 Client |
