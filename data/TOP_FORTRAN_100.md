@@ -1,6 +1,6 @@
 # Top 100 Fortran repositories on GitHub
 
-Ranked by stars. GitHub reports **46,868** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **46,869** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -8,9 +8,9 @@ Ranked by stars. GitHub reports **46,868** total repositories matching `language
 | 2 | [wrf-model/WRF](https://github.com/wrf-model/WRF) | 1,808 | 903 | 280 | NOASSERTION | 2026-11-14 | The official repository for the Weather Research and Forecasting (WRF) model |
 | 3 | [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) | 1,780 | 413 | 97 | NOASSERTION | 2026-11-17 | Official git repository of Elmer FEM software |
 | 4 | [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) | 1,366 | 239 | 313 | MIT | 2026-11-16 | Fortran Standard Library |
-| 5 | [cp2k/cp2k](https://github.com/cp2k/cp2k) | 1,244 | 522 | 142 | GPL-2.0 | 2026-11-17 | Quantum chemistry and solid state physics software package |
+| 5 | [cp2k/cp2k](https://github.com/cp2k/cp2k) | 1,244 | 522 | 143 | GPL-2.0 | 2026-11-17 | Quantum chemistry and solid state physics software package |
 | 6 | [fortran-lang/fpm](https://github.com/fortran-lang/fpm) | 1,081 | 147 | 256 | MIT | 2026-11-15 | Fortran Package Manager (fpm) |
-| 7 | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) | 991 | 551 | 601 | Apache-2.0 | 2026-11-11 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. |
+| 7 | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) | 991 | 551 | 600 | Apache-2.0 | 2026-11-17 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. |
 | 8 | [firemodels/fds](https://github.com/firemodels/fds) | 920 | 699 | 44 | NOASSERTION | 2026-11-14 | Fire Dynamics Simulator |
 | 9 | [grimme-lab/xtb](https://github.com/grimme-lab/xtb) | 886 | 220 | 107 | LGPL-3.0 | 2026-11-05 | Semiempirical Extended Tight-Binding Program Package |
 | 10 | [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) | 876 | 224 | 18 | NOASSERTION | 2020-07-30 | THIS IS THE **OLD** PYMC PROJECT (VERSION 2). PLEASE USE PYMC INSTEAD: |
@@ -22,16 +22,16 @@ Ranked by stars. GitHub reports **46,868** total repositories matching `language
 | 16 | [SPECFEM/specfem3d](https://github.com/SPECFEM/specfem3d) | 522 | 261 | 153 | GPL-3.0 | 2026-11-13 | SPECFEM3D Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, or poroelastic seismic wav... |
 | 17 | [Nek5000/Nek5000](https://github.com/Nek5000/Nek5000) | 493 | 267 | 81 | NOASSERTION | 2026-10-04 | our classic |
 | 18 | [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) | 479 | 110 | 48 | MIT | 2026-10-30 | A parallel framework for deep learning |
-| 19 | [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) | 452 | 487 | 719 | NOASSERTION | 2026-11-17 | Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not va... |
+| 19 | [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) | 452 | 487 | 720 | NOASSERTION | 2026-11-17 | Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not va... |
 | 20 | [Foadsf/Cmathtuts](https://github.com/Foadsf/Cmathtuts) | 443 | 47 | 4 | GPL-3.0 | 2026-02-19 | trying to collect all useful tutorials for famous C math and linear algebra libraries such as CBLAS, CLAPACK, GSL... |
-| 21 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 442 | 189 | 187 | MIT | 2026-11-17 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
-| 22 | [dftbplus/dftbplus](https://github.com/dftbplus/dftbplus) | 442 | 194 | 89 | NOASSERTION | 2026-11-15 | DFTB+ general package for performing fast atomistic simulations |
-| 23 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | 441 | 113 | 25 | AGPL-3.0 | 2026-11-09 | Open-source explicit finite element solver for simulating crashes, impacts, explosions, and other dynamic events. |
+| 21 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 442 | 189 | 189 | MIT | 2026-11-17 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
+| 22 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | 442 | 113 | 25 | AGPL-3.0 | 2026-11-09 | Open-source explicit finite element solver for simulating crashes, impacts, explosions, and other dynamic events. |
+| 23 | [dftbplus/dftbplus](https://github.com/dftbplus/dftbplus) | 442 | 194 | 89 | NOASSERTION | 2026-11-15 | DFTB+ general package for performing fast atomistic simulations |
 | 24 | [wavebitscientific/functional-fortran](https://github.com/wavebitscientific/functional-fortran) | 440 | 41 | 4 | BSD-3-Clause | 2023-02-13 | Functional programming for modern Fortran |
 | 25 | [libprima/prima](https://github.com/libprima/prima) | 421 | 54 | 74 | BSD-3-Clause | 2026-09-11 | PRIMA is a package for solving general nonlinear optimization problems without using derivatives. It provides the ref... |
 | 26 | [scivision/fortran2018-examples](https://github.com/scivision/fortran2018-examples) | 420 | 72 | 0 | MIT | 2026-11-02 | Fortran 2018 standard examples with broad applications |
 | 27 | [MITgcm/MITgcm](https://github.com/MITgcm/MITgcm) | 412 | 299 | 150 | MIT | 2026-11-13 | M.I.T General Circulation Model master code and documentation repository |
-| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 409 | 799 | 311 | NOASSERTION | 2026-11-17 | Collection of builder repositories for BinaryBuilder.jl |
+| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 409 | 799 | 310 | NOASSERTION | 2026-11-17 | Collection of builder repositories for BinaryBuilder.jl |
 | 29 | [libAtoms/QUIP](https://github.com/libAtoms/QUIP) | 406 | 131 | 119 | — | 2026-08-22 | libAtoms/QUIP molecular dynamics framework: https://libatoms.github.io |
 | 30 | [MODFLOW-ORG/modflow6](https://github.com/MODFLOW-ORG/modflow6) | 391 | 171 | 114 | NOASSERTION | 2026-11-17 | USGS Modular Hydrologic Model |
 | 31 | [FluidityProject/fluidity](https://github.com/FluidityProject/fluidity) | 388 | 120 | 32 | NOASSERTION | 2026-11-16 | Fluidity |

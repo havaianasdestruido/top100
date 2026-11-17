@@ -5,8 +5,8 @@ Ranked by stars. GitHub reports **97,931** total repositories matching `language
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 82,211 | 3,218 | 431 | OFL-1.1 | 2026-07-28 | Free monospaced font with programming ligatures |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,471 | 4,433 | 940 | MPL-2.0 | 2026-11-17 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
-| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,383 | 7,016 | 4,700 | NOASSERTION | 2026-11-17 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,472 | 4,433 | 941 | MPL-2.0 | 2026-11-17 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,383 | 7,016 | 4,703 | NOASSERTION | 2026-11-17 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
 | 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45,630 | 2,874 | 1,012 | AGPL-3.0 | 2026-11-17 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/l... |
 | 5 | [LightTable/LightTable](https://github.com/LightTable/LightTable) | 11,687 | 908 | 181 | MIT | 2022-06-17 | The Light Table IDE ⛺ |
 | 6 | [clojure/clojurescript](https://github.com/clojure/clojurescript) | 9,390 | 787 | 9 | EPL-1.0 | 2026-11-12 | Clojure to JS compiler |
@@ -29,7 +29,7 @@ Ranked by stars. GitHub reports **97,931** total repositories matching `language
 | 23 | [frankiesardo/icepick](https://github.com/frankiesardo/icepick) | 3,714 | 202 | 26 | EPL-1.0 | 2021-05-26 | Android Instance State made easy |
 | 24 | [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) | 3,510 | 314 | 175 | EPL-1.0 | 2026-10-13 | Lightweight AI-friendly Docker Swarm management |
 | 25 | [swannodette/mori](https://github.com/swannodette/mori) | 3,371 | 142 | 64 | — | 2026-03-06 | ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript |
-| 26 | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3,100 | 199 | 642 | MPL-2.0 | 2026-11-17 | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt |
+| 26 | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3,100 | 199 | 643 | MPL-2.0 | 2026-11-17 | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt |
 | 27 | [quil/quil](https://github.com/quil/quil) | 3,055 | 171 | 47 | EPL-1.0 | 2026-04-24 | Main repo. Quil source code. |
 | 28 | [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) | 2,909 | 278 | 37 | — | 2020-10-09 | A series of tutorials on ClojureScript |
 | 29 | [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) | 2,874 | 203 | 97 | EPL-1.0 | 2024-03-26 | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! |
@@ -80,7 +80,7 @@ Ranked by stars. GitHub reports **97,931** total repositories matching `language
 | 74 | [Factual/drake](https://github.com/Factual/drake) | 1,481 | 106 | 83 | NOASSERTION | 2022-04-12 | Data workflow tool, like a "Make for data" |
 | 75 | [korma/Korma](https://github.com/korma/Korma) | 1,465 | 214 | 79 | — | 2020-10-15 | Tasty SQL for Clojure. |
 | 76 | [jeremykross/konstellate](https://github.com/jeremykross/konstellate) | 1,456 | 82 | 14 | MIT | 2019-07-25 | Free and Open Source GUI to Visualize Kubernetes Applications. |
-| 77 | [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) | 1,422 | 126 | 74 | GPL-3.0 | 2025-08-15 | config karabiner with ease |
+| 77 | [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) | 1,422 | 125 | 74 | GPL-3.0 | 2025-08-15 | config karabiner with ease |
 | 78 | [oakes/Nightcode](https://github.com/oakes/Nightcode) | 1,401 | 125 | 32 | Unlicense | 2021-04-24 | An IDE for Clojure |
 | 79 | [babashka/sci](https://github.com/babashka/sci) | 1,394 | 109 | 42 | EPL-1.0 | 2026-11-17 | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs |
 | 80 | [nathanmarz/cascalog](https://github.com/nathanmarz/cascalog) | 1,374 | 173 | 41 | NOASSERTION | 2023-05-18 | Data processing on Hadoop without the hassle. |

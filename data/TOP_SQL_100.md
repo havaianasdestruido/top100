@@ -7,7 +7,7 @@ Ranked by stars. GitHub reports **4,873** total repositories matching `language:
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,341 | 432 | 1 | MIT | 2026-11-14 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
-| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 433 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
+| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 434 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 403 | 167 | 62 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 311 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
@@ -94,13 +94,13 @@ Ranked by stars. GitHub reports **4,873** total repositories matching `language:
 | 88 | [gdsotirov/lemans24](https://github.com/gdsotirov/lemans24) | 8 | 2 | 1 | GPL-2.0 | 2026-06-16 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
 | 89 | [ndleah/dvd-rental-marketing-analytics](https://github.com/ndleah/dvd-rental-marketing-analytics) | 8 | 4 | 0 | — | 2021-09-14 | 🎥 Email marketing campaign analysis |
 | 90 | [Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers](https://github.com/Oyebamiji-Micheal/SQL-Practice-Questions-and-Answers) | 8 | 2 | 0 | MIT | 2022-11-18 | This repository contains practice questions and solutions and is solely dedicated to mastering SQL |
-| 91 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
-| 92 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
-| 93 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
-| 94 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
-| 95 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
-| 96 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
-| 97 | [vincentclee/mh370_satellite_data_communication_logs](https://github.com/vincentclee/mh370_satellite_data_communication_logs) | 8 | 5 | 0 | — | 2014-05-31 | Data from communications between Inmarsat satellites and the missing Boeing 777 Malaysia Airlines Flight MH370 (9M-MRO) |
-| 98 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
-| 99 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
-| 100 | [rezwan-ahmed-l7/Database-Management-System](https://github.com/rezwan-ahmed-l7/Database-Management-System) | 7 | 0 | 0 | MIT | 2026-11-09 | Personal learning repository for Database Management Systems — SQL practice, relational database design, normalizatio... |
+| 91 | [sondosaabed/TNB-MySQL](https://github.com/sondosaabed/TNB-MySQL) | 8 | 0 | 0 | — | 2024-07-08 | The MySQL code queries for The National Bank of Palestine |
+| 92 | [zikwall/clickhouse-docs](https://github.com/zikwall/clickhouse-docs) | 8 | 1 | 0 | — | 2020-02-25 | 🐾 ClickHouse Database + Apache Kafka + Zookeeper + Configure Cluster (Shards, Replicated) |
+| 93 | [ndleah/bitcoin-prices-analysis](https://github.com/ndleah/bitcoin-prices-analysis) | 8 | 3 | 0 | — | 2021-09-14 | 💸 Bitcoin trading analysis |
+| 94 | [SANKALP1011/LibraryDatabase](https://github.com/SANKALP1011/LibraryDatabase) | 8 | 0 | 0 | MIT | 2022-02-08 | This is an library database build using sql . |
+| 95 | [synthesized-io/pagila-data-generation](https://github.com/synthesized-io/pagila-data-generation) | 8 | 0 | 0 | BSD-3-Clause | 2023-03-15 | A set of SQL scripts for random data generation for the Pagila database |
+| 96 | [shukkkur/International-Debt-Statistics](https://github.com/shukkkur/International-Debt-Statistics) | 8 | 0 | 0 | Unlicense | 2021-06-19 | SQL queries to answer interesting questions about international debt using data from The World Bank. |
+| 97 | [FL-Marine/SQL_best_practices](https://github.com/FL-Marine/SQL_best_practices) | 8 | 2 | 0 | — | 2023-10-02 | Personal SQL best practices README |
+| 98 | [vincentclee/mh370_satellite_data_communication_logs](https://github.com/vincentclee/mh370_satellite_data_communication_logs) | 8 | 5 | 0 | — | 2014-05-31 | Data from communications between Inmarsat satellites and the missing Boeing 777 Malaysia Airlines Flight MH370 (9M-MRO) |
+| 99 | [echlebek/nutes](https://github.com/echlebek/nutes) | 7 | 2 | 1 | MIT | 2017-02-12 | SQL import of USDA nutrient database |
+| 100 | [al-ghaly/Airline-Company-Data-Warehouse](https://github.com/al-ghaly/Airline-Company-Data-Warehouse) | 7 | 6 | 0 | MIT | 2024-02-29 | Data Warehouse modeling, design, implementation, and analysis for an Airline Company. |
