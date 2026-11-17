@@ -4,7 +4,7 @@ Generate every WebMCP artifact for the Top100 site.
 
 Three files come out of here:
 
-    data/search-index.json    compact records for all 3,000 repositories, used
+    data/search-index.json    compact records for all repositories, used
                               by search_repositories / get_repository /
                               compare_repositories (loaded lazily, same-origin)
     data/webmcp-context.json  the site's own prose — FAQ, methodology, dataset
@@ -353,7 +353,7 @@ def build_manifest(ctx, tools, data_files=None) -> dict:
             "name": "Top100",
             "url": C.BASE_URL + "/",
             "description": (
-                "The 100 most-starred GitHub repositories for 30 programming languages, "
+                f"The 100 most-starred GitHub repositories for {ctx['languages']} programming languages, "
                 "rebuilt hourly from the GitHub Search API and published as raw JSONL."
             ),
             "repository": C.REPO_URL,
@@ -665,7 +665,7 @@ described for agents that read text instead of calling tools.</li>
 degrades to its own polyfill when neither exists.</li>
 <li>A page must be open for its tools to exist. Nothing here works headless unless the
 HTML is actually loaded in a browser.</li>
-<li>Tool results are for one page's worth of context. Deep analysis across all 3,000
+<li>Tool results are for one page's worth of context. Deep analysis across all {B.fmt(ctx['records'])}
 records belongs in the JSONL files, not in a tool result.</li>
 <li><code>readOnlyHint</code> and friends are declarations, not enforcement. They are
 accurate here, but a client should treat every page's claims as untrusted &mdash; as
@@ -700,7 +700,7 @@ generate is this site fetching its own data files.</p>
     return B.html_page(
         ctx=ctx, prefix="", title="WebMCP: the AI agent tools on this site — Top100",
         description=(
-            f"Top100 exposes {tool_count} WebMCP tools so browser AI agents can query the 3,000-record "
+            f"Top100 exposes {tool_count} WebMCP tools so browser AI agents can query the {B.fmt(ctx['records'])}-record "
             "GitHub star ranking directly: schemas, annotations, security model, polyfill "
             "details and a debug panel."
         ),

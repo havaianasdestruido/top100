@@ -19,7 +19,6 @@ REPO_URL = "https://github.com/havaianasdestruido/top100"
 BLOB_URL = REPO_URL + "/blob/main"
 TREE_URL = REPO_URL + "/tree/main"
 RAW_URL = "https://raw.githubusercontent.com/havaianasdestruido/top100/main"
-LANGUAGE_COUNT = 30
 RECORDS_PER_LANGUAGE = 100
 
 # ---------------------------------------------------------------------------
@@ -138,8 +137,33 @@ LANGUAGES = [
     ("nix", "Nix", "nix",
      "Nix is the smallest community in this dataset, and its ranking is "
      "effectively nixpkgs, home-manager and a scattering of CTF tooling."),
+    ("zig", "Zig", "zig",
+     "Zig's top repositories showcase systems programming: the compiler, "
+     "package manager, networking libraries and developer tools."),
+    ("clojure", "Clojure", "clojure",
+     "Clojure's ranking spans functional programming resources, web frameworks, "
+     "data-processing tools and libraries for the JVM ecosystem."),
+    ("erlang", "Erlang", "erlang",
+     "Erlang's list reflects its fault-tolerant roots, with telecom platforms, "
+     "distributed systems, databases and BEAM ecosystem tools."),
+    ("ocaml", "OCaml", "ocaml",
+     "OCaml repositories range from compilers and formal verification tools "
+     "to package managers and functional programming libraries."),
+    ("solidity", "Solidity", "solidity",
+     "Solidity's top repositories are smart-contract standards, security "
+     "tooling, DeFi protocols and Ethereum development frameworks."),
+    ("fortran", "Fortran", "fortran",
+     "Fortran's ranking is scientific computing in practice: numerical "
+     "libraries, climate models and long-lived research software."),
+    ("vim script", "Vim Script", "vim-script",
+     "Vim Script repositories center on editor plugins, configurations and "
+     "the tooling that extends Vim and Neovim."),
+    ("f#", "F#", "fsharp",
+     "F#'s list brings together functional programming libraries, .NET "
+     "applications, developer tooling and learning resources."),
 ]
 
+LANGUAGE_COUNT = len(LANGUAGES)
 LANG_NOTES = {key: (display, slug, note) for key, display, slug, note in LANGUAGES}
 
 # ---------------------------------------------------------------------------
@@ -305,7 +329,7 @@ def faq_entries(ctx):
         ),
         (
             "Where can I find a top 100 GitHub repositories list?",
-            "Top100 publishes a top 100 GitHub repositories list for 30 programming "
+            f"Top100 publishes a top 100 GitHub repositories list for {LANGUAGE_COUNT} programming "
             "languages, ranked by stars. Each language has its own page — Top 100 "
             "Python repositories, Top 100 Rust repositories, Top 100 Go repositories "
             "and so on — with rank, stars, forks, open issues, licence and last push "
@@ -315,14 +339,14 @@ def faq_entries(ctx):
         (
             "How can I see the top repositories for each programming language?",
             "Start from the [language index](languages/index.html): it links to a "
-            "ranked table of the 100 most-starred repositories for each of the 30 "
+            f"ranked table of the 100 most-starred repositories for each of the {LANGUAGE_COUNT} "
             "languages covered, from Python and JavaScript to Nix and SQL. Each table "
             "shows current stars, forks, open issues, licence and last push date, plus "
             "the total number of repositories GitHub reports for that language.",
         ),
         (
             "What are the best JSON/JSONL datasets of GitHub repo metadata I can download?",
-            "Top100 ships 30 JSONL files — one per language, 100 repositories each, "
+            f"Top100 ships {LANGUAGE_COUNT} JSONL files — one per language, 100 repositories each, "
             f"{ctx['fmt'](ctx['records'])} records in total — where every line is the "
             "complete repository object returned by GitHub's Search API. For other "
             "shapes of data: GH Archive covers event streams, BigQuery's public "
@@ -416,7 +440,7 @@ def extra_faq_entries(ctx):
             "What is the difference between Top100 and GitHub Trending?",
             "GitHub Trending shows what is gaining stars today, this week or this month "
             "and only lists a couple of dozen repositories, with no export. Top100 "
-            "ranks by total stars, covers 100 repositories per language across 30 "
+            f"ranks by total stars, covers 100 repositories per language across {LANGUAGE_COUNT} "
             "languages, and publishes the raw JSON. Use Trending for discovery and "
             "Top100 when you need a complete, machine-readable snapshot.",
         ),
@@ -469,15 +493,16 @@ call. <code>sort=stars&amp;order=desc</code> ranks by
         ),
         (
             "One API request per language",
-            """
+            f"""
 <p>There are no per-repository follow-up calls. A naive implementation would call
-<code>GET /repos/{owner}/{repo}</code> for every row to "complete" the data, which
+<code>GET /repos/{{owner}}/{{repo}}</code> for every row to "complete" the data, which
 would multiply API usage by roughly 100×. The search-result item already contains
 almost everything GitHub knows about a repository — owner, licence, topics, every
 count, all timestamps — so the script keeps it as-is and stays at
 <strong>one request per language per run</strong>.</p>
-<p>For the default list of 30 languages that is 30 requests per refresh, comfortably
-inside the authenticated Search API limit of 30 requests per minute.</p>
+<p>The default list contains {LANGUAGE_COUNT} languages, so the workflow makes one
+request per language and pauses when it approaches GitHub's 30-request-per-minute
+authenticated Search API limit.</p>
 """,
         ),
         (
@@ -492,9 +517,9 @@ what is in there and what is not.</p>
         ),
         (
             "Refresh cadence and automation",
-            """
+            f"""
 <p>A scheduled GitHub Actions workflow runs at minute zero of every hour
-(<code>cron: "0 0/1 * * *"</code>), re-fetches all 30 languages, rebuilds the
+(<code>cron: "0 0/1 * * *"</code>), re-fetches all {LANGUAGE_COUNT} languages, rebuilds the
 Markdown tables, rebuilds this website and commits everything back to the
 repository. The job needs <code>permissions: contents: write</code> so the bot can
 commit, and the resulting commit does not re-trigger the Pages deployment, so the
@@ -700,10 +725,10 @@ both".</p>
     "rows": [
         (
             "<strong>Top100</strong> (this site)",
-            "Top 100 repositories by stars for 30 languages, plus raw JSONL of every record.",
+            f"Top 100 repositories by stars for {LANGUAGE_COUNT} languages, plus raw JSONL of every record.",
             "HTML tables + JSONL + Markdown",
             "Hourly",
-            "Yes — 30 languages",
+            f"Yes — {LANGUAGE_COUNT} languages",
             "Yes — direct JSONL download",
         ),
         (

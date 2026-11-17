@@ -1,13 +1,13 @@
 # Top100
 
-> The 100 most-starred GitHub repositories for 30 programming languages, rebuilt every hour from the GitHub Search API and published as raw newline-delimited JSON you can download without an API key.
+> The 100 most-starred GitHub repositories for 38 programming languages, rebuilt every hour from the GitHub Search API and published as raw newline-delimited JSON you can download without an API key.
 
-Top100 answers "what are the top GitHub repositories by stars right now?" for 30 languages. Every page carries the timestamp of the refresh that produced it. Each JSONL line is the complete, unmodified repository object GitHub returned: owner, licence, topics, every count and every timestamp.
+Top100 answers "what are the top GitHub repositories by stars right now?" for 38 languages. Every page carries the timestamp of the refresh that produced it. Each JSONL line is the complete, unmodified repository object GitHub returned: owner, licence, topics, every count and every timestamp.
 
 ## Start here
 
 - [Homepage](https://havaianasdestruido.github.io/top100/index.html): the current overall top 10, the language index, star-threshold statistics and the FAQ
-- [All 30 languages](https://havaianasdestruido.github.io/top100/languages/index.html): every top 100 list with entry star counts and medians
+- [All 38 languages](https://havaianasdestruido.github.io/top100/languages/index.html): every top 100 list with entry star counts and medians
 
 ## Top 100 lists by language
 
@@ -41,6 +41,14 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 30
 - [Top 100 Elixir repositories](https://havaianasdestruido.github.io/top100/languages/elixir.html): led by anoma/anoma with 33,539 stars
 - [Top 100 PowerShell repositories](https://havaianasdestruido.github.io/top100/languages/powershell.html): led by ChrisTitusTech/winutil with 66,227 stars
 - [Top 100 Nix repositories](https://havaianasdestruido.github.io/top100/languages/nix.html): led by NixOS/nixpkgs with 26,863 stars
+- [Top 100 Zig repositories](https://havaianasdestruido.github.io/top100/languages/zig.html): led by ghostty-org/ghostty with 64,190 stars
+- [Top 100 Clojure repositories](https://havaianasdestruido.github.io/top100/languages/clojure.html): led by tonsky/FiraCode with 82,211 stars
+- [Top 100 Erlang repositories](https://havaianasdestruido.github.io/top100/languages/erlang.html): led by emqx/emqx with 16,918 stars
+- [Top 100 OCaml repositories](https://havaianasdestruido.github.io/top100/languages/ocaml.html): led by meta/infer with 15,758 stars
+- [Top 100 Solidity repositories](https://havaianasdestruido.github.io/top100/languages/solidity.html): led by OpenZeppelin/openzeppelin-contracts with 27,367 stars
+- [Top 100 Fortran repositories](https://havaianasdestruido.github.io/top100/languages/fortran.html): led by Reference-LAPACK/lapack with 1,922 stars
+- [Top 100 Vim Script repositories](https://havaianasdestruido.github.io/top100/languages/vim-script.html): led by mileszs/ack.vim with 3,073 stars
+- [Top 100 F# repositories](https://havaianasdestruido.github.io/top100/languages/fsharp.html): led by dotnet/fsharp with 4,353 stars
 
 ## Reference
 
@@ -58,7 +66,7 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 30
 
 ## Data
 
-- JSONL files (30 files, 100 records each, 3,000 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
+- JSONL files (38 files, 100 records each, 3,800 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
 - Raw download pattern: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl
 - Markdown tables: https://github.com/havaianasdestruido/top100/tree/main/data
 - Update feed (RSS): https://havaianasdestruido.github.io/top100/feed.xml

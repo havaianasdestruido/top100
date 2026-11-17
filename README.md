@@ -1,6 +1,6 @@
 # Top100
 
-**The 100 most-starred GitHub repositories for 30 programming languages, rebuilt every
+**The 100 most-starred GitHub repositories for 38 programming languages, rebuilt every
 hour from the GitHub Search API and published as raw JSONL you can download without an
 API key.**
 
@@ -20,13 +20,13 @@ API key.**
 
 | Artifact | What it is |
 | --- | --- |
-| [`data/JSONL/<language>.jsonl`](data/JSONL) | One line per repository — the **full, untouched** object GitHub's Search API returns: owner, licence, topics, every count, every timestamp. 30 files × 100 records = 3,000 repositories. |
+| [`data/JSONL/<language>.jsonl`](data/JSONL) | One line per repository — the **full, untouched** object GitHub's Search API returns: owner, licence, topics, every count, every timestamp. 38 files × 100 records = 3,800 repositories. |
 | [`data/TOP_<LANGUAGE>_100.md`](data) | A readable table per language: rank, name, stars, forks, open issues, licence, last push, description. |
 | [The website](https://havaianasdestruido.github.io/top100/) | One indexable page per language (`Top 100 Rust Repositories by Stars`), a language index, statistics, a methodology page, a dataset field reference, a comparison against GitHub Trending and other ranking sites, and an FAQ. |
 | [`feed.xml`](https://havaianasdestruido.github.io/top100/feed.xml) | RSS of data updates — one item per language, refreshed hourly. |
 
 No scraping, no API key, no rate limit for readers: the JSONL files are static and
-cacheable, and the whole dataset is ~17 MB.
+cacheable, and the whole dataset is ~21 MB.
 
 ## The current leaders
 
@@ -46,11 +46,11 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 | 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 326,407 |
 | 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 318,978 |
 
-Refreshed 17 November 2026, 13:03 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 17 November 2026, 17:17 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for
-all 30 languages.
+all 38 languages.
 
 ## How it works
 
@@ -63,7 +63,7 @@ GET https://api.github.com/search/repositories
 
 GitHub returns at most 100 results per page, so `per_page=100` makes a "top 100" list
 possible in a single call. No per-repository follow-up requests are made, so a full
-refresh of all 30 languages costs **30 Search API requests**.
+refresh of all 38 languages costs **38 Search API requests**.
 
 A scheduled GitHub Actions workflow runs that every hour, writes the JSONL and Markdown
 files, rebuilds the website and commits everything back to this repository. The
@@ -74,7 +74,7 @@ known limitations.
 ## Run it yourself
 
 ```bash
-# fetch the default 30 languages (needs a token: GH_TOKEN=...)
+# fetch the default 38 languages (needs a token: GH_TOKEN=...)
 python scripts/fetch_top_repos.py
 
 # or pick your own
@@ -89,7 +89,7 @@ python scripts/build_site.py
 ```
 
 From GitHub: **Actions → Top Repos by Language → Run workflow**, and pass a
-comma-separated list of languages (blank = the default 30).
+comma-separated list of languages (blank = the default 38).
 
 To fork and self-host, you only need the default `GITHUB_TOKEN` and
 `permissions: contents: write` so the bot can commit the results. The Pages deployment
@@ -134,7 +134,8 @@ Machines can read the same catalogue from
 
 TypeScript, Python, JavaScript, Java, C#, C++, PHP, Shell, C, Go, Rust, Ruby, Kotlin,
 Swift, Dart, HTML, CSS, SQL, Scala, Lua, Groovy, Objective-C, Perl, Haskell, Assembly,
-R, Julia, Elixir, PowerShell, Nix.
+R, Julia, Elixir, PowerShell, Nix, Zig, Clojure, Erlang, OCaml, Solidity, Fortran,
+Vim Script and F#.
 
 ## Notes
 
