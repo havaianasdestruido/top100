@@ -7,7 +7,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,073 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
 | 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
 | 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,009 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
-| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,908 | 392 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
+| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,908 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,752 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
 | 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,423 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
 | 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,358 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
