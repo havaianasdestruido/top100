@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 27 | [jamis/fuzzyfinder_textmate](https://github.com/jamis/fuzzyfinder_textmate) | 209 | 27 | 0 | — | 2008-12-31 | A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained n... |
 | 28 | [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) | 200 | 41 | 2 | GPL-3.0 | 2023-04-01 | Another github v3 api implemented in vim script |
 | 29 | [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) | 198 | 9 | 0 | — | 2026-08-02 | My configuration files and personal collection of scripts. |
-| 30 | [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) | 187 | 32 | 1 | — | 2026-10-23 | My [NeoVim + Tmux + Fish Shell] Setup /w install scripts |
+| 30 | [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) | 187 | 32 | 1 | — | 2026-11-18 | My [NeoVim + Tmux + Fish Shell] Setup /w install scripts |
 | 31 | [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) | 182 | 28 | 63 | — | 2026-05-11 | eskk is pure Vim script implementation of input method engine SKK |
 | 32 | [laktak/tome](https://github.com/laktak/tome) | 178 | 4 | 0 | MIT | 2026-08-22 | 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux) |
 | 33 | [ciaranm/detectindent](https://github.com/ciaranm/detectindent) | 176 | 47 | 15 | — | 2023-02-26 | Vim script for automatically detecting indent settings |
@@ -74,7 +74,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 68 | [vsbuffalo/dotfiles_archived](https://github.com/vsbuffalo/dotfiles_archived) | 52 | 11 | 0 | — | 2026-03-02 | My dotfiles, with simple install script. |
 | 69 | [theduckchannel/bspwm-install](https://github.com/theduckchannel/bspwm-install) | 52 | 18 | 1 | GPL-3.0 | 2021-12-22 | Script for setup a lightweight bspwm environment on Arch Linux |
 | 70 | [ingydotnet/yaml-vim](https://github.com/ingydotnet/yaml-vim) | 51 | 16 | 4 | — | 2016-10-20 | YAML Highlight script for VIM editor |
-| 71 | [captbaritone/better-indent-support-for-php-with-html](https://github.com/captbaritone/better-indent-support-for-php-with-html) | 51 | 8 | 1 | — | 2015-09-01 | This script allows you to indent HTML sections in PHP files |
+| 71 | [captbaritone/better-indent-support-for-php-with-html](https://github.com/captbaritone/better-indent-support-for-php-with-html) | 50 | 8 | 1 | — | 2015-09-01 | This script allows you to indent HTML sections in PHP files |
 | 72 | [haya14busa/vim-debugger](https://github.com/haya14busa/vim-debugger) | 49 | 3 | 1 | — | 2016-01-17 | :feet: Vim script debugger :bug: |
 | 73 | [rbtnn/vim-rabbit-ui](https://github.com/rbtnn/vim-rabbit-ui) | 48 | 2 | 1 | MIT | 2020-01-28 | Rich UI Vim script Library |
 | 74 | [vim-jp/syntax-vim-ex](https://github.com/vim-jp/syntax-vim-ex) | 48 | 3 | 4 | — | 2024-02-15 | An excellent Vim's syntax highlighting file for Vim script |

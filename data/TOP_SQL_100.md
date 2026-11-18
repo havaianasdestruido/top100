@@ -1,13 +1,13 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,873** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,879** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,311 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
+| 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,310 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
 | 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,341 | 432 | 1 | MIT | 2026-11-14 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
-| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 434 | 89 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
+| 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 434 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 403 | 167 | 62 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
 | 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 311 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
@@ -21,7 +21,7 @@ Ranked by stars. GitHub reports **4,873** total repositories matching `language:
 | 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 117 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 113 | 37 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 91 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
-| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 83 | 31 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
+| 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 84 | 31 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 66 | 28 | 2 | MIT | 2026-10-26 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 21 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |

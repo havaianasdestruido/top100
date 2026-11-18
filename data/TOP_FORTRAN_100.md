@@ -1,39 +1,39 @@
 # Top 100 Fortran repositories on GitHub
 
-Ranked by stars. GitHub reports **46,877** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **46,888** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [Reference-LAPACK/lapack](https://github.com/Reference-LAPACK/lapack) | 1,922 | 524 | 157 | NOASSERTION | 2026-11-16 | LAPACK development repository |
-| 2 | [wrf-model/WRF](https://github.com/wrf-model/WRF) | 1,809 | 903 | 279 | NOASSERTION | 2026-11-17 | The official repository for the Weather Research and Forecasting (WRF) model |
-| 3 | [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) | 1,780 | 413 | 97 | NOASSERTION | 2026-11-17 | Official git repository of Elmer FEM software |
+| 2 | [wrf-model/WRF](https://github.com/wrf-model/WRF) | 1,810 | 903 | 280 | NOASSERTION | 2026-11-17 | The official repository for the Weather Research and Forecasting (WRF) model |
+| 3 | [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) | 1,780 | 413 | 98 | NOASSERTION | 2026-11-18 | Official git repository of Elmer FEM software |
 | 4 | [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) | 1,366 | 239 | 314 | MIT | 2026-11-16 | Fortran Standard Library |
-| 5 | [cp2k/cp2k](https://github.com/cp2k/cp2k) | 1,244 | 522 | 144 | GPL-2.0 | 2026-11-17 | Quantum chemistry and solid state physics software package |
-| 6 | [fortran-lang/fpm](https://github.com/fortran-lang/fpm) | 1,081 | 147 | 257 | MIT | 2026-11-15 | Fortran Package Manager (fpm) |
-| 7 | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) | 991 | 551 | 597 | Apache-2.0 | 2026-11-17 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. |
+| 5 | [cp2k/cp2k](https://github.com/cp2k/cp2k) | 1,244 | 523 | 141 | GPL-2.0 | 2026-11-18 | Quantum chemistry and solid state physics software package |
+| 6 | [fortran-lang/fpm](https://github.com/fortran-lang/fpm) | 1,081 | 146 | 256 | MIT | 2026-11-15 | Fortran Package Manager (fpm) |
+| 7 | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) | 992 | 551 | 597 | Apache-2.0 | 2026-11-17 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. |
 | 8 | [firemodels/fds](https://github.com/firemodels/fds) | 920 | 700 | 44 | NOASSERTION | 2026-11-17 | Fire Dynamics Simulator |
 | 9 | [grimme-lab/xtb](https://github.com/grimme-lab/xtb) | 886 | 220 | 107 | LGPL-3.0 | 2026-11-05 | Semiempirical Extended Tight-Binding Program Package |
 | 10 | [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) | 876 | 224 | 18 | NOASSERTION | 2020-07-30 | THIS IS THE **OLD** PYMC PROJECT (VERSION 2). PLEASE USE PYMC INSTEAD: |
 | 11 | [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) | 811 | 44 | 2 | BSD-3-Clause | 2021-09-14 | Finally a Fortran MVC web platform |
-| 12 | [QEF/q-e](https://github.com/QEF/q-e) | 705 | 331 | 0 | GPL-2.0 | 2026-07-09 | Mirror of the Quantum ESPRESSO repository. Please do not post Issues or pull requests here. Use gitlab.com/QEF/q-e in... |
+| 12 | [QEF/q-e](https://github.com/QEF/q-e) | 706 | 331 | 0 | GPL-2.0 | 2026-07-09 | Mirror of the Quantum ESPRESSO repository. Please do not post Issues or pull requests here. Use gitlab.com/QEF/q-e in... |
 | 13 | [fommil/netlib-java](https://github.com/fommil/netlib-java) | 667 | 127 | 13 | NOASSERTION | 2017-06-21 | :rocket: High Performance Linear Algebra (low level) |
 | 14 | [nwchemgit/nwchem](https://github.com/nwchemgit/nwchem) | 628 | 195 | 61 | NOASSERTION | 2026-10-30 | NWChem: Open Source High-Performance Computational Chemistry |
 | 15 | [nasa/NASTRAN-95](https://github.com/nasa/NASTRAN-95) | 608 | 257 | 16 | — | 2024-04-27 |  |
 | 16 | [SPECFEM/specfem3d](https://github.com/SPECFEM/specfem3d) | 522 | 261 | 153 | GPL-3.0 | 2026-11-13 | SPECFEM3D Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, or poroelastic seismic wav... |
-| 17 | [Nek5000/Nek5000](https://github.com/Nek5000/Nek5000) | 494 | 267 | 81 | NOASSERTION | 2026-10-04 | our classic |
+| 17 | [Nek5000/Nek5000](https://github.com/Nek5000/Nek5000) | 491 | 267 | 81 | NOASSERTION | 2026-10-04 | our classic |
 | 18 | [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) | 479 | 110 | 48 | MIT | 2026-10-30 | A parallel framework for deep learning |
-| 19 | [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) | 452 | 487 | 715 | NOASSERTION | 2026-11-18 | Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not va... |
+| 19 | [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) | 452 | 487 | 717 | NOASSERTION | 2026-11-18 | Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not va... |
 | 20 | [Foadsf/Cmathtuts](https://github.com/Foadsf/Cmathtuts) | 443 | 47 | 4 | GPL-3.0 | 2026-02-19 | trying to collect all useful tutorials for famous C math and linear algebra libraries such as CBLAS, CLAPACK, GSL... |
-| 21 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 442 | 189 | 198 | MIT | 2026-11-18 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
-| 22 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | 442 | 114 | 25 | AGPL-3.0 | 2026-11-09 | Open-source explicit finite element solver for simulating crashes, impacts, explosions, and other dynamic events. |
+| 21 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 442 | 189 | 201 | MIT | 2026-11-18 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
+| 22 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | 442 | 115 | 26 | AGPL-3.0 | 2026-11-09 | Open-source explicit finite element solver for simulating crashes, impacts, explosions, and other dynamic events. |
 | 23 | [dftbplus/dftbplus](https://github.com/dftbplus/dftbplus) | 442 | 194 | 89 | NOASSERTION | 2026-11-15 | DFTB+ general package for performing fast atomistic simulations |
 | 24 | [wavebitscientific/functional-fortran](https://github.com/wavebitscientific/functional-fortran) | 440 | 41 | 4 | BSD-3-Clause | 2023-02-13 | Functional programming for modern Fortran |
 | 25 | [libprima/prima](https://github.com/libprima/prima) | 421 | 54 | 74 | BSD-3-Clause | 2026-09-11 | PRIMA is a package for solving general nonlinear optimization problems without using derivatives. It provides the ref... |
 | 26 | [scivision/fortran2018-examples](https://github.com/scivision/fortran2018-examples) | 420 | 72 | 0 | MIT | 2026-11-02 | Fortran 2018 standard examples with broad applications |
 | 27 | [MITgcm/MITgcm](https://github.com/MITgcm/MITgcm) | 412 | 299 | 150 | MIT | 2026-11-13 | M.I.T General Circulation Model master code and documentation repository |
-| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 409 | 799 | 308 | NOASSERTION | 2026-11-18 | Collection of builder repositories for BinaryBuilder.jl |
+| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 409 | 799 | 299 | NOASSERTION | 2026-11-18 | Collection of builder repositories for BinaryBuilder.jl |
 | 29 | [libAtoms/QUIP](https://github.com/libAtoms/QUIP) | 406 | 131 | 119 | — | 2026-08-22 | libAtoms/QUIP molecular dynamics framework: https://libatoms.github.io |
-| 30 | [MODFLOW-ORG/modflow6](https://github.com/MODFLOW-ORG/modflow6) | 391 | 171 | 117 | NOASSERTION | 2026-11-17 | USGS Modular Hydrologic Model |
+| 30 | [MODFLOW-ORG/modflow6](https://github.com/MODFLOW-ORG/modflow6) | 391 | 172 | 114 | NOASSERTION | 2026-11-18 | USGS Modular Hydrologic Model |
 | 31 | [FluidityProject/fluidity](https://github.com/FluidityProject/fluidity) | 388 | 120 | 32 | NOASSERTION | 2026-11-16 | Fluidity |
 | 32 | [m3g/packmol](https://github.com/m3g/packmol) | 384 | 66 | 0 | MIT | 2026-11-17 | Packmol - Initial configurations for molecular dynamics simulations |
 | 33 | [jacobwilliams/json-fortran](https://github.com/jacobwilliams/json-fortran) | 384 | 100 | 27 | NOASSERTION | 2026-11-03 | A Modern Fortran JSON API |
@@ -52,36 +52,36 @@ Ranked by stars. GitHub reports **46,877** total repositories matching `language
 | 46 | [TarletonGroup/CrystalPlasticity](https://github.com/TarletonGroup/CrystalPlasticity) | 332 | 105 | 6 | — | 2026-09-28 | CP UMAT and CZM UEL for Abaqus |
 | 47 | [MPAS-Dev/MPAS-Model](https://github.com/MPAS-Dev/MPAS-Model) | 325 | 439 | 202 | — | 2026-11-02 | Repository for MPAS models and shared framework releases. |
 | 48 | [astrofrog/fortranlib](https://github.com/astrofrog/fortranlib) | 322 | 74 | 2 | BSD-2-Clause | 2026-07-26 | Collection of personal scientific routines in Fortran :book: |
-| 49 | [cdslaborg/paramonte](https://github.com/cdslaborg/paramonte) | 308 | 36 | 20 | NOASSERTION | 2026-06-25 | ParaMonte: Parallel Monte Carlo and Machine Learning Library for Python, MATLAB, Fortran, C++, C. |
+| 49 | [cdslaborg/paramonte](https://github.com/cdslaborg/paramonte) | 308 | 36 | 20 | NOASSERTION | 2026-11-18 | ParaMonte: Parallel Monte Carlo and Machine Learning Library for Python, MATLAB, Fortran, C++, C. |
 | 50 | [ct6502/wavelets](https://github.com/ct6502/wavelets) | 305 | 169 | 4 | MIT | 2022-07-09 | Torrence & Compo Wavelet Analysis Software |
 | 51 | [flexi-framework/flexi](https://github.com/flexi-framework/flexi) | 299 | 77 | 1 | GPL-3.0 | 2026-11-01 | FLEXI: A high order discontinuous Galerkin framework for hyperbolic–parabolic conservation laws |
 | 52 | [vmagnin/gtk-fortran](https://github.com/vmagnin/gtk-fortran) | 289 | 46 | 11 | GPL-3.0 | 2026-11-07 | A GTK / Fortran binding, and its documentation (in the Wiki tab). |
 | 53 | [CaNS-World/CaNS](https://github.com/CaNS-World/CaNS) | 279 | 96 | 0 | MIT | 2026-11-01 | A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows |
-| 54 | [sourceryinstitute/OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays) | 271 | 58 | 54 | BSD-3-Clause | 2026-11-18 | A parallel application binary interface for Fortran 2018 compilers. |
+| 54 | [sourceryinstitute/OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays) | 271 | 58 | 55 | BSD-3-Clause | 2026-11-18 | A parallel application binary interface for Fortran 2018 compilers. |
 | 55 | [Unidata/netcdf-fortran](https://github.com/Unidata/netcdf-fortran) | 271 | 108 | 123 | NOASSERTION | 2026-09-21 | Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C ... |
 | 56 | [spacepy/spacepy](https://github.com/spacepy/spacepy) | 271 | 81 | 177 | NOASSERTION | 2026-11-12 | Space Science library for Python - contains superposed epoch classes, drift shell tracing, access to magnetic field m... |
 | 57 | [abinit/abinit](https://github.com/abinit/abinit) | 270 | 112 | 24 | NOASSERTION | 2026-10-11 | The official github mirror of the Abinit repository. We welcome bug fixes and improvements. Note that most of the act... |
 | 58 | [wrf-model/WPS](https://github.com/wrf-model/WPS) | 267 | 204 | 48 | — | 2026-07-06 | The official repository for the WRF Preprocessing System (WPS) |
 | 59 | [NCAR/DART](https://github.com/NCAR/DART) | 267 | 185 | 188 | Apache-2.0 | 2026-11-13 | Data Assimilation Research Testbed |
-| 60 | [MESAHub/mesa](https://github.com/MESAHub/mesa) | 265 | 88 | 153 | LGPL-3.0 | 2026-11-17 | Modules for Experiments in Stellar Astrophysics |
+| 60 | [MESAHub/mesa](https://github.com/MESAHub/mesa) | 265 | 88 | 152 | LGPL-3.0 | 2026-11-18 | Modules for Experiments in Stellar Astrophysics |
 | 61 | [epochpic/epoch](https://github.com/epochpic/epoch) | 264 | 83 | 160 | GPL-3.0 | 2026-10-06 | Particle-in-cell code for plasma physics simulations |
 | 62 | [cmbant/CAMB](https://github.com/cmbant/CAMB) | 263 | 197 | 3 | NOASSERTION | 2026-11-10 | Code for Anisotropies in the Microwave Background |
 | 63 | [pierrehirel/atomsk](https://github.com/pierrehirel/atomsk) | 260 | 83 | 4 | GPL-3.0 | 2026-11-12 | Atomsk: A Tool For Manipulating And Converting Atomic Data Files - |
-| 64 | [flame/libflame](https://github.com/flame/libflame) | 255 | 95 | 37 | NOASSERTION | 2024-05-20 | High-performance object-based library for DLA computations |
-| 65 | [sundmanbo/opencalphad](https://github.com/sundmanbo/opencalphad) | 253 | 87 | 1 | — | 2026-11-14 | Open Calphad, thermodynamic calculation code |
-| 66 | [ExtremeFLOW/neko](https://github.com/ExtremeFLOW/neko) | 250 | 59 | 135 | NOASSERTION | 2026-11-18 | /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗ |
-| 67 | [NCAR/wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | 249 | 157 | 142 | NOASSERTION | 2026-11-13 | WRF-Hydro model code |
-| 68 | [ROCm/aomp](https://github.com/ROCm/aomp) | 246 | 66 | 77 | Apache-2.0 | 2026-11-17 | AOMP is an open source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs.   Use this r... |
-| 69 | [jgomezc1/ABAQUS-US](https://github.com/jgomezc1/ABAQUS-US) | 244 | 97 | 1 | MIT | 2015-06-15 | A variety of ABAQUS user element (UELs) and user material (UMATs) subroutines |
-| 70 | [UnderUk/ewptool](https://github.com/UnderUk/ewptool) | 244 | 45 | 0 | BSD-2-Clause | 2026-07-12 | Productivity tool for populating an IAR Embedded Workbench project |
-| 71 | [pencil-code/pencil-code](https://github.com/pencil-code/pencil-code) | 244 | 112 | 0 | — | 2026-11-17 | A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles |
+| 64 | [flame/libflame](https://github.com/flame/libflame) | 256 | 95 | 37 | NOASSERTION | 2024-05-20 | High-performance object-based library for DLA computations |
+| 65 | [UnderUk/ewptool](https://github.com/UnderUk/ewptool) | 255 | 47 | 0 | BSD-2-Clause | 2026-07-12 | Productivity tool for populating an IAR Embedded Workbench project |
+| 66 | [sundmanbo/opencalphad](https://github.com/sundmanbo/opencalphad) | 253 | 87 | 1 | — | 2026-11-14 | Open Calphad, thermodynamic calculation code |
+| 67 | [ExtremeFLOW/neko](https://github.com/ExtremeFLOW/neko) | 250 | 59 | 134 | NOASSERTION | 2026-11-18 | /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗ |
+| 68 | [NCAR/wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | 249 | 157 | 142 | NOASSERTION | 2026-11-13 | WRF-Hydro model code |
+| 69 | [ROCm/aomp](https://github.com/ROCm/aomp) | 246 | 66 | 69 | Apache-2.0 | 2026-11-18 | AOMP is an open source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs.   Use this r... |
+| 70 | [jgomezc1/ABAQUS-US](https://github.com/jgomezc1/ABAQUS-US) | 244 | 97 | 1 | MIT | 2015-06-15 | A variety of ABAQUS user element (UELs) and user material (UMATs) subroutines |
+| 71 | [pencil-code/pencil-code](https://github.com/pencil-code/pencil-code) | 244 | 112 | 0 | — | 2026-11-18 | A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles |
 | 72 | [geoschem/geos-chem](https://github.com/geoschem/geos-chem) | 242 | 201 | 101 | NOASSERTION | 2026-11-17 | GEOS-Chem "Science Codebase" repository.  Contains GEOS-Chem science routines, run directory generation scripts, and ... |
 | 73 | [ylikx/forpy](https://github.com/ylikx/forpy) | 242 | 50 | 17 | LGPL-3.0 | 2020-07-04 | Forpy - use Python from Fortran |
 | 74 | [DSSAT/dssat-csm-os](https://github.com/DSSAT/dssat-csm-os) | 240 | 220 | 60 | BSD-3-Clause | 2026-10-03 | DSSAT Cropping System Model |
-| 75 | [Dhondtguido/CalculiX](https://github.com/Dhondtguido/CalculiX) | 234 | 78 | 204 | GPL-2.0 | 2026-11-14 | This repository contains the source files of CalculiX, a three-dimensional Finite Element Program (www.calculix.de). |
-| 76 | [dftd4/dftd4](https://github.com/dftd4/dftd4) | 232 | 66 | 15 | LGPL-3.0 | 2026-11-16 | Generally Applicable Atomic-Charge Dependent London Dispersion Correction |
-| 77 | [ammarkh95/ABAQUS_PDALAC](https://github.com/ammarkh95/ABAQUS_PDALAC) | 232 | 67 | 2 | — | 2021-07-28 | Development of the Failure Criteria for Composites using ABAQUS Subroutines (UMAT/VUMAT) |
-| 78 | [nasa/cea](https://github.com/nasa/cea) | 232 | 48 | 50 | Apache-2.0 | 2026-09-25 | CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product con... |
+| 75 | [Dhondtguido/CalculiX](https://github.com/Dhondtguido/CalculiX) | 235 | 79 | 204 | GPL-2.0 | 2026-11-14 | This repository contains the source files of CalculiX, a three-dimensional Finite Element Program (www.calculix.de). |
+| 76 | [nasa/cea](https://github.com/nasa/cea) | 233 | 48 | 50 | Apache-2.0 | 2026-09-25 | CEA computes the equilibrium composition of mixtures via free-energy minimization, and uses the resulting product con... |
+| 77 | [dftd4/dftd4](https://github.com/dftd4/dftd4) | 232 | 66 | 15 | LGPL-3.0 | 2026-11-16 | Generally Applicable Atomic-Charge Dependent London Dispersion Correction |
+| 78 | [ammarkh95/ABAQUS_PDALAC](https://github.com/ammarkh95/ABAQUS_PDALAC) | 232 | 67 | 2 | — | 2021-07-28 | Development of the Failure Criteria for Composites using ABAQUS Subroutines (UMAT/VUMAT) |
 | 79 | [certik/fortran-utils](https://github.com/certik/fortran-utils) | 229 | 70 | 6 | MIT | 2019-10-16 | Various utilities for Fortran programs |
 | 80 | [tblite/tblite](https://github.com/tblite/tblite) | 227 | 75 | 36 | LGPL-3.0 | 2026-11-17 | Light-weight tight-binding framework |
 | 81 | [mom-ocean/MOM6](https://github.com/mom-ocean/MOM6) | 226 | 294 | 71 | Apache-2.0 | 2026-10-07 | Modular Ocean Model |
