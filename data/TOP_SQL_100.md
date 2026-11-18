@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,872** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,873** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Ranked by stars. GitHub reports **4,872** total repositories matching `language:
 | 14 | [SparkhoundSQL/sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox) | 118 | 47 | 0 | — | 2021-02-10 | SQL Server Toolbox by the Sparkhound SQL Team |
 | 15 | [cahyadsn/daerah](https://github.com/cahyadsn/daerah) | 117 | 105 | 2 | — | 2023-07-22 | menampilkan data provinsi,kota/kabupaten,kecamatan dan desa/kelurahan menggunakan AjAX. (update terbaru sesuai Kepmen... |
 | 16 | [ssahibsingh/Social-Media-Database-Project](https://github.com/ssahibsingh/Social-Media-Database-Project) | 113 | 37 | 1 | MIT | 2022-11-24 | 📊 This project is part of Lab Evaluation of Course Fundamentals of Database Management Systems Lab. |
-| 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 90 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
+| 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 91 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
 | 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 83 | 31 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
 | 20 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 66 | 28 | 2 | MIT | 2026-10-26 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |

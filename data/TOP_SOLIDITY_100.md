@@ -1,15 +1,15 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,072** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,082** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,368 | 12,415 | 341 | MIT | 2026-11-17 | OpenZeppelin Contracts is a library for secure smart contract development. |
-| 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,067 | 2,432 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
-| 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,329 | 74 | 4 | AGPL-3.0 | 2026-11-12 |  |
-| 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,202 | 34 | 1 | AGPL-3.0 | 2026-11-09 | Solidity contracts implementing hash based post quantum signatures |
-| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,847 | 1,491 | 2 | Apache-2.0 | 2026-11-17 | Reproduce DeFi hacked incidents using Foundry. |
-| 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,827 | 1,457 | 38 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
+| 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,068 | 2,432 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
+| 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,330 | 74 | 4 | AGPL-3.0 | 2026-11-12 |  |
+| 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,203 | 34 | 1 | AGPL-3.0 | 2026-11-09 | Solidity contracts implementing hash based post quantum signatures |
+| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,848 | 1,491 | 2 | Apache-2.0 | 2026-11-17 | Reproduce DeFi hacked incidents using Foundry. |
+| 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,827 | 1,456 | 38 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
 | 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,303 | 704 | 129 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
 | 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,405 | 501 | 47 | MIT | 2026-10-20 | Optimized Solidity snippets. |
 | 9 | [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,327 | 524 | 2 | MIT | 2024-04-19 | A compilation of patterns and best practices for the smart contract programming language Solidity |
@@ -24,7 +24,7 @@ Ranked by stars. GitHub reports **302,072** total repositories matching `languag
 | 18 | [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) | 2,060 | 598 | 13 | — | 2023-10-15 | The companion to the Youtube tutorials |
 | 19 | [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,989 | 810 | 24 | WTFPL | 2022-12-07 | An arbitrage bot between Uniswap AMMs |
 | 20 | [SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) | 1,986 | 344 | 2 | — | 2025-04-24 | To learn common smart contract vulnerabilities using Foundry! |
-| 21 | [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | 1,973 | 458 | 6 | GPL-3.0 | 2026-07-08 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. |
+| 21 | [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | 1,972 | 458 | 6 | GPL-3.0 | 2026-07-08 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. |
 | 22 | [LayerZero-Labs/LayerZero-v1](https://github.com/LayerZero-Labs/LayerZero-v1) | 1,949 | 1,240 | 67 | NOASSERTION | 2024-06-18 | An Omnichain Interoperability Protocol |
 | 23 | [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) | 1,824 | 244 | 10 | MIT | 2025-06-19 | Demystifying Exploitable Bugs in Smart Contracts |
 | 24 | [inference-labs-inc/inference-network](https://github.com/inference-labs-inc/inference-network) | 1,815 | 31 | 2 | MIT | 2025-12-11 | Proof of Inference - Trustless AI verification |
@@ -46,7 +46,7 @@ Ranked by stars. GitHub reports **302,072** total repositories matching `languag
 | 40 | [studydefi/money-legos](https://github.com/studydefi/money-legos) | 1,028 | 214 | 42 | MIT | 2024-12-09 | 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces! |
 | 41 | [PaulRBerg/prb-math](https://github.com/PaulRBerg/prb-math) | 1,007 | 149 | 22 | MIT | 2026-11-13 | Solidity library for advanced fixed-point math |
 | 42 | [0xmetaschool/Learning-Projects](https://github.com/0xmetaschool/Learning-Projects) | 996 | 633 | 163 | — | 2025-03-03 | All the learning projects code from Metaschool website. |
-| 43 | [bnb-chain/BEPs](https://github.com/bnb-chain/BEPs) | 992 | 686 | 40 | — | 2026-11-13 | BNB Evolution Proposals |
+| 43 | [bnb-chain/BEPs](https://github.com/bnb-chain/BEPs) | 992 | 686 | 41 | — | 2026-11-13 | BNB Evolution Proposals |
 | 44 | [Uniswap/permit2](https://github.com/Uniswap/permit2) | 954 | 310 | 44 | MIT | 2024-08-19 | 🔑🔑🔑 next generation token approvals mechanism |
 | 45 | [bacen/pilotord-kit-onboarding](https://github.com/bacen/pilotord-kit-onboarding) | 953 | 235 | 8 | — | 2025-08-28 | Documentação e arquivos de configuração para participação no Piloto do Real Digital |
 | 46 | [spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) | 944 | 187 | 1 | — | 2023-04-26 | I'm sharing everything I'm learning to become a Blockchain Engineer |
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **302,072** total repositories matching `languag
 | 55 | [provable-things/ethereum-api](https://github.com/provable-things/ethereum-api) | 799 | 428 | 18 | MIT | 2024-06-08 | Provable API for Ethereum smart contracts |
 | 56 | [bnb-chain/bsc-genesis-contract](https://github.com/bnb-chain/bsc-genesis-contract) | 781 | 827 | 16 | NOASSERTION | 2026-09-11 | The genesis contracts of BNB Smart Chain. |
 | 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 777 | 1,115 | 346 | CC0-1.0 | 2026-11-17 | The Ethereum Request for Comment repository |
-| 58 | [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) | 759 | 1,486 | 5 | MIT | 2024-07-25 |  |
+| 58 | [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) | 759 | 1,485 | 5 | MIT | 2024-07-25 |  |
 | 59 | [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) | 751 | 143 | 11 | NOASSERTION | 2022-08-28 | Smart contracts which are formally verified |
 | 60 | [coinbase/build-onchain-apps](https://github.com/coinbase/build-onchain-apps) | 748 | 149 | 37 | MIT | 2025-02-05 | Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️ |
 | 61 | [ethereum-optimism/optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial) | 745 | 390 | 0 | — | 2023-12-12 | Build your first app on Optimism! |
