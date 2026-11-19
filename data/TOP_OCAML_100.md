@@ -1,70 +1,70 @@
 # Top 100 OCaml repositories on GitHub
 
-Ranked by stars. GitHub reports **44,210** total repositories matching `language:OCaml`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **44,218** total repositories matching `language:OCaml`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [meta/infer](https://github.com/meta/infer) | 15,759 | 2,103 | 195 | MIT | 2026-11-19 | A static analyzer for Java, C, C++, and Objective-C |
-| 2 | [reasonml/reason](https://github.com/reasonml/reason) | 10,341 | 438 | 194 | MIT | 2026-11-06 | Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems |
-| 3 | [rescript-lang/rescript](https://github.com/rescript-lang/rescript) | 7,487 | 486 | 169 | NOASSERTION | 2026-11-19 | ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. |
-| 4 | [meta/pyre-check](https://github.com/meta/pyre-check) | 7,178 | 448 | 167 | MIT | 2026-06-26 | Performant type-checking for python. |
-| 5 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 6,646 | 1,458 | 744 | NOASSERTION | 2026-11-18 | The core OCaml system: compilers, runtime system, base libraries |
+| 1 | [meta/infer](https://github.com/meta/infer) | 15,758 | 2,103 | 195 | MIT | 2026-11-19 | A static analyzer for Java, C, C++, and Objective-C |
+| 2 | [reasonml/reason](https://github.com/reasonml/reason) | 10,340 | 438 | 194 | MIT | 2026-11-06 | Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems |
+| 3 | [rescript-lang/rescript](https://github.com/rescript-lang/rescript) | 7,486 | 486 | 175 | NOASSERTION | 2026-11-19 | ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript. |
+| 4 | [meta/pyre-check](https://github.com/meta/pyre-check) | 7,176 | 448 | 167 | MIT | 2026-06-26 | Performant type-checking for python. |
+| 5 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 6,645 | 1,458 | 742 | NOASSERTION | 2026-11-19 | The core OCaml system: compilers, runtime system, base libraries |
 | 6 | [janestreet/magic-trace](https://github.com/janestreet/magic-trace) | 6,425 | 234 | 76 | MIT | 2026-10-19 | magic-trace collects and displays high-resolution traces of what a process is doing |
 | 7 | [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) | 5,986 | 366 | 282 | MIT | 2026-08-23 | FUSE filesystem over Google Drive |
-| 8 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5,672 | 774 | 2,058 | LGPL-2.1 | 2026-11-18 | The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathemat... |
+| 8 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5,671 | 774 | 2,059 | LGPL-2.1 | 2026-11-18 | The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathemat... |
 | 9 | [bcpierce00/unison](https://github.com/bcpierce00/unison) | 5,594 | 278 | 107 | GPL-3.0 | 2026-09-20 | Unison file synchronizer |
 | 10 | [batsh-dev-team/Batsh](https://github.com/batsh-dev-team/Batsh) | 4,349 | 166 | 51 | — | 2023-04-30 | A language that compiles to Bash and Windows Batch |
-| 11 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3,362 | 298 | 95 | LGPL-2.1 | 2026-11-19 | 🔎 Static code analysis engine to find security issues in code. |
-| 12 | [mirage/mirage](https://github.com/mirage/mirage) | 3,029 | 280 | 55 | ISC | 2026-11-01 | MirageOS is a library operating system that constructs unikernels |
-| 13 | [comby-tools/comby](https://github.com/comby-tools/comby) | 2,692 | 75 | 84 | Apache-2.0 | 2026-11-06 | A code rewrite tool for structural search and replace that supports ~every language. |
-| 14 | [northwesternfintech/2027QuantInternships](https://github.com/northwesternfintech/2027QuantInternships) | 2,537 | 153 | 1 | — | 2026-07-30 | Public quant internship repository, maintained by NUFT but available for everyone. |
+| 11 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3,363 | 298 | 95 | LGPL-2.1 | 2026-11-19 | 🔎 Static code analysis engine to find security issues in code. |
+| 12 | [mirage/mirage](https://github.com/mirage/mirage) | 3,028 | 280 | 55 | ISC | 2026-11-01 | MirageOS is a library operating system that constructs unikernels |
+| 13 | [comby-tools/comby](https://github.com/comby-tools/comby) | 2,691 | 75 | 84 | Apache-2.0 | 2026-11-06 | A code rewrite tool for structural search and replace that supports ~every language. |
+| 14 | [northwesternfintech/2027QuantInternships](https://github.com/northwesternfintech/2027QuantInternships) | 2,538 | 153 | 1 | — | 2026-07-30 | Public quant internship repository, maintained by NUFT but available for everyone. |
 | 15 | [CatalaLang/catala](https://github.com/CatalaLang/catala) | 2,445 | 123 | 93 | Apache-2.0 | 2026-11-18 | Programming language for literate programming law specification |
-| 16 | [facebookarchive/pfff](https://github.com/facebookarchive/pfff) | 2,430 | 203 | 36 | NOASSERTION | 2019-03-27 | Tools for code analysis, visualizations, or style-preserving source transformation. |
-| 17 | [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) | 2,263 | 287 | 43 | MIT | 2026-05-07 | Binary Analysis Platform |
-| 18 | [fastpack/fastpack](https://github.com/fastpack/fastpack) | 2,256 | 39 | 35 | MIT | 2023-01-07 | Pack JS code fast & easy |
-| 19 | [MinaProtocol/mina](https://github.com/MinaProtocol/mina) | 2,129 | 587 | 967 | Apache-2.0 | 2026-11-19 | Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralizati... |
-| 20 | [mirage/irmin](https://github.com/mirage/irmin) | 1,967 | 168 | 174 | ISC | 2026-11-18 | Irmin is a distributed database that follows the same design principles as Git |
+| 16 | [facebookarchive/pfff](https://github.com/facebookarchive/pfff) | 2,429 | 203 | 36 | NOASSERTION | 2019-03-27 | Tools for code analysis, visualizations, or style-preserving source transformation. |
+| 17 | [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) | 2,262 | 287 | 43 | MIT | 2026-05-07 | Binary Analysis Platform |
+| 18 | [fastpack/fastpack](https://github.com/fastpack/fastpack) | 2,255 | 39 | 35 | MIT | 2023-01-07 | Pack JS code fast & easy |
+| 19 | [MinaProtocol/mina](https://github.com/MinaProtocol/mina) | 2,128 | 587 | 965 | Apache-2.0 | 2026-11-19 | Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralizati... |
+| 20 | [mirage/irmin](https://github.com/mirage/irmin) | 1,966 | 168 | 174 | ISC | 2026-11-18 | Irmin is a distributed database that follows the same design principles as Git |
 | 21 | [ocaml/dune](https://github.com/ocaml/dune) | 1,935 | 513 | 1,057 | MIT | 2026-11-19 | A composable build system for OCaml. |
 | 22 | [camlworks/dream](https://github.com/camlworks/dream) | 1,900 | 164 | 87 | MIT | 2026-11-13 | Tidy, feature-complete Web framework |
-| 23 | [airbus-seclab/bincat](https://github.com/airbus-seclab/bincat) | 1,882 | 165 | 18 | — | 2025-02-25 | Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-... |
-| 24 | [savonet/liquidsoap](https://github.com/savonet/liquidsoap) | 1,761 | 165 | 243 | GPL-2.0 | 2026-11-19 | Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thin... |
+| 23 | [airbus-seclab/bincat](https://github.com/airbus-seclab/bincat) | 1,881 | 165 | 18 | — | 2025-02-25 | Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-... |
+| 24 | [savonet/liquidsoap](https://github.com/savonet/liquidsoap) | 1,761 | 165 | 244 | GPL-2.0 | 2026-11-19 | Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thin... |
 | 25 | [ocaml/merlin](https://github.com/ocaml/merlin) | 1,712 | 260 | 255 | MIT | 2026-11-16 | Context sensitive completion for OCaml in Vim and Emacs |
 | 26 | [tomprimozic/type-systems](https://github.com/tomprimozic/type-systems) | 1,607 | 75 | 8 | Unlicense | 2015-08-31 | Implementations of various type systems in OCaml. |
-| 27 | [austral/austral](https://github.com/austral/austral) | 1,604 | 61 | 28 | Apache-2.0 | 2025-07-28 | Systems language with linear types and capability-based security. |
-| 28 | [andrejbauer/plzoo](https://github.com/andrejbauer/plzoo) | 1,602 | 104 | 15 | MIT | 2024-06-18 | Programming Languages Zoo |
+| 27 | [austral/austral](https://github.com/austral/austral) | 1,602 | 61 | 28 | Apache-2.0 | 2025-07-28 | Systems language with linear types and capability-based security. |
+| 28 | [andrejbauer/plzoo](https://github.com/andrejbauer/plzoo) | 1,601 | 104 | 15 | MIT | 2024-06-18 | Programming Languages Zoo |
 | 29 | [janestreet/incremental](https://github.com/janestreet/incremental) | 1,550 | 77 | 0 | MIT | 2026-11-03 | A library for incremental computations |
 | 30 | [janestreet/bonsai](https://github.com/janestreet/bonsai) | 1,451 | 58 | 8 | MIT | 2026-11-03 | A library for building dynamic webapps, using Js_of_ocaml |
-| 31 | [ocaml/opam](https://github.com/ocaml/opam) | 1,389 | 412 | 908 | NOASSERTION | 2026-11-18 | opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package co... |
-| 32 | [janestreet/core](https://github.com/janestreet/core) | 1,386 | 138 | 7 | MIT | 2026-11-03 | Jane Street Capital's standard library overlay |
-| 33 | [owlbarn/owl](https://github.com/owlbarn/owl) | 1,359 | 132 | 39 | MIT | 2026-11-18 | Owl - OCaml Scientific Computing @ https://ocaml.xyz |
-| 34 | [stategraph/stategraph](https://github.com/stategraph/stategraph) | 1,328 | 84 | 114 | MPL-2.0 | 2026-11-19 | Open source Terraform and OpenTofu pull request automation |
+| 31 | [ocaml/opam](https://github.com/ocaml/opam) | 1,389 | 412 | 909 | NOASSERTION | 2026-11-18 | opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package co... |
+| 32 | [janestreet/core](https://github.com/janestreet/core) | 1,388 | 138 | 7 | MIT | 2026-11-03 | Jane Street Capital's standard library overlay |
+| 33 | [owlbarn/owl](https://github.com/owlbarn/owl) | 1,358 | 132 | 39 | MIT | 2026-11-18 | Owl - OCaml Scientific Computing @ https://ocaml.xyz |
+| 34 | [stategraph/stategraph](https://github.com/stategraph/stategraph) | 1,328 | 83 | 115 | MPL-2.0 | 2026-11-19 | Open source Terraform and OpenTofu pull request automation |
 | 35 | [realworldocaml/book](https://github.com/realworldocaml/book) | 1,267 | 178 | 367 | NOASSERTION | 2024-07-08 | V2 of Real World OCaml |
-| 36 | [MLstate/opalang](https://github.com/MLstate/opalang) | 1,263 | 127 | 37 | NOASSERTION | 2020-09-30 | The Opa Language for Web Application Development |
+| 36 | [MLstate/opalang](https://github.com/MLstate/opalang) | 1,262 | 127 | 37 | NOASSERTION | 2020-09-30 | The Opa Language for Web Application Development |
 | 37 | [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) | 1,248 | 87 | 118 | LGPL-3.0 | 2026-11-15 | A statically-typed, functional typesetting system |
-| 38 | [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) | 1,219 | 157 | 368 | Apache-2.0 | 2026-11-19 | A verification toolchain for Rust programs |
-| 39 | [moby/vpnkit](https://github.com/moby/vpnkit) | 1,210 | 213 | 81 | Apache-2.0 | 2026-10-21 | A toolkit for embedding VPN capabilities in your application |
+| 38 | [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) | 1,221 | 157 | 369 | Apache-2.0 | 2026-11-19 | A verification toolchain for Rust programs |
+| 39 | [moby/vpnkit](https://github.com/moby/vpnkit) | 1,209 | 213 | 81 | Apache-2.0 | 2026-10-21 | A toolkit for embedding VPN capabilities in your application |
 | 40 | [janestreet/hardcaml](https://github.com/janestreet/hardcaml) | 1,188 | 68 | 10 | MIT | 2026-11-03 | Hardcaml is an OCaml library for designing hardware. |
-| 41 | [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) | 1,141 | 204 | 84 | NOASSERTION | 2026-11-19 | Compiler from OCaml to Javascript. |
+| 41 | [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) | 1,139 | 203 | 88 | NOASSERTION | 2026-11-19 | Compiler from OCaml to Javascript. |
 | 42 | [janestreet/base](https://github.com/janestreet/base) | 1,112 | 185 | 19 | MIT | 2026-11-03 | Standard library for OCaml |
-| 43 | [moby/datakit](https://github.com/moby/datakit) | 1,107 | 155 | 32 | Apache-2.0 | 2023-08-21 | Connect processes into powerful data pipelines with a simple git-like filesystem interface |
+| 43 | [moby/datakit](https://github.com/moby/datakit) | 1,106 | 155 | 32 | Apache-2.0 | 2023-08-21 | Connect processes into powerful data pipelines with a simple git-like filesystem interface |
 | 44 | [leostera/caramel](https://github.com/leostera/caramel) | 1,106 | 25 | 21 | Apache-2.0 | 2023-09-25 | :candy: a functional language for building type-safe, scalable, and maintainable applications |
-| 45 | [melange-re/melange](https://github.com/melange-re/melange) | 997 | 64 | 188 | NOASSERTION | 2026-11-19 | A mixture of tooling combined to produce JavaScript from OCaml & Reason |
-| 46 | [cs3110/textbook](https://github.com/cs3110/textbook) | 949 | 157 | 8 | NOASSERTION | 2026-10-26 | The CS 3110 Textbook, "OCaml Programming: Correct + Efficient + Beautiful" |
-| 47 | [oxcaml/oxcaml](https://github.com/oxcaml/oxcaml) | 943 | 199 | 1,190 | NOASSERTION | 2026-11-19 | OCaml - Oxidized! |
+| 45 | [melange-re/melange](https://github.com/melange-re/melange) | 997 | 64 | 185 | NOASSERTION | 2026-11-19 | A mixture of tooling combined to produce JavaScript from OCaml & Reason |
+| 46 | [cs3110/textbook](https://github.com/cs3110/textbook) | 950 | 157 | 8 | NOASSERTION | 2026-10-26 | The CS 3110 Textbook, "OCaml Programming: Correct + Efficient + Beautiful" |
+| 47 | [oxcaml/oxcaml](https://github.com/oxcaml/oxcaml) | 943 | 199 | 1,205 | NOASSERTION | 2026-11-19 | OCaml - Oxidized! |
 | 48 | [ocaml-community/utop](https://github.com/ocaml-community/utop) | 932 | 122 | 119 | NOASSERTION | 2026-11-11 | Universal toplevel for OCaml |
 | 49 | [matijapretnar/eff](https://github.com/matijapretnar/eff) | 925 | 46 | 7 | BSD-2-Clause | 2026-11-16 | A functional programming language based on algebraic effect handlers |
-| 50 | [ocaml/ocaml-lsp](https://github.com/ocaml/ocaml-lsp) | 918 | 168 | 137 | NOASSERTION | 2026-11-15 | OCaml Language Server Protocol implementation |
+| 50 | [ocaml/ocaml-lsp](https://github.com/ocaml/ocaml-lsp) | 918 | 168 | 151 | NOASSERTION | 2026-11-15 | OCaml Language Server Protocol implementation |
 | 51 | [panglesd/slipshow](https://github.com/panglesd/slipshow) | 900 | 27 | 41 | NOASSERTION | 2026-11-17 | An engine for displaying slips, the next-gen version of slides |
-| 52 | [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) | 830 | 120 | 47 | GPL-2.0 | 2026-09-02 | Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria) |
+| 52 | [coccinelle/coccinelle](https://github.com/coccinelle/coccinelle) | 829 | 120 | 47 | GPL-2.0 | 2026-09-02 | Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria) |
 | 53 | [ocsigen/lwt](https://github.com/ocsigen/lwt) | 795 | 184 | 85 | MIT | 2026-11-17 | OCaml promises and concurrent I/O |
 | 54 | [mirage/ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) | 781 | 187 | 109 | NOASSERTION | 2026-09-08 | An OCaml library for HTTP clients and servers using Lwt or Async |
 | 55 | [rgrinberg/opium](https://github.com/rgrinberg/opium) | 781 | 77 | 37 | MIT | 2026-01-06 | Sinatra like web toolkit for OCaml |
 | 56 | [ocaml-multicore/ocaml-multicore](https://github.com/ocaml-multicore/ocaml-multicore) | 762 | 71 | 60 | NOASSERTION | 2022-12-09 | Multicore OCaml |
-| 57 | [rescript-association/genType](https://github.com/rescript-association/genType) | 750 | 44 | 0 | MIT | 2023-11-13 | Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. |
-| 58 | [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) | 742 | 92 | 71 | NOASSERTION | 2026-11-18 | Effects-based direct-style IO for multicore OCaml |
-| 59 | [ocaml-ppx/ocamlformat](https://github.com/ocaml-ppx/ocamlformat) | 735 | 229 | 135 | MIT | 2026-11-18 | Auto-formatter for OCaml code |
+| 57 | [rescript-association/genType](https://github.com/rescript-association/genType) | 749 | 44 | 0 | MIT | 2023-11-13 | Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType. |
+| 58 | [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio) | 742 | 92 | 70 | NOASSERTION | 2026-11-18 | Effects-based direct-style IO for multicore OCaml |
+| 59 | [ocaml-ppx/ocamlformat](https://github.com/ocaml-ppx/ocamlformat) | 733 | 229 | 135 | MIT | 2026-11-18 | Auto-formatter for OCaml code |
 | 60 | [ocaml-multicore/ocaml-effects-tutorial](https://github.com/ocaml-multicore/ocaml-effects-tutorial) | 732 | 39 | 1 | MIT | 2026-03-19 | Concurrent Programming with Effect Handlers |
-| 61 | [janestreet/learn-ocaml-workshop](https://github.com/janestreet/learn-ocaml-workshop) | 729 | 178 | 13 | Apache-2.0 | 2022-04-04 | Exercises and projects for Jane Street's OCaml Workshop |
+| 61 | [janestreet/learn-ocaml-workshop](https://github.com/janestreet/learn-ocaml-workshop) | 730 | 178 | 13 | Apache-2.0 | 2022-04-04 | Exercises and projects for Jane Street's OCaml Workshop |
 | 62 | [moonbitlang/moonbit-compiler](https://github.com/moonbitlang/moonbit-compiler) | 712 | 55 | 7 | NOASSERTION | 2026-11-02 |  |
 | 63 | [inhabitedtype/angstrom](https://github.com/inhabitedtype/angstrom) | 706 | 74 | 14 | NOASSERTION | 2024-09-12 | Parser combinators built for speed and memory efficiency |
 | 64 | [leostera/riot-lib](https://github.com/leostera/riot-lib) | 689 | 44 | 0 | NOASSERTION | 2024-11-13 | An actor-model multi-core scheduler for OCaml 5 🐫 |
@@ -75,32 +75,32 @@ Ranked by stars. GitHub reports **44,210** total repositories matching `language
 | 69 | [reasonml-old/reason-react](https://github.com/reasonml-old/reason-react) | 628 | 40 | 5 | — | 2017-06-12 |  |
 | 70 | [andreas/ocaml-graphql-server](https://github.com/andreas/ocaml-graphql-server) | 617 | 60 | 35 | MIT | 2024-03-03 | GraphQL servers in OCaml |
 | 71 | [mukul-rathi/bolt](https://github.com/mukul-rathi/bolt) | 604 | 53 | 8 | MIT | 2023-11-24 | Bolt is a language with in-built data-race freedom! |
-| 72 | [caffeinelabs/motoko](https://github.com/caffeinelabs/motoko) | 593 | 132 | 240 | Apache-2.0 | 2026-11-18 | Simple high-level language for writing Internet Computer canisters |
+| 72 | [caffeinelabs/motoko](https://github.com/caffeinelabs/motoko) | 593 | 132 | 244 | Apache-2.0 | 2026-11-19 | Simple high-level language for writing Internet Computer canisters |
 | 73 | [0install/0install](https://github.com/0install/0install) | 586 | 50 | 10 | LGPL-2.1 | 2026-10-24 | the core 0install package |
-| 74 | [jrh13/hol-light](https://github.com/jrh13/hol-light) | 575 | 103 | 46 | NOASSERTION | 2026-11-16 | The HOL Light theorem prover |
+| 74 | [jrh13/hol-light](https://github.com/jrh13/hol-light) | 575 | 103 | 45 | NOASSERTION | 2026-11-19 | The HOL Light theorem prover |
 | 75 | [briskml/brisk](https://github.com/briskml/brisk) | 555 | 8 | 41 | MIT | 2019-11-03 | ✨Cross-platform set of tools for building native UIs with Reason/OCaml |
 | 76 | [mahsu/MariOCaml](https://github.com/mahsu/MariOCaml) | 543 | 110 | 4 | MIT | 2026-04-05 | HTML 5 canvas implementation of Mario written in Ocaml |
-| 77 | [vult-dsp/vult](https://github.com/vult-dsp/vult) | 542 | 30 | 9 | NOASSERTION | 2026-11-05 | Vult is a transcompiler well suited to write high-performance DSP code |
+| 77 | [vult-dsp/vult](https://github.com/vult-dsp/vult) | 541 | 30 | 9 | NOASSERTION | 2026-11-05 | Vult is a transcompiler well suited to write high-performance DSP code |
 | 78 | [inhabitedtype/httpaf](https://github.com/inhabitedtype/httpaf) | 538 | 42 | 26 | NOASSERTION | 2024-05-27 | A high performance, memory efficient, and scalable web server written in OCaml |
-| 79 | [esumii/min-caml](https://github.com/esumii/min-caml) | 532 | 129 | 2 | NOASSERTION | 2026-08-17 | moved from https://sourceforge.net/p/min-caml/code/ |
-| 80 | [FStarLang/karamel](https://github.com/FStarLang/karamel) | 528 | 75 | 58 | Apache-2.0 | 2026-11-17 | KaRaMeL is a tool for extracting low-level F* programs to readable C code |
+| 79 | [esumii/min-caml](https://github.com/esumii/min-caml) | 531 | 129 | 2 | NOASSERTION | 2026-08-17 | moved from https://sourceforge.net/p/min-caml/code/ |
+| 80 | [FStarLang/karamel](https://github.com/FStarLang/karamel) | 527 | 75 | 58 | Apache-2.0 | 2026-11-17 | KaRaMeL is a tool for extracting low-level F* programs to readable C code |
 | 81 | [ocaml-batteries-team/batteries-included](https://github.com/ocaml-batteries-team/batteries-included) | 523 | 108 | 91 | NOASSERTION | 2026-06-25 | Batteries Included project |
 | 82 | [c-cube/ocaml-containers](https://github.com/c-cube/ocaml-containers) | 523 | 93 | 21 | BSD-2-Clause | 2026-11-10 | A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads... |
-| 83 | [ocaml-ppx/ppx_deriving](https://github.com/ocaml-ppx/ppx_deriving) | 523 | 98 | 39 | MIT | 2026-09-13 | Type-driven code generation for OCaml |
-| 84 | [rrdelaney/ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | 517 | 23 | 12 | MIT | 2018-08-02 | :diamond_shape_with_a_dot_inside: Converts Flow and TypeScript definitions to Reason interfaces |
-| 85 | [mirage/alcotest](https://github.com/mirage/alcotest) | 515 | 94 | 38 | ISC | 2026-11-16 | A lightweight and colourful test framework |
+| 83 | [ocaml-ppx/ppx_deriving](https://github.com/ocaml-ppx/ppx_deriving) | 521 | 98 | 39 | MIT | 2026-09-13 | Type-driven code generation for OCaml |
+| 84 | [rrdelaney/ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) | 516 | 23 | 12 | MIT | 2018-08-02 | :diamond_shape_with_a_dot_inside: Converts Flow and TypeScript definitions to Reason interfaces |
+| 85 | [mirage/alcotest](https://github.com/mirage/alcotest) | 515 | 94 | 40 | ISC | 2026-11-16 | A lightweight and colourful test framework |
 | 86 | [multikernel/kernelscript](https://github.com/multikernel/kernelscript) | 510 | 24 | 2 | Apache-2.0 | 2026-06-26 | KernelScript is a modern, type-safe, domain-specific programming language for eBPF-centric kernel customization |
 | 87 | [o1-labs/snarky](https://github.com/o1-labs/snarky) | 505 | 84 | 11 | MIT | 2026-08-05 | OCaml DSL for verifiable computation |
 | 88 | [jaredly/gravitron](https://github.com/jaredly/gravitron) | 489 | 17 | 9 | — | 2023-10-20 | a little game |
 | 89 | [hirrolot/mazeppa](https://github.com/hirrolot/mazeppa) | 479 | 11 | 2 | Unlicense | 2025-12-05 | A modern supercompiler for call-by-value functional languages |
 | 90 | [leostera/minttea](https://github.com/leostera/minttea) | 474 | 32 | 17 | MIT | 2026-03-18 | A fun little TUI framework for OCaml |
-| 91 | [facebookarchive/JSCaml](https://github.com/facebookarchive/JSCaml) | 455 | 15 | 0 | NOASSERTION | 2017-04-12 | A compile time transformation from JavaScript to OCaml, along with an OCaml implementation of the JavaScript builtin ... |
+| 91 | [facebookarchive/JSCaml](https://github.com/facebookarchive/JSCaml) | 454 | 15 | 0 | NOASSERTION | 2017-04-12 | A compile time transformation from JavaScript to OCaml, along with an OCaml implementation of the JavaScript builtin ... |
 | 92 | [ocaml-multicore/effects-examples](https://github.com/ocaml-multicore/effects-examples) | 453 | 36 | 3 | ISC | 2026-03-20 | Examples to illustrate the use of algebraic effects in Multicore OCaml |
 | 93 | [LaurentMazare/ocaml-torch](https://github.com/LaurentMazare/ocaml-torch) | 444 | 40 | 11 | Apache-2.0 | 2024-10-17 | OCaml bindings for PyTorch |
 | 94 | [pikatchu/LinearML](https://github.com/pikatchu/LinearML) | 437 | 38 | 5 | NOASSERTION | 2017-06-21 | Functional language for parallel programming |
-| 95 | [binsec/binsec](https://github.com/binsec/binsec) | 435 | 45 | 10 | LGPL-2.1 | 2026-08-26 | BINSEC binary-level open-source platform |
+| 95 | [binsec/binsec](https://github.com/binsec/binsec) | 434 | 45 | 10 | LGPL-2.1 | 2026-08-26 | BINSEC binary-level open-source platform |
 | 96 | [PataphysicalSociety/soupault](https://github.com/PataphysicalSociety/soupault) | 432 | 21 | 17 | MIT | 2026-04-24 | Static website generator based on HTML element tree rewriting |
-| 97 | [ott-lang/ott](https://github.com/ott-lang/ott) | 429 | 58 | 43 | NOASSERTION | 2026-09-16 | The Ott tool for writing definitions of programming languages and calculi |
-| 98 | [uber/NEAL](https://github.com/uber/NEAL) | 429 | 28 | 12 | MIT | 2022-04-15 | 🔎🐞 A language-agnostic linting platform |
+| 97 | [ott-lang/ott](https://github.com/ott-lang/ott) | 429 | 58 | 44 | NOASSERTION | 2026-09-16 | The Ott tool for writing definitions of programming languages and calculi |
+| 98 | [uber/NEAL](https://github.com/uber/NEAL) | 428 | 28 | 12 | MIT | 2022-04-15 | 🔎🐞 A language-agnostic linting platform |
 | 99 | [EasyCrypt/easycrypt](https://github.com/EasyCrypt/easycrypt) | 426 | 68 | 221 | MIT | 2026-11-13 | EasyCrypt: Computer-Aided Cryptographic Proofs |
 | 100 | [raven-ml/raven](https://github.com/raven-ml/raven) | 419 | 59 | 0 | ISC | 2026-11-19 | Modern scientific computing for OCaml |

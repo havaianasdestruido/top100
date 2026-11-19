@@ -1,30 +1,30 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,470** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,471** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,073 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
-| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
-| 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,009 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
-| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,908 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
+| 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,072 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
+| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,652 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
+| 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,007 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
+| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,753 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
-| 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,423 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
-| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,359 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
-| 8 | [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) | 985 | 58 | 5 | MIT | 2026-06-18 | async completion in pure vim script for vim8 and neovim |
-| 9 | [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) | 966 | 37 | 12 | MIT | 2021-01-12 | :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim. |
-| 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 887 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |
-| 11 | [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim) | 887 | 76 | 2 | NOASSERTION | 2024-05-20 | :file_folder: Powerful file explorer implemented by Vim script |
-| 12 | [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) | 789 | 57 | 14 | MIT | 2024-01-21 | Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim ... |
-| 13 | [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) | 746 | 73 | 22 | — | 2026-10-21 | This script implements transparent editing of gpg encrypted files. |
+| 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,422 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
+| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,358 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
+| 8 | [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) | 980 | 58 | 5 | MIT | 2026-06-18 | async completion in pure vim script for vim8 and neovim |
+| 9 | [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) | 965 | 37 | 12 | MIT | 2021-01-12 | :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim. |
+| 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 886 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |
+| 11 | [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim) | 883 | 76 | 2 | NOASSERTION | 2024-05-20 | :file_folder: Powerful file explorer implemented by Vim script |
+| 12 | [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) | 788 | 57 | 14 | MIT | 2024-01-21 | Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim ... |
+| 13 | [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) | 744 | 73 | 22 | — | 2026-10-21 | This script implements transparent editing of gpg encrypted files. |
 | 14 | [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) | 688 | 38 | 5 | — | 2025-11-21 | scriptease.vim: A Vim plugin for Vim plugins |
-| 15 | [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) | 618 | 47 | 11 | — | 2025-08-19 | A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script) |
-| 16 | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) | 445 | 8 | 0 | — | 2016-10-22 | C Compiler written in Vim script |
-| 17 | [dag/vim-fish](https://github.com/dag/vim-fish) | 426 | 59 | 26 | MIT | 2022-03-17 | Vim support for editing fish scripts |
-| 18 | [xolox/vim-misc](https://github.com/xolox/vim-misc) | 364 | 56 | 10 | — | 2021-05-22 | Miscellaneous auto-load Vim scripts |
-| 19 | [hdima/python-syntax](https://github.com/hdima/python-syntax) | 363 | 101 | 23 | MIT | 2022-01-09 | Python syntax highlighting script for Vim |
-| 20 | [durdn/cfg](https://github.com/durdn/cfg) | 362 | 81 | 1 | — | 2019-01-18 | dotfiles and related syncing scripts |
-| 21 | [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill) | 304 | 21 | 7 | — | 2022-04-19 | Git repo for http://www.vim.org/scripts/script.php?script_id=1147 |
+| 15 | [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) | 616 | 47 | 11 | — | 2025-08-19 | A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script) |
+| 16 | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) | 444 | 8 | 0 | — | 2016-10-22 | C Compiler written in Vim script |
+| 17 | [dag/vim-fish](https://github.com/dag/vim-fish) | 425 | 59 | 26 | MIT | 2022-03-17 | Vim support for editing fish scripts |
+| 18 | [xolox/vim-misc](https://github.com/xolox/vim-misc) | 363 | 56 | 10 | — | 2021-05-22 | Miscellaneous auto-load Vim scripts |
+| 19 | [hdima/python-syntax](https://github.com/hdima/python-syntax) | 362 | 101 | 23 | MIT | 2022-01-09 | Python syntax highlighting script for Vim |
+| 20 | [durdn/cfg](https://github.com/durdn/cfg) | 360 | 81 | 1 | — | 2019-01-18 | dotfiles and related syncing scripts |
+| 21 | [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill) | 301 | 21 | 7 | — | 2022-04-19 | Git repo for http://www.vim.org/scripts/script.php?script_id=1147 |
 | 22 | [thinca/vim-themis](https://github.com/thinca/vim-themis) | 243 | 28 | 14 | Zlib | 2026-02-13 | A testing framework for Vim script. |
 | 23 | [mattjmorrison/jarrod-taylor-made-dotfiles](https://github.com/mattjmorrison/jarrod-taylor-made-dotfiles) | 236 | 35 | 8 | — | 2024-03-20 | Dotfiles and an install script for easy set up |
 | 24 | [vivien/vim-linux-coding-style](https://github.com/vivien/vim-linux-coding-style) | 234 | 94 | 9 | — | 2022-08-26 | Vim plugin to respect the Linux kernel coding style http://www.vim.org/scripts/script.php?script_id=4369 |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 59 | [nachumk/systemverilog.vim](https://github.com/nachumk/systemverilog.vim) | 69 | 22 | 4 | GPL-2.0 | 2023-01-25 | SystemVerilog vim scripts |
 | 60 | [taq/vim-git-branch-info](https://github.com/taq/vim-git-branch-info) | 69 | 11 | 0 | — | 2015-07-31 | A Vim script to return info about the Git branches. |
 | 61 | [vim-scripts/JavaScript-Indent](https://github.com/vim-scripts/JavaScript-Indent) | 68 | 23 | 1 | — | 2017-08-12 | Javascript indenter (HTML indent is included) |
-| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-16 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
+| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-19 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
 | 63 | [ghewgill/vim-scmdiff](https://github.com/ghewgill/vim-scmdiff) | 65 | 12 | 5 | — | 2016-03-23 | Vim script to highlight lines changed from a base version in SCM |
 | 64 | [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) | 64 | 7 | 0 | MIT | 2020-12-25 | :art: Template engine for Vim color schemes, in pure Vim script |
 | 65 | [jayflo/vim-skip](https://github.com/jayflo/vim-skip) | 56 | 3 | 1 | — | 2014-03-17 | simple movement script for vim |

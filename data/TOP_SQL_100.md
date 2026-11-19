@@ -1,16 +1,16 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,885** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,886** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [ben-nour/SQL-tips-and-tricks](https://github.com/ben-nour/SQL-tips-and-tricks) | 2,310 | 109 | 2 | MIT | 2025-11-23 | SQL tips and tricks |
-| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,343 | 433 | 1 | MIT | 2026-11-14 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
+| 2 | [cahyadsn/wilayah](https://github.com/cahyadsn/wilayah) | 1,342 | 433 | 1 | MIT | 2026-11-19 | Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025  dengan PHP+MySQL+... |
 | 3 | [Thomas-George-T/HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions) | 818 | 239 | 6 | MIT | 2024-04-30 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 4 | [basedosdados/sdk](https://github.com/basedosdados/sdk) | 434 | 90 | 34 | MIT | 2026-07-24 | ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) \| 📖 Docs: https://basedosdados.org/docs/home |
 | 5 | [brunocampos01/banco-de-dados](https://github.com/brunocampos01/banco-de-dados) | 425 | 62 | 0 | MIT | 2024-09-07 | Aulas, exercícios e resumos sobre banco de dados |
 | 6 | [Velir/dbt-ga4](https://github.com/Velir/dbt-ga4) | 403 | 167 | 62 | MIT | 2026-09-14 | dbt Package for modeling raw data exported by Google Analytics 4. BigQuery support, only. |
-| 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 311 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
+| 7 | [tony-landis/agilebill](https://github.com/tony-landis/agilebill) | 310 | 168 | 6 | NOASSERTION | 2014-05-18 | Open source billing and invoicing |
 | 8 | [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) | 294 | 4 | 1 | Apache-2.0 | 2024-01-01 | NoiSQL — Generating Music With SQL Queries |
 | 9 | [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) | 291 | 54 | 1 | MIT | 2025-04-28 | Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through pr... |
 | 10 | [dhaval1406/SQL](https://github.com/dhaval1406/SQL) | 230 | 82 | 3 | — | 2024-07-07 | sql related stuff, interview questions, mySQL complex queries |
@@ -23,7 +23,7 @@ Ranked by stars. GitHub reports **4,885** total repositories matching `language:
 | 17 | [ndleah/8-Week-SQL-Challenge](https://github.com/ndleah/8-Week-SQL-Challenge) | 91 | 45 | 0 | — | 2022-04-08 | #8WeekSQLChallenge by Danny Ma. |
 | 18 | [avishek-choudhary/Music-Store-Analysis](https://github.com/avishek-choudhary/Music-Store-Analysis) | 84 | 31 | 2 | — | 2024-06-30 | This repository contains a SQL dataset of a music store and SQL queries to answer questions about the data. The resul... |
 | 19 | [mgramin/malewicz](https://github.com/mgramin/malewicz) | 70 | 1 | 9 | MIT | 2025-01-04 | Suprematistic hackable GUI SQL-manager written in SQL itself |
-| 20 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 66 | 28 | 2 | MIT | 2026-10-26 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
+| 20 | [cahyadsn/wilayah_boundaries](https://github.com/cahyadsn/wilayah_boundaries) | 65 | 28 | 2 | MIT | 2026-10-26 | Data boundaries wilayah administrasi pemerintahan Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 |
 | 21 | [sunnotes/Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 63 | 32 | 0 | — | 2014-06-02 | 阿里巴巴大数据竞赛 |
 | 22 | [TrinityCore/TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | 59 | 111 | 0 | — | 2014-10-18 | If you are looking for TDB for 4.3.4 go to: |
 | 23 | [mattDevigili/dms-smm695](https://github.com/mattDevigili/dms-smm695) | 52 | 40 | 0 | — | 2024-06-22 | Teaching material for a B-school, post-grad module on Data Management Systems |
