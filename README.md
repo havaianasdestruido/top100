@@ -35,18 +35,18 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 <!-- LEADERS:START -->
 | # | Repository | Language | Stars |
 | --- | --- | --- | --- |
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 500,062 |
-| 2 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 468,145 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 500,092 |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 468,456 |
 | 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 459,302 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 401,843 |
-| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 394,757 |
-| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 378,407 |
-| 7 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 372,318 |
-| 8 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 335,690 |
-| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 327,404 |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 321,273 |
+| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 401,852 |
+| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 394,771 |
+| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 378,424 |
+| 7 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 372,320 |
+| 8 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 335,717 |
+| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 327,535 |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 321,391 |
 
-Refreshed 18 November 2026, 21:49 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 19 November 2026, 03:09 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for

@@ -10,7 +10,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,908 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,752 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
 | 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,423 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
-| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,358 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
+| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,359 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
 | 8 | [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) | 985 | 58 | 5 | MIT | 2026-06-18 | async completion in pure vim script for vim8 and neovim |
 | 9 | [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) | 966 | 37 | 12 | MIT | 2021-01-12 | :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim. |
 | 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 887 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |
@@ -41,7 +41,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 35 | [blueyed/dotfiles](https://github.com/blueyed/dotfiles) | 171 | 31 | 2 | MIT | 2021-09-25 | My dotfiles (Zsh / Vim / Neovim / Git / scripts) - (not much in sync / outdated) |
 | 36 | [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim) | 162 | 20 | 2 | NOASSERTION | 2025-03-11 | Context filetype library for Vim script |
 | 37 | [sophacles/vim-processing](https://github.com/sophacles/vim-processing) | 152 | 12 | 9 | — | 2023-07-03 | Create and run processing sketches in Vim. Development repository for vim script 2115. |
-| 38 | [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) | 144 | 10 | 5 | NOASSERTION | 2021-01-11 | :zap: Vim Script Parser written in Go |
+| 38 | [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) | 145 | 10 | 5 | NOASSERTION | 2021-01-11 | :zap: Vim Script Parser written in Go |
 | 39 | [Integralist/ProVim](https://github.com/Integralist/ProVim) | 130 | 64 | 3 | — | 2016-08-02 | Repository to hold dotfiles and scripts specific to ProVim |
 | 40 | [2072/PHP-Indenting-for-VIm](https://github.com/2072/PHP-Indenting-for-VIm) | 130 | 29 | 3 | — | 2026-02-27 | The official VIm indent script for PHP |
 | 41 | [ahw/vim-hooks](https://github.com/ahw/vim-hooks) | 130 | 1 | 17 | MIT | 2021-05-30 | Easily hook shell scripts into Vim autocmd events. |

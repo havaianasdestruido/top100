@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **4,883** total repositories matching `language:
 | 27 | [tnightengale/dbt-activity-schema](https://github.com/tnightengale/dbt-activity-schema) | 44 | 9 | 13 | GPL-3.0 | 2024-04-11 | A dbt-Core package for generating models from an activity stream. |
 | 28 | [biljana-zobenica/SQL-complete-tutorial](https://github.com/biljana-zobenica/SQL-complete-tutorial) | 42 | 10 | 0 | — | 2026-01-29 | This is a comprehensive SQL tutorial by Mosh Hamedani that covers both fundamentals and advanced topics. Additionally... |
 | 29 | [Victor-Kipruto-Rop/SQL-for-Data-Engineering](https://github.com/Victor-Kipruto-Rop/SQL-for-Data-Engineering) | 42 | 0 | 0 | — | 2026-05-26 |  |
-| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 37 | 71 | 1 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
+| 30 | [ACEmulator/ACE-World-16PY-Patches](https://github.com/ACEmulator/ACE-World-16PY-Patches) | 37 | 71 | 2 | AGPL-3.0 | 2026-10-08 | World Database Releases for ACEmulator. This repo uses ACE-World-16PY as the base and combines it with patches to cre... |
 | 31 | [cahyadsn/db_rajaongkir](https://github.com/cahyadsn/db_rajaongkir) | 32 | 34 | 0 | MIT | 2024-12-10 | Data Kode  Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir |
 | 32 | [ritakalach/sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions) | 30 | 9 | 1 | — | 2024-07-22 | SQL practice problems and solutions. |
 | 33 | [fab-geocommuns/RNB](https://github.com/fab-geocommuns/RNB) | 29 | 6 | 7 | Apache-2.0 | 2026-06-03 | Construire le Référentiel National des Bâtiments (RNB) en France |
