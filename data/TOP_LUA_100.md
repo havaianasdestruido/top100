@@ -1,88 +1,88 @@
 # Top 100 Lua repositories on GitHub
 
-Ranked by stars. GitHub reports **786,186** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **786,426** total repositories matching `language:Lua`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [Kong/kong](https://github.com/Kong/kong) | 44,399 | 5,245 | 234 | Apache-2.0 | 2026-11-19 | 🦍 The API and AI Gateway |
-| 2 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31,709 | 46,184 | 19 | MIT | 2026-10-05 | A launch point for your personal nvim configuration |
-| 3 | [koreader/koreader](https://github.com/koreader/koreader) | 31,208 | 2,048 | 1,398 | AGPL-3.0 | 2026-11-19 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo... |
-| 4 | [NvChad/NvChad](https://github.com/NvChad/NvChad) | 28,551 | 2,208 | 3 | GPL-3.0 | 2026-10-24 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. |
-| 5 | [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) | 28,234 | 2,649 | 154 | MIT | 2023-05-04 | Image Super-Resolution for Anime-Style Art |
-| 6 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 27,894 | 1,832 | 88 | Apache-2.0 | 2026-11-08 | Neovim config for the lazy |
-| 7 | [folke/lazy.nvim](https://github.com/folke/lazy.nvim) | 21,737 | 616 | 74 | Apache-2.0 | 2026-06-29 | 💤 A modern plugin manager for Neovim |
-| 8 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 20,274 | 1,202 | 11 | GPL-3.0 | 2026-11-11 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 |
-| 9 | [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 19,864 | 967 | 466 | MIT | 2026-11-19 | Find, Filter, Preview, Pick. All lua, all the time. |
+| 1 | [Kong/kong](https://github.com/Kong/kong) | 44,399 | 5,246 | 233 | Apache-2.0 | 2026-11-20 | 🦍 The API and AI Gateway |
+| 2 | [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | 31,711 | 46,181 | 19 | MIT | 2026-10-05 | A launch point for your personal nvim configuration |
+| 3 | [koreader/koreader](https://github.com/koreader/koreader) | 31,221 | 2,047 | 1,394 | AGPL-3.0 | 2026-11-20 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo... |
+| 4 | [NvChad/NvChad](https://github.com/NvChad/NvChad) | 28,552 | 2,208 | 3 | GPL-3.0 | 2026-10-24 | Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. |
+| 5 | [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) | 28,235 | 2,649 | 154 | MIT | 2023-05-04 | Image Super-Resolution for Anime-Style Art |
+| 6 | [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 27,897 | 1,832 | 88 | Apache-2.0 | 2026-11-08 | Neovim config for the lazy |
+| 7 | [folke/lazy.nvim](https://github.com/folke/lazy.nvim) | 21,742 | 616 | 74 | Apache-2.0 | 2026-06-29 | 💤 A modern plugin manager for Neovim |
+| 8 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | 20,283 | 1,203 | 11 | GPL-3.0 | 2026-11-11 | Rime 配置：雾凇拼音 \| 长期维护的简体词库 |
+| 9 | [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) | 19,868 | 967 | 467 | MIT | 2026-11-20 | Find, Filter, Preview, Pick. All lua, all the time. |
 | 10 | [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) | 19,240 | 1,483 | 33 | GPL-3.0 | 2025-06-05 | 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. |
 | 11 | [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) | 18,266 | 2,625 | 316 | MIT | 2018-02-23 | Torch implementation of neural style algorithm |
-| 12 | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18,203 | 859 | 63 | Apache-2.0 | 2026-11-20 | Use your Neovim like using Cursor AI IDE! |
-| 13 | [apache/apisix](https://github.com/apache/apisix) | 17,347 | 3,012 | 239 | Apache-2.0 | 2026-11-20 | The Cloud-Native API Gateway and AI Gateway |
+| 12 | [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) | 18,203 | 859 | 61 | Apache-2.0 | 2026-11-20 | Use your Neovim like using Cursor AI IDE! |
+| 13 | [apache/apisix](https://github.com/apache/apisix) | 17,354 | 3,012 | 241 | Apache-2.0 | 2026-11-20 | The Cloud-Native API Gateway and AI Gateway |
 | 14 | [cmusatyalab/openface](https://github.com/cmusatyalab/openface) | 15,453 | 3,548 | 3 | Apache-2.0 | 2026-10-30 | Face recognition with deep neural networks. |
 | 15 | [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) | 14,490 | 945 | 2 | GPL-3.0 | 2026-11-18 | AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins |
-| 16 | [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | 14,016 | 2,503 | 40 | Apache-2.0 | 2026-11-19 | Quickstart configs for Nvim LSP |
-| 17 | [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) | 12,879 | 1,946 | 59 | NOASSERTION | 2023-09-12 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. |
-| 18 | [xmake-io/xmake](https://github.com/xmake-io/xmake) | 12,307 | 967 | 268 | Apache-2.0 | 2026-11-18 | 🔥 A cross-platform build utility based on Lua |
+| 16 | [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) | 14,017 | 2,503 | 40 | Apache-2.0 | 2026-11-19 | Quickstart configs for Nvim LSP |
+| 17 | [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) | 12,879 | 1,945 | 59 | NOASSERTION | 2023-09-12 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. |
+| 18 | [xmake-io/xmake](https://github.com/xmake-io/xmake) | 12,310 | 967 | 267 | Apache-2.0 | 2026-11-18 | 🔥 A cross-platform build utility based on Lua |
 | 19 | [karpathy/char-rnn](https://github.com/karpathy/char-rnn) | 12,142 | 2,621 | 112 | — | 2023-10-24 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch |
-| 20 | [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) | 11,182 | 7,518 | 3 | MIT | 2026-09-16 | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML... |
+| 20 | [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) | 11,190 | 7,526 | 3 | MIT | 2026-09-16 | Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML... |
 | 21 | [phillipi/pix2pix](https://github.com/phillipi/pix2pix) | 10,663 | 1,726 | 93 | NOASSERTION | 2021-06-06 | Image-to-image translation with conditional adversarial nets |
-| 22 | [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) | 10,542 | 345 | 281 | Apache-2.0 | 2026-06-19 | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP serv... |
-| 23 | [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall) | 10,016 | 2,961 | 2 | GPL-3.0 | 2026-11-19 |  |
+| 22 | [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) | 10,545 | 345 | 281 | Apache-2.0 | 2026-06-19 | Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP serv... |
+| 23 | [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall) | 10,017 | 2,961 | 2 | GPL-3.0 | 2026-11-19 |  |
 | 24 | [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) | 9,670 | 320 | 37 | MIT | 2026-11-19 | Library of 45+ independent Lua modules improving Neovim experience with minimal effort |
-| 25 | [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 9,494 | 440 | 309 | MIT | 2026-11-05 | A completion plugin for neovim coded in Lua. |
+| 25 | [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) | 9,497 | 440 | 309 | MIT | 2026-11-05 | A completion plugin for neovim coded in Lua. |
 | 26 | [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) | 9,245 | 491 | 147 | MIT | 2025-10-31 |  |
 | 27 | [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) | 8,691 | 642 | 108 | NOASSERTION | 2026-11-19 | A file explorer tree for neovim written in lua |
-| 28 | [ntop/ntopng](https://github.com/ntop/ntopng) | 8,358 | 775 | 359 | GPL-3.0 | 2026-11-19 | Web-based Traffic and Cybersecurity Network Traffic Monitoring |
-| 29 | [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 8,270 | 549 | 21 | Apache-2.0 | 2026-03-24 | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes addition... |
+| 28 | [ntop/ntopng](https://github.com/ntop/ntopng) | 8,358 | 775 | 357 | GPL-3.0 | 2026-11-20 | Web-based Traffic and Cybersecurity Network Traffic Monitoring |
+| 29 | [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) | 8,272 | 549 | 21 | Apache-2.0 | 2026-03-24 | 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes addition... |
 | 30 | [rxi/lite](https://github.com/rxi/lite) | 8,245 | 392 | 114 | MIT | 2023-09-20 | A lightweight text editor written in Lua |
-| 31 | [folke/snacks.nvim](https://github.com/folke/snacks.nvim) | 8,222 | 526 | 164 | Apache-2.0 | 2026-05-25 | 🍿 A collection of QoL plugins for Neovim |
-| 32 | [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) | 8,188 | 552 | 269 | MIT | 2026-05-31 | A blazing fast and easy to configure neovim statusline plugin written in pure lua. |
+| 31 | [folke/snacks.nvim](https://github.com/folke/snacks.nvim) | 8,223 | 526 | 164 | Apache-2.0 | 2026-05-25 | 🍿 A collection of QoL plugins for Neovim |
+| 32 | [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) | 8,189 | 552 | 269 | MIT | 2026-05-31 | A blazing fast and easy to configure neovim statusline plugin written in pure lua. |
 | 33 | [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) | 8,088 | 264 | 299 | MIT | 2024-03-05 | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lu... |
 | 34 | [catppuccin/nvim](https://github.com/catppuccin/nvim) | 7,669 | 342 | 12 | MIT | 2026-10-16 | 🍨 Soothing pastel theme for Neovim |
-| 35 | [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) | 7,519 | 244 | 225 | GPL-3.0 | 2026-08-14 | Modernity meets insane extensibility. The future of organizing your life in Neovim. |
+| 35 | [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) | 7,518 | 244 | 225 | GPL-3.0 | 2026-08-14 | Modernity meets insane extensibility. The future of organizing your life in Neovim. |
 | 36 | [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) | 7,490 | 401 | 17 | Apache-2.0 | 2021-06-15 | Docker + Minecraft = Dockercraft |
-| 37 | [folke/which-key.nvim](https://github.com/folke/which-key.nvim) | 7,345 | 271 | 43 | Apache-2.0 | 2025-10-28 | 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings... |
-| 38 | [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) | 7,326 | 1,155 | 19 | — | 2026-11-18 | My personal dotfiles |
+| 37 | [folke/which-key.nvim](https://github.com/folke/which-key.nvim) | 7,348 | 271 | 43 | Apache-2.0 | 2025-10-28 | 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings... |
+| 38 | [craftzdog/dotfiles](https://github.com/craftzdog/dotfiles) | 7,328 | 1,155 | 19 | — | 2026-11-18 | My personal dotfiles |
 | 39 | [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) | 7,312 | 266 | 33 | GPL-3.0 | 2026-09-11 | Debug Adapter Protocol client implementation for Neovim |
-| 40 | [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) | 7,194 | 310 | 37 | MIT | 2026-11-17 | Git integration for buffers |
-| 41 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | 7,001 | 633 | 572 | GPL-2.0 | 2026-11-07 | awesome window manager |
-| 42 | [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) | 6,991 | 265 | 167 | MIT | 2026-10-12 | Neovim file explorer: edit your filesystem like a buffer |
-| 43 | [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | 6,945 | 475 | 21 | Apache-2.0 | 2026-11-19 | ✨ AI Coding, Vim Style |
-| 44 | [folke/trouble.nvim](https://github.com/folke/trouble.nvim) | 6,918 | 215 | 20 | Apache-2.0 | 2025-10-31 | 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble y... |
-| 45 | [saghen/blink.cmp](https://github.com/saghen/blink.cmp) | 6,679 | 370 | 112 | MIT | 2026-11-16 | Performant, batteries-included completion plugin for Neovim |
-| 46 | [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) | 6,557 | 333 | 331 | MIT | 2026-11-10 | A lightweight text editor written in Lua |
-| 47 | [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) | 6,455 | 237 | 92 | MIT | 2026-05-10 | NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. |
+| 40 | [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) | 7,197 | 310 | 38 | MIT | 2026-11-17 | Git integration for buffers |
+| 41 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | 7,002 | 633 | 572 | GPL-2.0 | 2026-11-07 | awesome window manager |
+| 42 | [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) | 6,993 | 265 | 167 | MIT | 2026-10-12 | Neovim file explorer: edit your filesystem like a buffer |
+| 43 | [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) | 6,944 | 475 | 21 | Apache-2.0 | 2026-11-19 | ✨ AI Coding, Vim Style |
+| 44 | [folke/trouble.nvim](https://github.com/folke/trouble.nvim) | 6,920 | 215 | 20 | Apache-2.0 | 2025-10-31 | 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble y... |
+| 45 | [saghen/blink.cmp](https://github.com/saghen/blink.cmp) | 6,680 | 370 | 112 | MIT | 2026-11-16 | Performant, batteries-included completion plugin for Neovim |
+| 46 | [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) | 6,559 | 333 | 331 | MIT | 2026-11-10 | A lightweight text editor written in Lua |
+| 47 | [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) | 6,455 | 238 | 93 | MIT | 2026-05-10 | NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. |
 | 48 | [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) | 6,222 | 249 | 195 | Apache-2.0 | 2026-06-04 | Obsidian 🤝 Neovim |
 | 49 | [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd) | 6,078 | 476 | 181 | GPL-2.0 | 2024-11-27 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets |
-| 50 | [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) | 5,971 | 936 | 111 | LGPL-3.0 | 2020-06-30 | A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashb... |
-| 51 | [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) | 5,893 | 233 | 130 | NOASSERTION | 2024-08-02 | Single tabpage interface for easily cycling through diffs for all modified files for any git rev. |
+| 50 | [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) | 5,972 | 936 | 111 | LGPL-3.0 | 2020-06-30 | A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashb... |
+| 51 | [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) | 5,894 | 233 | 130 | NOASSERTION | 2024-08-02 | Single tabpage interface for easily cycling through diffs for all modified files for any git rev. |
 | 52 | [folke/noice.nvim](https://github.com/folke/noice.nvim) | 5,832 | 181 | 33 | Apache-2.0 | 2025-11-03 | 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. |
 | 53 | [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) | 5,678 | 367 | 203 | MIT | 2026-11-18 | An interactive and powerful Git interface for Neovim, inspired by Magit |
 | 54 | [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) | 5,659 | 315 | 181 | MIT | 2026-11-10 | Neovim plugin to manage the file system and other tree like structures. |
 | 55 | [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) | 5,621 | 206 | 94 | GPL-3.0 | 2025-03-09 | A neovim lua plugin to help easily manage multiple terminal windows |
 | 56 | [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) | 5,566 | 1,076 | 77 | GPL-3.0 | 2024-07-22 | 📚 A Neovim config designed from scratch to be understandable |
-| 57 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5,531 | 2,463 | 1,006 | NOASSERTION | 2026-11-20 | Offline build planner for Path of Exile. |
+| 57 | [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 5,532 | 2,463 | 1,009 | NOASSERTION | 2026-11-20 | Offline build planner for Path of Exile. |
 | 58 | [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) | 5,407 | 322 | 109 | MIT | 2026-08-11 | Lightweight yet powerful formatter plugin for Neovim |
 | 59 | [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) | 5,267 | 159 | 15 | MIT | 2026-11-17 | Improve viewing Markdown in Neovim |
-| 60 | [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 5,164 | 183 | 9 | CC-BY-4.0 | 2026-11-20 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。 |
+| 60 | [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) | 5,165 | 182 | 12 | CC-BY-4.0 | 2026-11-20 | 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。 |
 | 61 | [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) | 5,031 | 319 | 2 | GPL-3.0 | 2026-11-14 | The Simple Config Template Of Rime By Mintimate. |
 | 62 | [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) | 5,011 | 126 | 28 | MIT | 2026-09-04 | Indent guides  for Neovim |
 | 63 | [liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet) | 4,870 | 1,062 | 30 | BSD-3-Clause | 2024-01-09 | Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award). |
 | 64 | [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 4,747 | 262 | 26 | — | 2026-06-12 | Neovim AI agent done right |
-| 65 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4,743 | 462 | 224 | NOASSERTION | 2026-11-20 | Open source clone of Theme Hospital |
+| 65 | [CorsixTH/CorsixTH](https://github.com/CorsixTH/CorsixTH) | 4,744 | 463 | 225 | NOASSERTION | 2026-11-20 | Open source clone of Theme Hospital |
 | 66 | [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) | 4,663 | 193 | 87 | MIT | 2024-08-19 | :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down... |
 | 67 | [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) | 4,585 | 188 | 54 | — | 2024-12-05 | vim-be-good is a nvim plugin designed to make you better at Vim Movements. |
 | 68 | [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) | 4,494 | 274 | 9 | MIT | 2026-11-19 | Improved fzf.vim written in lua |
-| 69 | [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) | 4,439 | 268 | 139 | Apache-2.0 | 2026-05-19 | Snippet Engine for Neovim written in Lua. |
+| 69 | [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) | 4,442 | 268 | 139 | Apache-2.0 | 2026-05-19 | Snippet Engine for Neovim written in Lua. |
 | 70 | [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) | 4,417 | 459 | 730 | MIT | 2026-10-20 | A language server that offers Lua language support - programmed in Lua |
-| 71 | [jdhao/nvim-config](https://github.com/jdhao/nvim-config) | 4,397 | 608 | 10 | MIT | 2026-11-08 | A modern Neovim configuration with full battery for Python, Lua, golang, Markdown, LaTeX, and more... |
+| 71 | [jdhao/nvim-config](https://github.com/jdhao/nvim-config) | 4,398 | 608 | 10 | MIT | 2026-11-08 | A modern Neovim configuration with full battery for Python, Lua, golang, Markdown, LaTeX, and more... |
 | 72 | [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) | 4,391 | 241 | 103 | GPL-3.0 | 2025-01-14 | A snazzy bufferline for Neovim |
 | 73 | [jcjohnson/fast-neural-style](https://github.com/jcjohnson/fast-neural-style) | 4,362 | 800 | 136 | — | 2023-10-03 | Feedforward style transfer |
-| 74 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4,357 | 709 | 840 | NOASSERTION | 2026-11-20 | Main game repository for Beyond All Reason. |
+| 74 | [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason) | 4,356 | 710 | 839 | NOASSERTION | 2026-11-20 | Main game repository for Beyond All Reason. |
 | 75 | [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) | 4,325 | 80 | 11 | MIT | 2026-06-08 | Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua. |
 | 76 | [folke/flash.nvim](https://github.com/folke/flash.nvim) | 4,280 | 100 | 30 | Apache-2.0 | 2026-08-22 | Navigate your code with search labels, enhanced character motions and Treesitter integration |
 | 77 | [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) | 4,228 | 141 | 26 | Apache-2.0 | 2025-11-10 | ✅  Highlight, list and search todo comments in your projects |
-| 78 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | 4,189 | 376 | 5 | NOASSERTION | 2026-11-17 | Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke |
-| 79 | [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) | 4,139 | 888 | 47 | — | 2026-05-28 |  |
+| 78 | [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp) | 4,190 | 376 | 5 | NOASSERTION | 2026-11-17 | Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke |
+| 79 | [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) | 4,140 | 888 | 47 | — | 2026-05-28 |  |
 | 80 | [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) | 4,105 | 145 | 18 | MIT | 2026-10-10 | autopairs for neovim written in lua |
 | 81 | [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) | 4,102 | 174 | 39 | MIT | 2026-07-04 | 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. |
 | 82 | [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) | 4,092 | 163 | 18 | MIT | 2026-11-19 | Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot |
@@ -97,10 +97,10 @@ Ranked by stars. GitHub reports **786,186** total repositories matching `languag
 | 91 | [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) | 3,921 | 161 | 12 | MIT | 2026-10-30 | Neovim 🤝 OpenCode in the flow that you already know. |
 | 92 | [elenapan/dotfiles](https://github.com/elenapan/dotfiles) | 3,904 | 171 | 17 | GPL-2.0 | 2025-09-17 | There is no place like ~/ |
 | 93 | [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) | 3,902 | 48 | 11 | MIT | 2026-10-02 | Break bad habits, master Vim motions |
-| 94 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 3,845 | 190 | 17 | GPL-3.0 | 2026-11-19 | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。 |
+| 94 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 3,846 | 190 | 17 | GPL-3.0 | 2026-11-20 | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。 |
 | 95 | [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) | 3,810 | 102 | 190 | GPL-3.0 | 2026-11-19 | Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. |
-| 96 | [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | 3,806 | 766 | 19 | GPL-3.0 | 2026-11-19 | A simple powerful OpenWrt LuCI proxy application. |
+| 96 | [Openwrt-Passwall/openwrt-passwall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | 3,809 | 766 | 20 | GPL-3.0 | 2026-11-19 | A simple powerful OpenWrt LuCI proxy application. |
 | 97 | [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) | 3,800 | 306 | 99 | MIT | 2026-07-16 | improve neovim lsp experience |
-| 98 | [scipag/vulscan](https://github.com/scipag/vulscan) | 3,798 | 685 | 7 | NOASSERTION | 2026-02-06 | Advanced vulnerability scanning with Nmap NSE |
-| 99 | [luarocks/luarocks](https://github.com/luarocks/luarocks) | 3,752 | 481 | 248 | MIT | 2026-10-29 | LuaRocks is the package manager for the Lua programming language. |
+| 98 | [scipag/vulscan](https://github.com/scipag/vulscan) | 3,799 | 685 | 7 | NOASSERTION | 2026-02-06 | Advanced vulnerability scanning with Nmap NSE |
+| 99 | [luarocks/luarocks](https://github.com/luarocks/luarocks) | 3,752 | 482 | 248 | MIT | 2026-10-29 | LuaRocks is the package manager for the Lua programming language. |
 | 100 | [facebookresearch/fairseq-lua](https://github.com/facebookresearch/fairseq-lua) | 3,722 | 603 | 16 | NOASSERTION | 2021-09-17 | Facebook AI Research Sequence-to-Sequence Toolkit |
