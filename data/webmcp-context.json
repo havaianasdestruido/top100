@@ -1,10 +1,10 @@
 {
  "schema": "top100.webmcp-context/1",
- "generated_at": "2026-11-20T11:21:52Z",
+ "generated_at": "2026-11-20T19:58:18Z",
  "faq": [
   {
    "q": "What are the top GitHub repositories by stars right now?",
-   "a": "As of 20 November 2026, the most-starred repositories on GitHub are public-apis/public-apis with 500,411 stars, morluto/rea with 470,751, freeCodeCamp/freeCodeCamp with 459,378, EbookFoundation/free-programming-books with 401,934 and openclaw/openclaw with 394,874. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
+   "a": "As of 20 November 2026, the most-starred repositories on GitHub are public-apis/public-apis with 500,474 stars, morluto/rea with 471,311, freeCodeCamp/freeCodeCamp with 459,390, EbookFoundation/free-programming-books with 401,955 and openclaw/openclaw with 394,920. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old."
   },
   {
    "q": "Where can I find a top 100 GitHub repositories list?",
@@ -32,7 +32,7 @@
   },
   {
    "q": "What is the average number of GitHub stars and how do repos rank by stars?",
-   "a": "GitHub ranks repositories by stargazers_count. Across the 3,800 repositories in Top100's lists the median is 6,199 stars and the mean is 19,709, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,951 for Python. See the statistics table for the per-language thresholds."
+   "a": "GitHub ranks repositories by stargazers_count. Across the 3,800 repositories in Top100's lists the median is 6,200 stars and the mean is 19,709, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,954 for Python. See the statistics table for the per-language thresholds."
   },
   {
    "q": "Is the Top100 dataset free to use?",
@@ -48,7 +48,7 @@
   },
   {
    "q": "Do the lists include forks and archived repositories?",
-   "a": "Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,800 listed repositories are forks. Archived repositories are included, and 231 of them are archived and read-only."
+   "a": "Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,800 listed repositories are forks. Archived repositories are included, and 232 of them are archived and read-only."
   },
   {
    "q": "Why is my repository missing from a top 100 list?",

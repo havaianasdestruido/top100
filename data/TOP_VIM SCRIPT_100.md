@@ -1,16 +1,16 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,471** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,470** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,072 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
-| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,652 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
+| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
 | 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,007 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
 | 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,753 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
 | 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,422 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
-| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,358 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
+| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,359 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
 | 8 | [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) | 980 | 58 | 5 | MIT | 2026-06-18 | async completion in pure vim script for vim8 and neovim |
 | 9 | [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) | 965 | 37 | 12 | MIT | 2021-01-12 | :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim. |
 | 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 886 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |

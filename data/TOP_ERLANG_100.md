@@ -1,13 +1,13 @@
 # Top 100 Erlang repositories on GitHub
 
-Ranked by stars. GitHub reports **34,468** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,470** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,583 | 279 | NOASSERTION | 2026-11-20 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,222 | 739 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
-| 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,524 | 1,173 | 61 | ISC | 2026-11-19 | Small, fast, modern HTTP server for Erlang/OTP. |
-| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,015 | 1,091 | 373 | Apache-2.0 | 2026-11-19 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,584 | 277 | NOASSERTION | 2026-11-20 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,222 | 741 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
+| 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,523 | 1,173 | 61 | ISC | 2026-11-20 | Small, fast, modern HTTP server for Erlang/OTP. |
+| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,015 | 1,091 | 374 | Apache-2.0 | 2026-11-20 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
 | 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,553 | 225 | NOASSERTION | 2026-11-19 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
 | 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,869 | 966 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,115 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
@@ -20,7 +20,7 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 14 | [biokoda/actordb](https://github.com/biokoda/actordb) | 1,889 | 71 | 32 | MPL-2.0 | 2022-11-10 | ActorDB distributed SQL database |
 | 15 | [ChicagoBoss/ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) | 1,848 | 283 | 81 | MIT | 2022-01-10 | Erlang web MVC, now featuring Comet |
 | 16 | [erlang/rebar3](https://github.com/erlang/rebar3) | 1,825 | 529 | 230 | Apache-2.0 | 2026-11-15 | Erlang build tool that makes it easy to compile and test Erlang applications and releases. |
-| 17 | [esl/MongooseIM](https://github.com/esl/MongooseIM) | 1,758 | 445 | 37 | NOASSERTION | 2026-11-19 | MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specificall... |
+| 17 | [esl/MongooseIM](https://github.com/esl/MongooseIM) | 1,758 | 445 | 38 | NOASSERTION | 2026-11-20 | MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specificall... |
 | 18 | [clojerl/clojerl](https://github.com/clojerl/clojerl) | 1,719 | 47 | 14 | EPL-1.0 | 2026-11-08 | Clojure for the Erlang VM (unofficial) |
 | 19 | [discoproject/disco](https://github.com/discoproject/disco) | 1,627 | 241 | 140 | BSD-3-Clause | 2018-01-30 | a Map/Reduce framework for distributed computing |
 | 20 | [devinus/poolboy](https://github.com/devinus/poolboy) | 1,597 | 350 | 44 | ISC | 2023-04-18 | A hunky Erlang worker pool factory |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 28 | [synrc/n2o](https://github.com/synrc/n2o) | 1,340 | 167 | 1 | NOASSERTION | 2026-06-04 | ⭕ N2O: Distributed WebSocket Application Server ISO 20922 |
 | 29 | [erlyaws/yaws](https://github.com/erlyaws/yaws) | 1,312 | 273 | 37 | BSD-3-Clause | 2026-11-09 | Yaws webserver |
 | 30 | [basho/riak_core](https://github.com/basho/riak_core) | 1,276 | 384 | 89 | Apache-2.0 | 2026-08-14 | Distributed systems infrastructure used by Riak. |
-| 31 | [ninenines/ranch](https://github.com/ninenines/ranch) | 1,244 | 335 | 16 | ISC | 2026-11-20 | Socket acceptor pool for TCP protocols. |
+| 31 | [ninenines/ranch](https://github.com/ninenines/ranch) | 1,244 | 335 | 15 | ISC | 2026-11-20 | Socket acceptor pool for TCP protocols. |
 | 32 | [rvirding/luerl](https://github.com/rvirding/luerl) | 1,197 | 148 | 16 | Apache-2.0 | 2026-10-24 | Lua in Erlang |
 | 33 | [sky-big/RabbitMQ](https://github.com/sky-big/RabbitMQ) | 1,157 | 440 | 4 | NOASSERTION | 2016-01-18 | RabbitMQ系统3.5.3版本中文完全注释(同时实现了RabbitMQ系统和插件源代码编译，根据配置文件创建RabbitMQ集群，创建连接RabbitMQ系统的客户端节点等相关功能，方便源代码的阅读) |
 | 34 | [erlang-lager/lager](https://github.com/erlang-lager/lager) | 1,129 | 447 | 52 | Apache-2.0 | 2025-08-26 | A logging framework for Erlang/OTP |
@@ -47,15 +47,15 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 41 | [gotthardp/lorawan-server](https://github.com/gotthardp/lorawan-server) | 1,007 | 338 | 175 | MIT | 2023-11-25 | Compact server for private LoRaWAN networks |
 | 42 | [2600hz/kazoo](https://github.com/2600hz/kazoo) | 992 | 465 | 29 | MPL-2.0 | 2025-02-11 | The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services |
 | 43 | [nitrogen/nitrogen](https://github.com/nitrogen/nitrogen) | 981 | 160 | 16 | MIT | 2026-07-26 | Nitrogen Web Framework for Erlang (now with websockets!) |
-| 44 | [rabbitmq/ra](https://github.com/rabbitmq/ra) | 979 | 115 | 45 | NOASSERTION | 2026-11-19 | A Multi-Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raf... |
+| 44 | [rabbitmq/ra](https://github.com/rabbitmq/ra) | 979 | 115 | 42 | NOASSERTION | 2026-11-20 | A Multi-Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raf... |
 | 45 | [heroku/logplex](https://github.com/heroku/logplex) | 979 | 92 | 0 | NOASSERTION | 2022-02-14 | [DEPRECATED] Heroku log router |
-| 46 | [ninenines/gun](https://github.com/ninenines/gun) | 948 | 245 | 34 | ISC | 2026-11-19 | HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP. |
+| 46 | [ninenines/gun](https://github.com/ninenines/gun) | 948 | 245 | 34 | ISC | 2026-11-20 | HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP. |
 | 47 | [rebar/rebar](https://github.com/rebar/rebar) | 929 | 290 | 2 | Apache-2.0 | 2018-02-01 | Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. W... |
-| 48 | [beam-telemetry/telemetry](https://github.com/beam-telemetry/telemetry) | 923 | 77 | 6 | Apache-2.0 | 2026-11-16 | Dynamic dispatching library for metrics and instrumentations. |
+| 48 | [beam-telemetry/telemetry](https://github.com/beam-telemetry/telemetry) | 923 | 78 | 6 | Apache-2.0 | 2026-11-16 | Dynamic dispatching library for metrics and instrumentations. |
 | 49 | [proper-testing/proper](https://github.com/proper-testing/proper) | 919 | 165 | 49 | GPL-3.0 | 2026-10-27 | PropEr: a QuickCheck-inspired property-based testing tool for Erlang |
 | 50 | [AntidoteDB/antidote](https://github.com/AntidoteDB/antidote) | 893 | 92 | 55 | Apache-2.0 | 2026-06-17 | A planet scale, highly available, transactional database built on CRDT technology |
 | 51 | [lasp-lang/lasp](https://github.com/lasp-lang/lasp) | 892 | 71 | 6 | Apache-2.0 | 2021-03-02 | Prototype implementation of Lasp in Erlang. |
-| 52 | [zotonic/zotonic](https://github.com/zotonic/zotonic) | 850 | 208 | 150 | Apache-2.0 | 2026-11-19 | Zotonic - The Erlang Web Framework & CMS |
+| 52 | [zotonic/zotonic](https://github.com/zotonic/zotonic) | 850 | 208 | 151 | Apache-2.0 | 2026-11-20 | Zotonic - The Erlang Web Framework & CMS |
 | 53 | [eproxus/meck](https://github.com/eproxus/meck) | 840 | 230 | 14 | Apache-2.0 | 2026-10-15 | A mocking library for Erlang |
 | 54 | [seriyps/mtproto_proxy](https://github.com/seriyps/mtproto_proxy) | 798 | 133 | 49 | Apache-2.0 | 2026-04-14 | High performance Erlang MTProto proxy that powers https://t.me/socksy_bot |
 | 55 | [tarcieri/reia](https://github.com/tarcieri/reia) | 775 | 35 | 7 | MIT | 2012-07-05 | Ruby-like hybrid OOP/functional programming language for BEAM, the Erlang VM |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 59 | [talentdeficit/jsx](https://github.com/talentdeficit/jsx) | 696 | 213 | 24 | MIT | 2024-06-26 | an erlang application for consuming, producing and manipulating json. inspired by yajl |
 | 60 | [erlware/relx](https://github.com/erlware/relx) | 694 | 236 | 84 | Apache-2.0 | 2026-03-24 | Sane, simple release creation for Erlang |
 | 61 | [dalmatinerdb/dalmatinerdb](https://github.com/dalmatinerdb/dalmatinerdb) | 688 | 38 | 28 | MIT | 2019-02-11 | See gitlab: https://gitlab.com/Project-FiFo/DalmatinerDB/dalmatinerdb |
-| 62 | [kafka4beam/brod](https://github.com/kafka4beam/brod) | 687 | 221 | 42 | Apache-2.0 | 2026-09-25 | Apache Kafka client library for Erlang/Elixir |
+| 62 | [kafka4beam/brod](https://github.com/kafka4beam/brod) | 687 | 221 | 43 | Apache-2.0 | 2026-09-25 | Apache Kafka client library for Erlang/Elixir |
 | 63 | [dgud/wings](https://github.com/dgud/wings) | 676 | 107 | 21 | NOASSERTION | 2026-10-27 | Wings3D is an advanced sub-division 3D modeller. |
 | 64 | [basho/riak_kv](https://github.com/basho/riak_kv) | 660 | 229 | 175 | Apache-2.0 | 2026-08-14 | Riak Key/Value Store |
 | 65 | [knutin/elli](https://github.com/knutin/elli) | 660 | 74 | 4 | MIT | 2018-07-15 | Simple, robust and performant Erlang web server |
@@ -77,8 +77,8 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 71 | [heroku/vegur](https://github.com/heroku/vegur) | 630 | 39 | 8 | NOASSERTION | 2022-03-19 | Vegur: HTTP Proxy Library |
 | 72 | [wooga/eredis](https://github.com/wooga/eredis) | 629 | 277 | 28 | MIT | 2023-03-27 | Erlang Redis client |
 | 73 | [josefs/Gradualizer](https://github.com/josefs/Gradualizer) | 618 | 35 | 104 | MIT | 2026-03-24 | A Gradual type system for Erlang |
-| 74 | [saleyn/erlexec](https://github.com/saleyn/erlexec) | 618 | 156 | 0 | NOASSERTION | 2026-11-09 | Execute and control OS processes from Erlang/OTP |
-| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 607 | 47 | 6 | Apache-2.0 | 2026-11-18 | An Erlang implementation of RAFT from WhatsApp |
+| 74 | [saleyn/erlexec](https://github.com/saleyn/erlexec) | 618 | 157 | 0 | NOASSERTION | 2026-11-09 | Execute and control OS processes from Erlang/OTP |
+| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 607 | 47 | 6 | Apache-2.0 | 2026-11-20 | An Erlang implementation of RAFT from WhatsApp |
 | 76 | [helium/miner](https://github.com/helium/miner) | 605 | 249 | 149 | Apache-2.0 | 2023-05-20 | Miner for the helium blockchain |
 | 77 | [boundary/flake](https://github.com/boundary/flake) | 585 | 69 | 8 | — | 2018-07-09 | A decentralized, k-ordered id generation service in Erlang |
 | 78 | [boundary/folsom](https://github.com/boundary/folsom) | 583 | 157 | 14 | Apache-2.0 | 2018-11-07 | Expose Erlang Events and Metrics |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **34,468** total repositories matching `language
 | 88 | [jlouis/fuse](https://github.com/jlouis/fuse) | 512 | 52 | 8 | MIT | 2022-02-15 | A Circuit Breaker for Erlang |
 | 89 | [ernw/ss7MAPer](https://github.com/ernw/ss7MAPer) | 506 | 206 | 5 | BSD-3-Clause | 2018-04-20 | SS7 MAP (pen-)testing toolkit. DISCONTINUED REPO, please use: https://github.com/0xc0decafe/ss7MAPer/ |
 | 90 | [rabbitmq/khepri](https://github.com/rabbitmq/khepri) | 496 | 26 | 9 | Apache-2.0 | 2026-11-19 | Khepri is a tree-like replicated on-disk database library for Erlang and Elixir. |
-| 91 | [dnsimple/erldns](https://github.com/dnsimple/erldns) | 496 | 107 | 3 | MIT | 2026-11-19 | DNS server, in Erlang. |
+| 91 | [dnsimple/erldns](https://github.com/dnsimple/erldns) | 496 | 107 | 3 | MIT | 2026-11-20 | DNS server, in Erlang. |
 | 92 | [zack-bitcoin/basiccoin](https://github.com/zack-bitcoin/basiccoin) | 495 | 102 | 0 | — | 2018-10-15 | The smallest currency I can make |
 | 93 | [ferd/erlang-history](https://github.com/ferd/erlang-history) | 493 | 30 | 3 | — | 2018-03-02 | Hacks to add shell history to Erlang's shell |
 | 94 | [joxa/joxa](https://github.com/joxa/joxa) | 472 | 48 | 13 | Apache-2.0 | 2020-01-08 | A Modern Lisp for the Erlang VM |
