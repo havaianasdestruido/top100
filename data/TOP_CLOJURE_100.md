@@ -1,35 +1,35 @@
 # Top 100 Clojure repositories on GitHub
 
-Ranked by stars. GitHub reports **97,938** total repositories matching `language:Clojure`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **97,939** total repositories matching `language:Clojure`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 82,208 | 3,215 | 430 | OFL-1.1 | 2026-11-18 | Free monospaced font with programming ligatures |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,555 | 4,442 | 945 | MPL-2.0 | 2026-11-19 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
-| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,435 | 7,028 | 4,758 | NOASSERTION | 2026-11-19 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
-| 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45,668 | 2,883 | 967 | AGPL-3.0 | 2026-11-19 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/l... |
+| 1 | [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 82,210 | 3,215 | 430 | OFL-1.1 | 2026-11-18 | Free monospaced font with programming ligatures |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,560 | 4,443 | 949 | MPL-2.0 | 2026-11-19 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,438 | 7,029 | 4,761 | NOASSERTION | 2026-11-20 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
+| 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45,670 | 2,883 | 938 | AGPL-3.0 | 2026-11-20 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/l... |
 | 5 | [LightTable/LightTable](https://github.com/LightTable/LightTable) | 11,688 | 908 | 181 | MIT | 2022-06-17 | The Light Table IDE ⛺ |
 | 6 | [clojure/clojurescript](https://github.com/clojure/clojurescript) | 9,390 | 787 | 9 | EPL-1.0 | 2026-11-12 | Clojure to JS compiler |
 | 7 | [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) | 7,597 | 759 | 70 | — | 2026-11-16 | A framework for distributed systems verification, with fault injection |
 | 8 | [technomancy/leiningen](https://github.com/technomancy/leiningen) | 7,291 | 1,553 | 94 | NOASSERTION | 2026-11-11 | Moved to Codeberg; this is a temporary convenience mirror |
 | 9 | [omcljs/om](https://github.com/omcljs/om) | 6,612 | 351 | 81 | — | 2020-08-17 | ClojureScript interface to Facebook's React |
-| 10 | [athensresearch/athens](https://github.com/athensresearch/athens) | 6,299 | 395 | 318 | NOASSERTION | 2023-02-03 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 |
+| 10 | [athensresearch/athens](https://github.com/athensresearch/athens) | 6,298 | 396 | 318 | NOASSERTION | 2023-02-03 | Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21 |
 | 11 | [overtone/overtone](https://github.com/overtone/overtone) | 6,235 | 455 | 96 | NOASSERTION | 2026-01-24 | Collaborative Programmable Music |
 | 12 | [tonsky/datascript](https://github.com/tonsky/datascript) | 5,799 | 319 | 76 | EPL-1.0 | 2026-08-15 | Immutable database and Datalog query engine for Clojure, ClojureScript and JS |
 | 13 | [day8/re-frame](https://github.com/day8/re-frame) | 5,544 | 709 | 24 | MIT | 2026-05-05 | A ClojureScript framework for building user interfaces, leveraging React |
 | 14 | [reagent-project/reagent](https://github.com/reagent-project/reagent) | 4,896 | 413 | 19 | MIT | 2026-11-18 | A minimalistic ClojureScript interface to React.js |
-| 15 | [babashka/babashka](https://github.com/babashka/babashka) | 4,647 | 285 | 32 | EPL-1.0 | 2026-11-19 | Native, fast starting Clojure interpreter for scripting |
+| 15 | [babashka/babashka](https://github.com/babashka/babashka) | 4,646 | 285 | 32 | EPL-1.0 | 2026-11-19 | Native, fast starting Clojure interpreter for scripting |
 | 16 | [riemann/riemann](https://github.com/riemann/riemann) | 4,265 | 503 | 31 | EPL-1.0 | 2026-04-05 | A network event stream processing system, in Clojure. |
 | 17 | [weavejester/compojure](https://github.com/weavejester/compojure) | 4,115 | 259 | 7 | EPL-1.0 | 2025-09-15 | A concise routing library for Ring/Clojure |
-| 18 | [unclebob/swarm-forge](https://github.com/unclebob/swarm-forge) | 4,111 | 410 | 53 | — | 2026-09-07 | A simple tool for coordinating several AI agents. |
+| 18 | [unclebob/swarm-forge](https://github.com/unclebob/swarm-forge) | 4,113 | 410 | 53 | — | 2026-09-07 | A simple tool for coordinating several AI agents. |
 | 19 | [status-im/status-legacy](https://github.com/status-im/status-legacy) | 4,022 | 985 | 453 | MPL-2.0 | 2026-07-22 | a free (libre) open source, mobile OS for Ethereum |
 | 20 | [ring-clojure/ring](https://github.com/ring-clojure/ring) | 3,891 | 527 | 40 | MIT | 2026-11-10 | Clojure HTTP server abstraction |
 | 21 | [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) | 3,802 | 2,126 | 9 | — | 2024-05-28 | A set of exercises for learning Clojure |
 | 22 | [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) | 3,763 | 215 | 18 | EPL-1.0 | 2026-07-10 | A workbench for writing toy implementations of distributed systems. |
 | 23 | [frankiesardo/icepick](https://github.com/frankiesardo/icepick) | 3,713 | 202 | 26 | EPL-1.0 | 2021-05-26 | Android Instance State made easy |
-| 24 | [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) | 3,508 | 314 | 176 | EPL-1.0 | 2026-10-13 | Lightweight AI-friendly Docker Swarm management |
+| 24 | [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) | 3,509 | 314 | 176 | EPL-1.0 | 2026-10-13 | Lightweight AI-friendly Docker Swarm management |
 | 25 | [swannodette/mori](https://github.com/swannodette/mori) | 3,370 | 142 | 64 | — | 2026-03-06 | ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript |
-| 26 | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3,099 | 199 | 656 | MPL-2.0 | 2026-11-19 | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt |
+| 26 | [xtdb/xtdb](https://github.com/xtdb/xtdb) | 3,099 | 199 | 657 | MPL-2.0 | 2026-11-19 | An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt |
 | 27 | [quil/quil](https://github.com/quil/quil) | 3,053 | 171 | 47 | EPL-1.0 | 2026-04-24 | Main repo. Quil source code. |
 | 28 | [magomimmo/modern-cljs](https://github.com/magomimmo/modern-cljs) | 2,909 | 278 | 37 | — | 2020-10-09 | A series of tutorials on ClojureScript |
 | 29 | [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) | 2,871 | 203 | 97 | EPL-1.0 | 2024-03-26 | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! |
@@ -46,18 +46,18 @@ Ranked by stars. GitHub reports **97,938** total repositories matching `language
 | 40 | [incanter/incanter](https://github.com/incanter/incanter) | 2,248 | 283 | 78 | — | 2023-11-10 | Clojure-based, R-like statistical computing and graphics environment for the JVM |
 | 41 | [stuartsierra/component](https://github.com/stuartsierra/component) | 2,168 | 95 | 3 | MIT | 2025-10-25 | Managed lifecycle of stateful objects in Clojure |
 | 42 | [hyperfiddle/electric](https://github.com/hyperfiddle/electric) | 2,144 | 55 | 9 | — | 2026-03-28 | Electric Clojure: full-stack differential dataflow for UI |
-| 43 | [nextjournal/clerk](https://github.com/nextjournal/clerk) | 2,093 | 86 | 80 | ISC | 2026-11-16 | ⚡️ Moldable Live Programming for Clojure |
+| 43 | [nextjournal/clerk](https://github.com/nextjournal/clerk) | 2,090 | 86 | 80 | ISC | 2026-11-16 | ⚡️ Moldable Live Programming for Clojure |
 | 44 | [clojure/core.async](https://github.com/clojure/core.async) | 2,053 | 215 | 2 | EPL-1.0 | 2026-06-12 | Facilities for async programming and communication in Clojure |
 | 45 | [onyx-platform/onyx](https://github.com/onyx-platform/onyx) | 2,049 | 199 | 84 | EPL-1.0 | 2026-09-12 | Distributed, masterless, high performance, fault tolerant data processing |
 | 46 | [seancorfield/honeysql](https://github.com/seancorfield/honeysql) | 1,932 | 181 | 2 | NOASSERTION | 2026-11-19 | Turn Clojure data structures into SQL |
 | 47 | [cognitect/transit-format](https://github.com/cognitect/transit-format) | 1,925 | 37 | 11 | — | 2026-02-24 | A data interchange format. |
-| 48 | [replikativ/datahike](https://github.com/replikativ/datahike) | 1,886 | 121 | 120 | EPL-1.0 | 2026-11-18 | Versioned, fast, distributed Datalog engine for everyone. |
-| 49 | [anmonteiro/lumo](https://github.com/anmonteiro/lumo) | 1,872 | 82 | 111 | EPL-1.0 | 2022-05-16 | Fast, cross-platform, standalone ClojureScript environment |
-| 50 | [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | 1,866 | 312 | 144 | EPL-1.0 | 2026-11-19 | Static analyzer and linter for Clojure code that sparks joy |
+| 48 | [replikativ/datahike](https://github.com/replikativ/datahike) | 1,886 | 121 | 123 | EPL-1.0 | 2026-11-20 | Versioned, fast, distributed Datalog engine for everyone. |
+| 49 | [anmonteiro/lumo](https://github.com/anmonteiro/lumo) | 1,871 | 82 | 111 | EPL-1.0 | 2022-05-16 | Fast, cross-platform, standalone ClojureScript environment |
+| 50 | [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) | 1,867 | 312 | 144 | EPL-1.0 | 2026-11-19 | Static analyzer and linter for Clojure code that sparks joy |
 | 51 | [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) | 1,862 | 166 | 10 | NOASSERTION | 2026-06-03 | GraphQL implementation in pure Clojure |
 | 52 | [dakrone/clj-http](https://github.com/dakrone/clj-http) | 1,826 | 410 | 69 | MIT | 2026-07-30 | An idiomatic clojure http client wrapping the apache client. Officially supported version. |
 | 53 | [taoensso/sente](https://github.com/taoensso/sente) | 1,793 | 194 | 4 | NOASSERTION | 2026-08-21 | Realtime web comms library for Clojure/Script |
-| 54 | [metosin/malli](https://github.com/metosin/malli) | 1,777 | 247 | 139 | EPL-2.0 | 2026-11-19 | High-performance data-driven data specification library for Clojure/Script. |
+| 54 | [metosin/malli](https://github.com/metosin/malli) | 1,775 | 247 | 139 | EPL-2.0 | 2026-11-19 | High-performance data-driven data specification library for Clojure/Script. |
 | 55 | [clj-commons/kibit](https://github.com/clj-commons/kibit) | 1,753 | 128 | 54 | — | 2024-05-22 | There's a function for that! |
 | 56 | [boot-clj/boot](https://github.com/boot-clj/boot) | 1,747 | 177 | 112 | EPL-1.0 | 2021-04-22 | Build tooling for Clojure. |
 | 57 | [HumbleUI/HumbleUI](https://github.com/HumbleUI/HumbleUI) | 1,703 | 59 | 33 | Apache-2.0 | 2026-06-17 | Clojure Desktop UI framework |
@@ -74,15 +74,15 @@ Ranked by stars. GitHub reports **97,938** total repositories matching `language
 | 68 | [clojure/core.logic](https://github.com/clojure/core.logic) | 1,505 | 122 | 1 | EPL-1.0 | 2025-12-30 | A logic programming library for Clojure & ClojureScript |
 | 69 | [plumatic/plumbing](https://github.com/plumatic/plumbing) | 1,503 | 101 | 12 | — | 2025-07-01 | Prismatic's Clojure(Script) utility belt |
 | 70 | [krisajenkins/yesql](https://github.com/krisajenkins/yesql) | 1,497 | 109 | 58 | EPL-1.0 | 2026-10-29 | A Clojure library for using SQL. |
-| 71 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1,496 | 91 | 26 | EPL-2.0 | 2026-11-19 | A simple, fast and versatile Datalog database |
+| 71 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1,494 | 91 | 26 | EPL-2.0 | 2026-11-19 | A simple, fast and versatile Datalog database |
 | 72 | [taoensso/timbre](https://github.com/taoensso/timbre) | 1,486 | 173 | 4 | EPL-1.0 | 2025-11-06 | Pure Clojure/Script logging library |
 | 73 | [clj-commons/seesaw](https://github.com/clj-commons/seesaw) | 1,485 | 143 | 72 | — | 2023-07-28 | Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library |
 | 74 | [Factual/drake](https://github.com/Factual/drake) | 1,481 | 106 | 83 | NOASSERTION | 2022-04-12 | Data workflow tool, like a "Make for data" |
 | 75 | [korma/Korma](https://github.com/korma/Korma) | 1,465 | 214 | 79 | — | 2020-10-15 | Tasty SQL for Clojure. |
-| 76 | [jeremykross/konstellate](https://github.com/jeremykross/konstellate) | 1,456 | 82 | 14 | MIT | 2019-07-25 | Free and Open Source GUI to Visualize Kubernetes Applications. |
+| 76 | [jeremykross/konstellate](https://github.com/jeremykross/konstellate) | 1,455 | 82 | 14 | MIT | 2019-07-25 | Free and Open Source GUI to Visualize Kubernetes Applications. |
 | 77 | [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) | 1,422 | 125 | 74 | GPL-3.0 | 2025-08-15 | config karabiner with ease |
 | 78 | [oakes/Nightcode](https://github.com/oakes/Nightcode) | 1,401 | 125 | 32 | Unlicense | 2021-04-24 | An IDE for Clojure |
-| 79 | [babashka/sci](https://github.com/babashka/sci) | 1,395 | 109 | 42 | EPL-1.0 | 2026-11-17 | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs |
+| 79 | [babashka/sci](https://github.com/babashka/sci) | 1,393 | 109 | 42 | EPL-1.0 | 2026-11-17 | Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs |
 | 80 | [nathanmarz/cascalog](https://github.com/nathanmarz/cascalog) | 1,374 | 173 | 41 | NOASSERTION | 2023-05-18 | Data processing on Hadoop without the hassle. |
 | 81 | [weavejester/integrant](https://github.com/weavejester/integrant) | 1,370 | 63 | 15 | MIT | 2026-01-07 | Micro-framework for data-driven architecture |
 | 82 | [noprompt/garden](https://github.com/noprompt/garden) | 1,369 | 94 | 45 | — | 2024-01-16 | Generate CSS with Clojure |
@@ -100,7 +100,7 @@ Ranked by stars. GitHub reports **97,938** total repositories matching `language
 | 94 | [hugoduncan/criterium](https://github.com/hugoduncan/criterium) | 1,222 | 52 | 22 | — | 2026-10-26 | Benchmarking library for clojure |
 | 95 | [datacrypt-project/hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) | 1,220 | 63 | 18 | EPL-1.0 | 2018-07-22 | Functional, persistent, off-heap, high performance data structure |
 | 96 | [clojure/core.match](https://github.com/clojure/core.match) | 1,219 | 62 | 1 | EPL-1.0 | 2025-12-30 | An optimized pattern matching library for Clojure |
-| 97 | [clj-python/libpython-clj](https://github.com/clj-python/libpython-clj) | 1,213 | 74 | 37 | EPL-2.0 | 2026-08-10 | Python bindings for Clojure |
+| 97 | [clj-python/libpython-clj](https://github.com/clj-python/libpython-clj) | 1,211 | 74 | 37 | EPL-2.0 | 2026-08-10 | Python bindings for Clojure |
 | 98 | [taoensso/carmine](https://github.com/taoensso/carmine) | 1,179 | 130 | 1 | EPL-1.0 | 2026-11-19 | Redis client + message queue for Clojure |
 | 99 | [clojure/test.check](https://github.com/clojure/test.check) | 1,158 | 114 | 0 | EPL-1.0 | 2025-12-30 | QuickCheck for Clojure |
 | 100 | [duct-framework/duct](https://github.com/duct-framework/duct) | 1,155 | 52 | 12 | MIT | 2025-10-09 | Server-side application framework for Clojure |

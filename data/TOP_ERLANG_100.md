@@ -1,21 +1,21 @@
 # Top 100 Erlang repositories on GitHub
 
-Ranked by stars. GitHub reports **34,464** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,469** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,583 | 285 | NOASSERTION | 2026-11-19 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,583 | 283 | NOASSERTION | 2026-11-20 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
 | 2 | [erlang/otp](https://github.com/erlang/otp) | 12,364 | 3,222 | 739 | Apache-2.0 | 2026-11-19 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,524 | 1,173 | 61 | ISC | 2026-11-19 | Small, fast, modern HTTP server for Erlang/OTP. |
 | 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,015 | 1,091 | 373 | Apache-2.0 | 2026-11-19 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
 | 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,553 | 225 | NOASSERTION | 2026-11-19 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
-| 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,869 | 966 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
+| 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,868 | 966 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,115 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
 | 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,655 | 434 | 183 | Apache-2.0 | 2026-11-10 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
 | 9 | [processone/tsung](https://github.com/processone/tsung) | 2,629 | 403 | 130 | GPL-2.0 | 2026-03-02 | Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc. |
 | 10 | [lfe/lfe](https://github.com/lfe/lfe) | 2,459 | 145 | 30 | Apache-2.0 | 2026-10-19 | Lisp Flavoured Erlang (LFE) |
 | 11 | [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) | 2,307 | 158 | 10 | NOASSERTION | 2026-09-24 | Delayed Messaging for RabbitMQ |
-| 12 | [atomvm/AtomVM](https://github.com/atomvm/AtomVM) | 2,272 | 172 | 210 | Apache-2.0 | 2026-11-17 | Tiny Erlang VM |
+| 12 | [atomvm/AtomVM](https://github.com/atomvm/AtomVM) | 2,272 | 173 | 209 | Apache-2.0 | 2026-11-19 | Tiny Erlang VM |
 | 13 | [mochi/mochiweb](https://github.com/mochi/mochiweb) | 1,889 | 459 | 11 | NOASSERTION | 2026-11-13 | MochiWeb is an Erlang library for building lightweight HTTP servers. |
 | 14 | [biokoda/actordb](https://github.com/biokoda/actordb) | 1,889 | 71 | 32 | MPL-2.0 | 2022-11-10 | ActorDB distributed SQL database |
 | 15 | [ChicagoBoss/ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) | 1,848 | 283 | 81 | MIT | 2022-01-10 | Erlang web MVC, now featuring Comet |
@@ -30,7 +30,7 @@ Ranked by stars. GitHub reports **34,464** total repositories matching `language
 | 24 | [alpaca-lang/alpaca](https://github.com/alpaca-lang/alpaca) | 1,468 | 48 | 34 | NOASSERTION | 2020-06-13 | Functional programming inspired by ML for the Erlang VM |
 | 25 | [ferd/recon](https://github.com/ferd/recon) | 1,429 | 276 | 11 | BSD-3-Clause | 2026-04-23 | Collection of functions and scripts to debug Erlang in production. |
 | 26 | [basho/bitcask](https://github.com/basho/bitcask) | 1,428 | 176 | 24 | — | 2026-08-13 | because you need another a key/value storage engine |
-| 27 | [benoitc/hackney](https://github.com/benoitc/hackney) | 1,418 | 461 | 14 | NOASSERTION | 2026-11-15 | simple HTTP client in Erlang |
+| 27 | [benoitc/hackney](https://github.com/benoitc/hackney) | 1,418 | 461 | 14 | NOASSERTION | 2026-11-19 | simple HTTP client in Erlang |
 | 28 | [synrc/n2o](https://github.com/synrc/n2o) | 1,340 | 167 | 1 | NOASSERTION | 2026-06-04 | ⭕ N2O: Distributed WebSocket Application Server ISO 20922 |
 | 29 | [erlyaws/yaws](https://github.com/erlyaws/yaws) | 1,312 | 273 | 37 | BSD-3-Clause | 2026-11-09 | Yaws webserver |
 | 30 | [basho/riak_core](https://github.com/basho/riak_core) | 1,276 | 384 | 89 | Apache-2.0 | 2026-08-14 | Distributed systems infrastructure used by Riak. |
@@ -99,7 +99,7 @@ Ranked by stars. GitHub reports **34,464** total repositories matching `language
 | 93 | [ferd/erlang-history](https://github.com/ferd/erlang-history) | 493 | 30 | 3 | — | 2018-03-02 | Hacks to add shell history to Erlang's shell |
 | 94 | [joxa/joxa](https://github.com/joxa/joxa) | 472 | 48 | 13 | Apache-2.0 | 2020-01-08 | A Modern Lisp for the Erlang VM |
 | 95 | [mojombo/ernie](https://github.com/mojombo/ernie) | 471 | 51 | 9 | MIT | 2011-12-07 | Ernie is an Erlang/Ruby BERT-RPC Server. |
-| 96 | [WhatsApp/erlfmt](https://github.com/WhatsApp/erlfmt) | 470 | 68 | 23 | Apache-2.0 | 2026-11-18 | An automated code formatter for Erlang |
+| 96 | [WhatsApp/erlfmt](https://github.com/WhatsApp/erlfmt) | 469 | 68 | 23 | Apache-2.0 | 2026-11-18 | An automated code formatter for Erlang |
 | 97 | [zack-bitcoin/amoveo](https://github.com/zack-bitcoin/amoveo) | 469 | 104 | 7 | NOASSERTION | 2026-08-22 | A blockchain for trust-free markets in financial derivatives |
 | 98 | [erlware/Erlang-and-OTP-in-Action-Source](https://github.com/erlware/Erlang-and-OTP-in-Action-Source) | 450 | 186 | 6 | MIT | 2016-05-19 | The official "Erlang and OTP in Action" source code - see the README below for more details |
 | 99 | [epgsql/epgsql](https://github.com/epgsql/epgsql) | 448 | 166 | 47 | BSD-3-Clause | 2026-08-16 | Erlang PostgreSQL client library. |

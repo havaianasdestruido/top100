@@ -70,8 +70,8 @@ Ranked by stars. GitHub reports **3,471** total repositories matching `language:
 | 64 | [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) | 64 | 7 | 0 | MIT | 2020-12-25 | :art: Template engine for Vim color schemes, in pure Vim script |
 | 65 | [jayflo/vim-skip](https://github.com/jayflo/vim-skip) | 56 | 3 | 1 | — | 2014-03-17 | simple movement script for vim |
 | 66 | [LukeSmithxyz/vimling](https://github.com/LukeSmithxyz/vimling) | 54 | 12 | 2 | GPL-3.0 | 2023-09-20 | Small vim scripts for writing IPA and other special characters |
-| 67 | [jeffbuttars/Vimdown](https://github.com/jeffbuttars/Vimdown) | 53 | 0 | 8 | — | 2021-06-02 | A dirty tool to convert .vimrc and .vim script files to markdown |
-| 68 | [vsbuffalo/dotfiles_archived](https://github.com/vsbuffalo/dotfiles_archived) | 52 | 11 | 0 | — | 2026-03-02 | My dotfiles, with simple install script. |
+| 67 | [vsbuffalo/dotfiles_archived](https://github.com/vsbuffalo/dotfiles_archived) | 53 | 11 | 0 | — | 2026-03-02 | My dotfiles, with simple install script. |
+| 68 | [jeffbuttars/Vimdown](https://github.com/jeffbuttars/Vimdown) | 53 | 0 | 8 | — | 2021-06-02 | A dirty tool to convert .vimrc and .vim script files to markdown |
 | 69 | [theduckchannel/bspwm-install](https://github.com/theduckchannel/bspwm-install) | 52 | 18 | 1 | GPL-3.0 | 2021-12-22 | Script for setup a lightweight bspwm environment on Arch Linux |
 | 70 | [ingydotnet/yaml-vim](https://github.com/ingydotnet/yaml-vim) | 51 | 16 | 4 | — | 2016-10-20 | YAML Highlight script for VIM editor |
 | 71 | [captbaritone/better-indent-support-for-php-with-html](https://github.com/captbaritone/better-indent-support-for-php-with-html) | 50 | 8 | 1 | — | 2015-09-01 | This script allows you to indent HTML sections in PHP files |
