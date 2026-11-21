@@ -1,6 +1,6 @@
 # Top100
 
-**The 100 most-starred GitHub repositories for 38 programming languages, rebuilt every
+**The 100 most-starred GitHub repositories for 46 programming languages, rebuilt every
 hour from the GitHub Search API and published as raw JSONL you can download without an
 API key.**
 
@@ -20,7 +20,7 @@ API key.**
 
 | Artifact | What it is |
 | --- | --- |
-| [`data/JSONL/<language>.jsonl`](data/JSONL) | One line per repository — the **full, untouched** object GitHub's Search API returns: owner, licence, topics, every count, every timestamp. 38 files × 100 records = 3,800 repositories. |
+| [`data/JSONL/<language>.jsonl`](data/JSONL) | One line per repository — the **full, untouched** object GitHub's Search API returns: owner, licence, topics, every count, every timestamp. 46 files × 100 records = 4,600 repositories. |
 | [`data/TOP_<LANGUAGE>_100.md`](data) | A readable table per language: rank, name, stars, forks, open issues, licence, last push, description. |
 | [The website](https://havaianasdestruido.github.io/top100/) | One indexable page per language (`Top 100 Rust Repositories by Stars`), a language index, statistics, a methodology page, a dataset field reference, a comparison against GitHub Trending and other ranking sites, and an FAQ. |
 | [`feed.xml`](https://havaianasdestruido.github.io/top100/feed.xml) | RSS of data updates — one item per language, refreshed hourly. |
@@ -46,11 +46,11 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 | 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 329,246 |
 | 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 323,070 |
 
-Refreshed 21 November 2026, 09:34 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 21 November 2026, 15:57 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for
-all 38 languages.
+all 46 languages.
 
 ## How it works
 
@@ -63,7 +63,7 @@ GET https://api.github.com/search/repositories
 
 GitHub returns at most 100 results per page, so `per_page=100` makes a "top 100" list
 possible in a single call. No per-repository follow-up requests are made, so a full
-refresh of all 38 languages costs **38 Search API requests**.
+refresh of all 46 languages costs **46 Search API requests**.
 
 A scheduled GitHub Actions workflow runs that every hour, writes the JSONL and Markdown
 files, rebuilds the website and commits everything back to this repository. The
@@ -74,7 +74,7 @@ known limitations.
 ## Run it yourself
 
 ```bash
-# fetch the default 38 languages (needs a token: GH_TOKEN=...)
+# fetch the default 46 languages (needs a token: GH_TOKEN=...)
 python scripts/fetch_top_repos.py
 
 # or pick your own
@@ -89,7 +89,7 @@ python scripts/build_site.py
 ```
 
 From GitHub: **Actions → Top Repos by Language → Run workflow**, and pass a
-comma-separated list of languages (blank = the default 38).
+comma-separated list of languages (blank = the default 46).
 
 To fork and self-host, you only need the default `GITHUB_TOKEN` and
 `permissions: contents: write` so the bot can commit the results. The Pages deployment

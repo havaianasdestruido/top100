@@ -161,6 +161,30 @@ LANGUAGES = [
     ("f#", "F#", "fsharp",
      "F#'s list brings together functional programming libraries, .NET "
      "applications, developer tooling and learning resources."),
+    ("ada", "Ada", "ada",
+     "Ada's ranking covers safety-critical and embedded systems, aerospace "
+     "software, compilers and resources for learning the language."),
+    ("cobol", "COBOL", "cobol",
+     "COBOL repositories include modern tooling for the language, legacy "
+     "systems, compilers and examples used in enterprise environments."),
+    ("crystal", "Crystal", "crystal",
+     "Crystal's ecosystem mixes web frameworks, developer tools and "
+     "libraries built around its Ruby-inspired syntax and compiled runtime."),
+    ("matlab", "MATLAB", "matlab",
+     "MATLAB's top repositories focus on scientific computing, numerical "
+     "methods, engineering tools and educational material."),
+    ("nim", "Nim", "nim",
+     "Nim's ranking features compiler and language tooling, systems "
+     "utilities, libraries and projects exploring its metaprogramming model."),
+    ("prolog", "Prolog", "prolog",
+     "Prolog repositories span logic programming implementations, "
+     "constraint solvers, knowledge systems and teaching resources."),
+    ("scheme", "Scheme", "scheme",
+     "Scheme's list includes interpreters, teaching materials, Lisp-family "
+     "language experiments and functional programming libraries."),
+    ("common lisp", "Common Lisp", "common-lisp",
+     "Common Lisp repositories showcase implementations, editor tooling, "
+     "web frameworks and libraries from its long-running ecosystem."),
 ]
 
 LANGUAGE_COUNT = len(LANGUAGES)

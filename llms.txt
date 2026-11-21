@@ -1,13 +1,13 @@
 # Top100
 
-> The 100 most-starred GitHub repositories for 38 programming languages, rebuilt every hour from the GitHub Search API and published as raw newline-delimited JSON you can download without an API key.
+> The 100 most-starred GitHub repositories for 46 programming languages, rebuilt every hour from the GitHub Search API and published as raw newline-delimited JSON you can download without an API key.
 
-Top100 answers "what are the top GitHub repositories by stars right now?" for 38 languages. Every page carries the timestamp of the refresh that produced it. Each JSONL line is the complete, unmodified repository object GitHub returned: owner, licence, topics, every count and every timestamp.
+Top100 answers "what are the top GitHub repositories by stars right now?" for 46 languages. Every page carries the timestamp of the refresh that produced it. Each JSONL line is the complete, unmodified repository object GitHub returned: owner, licence, topics, every count and every timestamp.
 
 ## Start here
 
 - [Homepage](https://havaianasdestruido.github.io/top100/index.html): the current overall top 10, the language index, star-threshold statistics and the FAQ
-- [All 38 languages](https://havaianasdestruido.github.io/top100/languages/index.html): every top 100 list with entry star counts and medians
+- [All 46 languages](https://havaianasdestruido.github.io/top100/languages/index.html): every top 100 list with entry star counts and medians
 
 ## Top 100 lists by language
 
@@ -49,6 +49,14 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 38
 - [Top 100 Fortran repositories](https://havaianasdestruido.github.io/top100/languages/fortran.html): led by Reference-LAPACK/lapack with 1,923 stars
 - [Top 100 Vim Script repositories](https://havaianasdestruido.github.io/top100/languages/vim-script.html): led by mileszs/ack.vim with 3,072 stars
 - [Top 100 F# repositories](https://havaianasdestruido.github.io/top100/languages/fsharp.html): led by dotnet/fsharp with 4,356 stars
+- [Top 100 Ada repositories](https://havaianasdestruido.github.io/top100/languages/ada.html): led by AdaCore/gnatstudio with 536 stars
+- [Top 100 COBOL repositories](https://havaianasdestruido.github.io/top100/languages/cobol.html): led by openmainframeproject/cobol-programming-course with 3,673 stars
+- [Top 100 Crystal repositories](https://havaianasdestruido.github.io/top100/languages/crystal.html): led by iv-org/invidious with 26,108 stars
+- [Top 100 MATLAB repositories](https://havaianasdestruido.github.io/top100/languages/matlab.html): led by MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning with 18,559 stars
+- [Top 100 Nim repositories](https://havaianasdestruido.github.io/top100/languages/nim.html): led by nim-lang/Nim with 18,324 stars
+- [Top 100 Prolog repositories](https://havaianasdestruido.github.io/top100/languages/prolog.html): led by terminusdb/terminusdb with 3,487 stars
+- [Top 100 Scheme repositories](https://havaianasdestruido.github.io/top100/languages/scheme.html): led by cisco/ChezScheme with 7,385 stars
+- [Top 100 Common Lisp repositories](https://havaianasdestruido.github.io/top100/languages/common-lisp.html): led by atlas-engineer/nyxt with 11,072 stars
 
 ## Reference
 
@@ -66,7 +74,7 @@ Top100 answers "what are the top GitHub repositories by stars right now?" for 38
 
 ## Data
 
-- JSONL files (38 files, 100 records each, 3,800 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
+- JSONL files (46 files, 100 records each, 4,600 total): https://github.com/havaianasdestruido/top100/tree/main/data/JSONL
 - Raw download pattern: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl
 - Markdown tables: https://github.com/havaianasdestruido/top100/tree/main/data
 - Update feed (RSS): https://havaianasdestruido.github.io/top100/feed.xml

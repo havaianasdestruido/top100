@@ -1,12 +1,16 @@
 {
-  "fetched_at": "2026-11-21T09:34:46Z",
-  "data_as_of": "2026-11-21T09:33:09Z",
+  "fetched_at": "2026-11-21T15:57:06Z",
+  "data_as_of": "2026-11-21T15:55:49Z",
   "languages": [
+    "ada",
     "assembly",
     "c",
     "c#",
     "c++",
     "clojure",
+    "cobol",
+    "common lisp",
+    "crystal",
     "css",
     "dart",
     "elixir",
@@ -22,17 +26,21 @@
     "julia",
     "kotlin",
     "lua",
+    "matlab",
+    "nim",
     "nix",
     "objective-c",
     "ocaml",
     "perl",
     "php",
     "powershell",
+    "prolog",
     "python",
     "r",
     "ruby",
     "rust",
     "scala",
+    "scheme",
     "shell",
     "solidity",
     "sql",
@@ -41,5 +49,5 @@
     "vim script",
     "zig"
   ],
-  "records": 3800
+  "records": 4600
 }

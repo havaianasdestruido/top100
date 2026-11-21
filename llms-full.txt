@@ -1,10 +1,10 @@
 # Top100 — full content
 
-> Generated 21 November 2026, 09:34 UTC from the live dataset.
+> Generated 21 November 2026, 15:57 UTC from the live dataset.
 
 ## What this is
 
-Top100 publishes the 100 most-starred GitHub repositories for 38 programming languages, rebuilt hourly from the GitHub Search API. The dataset is 3,800 newline-delimited JSON records (20.8 MB) in which every line is the complete, unmodified repository object GitHub returned.
+Top100 publishes the 100 most-starred GitHub repositories for 46 programming languages, rebuilt hourly from the GitHub Search API. The dataset is 4,600 newline-delimited JSON records (25.1 MB) in which every line is the complete, unmodified repository object GitHub returned.
 
 ## The ten most-starred repositories right now
 
@@ -63,6 +63,14 @@ Top100 publishes the 100 most-starred GitHub repositories for 38 programming lan
 | Fortran | Reference-LAPACK/lapack | 1,923 | 188 | 304 | 46,919 |
 | Vim Script | mileszs/ack.vim | 3,072 | 27 | 90 | 3,469 |
 | F# | dotnet/fsharp | 4,356 | 281 | 528 | 35,618 |
+| Ada | AdaCore/gnatstudio | 536 | 34 | 63 | 10,633 |
+| COBOL | openmainframeproject/cobol-programming-course | 3,673 | 11 | 25 | 9,886 |
+| Crystal | iv-org/invidious | 26,108 | 142 | 216 | 10,692 |
+| MATLAB | MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | 18,559 | 566 | 866 | 509,950 |
+| Nim | nim-lang/Nim | 18,324 | 282 | 503 | 14,318 |
+| Prolog | terminusdb/terminusdb | 3,487 | 43 | 107 | 40,460 |
+| Scheme | cisco/ChezScheme | 7,385 | 120 | 277 | 22,108 |
+| Common Lisp | atlas-engineer/nyxt | 11,072 | 597 | 1,200 | 34,061 |
 
 ## Top five repositories per language
 
@@ -446,6 +454,86 @@ Top100 publishes the 100 most-starred GitHub repositories for 38 programming lan
 - Full list: https://havaianasdestruido.github.io/top100/languages/fsharp.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/f#.jsonl
 
+### Top 100 Ada repositories
+
+1. AdaCore/gnatstudio — 536 stars — GNAT Studio is a powerful and lightweight IDE for Ada and SPARK.
+2. tsoding/eepers — 481 stars — Simple Turn-based Game
+3. pyjarrett/septum — 466 stars — Context-based code search tool
+4. alire-project/alire — 422 stars — Command-line tool from the Alire project and supporting library
+5. mk270/whitakers-words — 340 stars — William Whitaker's WORDS, a Latin dictionary
+- Full list: https://havaianasdestruido.github.io/top100/languages/ada.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ada.jsonl
+
+### Top 100 COBOL repositories
+
+1. openmainframeproject/cobol-programming-course — 3,673 stars — Training materials and labs for a "Getting Started" level course on COBOL
+2. azac/cobol-on-wheelchair — 1,033 stars — Micro web-framework for COBOL
+3. IonicaBizau/node-cobol — 727 stars — :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
+4. meyfa/CobolCraft — 707 stars — A Minecraft server written in COBOL
+5. cloudflare/cobweb — 401 stars — COBOL to WebAssembly compiler
+- Full list: https://havaianasdestruido.github.io/top100/languages/cobol.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/cobol.jsonl
+
+### Top 100 Crystal repositories
+
+1. iv-org/invidious — 26,108 stars — Invidious is an alternative front-end to YouTube
+2. crystal-lang/crystal — 20,515 stars — The Crystal Programming Language
+3. mint-lang/mint — 4,271 stars — 🍃 A refreshing programming language for the front-end web.
+4. kemalcr/kemal — 3,935 stars — Fast, Effective, Simple Web Framework
+5. vitobotta/hetzner-k3s — 3,736 stars — The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Clo…
+- Full list: https://havaianasdestruido.github.io/top100/languages/crystal.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/crystal.jsonl
+
+### Top 100 MATLAB repositories
+
+1. MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning — 18,559 stars — This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Le…
+2. luanfujun/deep-photo-styletransfer — 9,979 stars — Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+3. TadasBaltrusaitis/OpenFace — 7,807 stars — OpenFace – a state-of-the art tool intended for facial landmark detection, head pose esti…
+4. PRML/PRMLT — 6,205 stars — Matlab code of machine learning algorithms in book PRML
+5. personqianduixue/Math_Model — 5,368 stars — 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳…
+- Full list: https://havaianasdestruido.github.io/top100/languages/matlab.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/matlab.jsonl
+
+### Top 100 Nim repositories
+
+1. nim-lang/Nim — 18,324 stars — Nim is a statically typed compiled systems programming language. It combines successful c…
+2. zedeus/nitter — 14,456 stars — Alternative Twitter front-end
+3. WyattBlue/auto-editor — 6,042 stars — Effort free video editing!
+4. byt3bl33d3r/OffensiveNim — 3,090 stars — My experiments in weaponizing Nim (https://nim-lang.org/)
+5. oakes/vim_cubed — 2,729 stars — Vim rendered on a cube for no reason
+- Full list: https://havaianasdestruido.github.io/top100/languages/nim.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/nim.jsonl
+
+### Top 100 Prolog repositories
+
+1. terminusdb/terminusdb — 3,487 stars — TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, colla…
+2. fossasia/pslab-hardware — 1,706 stars — PSLab Hardware Design and Schematics https://pslab.io
+3. fossasia/pslab-grove-shield — 1,516 stars — PSLab Grove Shield https://pslab.io
+4. stipub/stixfonts — 1,003 stars — OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
+5. hackclub/OnBoard — 915 stars — 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
+- Full list: https://havaianasdestruido.github.io/top100/languages/prolog.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/prolog.jsonl
+
+### Top 100 Scheme repositories
+
+1. cisco/ChezScheme — 7,385 stars — Chez Scheme
+2. opencog/opencog — 2,481 stars — A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
+3. JeffBezanson/femtolisp — 1,724 stars — a lightweight, robust, scheme-like lisp implementation
+4. addy-dclxvi/i3-starterpack — 1,663 stars — A simple guide (and example of configuration) about how to install i3 & its and essential…
+5. gambit/gambit — 1,446 stars — Gambit is an efficient implementation of the Scheme programming language.
+- Full list: https://havaianasdestruido.github.io/top100/languages/scheme.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/scheme.jsonl
+
+### Top 100 Common Lisp repositories
+
+1. atlas-engineer/nyxt — 11,072 stars — Nyxt - the hacker's browser.
+2. kanaka/mal — 10,769 stars — mal - Make a Lisp
+3. lk-geimfari/awesomo — 9,978 stars — Cool open source projects. Choose your project and get involved in Open Source developmen…
+4. norvig/paip-lisp — 7,528 stars — Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+5. oldratlee/translations — 6,911 stars — 🐼  Chinese translations for classic software development resources
+- Full list: https://havaianasdestruido.github.io/top100/languages/common-lisp.html
+- JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/common lisp.jsonl
+
 ## Frequently asked questions
 
 ### What are the top GitHub repositories by stars right now?
@@ -454,15 +542,15 @@ As of 21 November 2026, the most-starred repositories on GitHub are public-apis/
 
 ### Where can I find a top 100 GitHub repositories list?
 
-Top100 publishes a top 100 GitHub repositories list for 38 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL.
+Top100 publishes a top 100 GitHub repositories list for 46 programming languages, ranked by stars. Each language has its own page — Top 100 Python repositories, Top 100 Rust repositories, Top 100 Go repositories and so on — with rank, stars, forks, open issues, licence and last push for every entry. The lists are rebuilt hourly and the raw data is downloadable as JSONL.
 
 ### How can I see the top repositories for each programming language?
 
-Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 38 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language.
+Start from the language index: it links to a ranked table of the 100 most-starred repositories for each of the 46 languages covered, from Python and JavaScript to Nix and SQL. Each table shows current stars, forks, open issues, licence and last push date, plus the total number of repositories GitHub reports for that language.
 
 ### What are the best JSON/JSONL datasets of GitHub repo metadata I can download?
 
-Top100 ships 38 JSONL files — one per language, 100 repositories each, 3,800 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps.
+Top100 ships 46 JSONL files — one per language, 100 repositories each, 4,600 records in total — where every line is the complete repository object returned by GitHub's Search API. For other shapes of data: GH Archive covers event streams, BigQuery's public github_repos dataset gives you SQL access, and GHTorrent publishes periodic full dumps.
 
 ### Is there a free tool to export GitHub repository metadata as JSON?
 
@@ -478,7 +566,7 @@ For scheduled scraping, Simon Willison's git-scraping pattern and GitHub's Flat 
 
 ### What is the average number of GitHub stars and how do repos rank by stars?
 
-GitHub ranks repositories by stargazers_count. Across the 3,800 repositories in Top100's lists the median is 6,201 stars and the mean is 19,715, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,955 for Python. See the statistics table for the per-language thresholds.
+GitHub ranks repositories by stargazers_count. Across the 4,600 repositories in Top100's lists the median is 2,751 stars and the mean is 16,427, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 61,955 for Python. See the statistics table for the per-language thresholds.
 
 ### Is the Top100 dataset free to use?
 
@@ -486,7 +574,7 @@ Yes. Every file is published in a public GitHub repository and can be downloaded
 
 ### How often is the Top100 data refreshed?
 
-Every hour. A scheduled GitHub Actions workflow runs at minute zero of every hour, re-queries the Search API for all 38 languages and commits the results back to the repository. Every page on this site shows the timestamp of the refresh that produced it, and the update feed lists the newest leader of each language.
+Every hour. A scheduled GitHub Actions workflow runs at minute zero of every hour, re-queries the Search API for all 46 languages and commits the results back to the repository. Every page on this site shows the timestamp of the refresh that produced it, and the update feed lists the newest leader of each language.
 
 ### Can I add another language to the list?
 
@@ -494,7 +582,7 @@ Yes, but it takes one line of configuration. Trigger the workflow from the Actio
 
 ### Do the lists include forks and archived repositories?
 
-Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 3,800 listed repositories are forks. Archived repositories are included, and 233 of them are archived and read-only.
+Forks, no; archived repositories, yes. GitHub's repository search excludes forks unless the query adds fork:true or fork:only, which is why 0 of the 4,600 listed repositories are forks. Archived repositories are included, and 282 of them are archived and read-only.
 
 ### Why is my repository missing from a top 100 list?
 
@@ -502,7 +590,7 @@ Three common reasons. GitHub assigns each repository a single detected primary l
 
 ### What is the difference between Top100 and GitHub Trending?
 
-GitHub Trending shows what is gaining stars today, this week or this month and only lists a couple of dozen repositories, with no export. Top100 ranks by total stars, covers 100 repositories per language across 38 languages, and publishes the raw JSON. Use Trending for discovery and Top100 when you need a complete, machine-readable snapshot.
+GitHub Trending shows what is gaining stars today, this week or this month and only lists a couple of dozen repositories, with no export. Top100 ranks by total stars, covers 100 repositories per language across 46 languages, and publishes the raw JSON. Use Trending for discovery and Top100 when you need a complete, machine-readable snapshot.
 
 ### Does Top100 have an API?
 
@@ -514,7 +602,7 @@ Link to this site or to the repository, and credit GitHub as the source of the m
 
 ## Methodology in one paragraph
 
-One GitHub Search API request per language: `GET /search/repositories?q=language:<name>&sort=stars&order=desc&per_page=100`. A scheduled GitHub Actions workflow runs it for all 38 languages every hour, writes the raw JSONL and a Markdown table per language, rebuilds this site and commits everything back to the repository. No per-repository calls are made, so a full refresh costs 38 Search API requests. Fields only available from the single-repository endpoint (subscribers_count, network_count, parent/source) are absent unless ENRICH_WITH_REPO_DETAILS is enabled.
+One GitHub Search API request per language: `GET /search/repositories?q=language:<name>&sort=stars&order=desc&per_page=100`. A scheduled GitHub Actions workflow runs it for all 46 languages every hour, writes the raw JSONL and a Markdown table per language, rebuilds this site and commits everything back to the repository. No per-repository calls are made, so a full refresh costs 46 Search API requests. Fields only available from the single-repository endpoint (subscribers_count, network_count, parent/source) are absent unless ENRICH_WITH_REPO_DETAILS is enabled.
 
 Full details: https://havaianasdestruido.github.io/top100/methodology.html
 

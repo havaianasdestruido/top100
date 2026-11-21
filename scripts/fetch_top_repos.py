@@ -57,6 +57,8 @@ DEFAULT_LANGUAGES = [
     "Scala", "Lua", "Groovy", "Objective-C", "Perl", "Haskell", "Assembly",
     "R", "Julia", "Elixir", "PowerShell", "Nix", "Zig", "Clojure",
     "Erlang", "OCaml", "Solidity", "Fortran", "Vim Script", "F#",
+    "Ada", "COBOL", "Crystal", "MATLAB", "Nim", "Prolog", "Scheme",
+    "Common Lisp",
 ]
 
 # Set to True to additionally call GET /repos/{owner}/{repo} for every
