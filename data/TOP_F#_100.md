@@ -1,18 +1,18 @@
 # Top 100 F# repositories on GitHub
 
-Ranked by stars. GitHub reports **35,612** total repositories matching `language:F#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **35,617** total repositories matching `language:F#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [dotnet/fsharp](https://github.com/dotnet/fsharp) | 4,356 | 886 | 1,347 | MIT | 2026-11-20 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
 | 2 | [artempyanykh/marksman](https://github.com/artempyanykh/marksman) | 3,397 | 78 | 139 | MIT | 2026-09-14 | Write Markdown with code assist and intelligence in the comfort of your favourite editor. |
-| 3 | [fable-compiler/Fable](https://github.com/fable-compiler/Fable) | 3,170 | 332 | 152 | MIT | 2026-11-20 | F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler |
+| 3 | [fable-compiler/Fable](https://github.com/fable-compiler/Fable) | 3,170 | 332 | 151 | MIT | 2026-11-20 | F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler |
 | 4 | [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) | 2,254 | 269 | 46 | Apache-2.0 | 2026-11-18 | A native functional ASP.NET Core web framework for F# developers. |
 | 5 | [darklang/dark](https://github.com/darklang/dark) | 2,181 | 116 | 75 | Apache-2.0 | 2026-11-19 | Darklang main repo, including language, backend, and infra |
 | 6 | [fsharp/fsharp](https://github.com/fsharp/fsharp) | 2,155 | 310 | 1 | MIT | 2022-11-06 | Please file issues or pull requests here: https://github.com/dotnet/fsharp |
 | 7 | [fsprojects/Paket](https://github.com/fsprojects/Paket) | 2,095 | 528 | 674 | MIT | 2026-11-17 | A dependency manager for .NET with support for NuGet packages and Git repositories. |
-| 8 | [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER) | 1,642 | 78 | 33 | NOASSERTION | 2026-10-22 | THE FIRST DLSS 5 MANAGER |
-| 9 | [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) | 1,440 | 104 | 7 | CC0-1.0 | 2026-11-07 | A curated list of awesome F# frameworks, libraries, software and resources. |
+| 8 | [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER) | 1,643 | 78 | 33 | NOASSERTION | 2026-10-22 | THE FIRST DLSS 5 MANAGER |
+| 9 | [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) | 1,441 | 104 | 7 | CC0-1.0 | 2026-11-07 | A curated list of awesome F# frameworks, libraries, software and resources. |
 | 10 | [yatli/fvim](https://github.com/yatli/fvim) | 1,403 | 37 | 70 | MIT | 2024-10-17 | Cross platform Neovim front-end UI, built with F# + Avalonia |
 | 11 | [bryanedds/Nu](https://github.com/bryanedds/Nu) | 1,378 | 204 | 159 | NOASSERTION | 2026-11-20 | Repository hosting the functional Nu Game Engine and related projects. |
 | 12 | [SuaveIO/suave](https://github.com/SuaveIO/suave) | 1,351 | 200 | 7 | NOASSERTION | 2026-10-15 | Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulat... |
@@ -47,7 +47,7 @@ Ranked by stars. GitHub reports **35,612** total repositories matching `language
 | 41 | [fsharp/fslang-design](https://github.com/fsharp/fslang-design) | 562 | 149 | 49 | — | 2026-11-05 | RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit i... |
 | 42 | [stephan-tolksdorf/fparsec](https://github.com/stephan-tolksdorf/fparsec) | 560 | 46 | 31 | — | 2023-11-13 | A parser combinator library for F# |
 | 43 | [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) | 556 | 67 | 9 | MIT | 2026-11-20 | B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and... |
-| 44 | [demystifyfp/FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) | 553 | 69 | 10 | MIT | 2026-11-20 | An opinionated F# Library for error handling |
+| 44 | [demystifyfp/FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) | 553 | 69 | 8 | MIT | 2026-11-21 | An opinionated F# Library for error handling |
 | 45 | [stkb/Rewrap](https://github.com/stkb/Rewrap) | 552 | 92 | 184 | NOASSERTION | 2024-07-21 | Rewrap extension for VSCode and Visual Studio |
 | 46 | [CompositionalIT/farmer](https://github.com/CompositionalIT/farmer) | 548 | 168 | 70 | MIT | 2026-11-10 | Repeatable Azure deployments with ARM templates - made easy! |
 | 47 | [Hopac/Hopac](https://github.com/Hopac/Hopac) | 538 | 62 | 33 | MIT | 2022-02-24 | http://hopac.github.io/Hopac/Hopac.html |
@@ -72,8 +72,8 @@ Ranked by stars. GitHub reports **35,612** total repositories matching `language
 | 66 | [fsprojects/FsUnit](https://github.com/fsprojects/FsUnit) | 444 | 74 | 6 | MIT | 2026-11-19 | FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. |
 | 67 | [Lanayx/Oxpecker](https://github.com/Lanayx/Oxpecker) | 433 | 24 | 7 | MIT | 2026-11-20 | Backend and Frontend F# frameworks |
 | 68 | [AshleyF/VimSpeak](https://github.com/AshleyF/VimSpeak) | 416 | 30 | 4 | MIT | 2020-09-09 | Speak to your editor. |
-| 69 | [fsprojects/FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) | 407 | 74 | 111 | MIT | 2026-11-05 | FSharp implementation of Facebook GraphQL query language. |
-| 70 | [Dzoukr/Dapper.FSharp](https://github.com/Dzoukr/Dapper.FSharp) | 407 | 35 | 15 | MIT | 2026-04-01 | Lightweight F# extension for StackOverflow Dapper with support for MSSQL, MySQL, PostgreSQL, and SQLite |
+| 69 | [Dzoukr/Dapper.FSharp](https://github.com/Dzoukr/Dapper.FSharp) | 408 | 35 | 15 | MIT | 2026-04-01 | Lightweight F# extension for StackOverflow Dapper with support for MSSQL, MySQL, PostgreSQL, and SQLite |
+| 70 | [fsprojects/FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) | 407 | 74 | 111 | MIT | 2026-11-05 | FSharp implementation of Facebook GraphQL query language. |
 | 71 | [MoiraeSoftware/Myriad](https://github.com/MoiraeSoftware/Myriad) | 390 | 45 | 0 | Apache-2.0 | 2026-10-12 | Myriad is a code generator for F# |
 | 72 | [nessos/Streams](https://github.com/nessos/Streams) | 383 | 46 | 12 | NOASSERTION | 2020-05-22 | A lightweight F#/C# library for efficient functional-style pipelines on streams of data. |
 | 73 | [CompositionalIT/SAFE-Dojo](https://github.com/CompositionalIT/SAFE-Dojo) | 381 | 124 | 3 | MIT | 2025-04-17 | An introductory dojo to learn how to develop full stack web applications in F# |
@@ -84,8 +84,8 @@ Ranked by stars. GitHub reports **35,612** total repositories matching `language
 | 78 | [namigop/OneBella](https://github.com/namigop/OneBella) | 355 | 25 | 6 | GPL-3.0 | 2025-08-10 | A cross platform GUI tool for  LiteDB v5+ |
 | 79 | [fsprojects/fsharp-cheatsheet](https://github.com/fsprojects/fsharp-cheatsheet) | 353 | 60 | 5 | NOASSERTION | 2026-03-25 | This cheatsheet aims to succinctly cover the most important aspects of the F# language |
 | 80 | [JetBrains/resharper-fsharp](https://github.com/JetBrains/resharper-fsharp) | 351 | 56 | 53 | Apache-2.0 | 2026-11-20 | F# support in JetBrains Rider |
-| 81 | [esa/asn1scc](https://github.com/esa/asn1scc) | 345 | 77 | 22 | NOASSERTION | 2026-11-20 | ASN1SCC: An open source ASN.1 compiler for embedded systems |
-| 82 | [Zaid-Ajaj/Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) | 339 | 48 | 16 | MIT | 2026-02-28 | Thin F# wrapper around Npgsql, the PostgreSQL database driver for .NET |
+| 81 | [esa/asn1scc](https://github.com/esa/asn1scc) | 345 | 76 | 22 | NOASSERTION | 2026-11-21 | ASN1SCC: An open source ASN.1 compiler for embedded systems |
+| 82 | [Zaid-Ajaj/Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) | 340 | 48 | 16 | MIT | 2026-02-28 | Thin F# wrapper around Npgsql, the PostgreSQL database driver for .NET |
 | 83 | [fsprojects/FSharpLint](https://github.com/fsprojects/FSharpLint) | 332 | 74 | 94 | MIT | 2026-11-09 | Lint tool for F# |
 | 84 | [mbraceproject/FsPickler](https://github.com/mbraceproject/FsPickler) | 326 | 49 | 18 | MIT | 2022-03-21 | A fast multi-format message serializer for .NET |
 | 85 | [eiriktsarpalis/TypeShape](https://github.com/eiriktsarpalis/TypeShape) | 325 | 33 | 0 | MIT | 2025-02-07 | Practical generic programming for F# |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **35,612** total repositories matching `language
 | 97 | [mrthefakeperson/Excel-Virtual-Machine](https://github.com/mrthefakeperson/Excel-Virtual-Machine) | 286 | 9 | 1 | — | 2020-08-02 | C Compiler which targets Excel (MS Office) |
 | 98 | [kjnilsson/fez](https://github.com/kjnilsson/fez) | 286 | 16 | 12 | MIT | 2019-05-16 | F# to core erlang compiler experiment |
 | 99 | [hedgehogqa/fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) | 284 | 32 | 40 | NOASSERTION | 2026-10-18 | Release with confidence, state-of-the-art property testing for .NET. |
-| 100 | [fsharp/fsharp-compiler-docs](https://github.com/fsharp/fsharp-compiler-docs) | 281 | 124 | 4 | MIT | 2026-11-19 | Doc build for FSharp.Compiler.Service |
+| 100 | [fsharp/fsharp-compiler-docs](https://github.com/fsharp/fsharp-compiler-docs) | 281 | 124 | 4 | MIT | 2026-11-20 | Doc build for FSharp.Compiler.Service |

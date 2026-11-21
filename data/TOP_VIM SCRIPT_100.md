@@ -7,7 +7,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,072 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
 | 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
 | 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,007 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
-| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 391 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
+| 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 390 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,753 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
 | 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,422 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
 | 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,359 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
@@ -16,7 +16,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 886 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |
 | 11 | [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim) | 883 | 76 | 2 | NOASSERTION | 2024-05-20 | :file_folder: Powerful file explorer implemented by Vim script |
 | 12 | [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) | 788 | 57 | 14 | MIT | 2024-01-21 | Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim ... |
-| 13 | [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) | 744 | 73 | 22 | — | 2026-10-21 | This script implements transparent editing of gpg encrypted files. |
+| 13 | [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) | 745 | 73 | 22 | — | 2026-10-21 | This script implements transparent editing of gpg encrypted files. |
 | 14 | [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) | 688 | 38 | 5 | — | 2025-11-21 | scriptease.vim: A Vim plugin for Vim plugins |
 | 15 | [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) | 616 | 47 | 11 | — | 2025-08-19 | A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script) |
 | 16 | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) | 444 | 8 | 0 | — | 2016-10-22 | C Compiler written in Vim script |

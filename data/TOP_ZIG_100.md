@@ -1,25 +1,25 @@
 # Top 100 Zig repositories on GitHub
 
-Ranked by stars. GitHub reports **41,293** total repositories matching `language:Zig`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **41,302** total repositories matching `language:Zig`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 64,283 | 3,945 | 273 | MIT | 2026-11-19 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU accelera... |
-| 2 | [ziglang/zig](https://github.com/ziglang/zig) | 43,277 | 3,116 | 2,708 | MIT | 2025-11-27 | Moved to Codeberg |
-| 3 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 42,267 | 2,145 | 92 | AGPL-3.0 | 2026-11-20 | Lightpanda: the headless browser designed for AI and automation |
-| 4 | [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 17,410 | 940 | 109 | Apache-2.0 | 2026-11-11 | The financial transactions database designed for mission critical safety and performance. |
+| 1 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 64,293 | 3,934 | 274 | MIT | 2026-11-20 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU accelera... |
+| 2 | [ziglang/zig](https://github.com/ziglang/zig) | 43,279 | 3,115 | 2,708 | MIT | 2025-11-27 | Moved to Codeberg |
+| 3 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 42,271 | 2,147 | 88 | AGPL-3.0 | 2026-11-21 | Lightpanda: the headless browser designed for AI and automation |
+| 4 | [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 17,411 | 940 | 109 | Apache-2.0 | 2026-11-11 | The financial transactions database designed for mission critical safety and performance. |
 | 5 | [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 13,103 | 387 | 176 | MIT | 2026-11-20 | Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin. |
-| 6 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 8,236 | 970 | 112 | MIT | 2026-10-08 | Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig |
-| 7 | [vercel-labs/native](https://github.com/vercel-labs/native) | 7,853 | 332 | 170 | Apache-2.0 | 2026-11-11 | Toolkit for building native desktop apps |
-| 8 | [fairyglade/ly](https://github.com/fairyglade/ly) | 7,687 | 351 | 0 | WTFPL | 2026-10-31 | A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly). |
-| 9 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6,202 | 429 | 256 | UPL-1.0 | 2026-11-20 | A fast, friendly, functional language. |
-| 10 | [zigtools/zls](https://github.com/zigtools/zls) | 5,344 | 480 | 161 | MIT | 2026-11-17 | A language server for Zig supporting developers with features like autocomplete and goto definition |
+| 6 | [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) | 8,237 | 970 | 112 | MIT | 2026-10-08 | Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig |
+| 7 | [vercel-labs/native](https://github.com/vercel-labs/native) | 7,855 | 332 | 170 | Apache-2.0 | 2026-11-11 | Toolkit for building native desktop apps |
+| 8 | [fairyglade/ly](https://github.com/fairyglade/ly) | 7,688 | 351 | 0 | WTFPL | 2026-10-31 | A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly). |
+| 9 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6,203 | 429 | 271 | UPL-1.0 | 2026-11-20 | A fast, friendly, functional language. |
+| 10 | [zigtools/zls](https://github.com/zigtools/zls) | 5,346 | 480 | 160 | MIT | 2026-11-17 | A language server for Zig supporting developers with features like autocomplete and goto definition |
 | 11 | [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) | 4,909 | 110 | 25 | GPL-3.0 | 2025-01-02 | container image to single executable compiler |
 | 12 | [hexops/mach](https://github.com/hexops/mach) | 4,867 | 207 | 165 | NOASSERTION | 2026-05-23 | zig game engine & graphics toolkit - mirror of https://code.hexops.com/hexops/mach |
 | 13 | [riverwm/river](https://github.com/riverwm/river) | 4,348 | 171 | 67 | — | 2026-11-18 | [mirror] A non-monolithic Wayland compositor |
-| 14 | [zml/zml](https://github.com/zml/zml) | 4,272 | 211 | 60 | Apache-2.0 | 2026-11-20 | Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild |
-| 15 | [vercel-labs/fx](https://github.com/vercel-labs/fx) | 3,937 | 460 | 389 | Apache-2.0 | 2026-11-20 | Unix like coding agent |
-| 16 | [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 3,768 | 252 | 949 | GPL-3.0 | 2026-11-19 | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| 14 | [zml/zml](https://github.com/zml/zml) | 4,281 | 212 | 60 | Apache-2.0 | 2026-11-20 | Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild |
+| 15 | [vercel-labs/fx](https://github.com/vercel-labs/fx) | 3,937 | 460 | 393 | Apache-2.0 | 2026-11-21 | Unix like coding agent |
+| 16 | [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 3,768 | 252 | 948 | GPL-3.0 | 2026-11-20 | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 | 17 | [mitchellh/libxev](https://github.com/mitchellh/libxev) | 3,612 | 226 | 81 | MIT | 2026-10-20 | libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, event... |
 | 18 | [jstrieb/github-stats](https://github.com/jstrieb/github-stats) | 3,565 | 809 | 23 | GPL-3.0 | 2026-11-20 | Better GitHub statistics images for your profile, with stats from private repos too |
 | 19 | [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) | 3,302 | 120 | 20 | MIT | 2026-10-13 | A very fast SIMD-first image comparison library (with nodejs API) |
@@ -28,9 +28,9 @@ Ranked by stars. GitHub reports **41,293** total repositories matching `language
 | 22 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 2,850 | 336 | 2 | MIT | 2026-11-15 | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functio... |
 | 23 | [pedropark99/zig-book](https://github.com/pedropark99/zig-book) | 2,730 | 172 | 26 | NOASSERTION | 2026-11-08 | An open, technical and introductory book for the Zig programming language 📚📖 |
 | 24 | [capy-ui/capy](https://github.com/capy-ui/capy) | 2,718 | 104 | 25 | MPL-2.0 | 2025-12-25 | 💻Build one codebase and get native UI on Windows, Linux and Web |
-| 25 | [neurocyte/flow](https://github.com/neurocyte/flow) | 2,558 | 134 | 65 | MIT | 2026-11-20 | Flow Control: a programmer's text editor |
-| 26 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2,516 | 272 | 53 | NOASSERTION | 2026-11-20 | Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift front... |
-| 27 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 2,356 | 550 | 621 | Apache-2.0 | 2026-11-20 | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| 25 | [neurocyte/flow](https://github.com/neurocyte/flow) | 2,560 | 134 | 65 | MIT | 2026-11-20 | Flow Control: a programmer's text editor |
+| 26 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 2,520 | 273 | 57 | NOASSERTION | 2026-11-20 | Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift front... |
+| 27 | [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 2,359 | 549 | 619 | Apache-2.0 | 2026-11-21 | LLM Inference Engine for Metal, CUDA and Vulkan. |
 | 28 | [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) | 2,337 | 211 | 91 | Zlib | 2026-11-20 | MicroZig is a toolbox for building embedded applications in Zig. |
 | 29 | [neurosnap/zmx](https://github.com/neurosnap/zmx) | 2,289 | 185 | 37 | MIT | 2026-11-18 | Session attach/detach for the terminal |
 | 30 | [andrewrk/poop](https://github.com/andrewrk/poop) | 2,055 | 96 | 30 | MIT | 2026-05-04 | Performance Optimizer Observation Platform |
@@ -39,9 +39,9 @@ Ranked by stars. GitHub reports **41,293** total repositories matching `language
 | 33 | [raylib-zig/raylib-zig](https://github.com/raylib-zig/raylib-zig) | 1,929 | 275 | 18 | MIT | 2026-10-21 | Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib |
 | 34 | [Vexu/arocc](https://github.com/Vexu/arocc) | 1,869 | 119 | 50 | MIT | 2026-11-12 | A modern fully featured C compiler. |
 | 35 | [letoram/arcan](https://github.com/letoram/arcan) | 1,834 | 94 | 23 | NOASSERTION | 2026-07-29 | The owls are not what they seem. |
-| 36 | [david-vanderson/dvui](https://github.com/david-vanderson/dvui) | 1,764 | 157 | 101 | NOASSERTION | 2026-11-20 | Immediate Zig GUI for Apps and Games |
+| 36 | [david-vanderson/dvui](https://github.com/david-vanderson/dvui) | 1,764 | 157 | 101 | NOASSERTION | 2026-11-21 | Immediate Zig GUI for Apps and Games |
 | 37 | [kristoff-it/zine](https://github.com/kristoff-it/zine) | 1,643 | 107 | 68 | MIT | 2026-10-30 | Fast, Scalable, Flexible Static Site Generator (SSG) |
-| 38 | [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) | 1,636 | 101 | 7 | MIT | 2026-11-10 | Command line argument parsing library |
+| 38 | [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) | 1,637 | 101 | 7 | MIT | 2026-11-10 | Command line argument parsing library |
 | 39 | [karlseguin/http.zig](https://github.com/karlseguin/http.zig) | 1,633 | 138 | 17 | MIT | 2026-10-29 | An HTTP/1.1 server for zig |
 | 40 | [nullclaw/nullhub](https://github.com/nullclaw/nullhub) | 1,582 | 70 | 13 | MIT | 2026-10-04 | Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task ... |
 | 41 | [buzz-language/buzz](https://github.com/buzz-language/buzz) | 1,548 | 40 | 80 | MIT | 2026-11-01 | 👨‍🚀  buzz, A small/lightweight statically typed scripting language |
@@ -51,7 +51,7 @@ Ranked by stars. GitHub reports **41,293** total repositories matching `language
 | 45 | [justrach/codedb](https://github.com/justrach/codedb) | 1,407 | 91 | 3 | BSD-3-Clause | 2026-11-09 | Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, sna... |
 | 46 | [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) | 1,406 | 76 | 26 | MIT | 2026-10-30 | HTML Validator, Formatter, LSP, and Templating Language Library |
 | 47 | [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) | 1,388 | 204 | 8 | AGPL-3.0 | 2025-08-09 | chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT |
-| 48 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | 1,285 | 111 | 47 | GPL-3.0 | 2026-11-20 | Pacman alternative for ArchLinux, designed with you in mind. |
+| 48 | [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) | 1,287 | 111 | 48 | GPL-3.0 | 2026-11-20 | Pacman alternative for ArchLinux, designed with you in mind. |
 | 49 | [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) | 1,184 | 50 | 1 | MIT | 2026-10-01 | Simple Zig programs that demonstrate good practices to accomplish common programming tasks. |
 | 50 | [justrach/nanobrew](https://github.com/justrach/nanobrew) | 1,158 | 23 | 17 | Apache-2.0 | 2026-11-16 | The fastest macOS package manager. Written in Zig. 3ms warm installs. |
 | 51 | [marler8997/zigup](https://github.com/marler8997/zigup) | 1,128 | 70 | 54 | MIT-0 | 2025-06-14 | Download and manage zig compilers. |
@@ -68,7 +68,7 @@ Ranked by stars. GitHub reports **41,293** total repositories matching `language
 | 62 | [zigimg/zigimg](https://github.com/zigimg/zigimg) | 859 | 158 | 52 | MIT | 2026-11-09 | Zig library for reading and writing different image formats |
 | 63 | [webui-dev/zig-webui](https://github.com/webui-dev/zig-webui) | 844 | 38 | 7 | MIT | 2026-11-14 | Use any web browser or WebView as GUI, with Zig in the backend and modern web technologies in the frontend, all in a ... |
 | 64 | [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust) | 799 | 44 | 47 | Apache-2.0 | 2026-11-20 | A toolkit for building Python extensions in Zig. |
-| 65 | [tardy-org/zzz](https://github.com/tardy-org/zzz) | 798 | 41 | 18 | MPL-2.0 | 2026-11-18 | A framework for writing performant and reliable networked services. |
+| 65 | [tardy-org/zzz](https://github.com/tardy-org/zzz) | 799 | 41 | 18 | MPL-2.0 | 2026-11-18 | A framework for writing performant and reliable networked services. |
 | 66 | [coder/boo](https://github.com/coder/boo) | 789 | 26 | 7 | MIT | 2026-07-05 | A GNU screen style terminal multiplexer built on libghostty. |
 | 67 | [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) | 757 | 37 | 2 | MIT | 2026-11-18 | Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps |
 | 68 | [xit-vcs/xit](https://github.com/xit-vcs/xit) | 745 | 17 | 1 | MIT | 2026-11-14 | a git alternative written in zig |
@@ -89,11 +89,11 @@ Ranked by stars. GitHub reports **41,293** total repositories matching `language
 | 83 | [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) | 606 | 75 | 8 | MIT | 2026-11-12 | Native PostgreSQL driver / client for Zig |
 | 84 | [Vexu/toy-lang](https://github.com/Vexu/toy-lang) | 604 | 19 | 6 | MIT | 2025-03-10 | Toy language for experimentation and fun. |
 | 85 | [freref/fancy-cat](https://github.com/freref/fancy-cat) | 589 | 27 | 22 | AGPL-3.0 | 2026-08-03 | PDF reader for terminal emulators using the Kitty image protocol |
-| 86 | [meszmate/zigzag](https://github.com/meszmate/zigzag) | 588 | 32 | 8 | MIT | 2026-10-13 | A Terminal UI framework for Zig |
+| 86 | [meszmate/zigzag](https://github.com/meszmate/zigzag) | 589 | 32 | 8 | MIT | 2026-10-13 | A Terminal UI framework for Zig |
 | 87 | [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) | 587 | 40 | 2 | MIT | 2026-06-24 | A String Library made for Zig |
 | 88 | [if-not-nil/revo](https://github.com/if-not-nil/revo) | 587 | 25 | 11 | MIT | 2026-11-18 | a dynamic language for the joy of programming |
 | 89 | [xataio/pgzx](https://github.com/xataio/pgzx) | 584 | 25 | 10 | Apache-2.0 | 2025-03-13 | Create PostgreSQL extensions using Zig. |
-| 90 | [amanthanvi/noctty](https://github.com/amanthanvi/noctty) | 568 | 21 | 6 | MIT | 2026-11-20 | A fast, native terminal for Windows. Formerly winghostty. 🌙 |
+| 90 | [amanthanvi/noctty](https://github.com/amanthanvi/noctty) | 571 | 22 | 6 | MIT | 2026-11-21 | A fast, native terminal for Windows. Formerly winghostty. 🌙 |
 | 91 | [marler8997/anyzig](https://github.com/marler8997/anyzig) | 555 | 42 | 19 | MIT | 2026-11-12 | One zig to rule them all. |
 | 92 | [zackradisic/tyvm](https://github.com/zackradisic/tyvm) | 554 | 24 | 1 | — | 2024-11-25 | An experimental bytecode interpreter / type-checker for type-level Typescript |
 | 93 | [kprotty/zap](https://github.com/kprotty/zap) | 551 | 20 | 1 | MIT | 2025-01-02 | An asynchronous runtime with a focus on performance and resource efficiency. |
