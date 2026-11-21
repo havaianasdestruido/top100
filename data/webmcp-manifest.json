@@ -1,10 +1,10 @@
 {
  "schema": "top100.webmcp/1",
- "generated_at": "2026-11-21T09:34:46Z",
+ "generated_at": "2026-11-21T15:57:06Z",
  "site": {
   "name": "Top100",
   "url": "https://havaianasdestruido.github.io/top100/",
-  "description": "The 100 most-starred GitHub repositories for 38 programming languages, rebuilt hourly from the GitHub Search API and published as raw JSONL.",
+  "description": "The 100 most-starred GitHub repositories for 46 programming languages, rebuilt hourly from the GitHub Search API and published as raw JSONL.",
   "repository": "https://github.com/havaianasdestruido/top100",
   "license": "MIT",
   "data_license": "GitHub API output; each listed project keeps its own licence"
@@ -1123,6 +1123,110 @@
    "sha256": "400fdae3a956f04b7c5fca608fda2cb0542728cee3682154345d24c3328739d9",
    "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_F%23_100.md",
    "page": "https://havaianasdestruido.github.io/top100/languages/fsharp.html",
+   "exists": true
+  },
+  {
+   "language": "ada",
+   "display": "Ada",
+   "path": "data/JSONL/ada.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ada.jsonl",
+   "local_url": "data/JSONL/ada.jsonl",
+   "records": 100,
+   "bytes": 556558,
+   "sha256": "3f102e8443e3d6954982c76dd0ab0dea3cad18235e5ac92925cd1839cc09af64",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_ADA_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/ada.html",
+   "exists": true
+  },
+  {
+   "language": "cobol",
+   "display": "COBOL",
+   "path": "data/JSONL/cobol.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/cobol.jsonl",
+   "local_url": "data/JSONL/cobol.jsonl",
+   "records": 100,
+   "bytes": 582166,
+   "sha256": "f59c53b65b1f28dda4748853ddb7e5102a7e22632320b3d5a61996a26cb4d0d2",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_COBOL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/cobol.html",
+   "exists": true
+  },
+  {
+   "language": "crystal",
+   "display": "Crystal",
+   "path": "data/JSONL/crystal.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/crystal.jsonl",
+   "local_url": "data/JSONL/crystal.jsonl",
+   "records": 100,
+   "bytes": 561182,
+   "sha256": "f4d3897120c92fcbddd70daf9b1ce78f36e11e43dcf497cd64b6263fb2d14e5b",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_CRYSTAL_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/crystal.html",
+   "exists": true
+  },
+  {
+   "language": "matlab",
+   "display": "MATLAB",
+   "path": "data/JSONL/matlab.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/matlab.jsonl",
+   "local_url": "data/JSONL/matlab.jsonl",
+   "records": 100,
+   "bytes": 584434,
+   "sha256": "5e7f080cb7e2b49932784c23544728e7c858de47f4ff1a10fa01e3f131b6a5af",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_MATLAB_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/matlab.html",
+   "exists": true
+  },
+  {
+   "language": "nim",
+   "display": "Nim",
+   "path": "data/JSONL/nim.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/nim.jsonl",
+   "local_url": "data/JSONL/nim.jsonl",
+   "records": 100,
+   "bytes": 549874,
+   "sha256": "6eec03beea8352604b48cf2b5af8d8cd0709fa99aee283ecccb48331e7b5c6cc",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_NIM_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/nim.html",
+   "exists": true
+  },
+  {
+   "language": "prolog",
+   "display": "Prolog",
+   "path": "data/JSONL/prolog.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/prolog.jsonl",
+   "local_url": "data/JSONL/prolog.jsonl",
+   "records": 100,
+   "bytes": 561575,
+   "sha256": "2c5aafbc4f0f16a97feca7636b4b2ed857730dd000980a0b25a20e1fad93c9a5",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_PROLOG_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/prolog.html",
+   "exists": true
+  },
+  {
+   "language": "scheme",
+   "display": "Scheme",
+   "path": "data/JSONL/scheme.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/scheme.jsonl",
+   "local_url": "data/JSONL/scheme.jsonl",
+   "records": 100,
+   "bytes": 562016,
+   "sha256": "e9bd3a399c0a494efb0671b6ebfe8a63eeabf2f4f4799c10c75a3ab8b5be9586",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_SCHEME_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/scheme.html",
+   "exists": true
+  },
+  {
+   "language": "common lisp",
+   "display": "Common Lisp",
+   "path": "data/JSONL/common lisp.jsonl",
+   "url": "https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/common%20lisp.jsonl",
+   "local_url": "data/JSONL/common%20lisp.jsonl",
+   "records": 100,
+   "bytes": 550880,
+   "sha256": "b0bdd3f4d1fe727421da27b0243d7f2721656bf45b8eb0be08f440f56d41f01b",
+   "markdown_url": "https://github.com/havaianasdestruido/top100/blob/main/data/TOP_COMMON%20LISP_100.md",
+   "page": "https://havaianasdestruido.github.io/top100/languages/common-lisp.html",
    "exists": true
   }
  ]

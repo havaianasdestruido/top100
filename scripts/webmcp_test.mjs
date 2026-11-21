@@ -610,7 +610,7 @@ async function testTools() {
     "get_language_stats finds a language by display name");
   ok(String(stats.data.jsonl_sha256).length === 64, "stats include a checksum");
 
-  const notFound = await call("get_language_stats", { language: "cobol" });
+  const notFound = await call("get_language_stats", { language: "not-a-language" });
   ok(notFound.ok === false && notFound.error.code === "NOT_FOUND", "unknown language → NOT_FOUND");
 
   const search = await call("search_repositories", { query: "web framework", language: "python" });
