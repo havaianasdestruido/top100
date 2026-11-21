@@ -1,6 +1,6 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,108** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,109** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|

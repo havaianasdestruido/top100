@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 5 | [oldratlee/translations](https://github.com/oldratlee/translations) | 6,911 | 1,525 | 27 | NOASSERTION | 2025-03-09 | 🐼  Chinese translations for classic software development resources |
 | 6 | [carp-lang/Carp](https://github.com/carp-lang/Carp) | 6,106 | 190 | 148 | Apache-2.0 | 2026-11-04 | A statically typed lisp, without a GC, for real-time applications. |
 | 7 | [hylang/hy](https://github.com/hylang/hy) | 5,445 | 383 | 10 | NOASSERTION | 2026-11-15 | A dialect of Lisp that's embedded in Python |
-| 8 | [janet-lang/janet](https://github.com/janet-lang/janet) | 4,492 | 284 | 67 | MIT | 2026-11-21 | A dynamic language and bytecode vm |
+| 8 | [janet-lang/janet](https://github.com/janet-lang/janet) | 4,493 | 284 | 67 | MIT | 2026-11-21 | A dynamic language and bytecode vm |
 | 9 | [froggey/Mezzano](https://github.com/froggey/Mezzano) | 3,918 | 206 | 13 | MIT | 2026-11-08 | An operating system written in Common Lisp |
 | 10 | [open-goal/jak-project](https://github.com/open-goal/jak-project) | 3,666 | 268 | 200 | ISC | 2026-11-17 | Reviving the language that brought us the Jak & Daxter Series |
 | 11 | [jank-lang/jank](https://github.com/jank-lang/jank) | 3,411 | 138 | 98 | MPL-2.0 | 2026-11-20 | jank is the native Clojure dialect with seamless C++ interop. |
