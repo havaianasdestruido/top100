@@ -1,14 +1,14 @@
 # Top 100 Crystal repositories on GitHub
 
-Ranked by stars. GitHub reports **10,692** total repositories matching `language:Crystal`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,694** total repositories matching `language:Crystal`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [iv-org/invidious](https://github.com/iv-org/invidious) | 26,108 | 2,926 | 480 | AGPL-3.0 | 2026-11-20 | Invidious is an alternative front-end to YouTube |
-| 2 | [crystal-lang/crystal](https://github.com/crystal-lang/crystal) | 20,515 | 1,810 | 2,156 | Apache-2.0 | 2026-11-20 | The Crystal Programming Language |
+| 1 | [iv-org/invidious](https://github.com/iv-org/invidious) | 26,111 | 2,926 | 480 | AGPL-3.0 | 2026-11-20 | Invidious is an alternative front-end to YouTube |
+| 2 | [crystal-lang/crystal](https://github.com/crystal-lang/crystal) | 20,515 | 1,810 | 2,157 | Apache-2.0 | 2026-11-20 | The Crystal Programming Language |
 | 3 | [mint-lang/mint](https://github.com/mint-lang/mint) | 4,271 | 152 | 12 | BSD-3-Clause | 2026-11-10 | 🍃 A refreshing programming language for the front-end web. |
 | 4 | [kemalcr/kemal](https://github.com/kemalcr/kemal) | 3,935 | 207 | 4 | MIT | 2026-11-18 | Fast, Effective, Simple Web Framework |
-| 5 | [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) | 3,736 | 231 | 10 | MIT | 2026-11-20 | The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud |
+| 5 | [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) | 3,735 | 231 | 3 | MIT | 2026-11-21 | The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud |
 | 6 | [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) | 3,576 | 332 | 1 | MIT | 2026-10-20 | :gem: A collection of awesome Crystal libraries, tools, frameworks and software |
 | 7 | [luckyframework/lucky](https://github.com/luckyframework/lucky) | 2,735 | 174 | 93 | MIT | 2026-11-21 | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that ... |
 | 8 | [amberframework/amber](https://github.com/amberframework/amber) | 2,605 | 205 | 41 | MIT | 2026-11-21 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyp... |
@@ -71,7 +71,7 @@ Ranked by stars. GitHub reports **10,692** total repositories matching `language
 | 65 | [Axentro/Axentro](https://github.com/Axentro/Axentro) | 191 | 16 | 21 | MIT | 2021-06-03 | To be the go to platform for building dApps quickly and cheaply for business and gaming |
 | 66 | [waterlink/active_record.cr](https://github.com/waterlink/active_record.cr) | 188 | 16 | 15 | MIT | 2017-03-23 | Active Record pattern implementation for Crystal. |
 | 67 | [schovi/baked_file_system](https://github.com/schovi/baked_file_system) | 187 | 22 | 1 | MIT | 2026-08-01 | Virtual File System for Crystal language. Embedding your assets into final binary. |
-| 68 | [lfn-cnti/testsuite](https://github.com/lfn-cnti/testsuite) | 187 | 76 | 61 | Apache-2.0 | 2026-11-20 | 📞📱☎️📡🌐 Cloud Native Telecom Initiative (CNTi) Test Suite is a tool to check for and provide feedback on the use of K8... |
+| 68 | [lfn-cnti/testsuite](https://github.com/lfn-cnti/testsuite) | 187 | 76 | 63 | Apache-2.0 | 2026-11-21 | 📞📱☎️📡🌐 Cloud Native Telecom Initiative (CNTi) Test Suite is a tool to check for and provide feedback on the use of K8... |
 | 69 | [hahwul/deadfinder](https://github.com/hahwul/deadfinder) | 185 | 12 | 0 | MIT | 2026-11-21 | 🏴‍☠️ Find dead-links (broken links) |
 | 70 | [watzon/marionette](https://github.com/watzon/marionette) | 183 | 16 | 2 | MIT | 2023-11-23 | Selenium alternative for Crystal. Browser manipulation without the Java overhead. |
 | 71 | [luckyframework/avram](https://github.com/luckyframework/avram) | 183 | 67 | 217 | MIT | 2026-11-20 | A Crystal database wrapper for reading, writing, and migrating Postgres databases. |

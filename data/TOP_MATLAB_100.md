@@ -1,6 +1,6 @@
 # Top 100 MATLAB repositories on GitHub
 
-Ranked by stars. GitHub reports **509,964** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **509,985** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Ranked by stars. GitHub reports **509,964** total repositories matching `languag
 | 30 | [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) | 1,257 | 270 | 19 | BSD-2-Clause | 2023-12-13 | Apply and save color schemes in MATLAB with ease. |
 | 31 | [daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN) | 1,245 | 532 | 30 | NOASSERTION | 2017-05-05 | R-FCN: Object Detection via Region-based Fully Convolutional Networks |
 | 32 | [Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | 1,225 | 157 | 14 | — | 2026-08-05 | Deep Learning-based Image Fusion: A Survey |
-| 33 | [atinesh/Coursera-Machine-Learning-Stanford](https://github.com/atinesh/Coursera-Machine-Learning-Stanford) | 1,185 | 742 | 5 | — | 2026-06-06 | Machine learning-Stanford University |
+| 33 | [atinesh/Coursera-Machine-Learning-Stanford](https://github.com/atinesh/Coursera-Machine-Learning-Stanford) | 1,186 | 742 | 5 | — | 2026-06-06 | Machine learning-Stanford University |
 | 34 | [VipaiLab/Signals-and-Systems-course](https://github.com/VipaiLab/Signals-and-Systems-course) | 1,149 | 205 | 0 | — | 2022-07-16 | 浙江大学信电学院2022信号与系统课程资料 |
 | 35 | [peiyunh/tiny](https://github.com/peiyunh/tiny) | 1,145 | 310 | 5 | NOASSERTION | 2020-03-21 | Tiny Face Detector, CVPR 2017 |
 | 36 | [yrlu/quadrotor](https://github.com/yrlu/quadrotor) | 1,130 | 301 | 10 | — | 2024-05-05 | Quadrotor control, path planning and trajectory optimization |
@@ -61,7 +61,7 @@ Ranked by stars. GitHub reports **509,964** total repositories matching `languag
 | 55 | [pdollar/edges](https://github.com/pdollar/edges) | 837 | 359 | 18 | NOASSERTION | 2019-12-02 | Structured Edge Detection Toolbox |
 | 56 | [schneems/Octave](https://github.com/schneems/Octave) | 830 | 492 | 16 | NOASSERTION | 2021-07-02 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course |
 | 57 | [piermorel/gramm](https://github.com/piermorel/gramm) | 827 | 223 | 11 | MIT | 2026-11-18 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to pro... |
-| 58 | [CERN/TIGRE](https://github.com/CERN/TIGRE) | 824 | 274 | 62 | BSD-3-Clause | 2026-11-21 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
+| 58 | [CERN/TIGRE](https://github.com/CERN/TIGRE) | 824 | 274 | 63 | BSD-3-Clause | 2026-11-21 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
 | 59 | [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) | 812 | 96 | 0 | MIT | 2026-11-10 | [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveN... |
 | 60 | [sccn/eeglab](https://github.com/sccn/eeglab) | 811 | 279 | 74 | NOASSERTION | 2026-11-07 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and develop... |
 | 61 | [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning) | 797 | 312 | 0 | MIT | 2019-08-28 | Coursera Machine Learning By Prof. Andrew Ng |

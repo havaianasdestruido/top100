@@ -1,6 +1,6 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,580** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,603** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@ Ranked by stars. GitHub reports **302,580** total repositories matching `languag
 | 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,849 | 1,491 | 5 | Apache-2.0 | 2026-11-21 | Reproduce DeFi hacked incidents using Foundry. |
 | 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,823 | 1,456 | 29 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
 | 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,295 | 704 | 130 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
-| 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,400 | 501 | 48 | MIT | 2026-10-20 | Optimized Solidity snippets. |
+| 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,400 | 502 | 48 | MIT | 2026-10-20 | Optimized Solidity snippets. |
 | 9 | [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,325 | 524 | 2 | MIT | 2024-04-19 | A compilation of patterns and best practices for the smart contract programming language Solidity |
 | 10 | [lens-protocol/core](https://github.com/lens-protocol/core) | 2,836 | 878 | 9 | MIT | 2025-09-18 | The Lens Protocol |
 | 11 | [Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash) | 2,722 | 589 | 0 | MIT | 2022-04-10 | Cash system for AIR. |
@@ -41,7 +41,7 @@ Ranked by stars. GitHub reports **302,580** total repositories matching `languag
 | 35 | [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) | 1,156 | 372 | 32 | Apache-2.0 | 2023-08-21 | Basic string utilities for Solidity |
 | 36 | [minaminao/ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 1,104 | 83 | 0 | — | 2025-10-09 | A summary and solutions for 200+ CTF blockchain challenges |
 | 37 | [thirdweb-dev/contracts](https://github.com/thirdweb-dev/contracts) | 1,086 | 576 | 48 | Apache-2.0 | 2026-05-25 | Collection of smart contracts deployable via thirdweb |
-| 38 | [foundry-rs/forge-std](https://github.com/foundry-rs/forge-std) | 1,066 | 542 | 34 | Apache-2.0 | 2026-11-16 | A collection of helpful contracts and libraries for use with Forge and Foundry |
+| 38 | [foundry-rs/forge-std](https://github.com/foundry-rs/forge-std) | 1,066 | 541 | 34 | Apache-2.0 | 2026-11-16 | A collection of helpful contracts and libraries for use with Forge and Foundry |
 | 39 | [fulldecent/erc721](https://github.com/fulldecent/erc721) | 1,044 | 389 | 5 | MIT | 2026-11-15 | The reference implementation of the ERC-721 non-fungible token standard. |
 | 40 | [studydefi/money-legos](https://github.com/studydefi/money-legos) | 1,028 | 214 | 42 | MIT | 2024-12-09 | 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces! |
 | 41 | [PaulRBerg/prb-math](https://github.com/PaulRBerg/prb-math) | 1,007 | 149 | 22 | MIT | 2026-11-13 | Solidity library for advanced fixed-point math |
@@ -55,7 +55,7 @@ Ranked by stars. GitHub reports **302,580** total repositories matching `languag
 | 49 | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | 838 | 457 | 36 | AGPL-3.0 | 2023-10-01 | Dai Stablecoin System |
 | 50 | [HashLips/hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 826 | 645 | 57 | MIT | 2022-10-23 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. |
 | 51 | [luyishisi/shisi.eth-in-web3](https://github.com/luyishisi/shisi.eth-in-web3) | 825 | 335 | 1 | BSD-2-Clause | 2026-02-12 | 十四君公众号文章的相关代码资源开源 |
-| 52 | [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) | 824 | 481 | 17 | Apache-2.0 | 2026-11-19 | Official repository for core projects comprising the Celo platform |
+| 52 | [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) | 824 | 482 | 17 | Apache-2.0 | 2026-11-19 | Official repository for core projects comprising the Celo platform |
 | 53 | [xtblock/xtt](https://github.com/xtblock/xtt) | 819 | 60 | 13 | — | 2022-07-05 | XTblock Token - Smart Contracts |
 | 54 | [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 806 | 395 | 14 | MIT | 2024-04-24 |  |
 | 55 | [provable-things/ethereum-api](https://github.com/provable-things/ethereum-api) | 799 | 428 | 18 | MIT | 2024-06-08 | Provable API for Ethereum smart contracts |

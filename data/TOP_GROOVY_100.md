@@ -1,11 +1,11 @@
 # Top 100 Groovy repositories on GitHub
 
-Ranked by stars. GitHub reports **111,896** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **111,900** total repositories matching `language:Groovy`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,936 | 5,260 | 3,491 | Apache-2.0 | 2026-11-21 | Adaptable, fast automation for all |
-| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,739 | 2,423 | 30 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
+| 1 | [gradle/gradle](https://github.com/gradle/gradle) | 18,938 | 5,259 | 3,493 | Apache-2.0 | 2026-11-21 | Adaptable, fast automation for all |
+| 2 | [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) | 9,738 | 2,422 | 30 | — | 2024-07-12 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenSta... |
 | 3 | [rundeck/rundeck](https://github.com/rundeck/rundeck) | 6,382 | 992 | 70 | Apache-2.0 | 2026-11-20 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 4 | [apache/groovy](https://github.com/apache/groovy) | 5,487 | 1,917 | 45 | Apache-2.0 | 2026-11-21 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
 | 5 | [jenkinsci/pipeline-examples](https://github.com/jenkinsci/pipeline-examples) | 4,281 | 3,560 | 15 | MIT | 2023-08-31 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
@@ -13,7 +13,7 @@ Ranked by stars. GitHub reports **111,896** total repositories matching `languag
 | 7 | [HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) | 3,948 | 570 | 153 | Apache-2.0 | 2021-09-15 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
 | 8 | [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) | 3,530 | 824 | 422 | Apache-2.0 | 2026-11-21 | A workflow language for data-driven computational pipelines |
 | 9 | [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) | 3,285 | 702 | 166 | MIT | 2024-07-25 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
-| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,941 | 980 | 959 | Apache-2.0 | 2026-11-21 | Grails - the Web Application Framework |
+| 10 | [apache/grails-core](https://github.com/apache/grails-core) | 2,941 | 980 | 962 | Apache-2.0 | 2026-11-21 | Grails - the Web Application Framework |
 | 11 | [SmartThingsCommunity/SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic) | 2,671 | 85,860 | 2,502 | — | 2023-07-18 | SmartThings open-source DeviceType Handlers and SmartApps code |
 | 12 | [Netflix/asgard](https://github.com/Netflix/asgard) | 2,223 | 389 | 15 | Apache-2.0 | 2023-04-10 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments a... |
 | 13 | [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) | 1,923 | 821 | 187 | Apache-2.0 | 2026-11-17 | A Groovy DSL for Jenkins Jobs |
@@ -35,12 +35,12 @@ Ranked by stars. GitHub reports **111,896** total repositories matching `languag
 | 29 | [atcol/docker-registry-ui](https://github.com/atcol/docker-registry-ui) | 891 | 146 | 37 | GPL-3.0 | 2023-01-17 | A web frontend/UI for easy private/local Docker Registry integration |
 | 30 | [researchgate/gradle-release](https://github.com/researchgate/gradle-release) | 889 | 218 | 136 | MIT | 2026-10-24 | gradle-release is a plugin for providing a Maven-like release process for projects using Gradle |
 | 31 | [radarsh/gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) | 886 | 40 | 36 | Apache-2.0 | 2026-03-15 | A Gradle plugin for printing beautiful logs on the console while running tests |
-| 32 | [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) | 878 | 242 | 309 | MIT | 2026-10-29 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation |
+| 32 | [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) | 878 | 242 | 311 | MIT | 2026-10-29 | a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation |
 | 33 | [srs/gradle-node-plugin](https://github.com/srs/gradle-node-plugin) | 862 | 202 | 187 | Apache-2.0 | 2021-03-25 | Gradle plugin for integrating NodeJS in your build. :rocket: |
 | 34 | [geerlingguy/ansible-role-jenkins](https://github.com/geerlingguy/ansible-role-jenkins) | 850 | 755 | 4 | MIT | 2026-09-08 | Ansible Role - Jenkins CI |
 | 35 | [groovy/groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) | 845 | 115 | 5 | Apache-2.0 | 2020-03-23 | A Gradle plugin to support the Groovy language for building Android apps |
 | 36 | [marcelbirkner/docker-ci-tool-stack](https://github.com/marcelbirkner/docker-ci-tool-stack) | 819 | 582 | 9 | MIT | 2020-12-13 | Docker Infrastructure via docker-compose (Jenkins, SonarQube, Nexus, GitLab, Selenium Grid) |
-| 37 | [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) | 794 | 91 | 122 | Apache-2.0 | 2026-11-03 | A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradl... |
+| 37 | [nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin) | 794 | 92 | 123 | Apache-2.0 | 2026-11-03 | A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradl... |
 | 38 | [chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin) | 791 | 99 | 0 | — | 2022-02-21 | 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。 |
 | 39 | [spockframework/spock-example](https://github.com/spockframework/spock-example) | 786 | 504 | 11 | Apache-2.0 | 2026-11-20 | Spock example specifications along with ready-to-go Gradle and Maven builds |
 | 40 | [airbnb/okreplay](https://github.com/airbnb/okreplay) | 785 | 71 | 23 | Apache-2.0 | 2022-08-29 | 📼 Record and replay OkHttp network interaction in your tests. |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **111,896** total repositories matching `languag
 | 97 | [tonesto7/nest-manager](https://github.com/tonesto7/nest-manager) | 388 | 2,100 | 83 | NOASSERTION | 2021-08-22 | NST Manager (SmartThings) |
 | 98 | [dependency-check/dependency-check-gradle](https://github.com/dependency-check/dependency-check-gradle) | 386 | 99 | 18 | Apache-2.0 | 2026-11-20 | The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor depe... |
 | 99 | [tangpj/calces-gradle-plugin](https://github.com/tangpj/calces-gradle-plugin) | 385 | 47 | 0 | — | 2021-02-03 | Android构建工具集：包含快速实现组件化构建脚本，快速实现屏幕最小宽度适配脚本 |
-| 100 | [jk1/Gradle-License-Report](https://github.com/jk1/Gradle-License-Report) | 383 | 108 | 61 | Apache-2.0 | 2026-11-01 | A plugin for generating reports about the licenses of third party software using Gradle |
+| 100 | [jk1/Gradle-License-Report](https://github.com/jk1/Gradle-License-Report) | 383 | 109 | 61 | Apache-2.0 | 2026-11-21 | A plugin for generating reports about the licenses of third party software using Gradle |

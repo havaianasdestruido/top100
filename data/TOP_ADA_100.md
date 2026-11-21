@@ -1,10 +1,10 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,635** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,640** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 536 | 65 | 56 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
+| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 65 | 56 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
 | 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 481 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 422 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
@@ -19,11 +19,11 @@ Ranked by stars. GitHub reports **10,635** total repositories matching `language
 | 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 8 | MIT | 2026-11-17 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
 | 14 | [AdaCore/libadalang](https://github.com/AdaCore/libadalang) | 173 | 48 | 21 | NOASSERTION | 2026-11-20 | Ada semantic analysis library. |
 | 15 | [tofgarion/spark-by-example](https://github.com/tofgarion/spark-by-example) | 168 | 19 | 2 | — | 2022-08-16 | SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is a formally verif... |
-| 16 | [AdaCore/aws](https://github.com/AdaCore/aws) | 164 | 49 | 41 | NOASSERTION | 2026-11-19 | AWS is a complete framework to develop Web based applications in Ada. |
+| 16 | [AdaCore/aws](https://github.com/AdaCore/aws) | 165 | 49 | 41 | NOASSERTION | 2026-11-19 | AWS is a complete framework to develop Web based applications in Ada. |
 | 17 | [rod-chapman/SPARKNaCl](https://github.com/rod-chapman/SPARKNaCl) | 141 | 15 | 5 | BSD-3-Clause | 2026-10-21 | SPARK 2014 re-implementation of the TweetNaCl crypto library |
 | 18 | [ada-game-framework/sdlada](https://github.com/ada-game-framework/sdlada) | 135 | 39 | 25 | Zlib | 2026-07-17 | Ada 2022 bindings to SDL 2 |
 | 19 | [AdaCore/RecordFlux](https://github.com/AdaCore/RecordFlux) | 131 | 10 | 186 | Apache-2.0 | 2026-10-01 | Formal specification and generation of verifiable binary parsers, message generators and protocol state machines |
-| 20 | [joular/powerjoular](https://github.com/joular/powerjoular) | 127 | 24 | 3 | GPL-3.0 | 2026-11-15 | PowerJoular monitors power consumption of multiple platforms, processes and applications, on Windows, Linux,  macOS a... |
+| 20 | [joular/powerjoular](https://github.com/joular/powerjoular) | 128 | 24 | 3 | GPL-3.0 | 2026-11-15 | PowerJoular monitors power consumption of multiple platforms, processes and applications, on Windows, Linux,  macOS a... |
 | 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 22 | CC-BY-4.0 | 2026-11-20 | Sources for learn.adacore.com |
 | 22 | [Lucretia/tamp](https://github.com/Lucretia/tamp) | 116 | 16 | 0 | — | 2015-05-13 | The Ada Microkernel Project |
 | 23 | [stcarrez/ada-awa](https://github.com/stcarrez/ada-awa) | 114 | 13 | 13 | Apache-2.0 | 2026-11-15 | Ada Web Application - Framework to build high performance secure web applications |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **10,635** total repositories matching `language
 | 37 | [simonjwright/FreeRTOS-Ada](https://github.com/simonjwright/FreeRTOS-Ada) | 81 | 18 | 7 | GPL-3.0 | 2025-03-18 | This project contains various GNAT Ada Run Time Systems (RTSs) based on FreeRTOS for MCUs: the Arduino Due, the STM32... |
 | 38 | [Prunt3D/prunt](https://github.com/Prunt3D/prunt) | 81 | 6 | 17 | MIT | 2026-11-16 | An advanced motion control system targetted at 3D printers. |
 | 39 | [wookey-project/ewok-kernel](https://github.com/wookey-project/ewok-kernel) | 79 | 10 | 2 | Apache-2.0 | 2021-05-27 | A secure and high performances microkernel for building secure MCU-based IoTs |
-| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 46 | GPL-3.0 | 2026-11-20 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
+| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 46 | GPL-3.0 | 2026-11-21 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
 | 41 | [OpenAADL/ocarina](https://github.com/OpenAADL/ocarina) | 77 | 33 | 48 | NOASSERTION | 2022-03-23 | AADL model processor: mappings to code (C, Ada); Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL |
 | 42 | [GeneralZDS/FPGA-DCNN-Accelerator](https://github.com/GeneralZDS/FPGA-DCNN-Accelerator) | 74 | 15 | 5 | — | 2019-06-11 | 基于HLS的高效深度卷积神经网络FPGA实现方法 |
 | 43 | [AdaCore/bb-runtimes](https://github.com/AdaCore/bb-runtimes) | 72 | 66 | 7 | NOASSERTION | 2026-11-20 | Source repository for the GNAT Bare Metal BSPs |
@@ -69,10 +69,10 @@ Ranked by stars. GitHub reports **10,635** total repositories matching `language
 | 63 | [onox/json-ada](https://github.com/onox/json-ada) | 48 | 8 | 5 | Apache-2.0 | 2024-07-28 | An Ada 2012 library for parsing JSON |
 | 64 | [Nikokrock/ada-lua](https://github.com/Nikokrock/ada-lua) | 46 | 8 | 0 | MIT | 2023-12-11 | An Ada binding for Lua. |
 | 65 | [alire-project/ada_spark_workflow](https://github.com/alire-project/ada_spark_workflow) | 46 | 6 | 7 | MIT | 2024-10-26 | A demo of best practices for open-source Ada/SPARK development |
-| 66 | [JeremyGrosser/rp2040_hal](https://github.com/JeremyGrosser/rp2040_hal) | 46 | 16 | 11 | BSD-3-Clause | 2026-11-16 | Ada drivers for the Raspberry Pi RP2040 SoC |
-| 67 | [jrcarter/Ada_GUI](https://github.com/jrcarter/Ada_GUI) | 46 | 4 | 2 | BSD-3-Clause | 2026-08-31 | An Ada-oriented GUI |
-| 68 | [reznikmm/protobuf](https://github.com/reznikmm/protobuf) | 45 | 7 | 16 | MIT | 2026-09-21 | The Google Protocol Buffers implementation in Ada |
-| 69 | [dsanson/Words](https://github.com/dsanson/Words) | 45 | 15 | 0 | — | 2011-08-06 | A Latin-English Dictionary Program |
+| 66 | [jrcarter/Ada_GUI](https://github.com/jrcarter/Ada_GUI) | 46 | 4 | 2 | BSD-3-Clause | 2026-08-31 | An Ada-oriented GUI |
+| 67 | [reznikmm/protobuf](https://github.com/reznikmm/protobuf) | 45 | 7 | 16 | MIT | 2026-09-21 | The Google Protocol Buffers implementation in Ada |
+| 68 | [dsanson/Words](https://github.com/dsanson/Words) | 45 | 15 | 0 | — | 2011-08-06 | A Latin-English Dictionary Program |
+| 69 | [JeremyGrosser/rp2040_hal](https://github.com/JeremyGrosser/rp2040_hal) | 45 | 16 | 11 | BSD-3-Clause | 2026-11-16 | Ada drivers for the Raspberry Pi RP2040 SoC |
 | 70 | [AdaCore/training_material](https://github.com/AdaCore/training_material) | 45 | 10 | 0 | CC-BY-4.0 | 2026-11-20 |  |
 | 71 | [mgrojo/ASFML](https://github.com/mgrojo/ASFML) | 44 | 6 | 1 | NOASSERTION | 2026-08-28 | Ada binding to the SFML library |
 | 72 | [zslwyuan/PAAS_V1.0](https://github.com/zslwyuan/PAAS_V1.0) | 44 | 15 | 2 | GPL-3.0 | 2021-09-03 | PAAS: A System Level Simulator for Heterogeneous (CPU-FPGA) Computing Systems |
