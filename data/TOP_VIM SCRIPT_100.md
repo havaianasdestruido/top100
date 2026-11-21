@@ -1,6 +1,6 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,470** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,469** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **3,470** total repositories matching `language:
 | 26 | [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) | 218 | 20 | 0 | — | 2026-11-16 | vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files |
 | 27 | [jamis/fuzzyfinder_textmate](https://github.com/jamis/fuzzyfinder_textmate) | 209 | 27 | 0 | — | 2008-12-31 | A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained n... |
 | 28 | [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) | 200 | 41 | 2 | GPL-3.0 | 2023-04-01 | Another github v3 api implemented in vim script |
-| 29 | [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) | 198 | 9 | 0 | — | 2026-08-02 | My configuration files and personal collection of scripts. |
+| 29 | [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) | 198 | 9 | 0 | — | 2026-11-21 | My configuration files and personal collection of scripts. |
 | 30 | [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) | 187 | 32 | 1 | — | 2026-11-18 | My [NeoVim + Tmux + Fish Shell] Setup /w install scripts |
 | 31 | [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) | 182 | 28 | 63 | — | 2026-05-11 | eskk is pure Vim script implementation of input method engine SKK |
 | 32 | [laktak/tome](https://github.com/laktak/tome) | 178 | 4 | 0 | MIT | 2026-08-22 | 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux) |
