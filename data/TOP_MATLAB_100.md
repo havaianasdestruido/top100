@@ -1,6 +1,6 @@
 # Top 100 MATLAB repositories on GitHub
 
-Ranked by stars. GitHub reports **509,950** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **509,964** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ Ranked by stars. GitHub reports **509,950** total repositories matching `languag
 | 17 | [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 2,028 | 654 | 0 | — | 2020-04-28 | Matlab Coding homework for Machine Learning |
 | 18 | [zhoubolei/CAM](https://github.com/zhoubolei/CAM) | 1,881 | 459 | 21 | MIT | 2022-09-13 | Class Activation Mapping |
 | 19 | [zhihongz/awesome-low-light-image-enhancement](https://github.com/zhihongz/awesome-low-light-image-enhancement) | 1,858 | 238 | 0 | — | 2026-11-02 | This is a resouce list for low light image enhancement |
-| 20 | [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 1,770 | 337 | 264 | BSD-2-Clause | 2026-05-31 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
+| 20 | [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 1,769 | 337 | 264 | BSD-2-Clause | 2026-05-31 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
 | 21 | [cszn/DnCNN](https://github.com/cszn/DnCNN) | 1,745 | 550 | 42 | — | 2021-10-09 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) |
 | 22 | [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1,585 | 464 | 94 | LGPL-2.1 | 2026-10-01 | Robotics Toolbox for MATLAB |
 | 23 | [ecmadao/Coding-Guide](https://github.com/ecmadao/Coding-Guide) | 1,452 | 180 | 1 | Apache-2.0 | 2022-07-12 | 自己随手记录的东西 |

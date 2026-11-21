@@ -1,6 +1,6 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,633** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,635** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **10,633** total repositories matching `language
 | 56 | [AdaCore/gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) | 56 | 36 | 14 | NOASSERTION | 2026-10-27 | GNAT Components Collection – Core packages |
 | 57 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 54 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
 | 58 | [parasail-lang/parasail](https://github.com/parasail-lang/parasail) | 54 | 5 | 2 | Apache-2.0 | 2026-11-20 | Parallel Specification and Implementation Language |
-| 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-20 | A model-based flight software framework for Ada |
+| 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 8 | Apache-2.0 | 2026-11-21 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-15 | Ada-language framework |
 | 61 | [yaml/AdaYaml](https://github.com/yaml/AdaYaml) | 50 | 11 | 5 | MIT | 2026-03-05 | experimental YAML implementation in Ada |
 | 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-20 | GNATcoverage: Coverage Analysis Tool |

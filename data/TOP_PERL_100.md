@@ -1,6 +1,6 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **189,379** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **189,381** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -33,11 +33,11 @@ Ranked by stars. GitHub reports **189,379** total repositories matching `languag
 | 27 | [jfcoz/postgresqltuner](https://github.com/jfcoz/postgresqltuner) | 2,703 | 191 | 11 | GPL-3.0 | 2024-01-08 | Simple script to analyse your PostgreSQL database configuration, and give tuning advice |
 | 28 | [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) | 2,684 | 510 | 13 | MIT | 2025-04-21 | Th3Inspector 🕵️ Best Tool For Information Gathering 🔎 |
 | 29 | [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2,571 | 251 | 3 | GPL-3.0 | 2025-05-04 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds |
-| 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,486 | 720 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
+| 30 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,486 | 721 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 31 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,413 | 339 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
 | 32 | [Perl/perl5](https://github.com/Perl/perl5) | 2,364 | 659 | 2,379 | NOASSERTION | 2026-11-21 | 🐪 The Perl programming language |
 | 33 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,346 | 754 | 75 | MIT | 2018-10-14 |  |
-| 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,275 | 343 | 10 | CC-BY-4.0 | 2026-11-06 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
+| 34 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,275 | 344 | 11 | CC-BY-4.0 | 2026-11-06 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 35 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,203 | 134 | 49 | NOASSERTION | 2026-11-16 | Authentication, authorization, traceability and auditability for SSH accesses. |
 | 36 | [digint/btrbk](https://github.com/digint/btrbk) | 2,183 | 142 | 279 | GPL-3.0 | 2026-07-19 | Tool for creating snapshots and remote backups of btrfs subvolumes |
 | 37 | [munin-monitoring/munin](https://github.com/munin-monitoring/munin) | 2,151 | 485 | 217 | NOASSERTION | 2026-11-11 | Main repository for munin master / node / plugins |
@@ -60,7 +60,7 @@ Ranked by stars. GitHub reports **189,379** total repositories matching `languag
 | 54 | [backuppc/backuppc](https://github.com/backuppc/backuppc) | 1,628 | 207 | 51 | GPL-3.0 | 2026-05-31 | BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk. |
 | 55 | [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 1,594 | 346 | 7 | MIT | 2024-08-10 | Advanced dork Search & Mass Exploit Scanner |
 | 56 | [percona/percona-toolkit](https://github.com/percona/percona-toolkit) | 1,570 | 379 | 39 | GPL-2.0 | 2026-11-16 | Percona Toolkit: a collection of advanced open source command-line tools. |
-| 57 | [OpenKore/openkore](https://github.com/OpenKore/openkore) | 1,545 | 1,231 | 57 | NOASSERTION | 2026-11-21 | A free/open source client and automation tool for Ragnarok Online |
+| 57 | [OpenKore/openkore](https://github.com/OpenKore/openkore) | 1,545 | 1,231 | 58 | NOASSERTION | 2026-11-21 | A free/open source client and automation tool for Ragnarok Online |
 | 58 | [yoshinorim/mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 1,509 | 505 | 74 | GPL-2.0 | 2020-08-14 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part |
 | 59 | [mrash/fwknop](https://github.com/mrash/fwknop) | 1,497 | 259 | 126 | GPL-2.0 | 2026-06-01 | Single Packet Authorization > Port Knocking |
 | 60 | [beyondgrep/ack2](https://github.com/beyondgrep/ack2) | 1,463 | 138 | 9 | NOASSERTION | 2019-03-19 | **ack 2 is no longer being maintained.  ack 3 is the latest version.** |

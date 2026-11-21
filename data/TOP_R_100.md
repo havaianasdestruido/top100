@@ -1,6 +1,6 @@
 # Top 100 R repositories on GitHub
 
-Ranked by stars. GitHub reports **1,158,673** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **1,158,694** total repositories matching `language:R`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -22,9 +22,9 @@ Ranked by stars. GitHub reports **1,158,673** total repositories matching `langu
 | 16 | [thomasp85/patchwork](https://github.com/thomasp85/patchwork) | 2,619 | 170 | 82 | NOASSERTION | 2025-08-25 | The Composer of ggplots |
 | 17 | [r-lib/devtools](https://github.com/r-lib/devtools) | 2,527 | 761 | 9 | NOASSERTION | 2026-11-18 | Tools to make an R developer's life easier |
 | 18 | [yihui/knitr](https://github.com/yihui/knitr) | 2,473 | 876 | 4 | — | 2026-11-02 | A general-purpose tool for dynamic report generation in R |
-| 19 | [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) | 2,436 | 633 | 289 | — | 2026-11-20 | Statistical Rethinking course and book package |
+| 19 | [rmcelreath/rethinking](https://github.com/rmcelreath/rethinking) | 2,437 | 633 | 289 | — | 2026-11-20 | Statistical Rethinking course and book package |
 | 20 | [rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023) | 2,386 | 268 | 13 | CC0-1.0 | 2023-11-28 | Statistical Rethinking Course for Jan-Mar 2023 |
-| 21 | [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 2,208 | 199 | 1 | NOASSERTION | 2026-11-21 | Enhancing {ggplot2} plots with statistical analysis 📊📣 |
+| 21 | [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) | 2,208 | 199 | 0 | NOASSERTION | 2026-11-21 | Enhancing {ggplot2} plots with statistical analysis 📊📣 |
 | 22 | [tylermorganwall/rayshader](https://github.com/tylermorganwall/rayshader) | 2,189 | 222 | 52 | — | 2026-11-16 | R Package for 2D and 3D mapping and data visualization |
 | 23 | [genomicsclass/labs](https://github.com/genomicsclass/labs) | 2,181 | 1,946 | 23 | MIT | 2024-02-12 | Rmd source files for the HarvardX series PH525x |
 | 24 | [karthik/wesanderson](https://github.com/karthik/wesanderson) | 2,177 | 152 | 22 | NOASSERTION | 2026-11-10 | A Wes Anderson color palette for R |

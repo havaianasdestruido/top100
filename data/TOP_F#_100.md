@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **35,620** total repositories matching `language
 | 26 | [fsprojects/FSharp.Data](https://github.com/fsprojects/FSharp.Data) | 875 | 281 | 9 | NOASSERTION | 2026-11-08 | F# Data: Library for Data Access |
 | 27 | [plotly/Plotly.NET](https://github.com/plotly/Plotly.NET) | 865 | 102 | 46 | MIT | 2026-11-12 | Interactive graphing library for .NET programming languages :chart_with_upwards_trend: |
 | 28 | [fsprojects/fantomas](https://github.com/fsprojects/fantomas) | 836 | 211 | 78 | NOASSERTION | 2026-11-20 | FSharp source code formatter |
-| 29 | [dotnet/performance](https://github.com/dotnet/performance) | 773 | 306 | 267 | MIT | 2026-11-20 | This repo contains benchmarks used for testing the performance of all .NET Runtimes |
+| 29 | [dotnet/performance](https://github.com/dotnet/performance) | 773 | 306 | 267 | MIT | 2026-11-21 | This repo contains benchmarks used for testing the performance of all .NET Runtimes |
 | 30 | [haf/expecto](https://github.com/haf/expecto) | 742 | 99 | 56 | Apache-2.0 | 2026-11-16 | A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone! |
 | 31 | [SaturnFramework/Saturn](https://github.com/SaturnFramework/Saturn) | 726 | 107 | 55 | MIT | 2024-07-31 | Opinionated, web development framework for F# which implements the server-side, functional MVC pattern |
 | 32 | [fsprojects/FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) | 696 | 146 | 10 | Unlicense | 2025-12-20 | Functional programming and other utilities from the original "fsharpx" project |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **35,620** total repositories matching `language
 | 37 | [fsprojects/SQLProvider](https://github.com/fsprojects/SQLProvider) | 626 | 148 | 56 | NOASSERTION | 2026-11-21 | A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD opera... |
 | 38 | [DiffSharp/DiffSharp](https://github.com/DiffSharp/DiffSharp) | 616 | 72 | 35 | BSD-2-Clause | 2026-10-13 | DiffSharp: Differentiable Functional Programming |
 | 39 | [fable-hub/Feliz](https://github.com/fable-hub/Feliz) | 613 | 95 | 2 | MIT | 2026-11-20 | A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F... |
-| 40 | [ScottArbeit/Grace](https://github.com/ScottArbeit/Grace) | 590 | 19 | 56 | MIT | 2026-11-17 | Grace Version Control System |
+| 40 | [ScottArbeit/Grace](https://github.com/ScottArbeit/Grace) | 589 | 19 | 56 | MIT | 2026-11-17 | Grace Version Control System |
 | 41 | [fsharp/fslang-design](https://github.com/fsharp/fslang-design) | 562 | 149 | 49 | — | 2026-11-05 | RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit i... |
 | 42 | [stephan-tolksdorf/fparsec](https://github.com/stephan-tolksdorf/fparsec) | 560 | 46 | 31 | — | 2023-11-13 | A parser combinator library for F# |
 | 43 | [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) | 556 | 67 | 9 | MIT | 2026-11-20 | B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and... |
@@ -51,7 +51,7 @@ Ranked by stars. GitHub reports **35,620** total repositories matching `language
 | 45 | [stkb/Rewrap](https://github.com/stkb/Rewrap) | 552 | 92 | 184 | NOASSERTION | 2024-07-21 | Rewrap extension for VSCode and Visual Studio |
 | 46 | [CompositionalIT/farmer](https://github.com/CompositionalIT/farmer) | 548 | 168 | 70 | MIT | 2026-11-10 | Repeatable Azure deployments with ARM templates - made easy! |
 | 47 | [Hopac/Hopac](https://github.com/Hopac/Hopac) | 538 | 62 | 33 | MIT | 2022-02-24 | http://hopac.github.io/Hopac/Hopac.html |
-| 48 | [SteveGilham/altcover](https://github.com/SteveGilham/altcover) | 534 | 24 | 5 | MIT | 2026-11-18 | Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono |
+| 48 | [SteveGilham/altcover](https://github.com/SteveGilham/altcover) | 534 | 24 | 6 | MIT | 2026-11-18 | Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono |
 | 49 | [swlaschin/DomainModelingMadeFunctional](https://github.com/swlaschin/DomainModelingMadeFunctional) | 533 | 94 | 4 | Apache-2.0 | 2024-07-09 | Extended code samples related to the book "Domain Modeling Made Functional". Buy the book here: https://pragprog.com/... |
 | 50 | [causiq/logary](https://github.com/causiq/logary) | 530 | 67 | 71 | NOASSERTION | 2023-05-18 | Logs and metrics are one! Professional logging, metrics and analytics for your apps. |
 | 51 | [atsapura/CardManagement](https://github.com/atsapura/CardManagement) | 526 | 33 | 1 | — | 2024-03-19 |  |
@@ -70,7 +70,7 @@ Ranked by stars. GitHub reports **35,620** total repositories matching `language
 | 64 | [StationQ/Liquid](https://github.com/StationQ/Liquid) | 450 | 95 | 3 | NOASSERTION | 2018-08-23 | The Language-Integrated Quantum Operations (LIQUi\|>) Simulator |
 | 65 | [ZachBray/FunScript](https://github.com/ZachBray/FunScript) | 444 | 78 | 47 | Apache-2.0 | 2017-02-14 | F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider |
 | 66 | [fsprojects/FsUnit](https://github.com/fsprojects/FsUnit) | 444 | 74 | 6 | MIT | 2026-11-19 | FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. |
-| 67 | [Lanayx/Oxpecker](https://github.com/Lanayx/Oxpecker) | 433 | 24 | 7 | MIT | 2026-11-20 | Backend and Frontend F# frameworks |
+| 67 | [Lanayx/Oxpecker](https://github.com/Lanayx/Oxpecker) | 433 | 24 | 6 | MIT | 2026-11-20 | Backend and Frontend F# frameworks |
 | 68 | [AshleyF/VimSpeak](https://github.com/AshleyF/VimSpeak) | 416 | 30 | 4 | MIT | 2020-09-09 | Speak to your editor. |
 | 69 | [Dzoukr/Dapper.FSharp](https://github.com/Dzoukr/Dapper.FSharp) | 408 | 35 | 15 | MIT | 2026-04-01 | Lightweight F# extension for StackOverflow Dapper with support for MSSQL, MySQL, PostgreSQL, and SQLite |
 | 70 | [fsprojects/FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) | 407 | 74 | 111 | MIT | 2026-11-05 | FSharp implementation of Facebook GraphQL query language. |

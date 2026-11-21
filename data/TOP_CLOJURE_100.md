@@ -1,14 +1,14 @@
 # Top 100 Clojure repositories on GitHub
 
-Ranked by stars. GitHub reports **97,969** total repositories matching `language:Clojure`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **97,970** total repositories matching `language:Clojure`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 82,218 | 3,200 | 430 | OFL-1.1 | 2026-11-18 | Free monospaced font with programming ligatures |
-| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,610 | 4,434 | 922 | MPL-2.0 | 2026-11-21 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
-| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,459 | 7,033 | 4,770 | NOASSERTION | 2026-11-21 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
-| 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45,682 | 2,884 | 935 | AGPL-3.0 | 2026-11-21 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/l... |
-| 5 | [LightTable/LightTable](https://github.com/LightTable/LightTable) | 11,688 | 907 | 181 | MIT | 2022-06-17 | The Light Table IDE ⛺ |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | 62,612 | 4,435 | 922 | MPL-2.0 | 2026-11-21 | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| 3 | [metabase/metabase](https://github.com/metabase/metabase) | 50,461 | 7,033 | 4,770 | NOASSERTION | 2026-11-21 | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_... |
+| 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45,683 | 2,884 | 936 | AGPL-3.0 | 2026-11-21 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/l... |
+| 5 | [LightTable/LightTable](https://github.com/LightTable/LightTable) | 11,688 | 908 | 181 | MIT | 2022-06-17 | The Light Table IDE ⛺ |
 | 6 | [clojure/clojurescript](https://github.com/clojure/clojurescript) | 9,390 | 787 | 9 | EPL-1.0 | 2026-11-12 | Clojure to JS compiler |
 | 7 | [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) | 7,603 | 760 | 70 | — | 2026-11-16 | A framework for distributed systems verification, with fault injection |
 | 8 | [technomancy/leiningen](https://github.com/technomancy/leiningen) | 7,292 | 1,553 | 94 | NOASSERTION | 2026-11-11 | Moved to Codeberg; this is a temporary convenience mirror |
@@ -45,8 +45,8 @@ Ranked by stars. GitHub reports **97,969** total repositories matching `language
 | 39 | [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) | 2,410 | 193 | 43 | EPL-1.0 | 2026-11-12 | ClojureScript compilation made easy |
 | 40 | [incanter/incanter](https://github.com/incanter/incanter) | 2,248 | 283 | 78 | — | 2023-11-10 | Clojure-based, R-like statistical computing and graphics environment for the JVM |
 | 41 | [stuartsierra/component](https://github.com/stuartsierra/component) | 2,168 | 95 | 3 | MIT | 2025-10-25 | Managed lifecycle of stateful objects in Clojure |
-| 42 | [hyperfiddle/electric](https://github.com/hyperfiddle/electric) | 2,145 | 55 | 9 | — | 2026-03-28 | Electric Clojure: full-stack differential dataflow for UI |
-| 43 | [nextjournal/clerk](https://github.com/nextjournal/clerk) | 2,090 | 86 | 80 | ISC | 2026-11-16 | ⚡️ Moldable Live Programming for Clojure |
+| 42 | [hyperfiddle/electric](https://github.com/hyperfiddle/electric) | 2,145 | 55 | 10 | — | 2026-03-28 | Electric Clojure: full-stack differential dataflow for UI |
+| 43 | [nextjournal/clerk](https://github.com/nextjournal/clerk) | 2,091 | 86 | 80 | ISC | 2026-11-16 | ⚡️ Moldable Live Programming for Clojure |
 | 44 | [clojure/core.async](https://github.com/clojure/core.async) | 2,053 | 215 | 2 | EPL-1.0 | 2026-06-12 | Facilities for async programming and communication in Clojure |
 | 45 | [onyx-platform/onyx](https://github.com/onyx-platform/onyx) | 2,049 | 199 | 84 | EPL-1.0 | 2026-09-12 | Distributed, masterless, high performance, fault tolerant data processing |
 | 46 | [seancorfield/honeysql](https://github.com/seancorfield/honeysql) | 1,932 | 181 | 2 | NOASSERTION | 2026-11-21 | Turn Clojure data structures into SQL |

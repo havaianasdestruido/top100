@@ -38,7 +38,7 @@ Ranked by stars. GitHub reports **22,109** total repositories matching `language
 | 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 415 | 44 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
 | 34 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
-| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 401 | 31 | 24 | EPL-2.0 | 2026-11-21 | A Clojure compiler implemented on top of Chez Scheme |
+| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 401 | 31 | 23 | EPL-2.0 | 2026-11-21 | A Clojure compiler implemented on top of Chez Scheme |
 | 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 516 | Apache-2.0 | 2026-11-20 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
 | 38 | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) | 369 | 42 | 0 | MIT | 2021-05-01 | A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013) |

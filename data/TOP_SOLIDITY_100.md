@@ -1,6 +1,6 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,570** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,580** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -60,7 +60,7 @@ Ranked by stars. GitHub reports **302,570** total repositories matching `languag
 | 54 | [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 806 | 395 | 14 | MIT | 2024-04-24 |  |
 | 55 | [provable-things/ethereum-api](https://github.com/provable-things/ethereum-api) | 799 | 428 | 18 | MIT | 2024-06-08 | Provable API for Ethereum smart contracts |
 | 56 | [bnb-chain/bsc-genesis-contract](https://github.com/bnb-chain/bsc-genesis-contract) | 781 | 828 | 16 | NOASSERTION | 2026-09-11 | The genesis contracts of BNB Smart Chain. |
-| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 775 | 1,115 | 353 | CC0-1.0 | 2026-11-20 | The Ethereum Request for Comment repository |
+| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 775 | 1,115 | 354 | CC0-1.0 | 2026-11-20 | The Ethereum Request for Comment repository |
 | 58 | [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) | 759 | 1,485 | 5 | MIT | 2024-07-25 |  |
 | 59 | [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) | 750 | 143 | 11 | NOASSERTION | 2022-08-28 | Smart contracts which are formally verified |
 | 60 | [coinbase/build-onchain-apps](https://github.com/coinbase/build-onchain-apps) | 748 | 149 | 37 | MIT | 2025-02-05 | Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️ |

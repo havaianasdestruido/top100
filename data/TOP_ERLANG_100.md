@@ -1,11 +1,11 @@
 # Top 100 Erlang repositories on GitHub
 
-Ranked by stars. GitHub reports **34,468** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,470** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,584 | 280 | NOASSERTION | 2026-11-20 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,222 | 748 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,362 | 3,222 | 749 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,523 | 1,173 | 61 | ISC | 2026-11-20 | Small, fast, modern HTTP server for Erlang/OTP. |
 | 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,013 | 1,092 | 373 | Apache-2.0 | 2026-11-21 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
 | 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,552 | 225 | NOASSERTION | 2026-11-19 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |

@@ -1,10 +1,10 @@
 # Top 100 Common Lisp repositories on GitHub
 
-Ranked by stars. GitHub reports **34,061** total repositories matching `language:Common Lisp`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,062** total repositories matching `language:Common Lisp`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) | 11,072 | 471 | 110 | — | 2026-11-20 | Nyxt - the hacker's browser. |
+| 1 | [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) | 11,072 | 471 | 110 | — | 2026-11-21 | Nyxt - the hacker's browser. |
 | 2 | [kanaka/mal](https://github.com/kanaka/mal) | 10,769 | 2,719 | 58 | NOASSERTION | 2025-10-22 | mal - Make a Lisp |
 | 3 | [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) | 9,978 | 688 | 10 | CC0-1.0 | 2026-10-26 | Cool open source projects. Choose your project and get involved in Open Source development now. |
 | 4 | [norvig/paip-lisp](https://github.com/norvig/paip-lisp) | 7,528 | 721 | 35 | MIT | 2024-10-15 | Lisp code for the textbook "Paradigms of Artificial Intelligence Programming" |
@@ -15,7 +15,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 9 | [froggey/Mezzano](https://github.com/froggey/Mezzano) | 3,918 | 206 | 13 | MIT | 2026-11-08 | An operating system written in Common Lisp |
 | 10 | [open-goal/jak-project](https://github.com/open-goal/jak-project) | 3,666 | 268 | 200 | ISC | 2026-11-17 | Reviving the language that brought us the Jak & Daxter Series |
 | 11 | [jank-lang/jank](https://github.com/jank-lang/jank) | 3,411 | 138 | 98 | MPL-2.0 | 2026-11-20 | jank is the native Clojure dialect with seamless C++ interop. |
-| 12 | [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) | 3,286 | 414 | 19 | NOASSERTION | 2025-12-28 | Learn C and build your own programming language in under 1000 lines of code! |
+| 12 | [orangeduck/BuildYourOwnLisp](https://github.com/orangeduck/BuildYourOwnLisp) | 3,287 | 414 | 19 | NOASSERTION | 2025-12-28 | Learn C and build your own programming language in under 1000 lines of code! |
 | 13 | [google/lisp-koans](https://github.com/google/lisp-koans) | 3,185 | 569 | 5 | Apache-2.0 | 2023-04-14 | Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It i... |
 | 14 | [lem-project/lem](https://github.com/lem-project/lem) | 3,080 | 269 | 100 | MIT | 2026-11-21 | General-purpose editor/IDE with high expansibility in Common Lisp |
 | 15 | [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) | 2,997 | 224 | 50 | NOASSERTION | 2026-11-04 | A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff. |
@@ -23,7 +23,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 17 | [IoLanguage/io](https://github.com/IoLanguage/io) | 2,809 | 310 | 22 | NOASSERTION | 2026-11-20 | Io programming language. Inspired by Self, Smalltalk and LISP. |
 | 18 | [clasp-developers/clasp](https://github.com/clasp-developers/clasp) | 2,797 | 156 | 175 | — | 2026-11-20 | clasp Common Lisp environment |
 | 19 | [bakpakin/Fennel](https://github.com/bakpakin/Fennel) | 2,768 | 132 | 4 | MIT | 2026-02-08 | Lua Lisp Language |
-| 20 | [mattwparas/steel](https://github.com/mattwparas/steel) | 2,661 | 148 | 96 | Apache-2.0 | 2026-11-20 | An embedded scheme interpreter in Rust |
+| 20 | [mattwparas/steel](https://github.com/mattwparas/steel) | 2,661 | 148 | 96 | Apache-2.0 | 2026-11-21 | An embedded scheme interpreter in Rust |
 | 21 | [lfe/lfe](https://github.com/lfe/lfe) | 2,459 | 145 | 30 | Apache-2.0 | 2026-10-19 | Lisp Flavoured Erlang (LFE) |
 | 22 | [pixie-lang/pixie](https://github.com/pixie-lang/pixie) | 2,351 | 127 | 55 | GPL-3.0 | 2020-10-28 | A small, fast, native lisp with "magical" powers |
 | 23 | [cosmos72/gomacro](https://github.com/cosmos72/gomacro) | 2,302 | 101 | 49 | MPL-2.0 | 2026-09-01 | Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 28 | [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) | 1,958 | 587 | 26 | MIT | 2026-04-20 | The project where literally anything* goes. |
 | 29 | [Fuco1/smartparens](https://github.com/Fuco1/smartparens) | 1,940 | 200 | 252 | GPL-3.0 | 2026-01-29 | Minor mode for Emacs that deals with parens pairs and tries to be smart about it. |
 | 30 | [roswell/roswell](https://github.com/roswell/roswell) | 1,911 | 132 | 145 | MIT | 2026-11-04 | intended to be a launcher for a major lisp environment that just works. |
-| 31 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 1,816 | 75 | 69 | GPL-3.0 | 2026-11-21 | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-thr... |
+| 31 | [eval-exec/neomacs](https://github.com/eval-exec/neomacs) | 1,816 | 75 | 71 | GPL-3.0 | 2026-11-21 | NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-thr... |
 | 32 | [parinfer/parinfer.js](https://github.com/parinfer/parinfer.js) | 1,808 | 42 | 22 | MIT | 2026-08-08 | Let's simplify the way we write Lisp |
 | 33 | [glycerine/zygomys](https://github.com/glycerine/zygomys) | 1,794 | 84 | 8 | BSD-2-Clause | 2026-10-13 | Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script... |
 | 34 | [coalton-lang/coalton](https://github.com/coalton-lang/coalton) | 1,793 | 114 | 172 | MIT | 2026-11-19 | Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp. |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 42 | [jart/sectorlisp](https://github.com/jart/sectorlisp) | 1,532 | 78 | 5 | ISC | 2026-06-14 | Bootstrapping LISP in a Boot Sector |
 | 43 | [vydd/sketch](https://github.com/vydd/sketch) | 1,505 | 67 | 39 | MIT | 2026-01-18 | A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer gr... |
 | 44 | [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) | 1,480 | 94 | 1 | — | 2022-03-19 | A quick guide to Emacs Lisp programming |
-| 45 | [joaotavora/sly](https://github.com/joaotavora/sly) | 1,447 | 158 | 191 | — | 2026-10-28 | Sylvester the Cat's Common Lisp IDE |
+| 45 | [joaotavora/sly](https://github.com/joaotavora/sly) | 1,447 | 158 | 190 | — | 2026-10-28 | Sylvester the Cat's Common Lisp IDE |
 | 46 | [abo-abo/lispy](https://github.com/abo-abo/lispy) | 1,297 | 145 | 172 | — | 2026-01-23 | Short and sweet LISP editing |
 | 47 | [jiacai2050/sicp](https://github.com/jiacai2050/sicp) | 1,235 | 179 | 13 | — | 2020-01-03 | 📖 SICP 读书笔记，习题解答 |
 | 48 | [hundredrabbits/Ronin](https://github.com/hundredrabbits/Ronin) | 1,233 | 68 | 15 | NOASSERTION | 2025-04-16 | Experimental Graphics Terminal |
@@ -89,7 +89,7 @@ Ranked by stars. GitHub reports **34,061** total repositories matching `language
 | 83 | [rougier/notebook-mode](https://github.com/rougier/notebook-mode) | 674 | 29 | 3 | GPL-3.0 | 2023-07-19 | GNU Emacs notebook mode |
 | 84 | [quelpa/quelpa](https://github.com/quelpa/quelpa) | 673 | 38 | 7 | GPL-3.0 | 2026-07-01 | Build and install your Emacs Lisp packages on-the-fly directly from source |
 | 85 | [phantomics/april](https://github.com/phantomics/april) | 668 | 34 | 25 | Apache-2.0 | 2026-05-29 | The APL programming language (a subset thereof) compiling to Common Lisp. |
-| 86 | [numcl/numcl](https://github.com/numcl/numcl) | 663 | 34 | 24 | NOASSERTION | 2023-10-23 | Numpy clone in Common Lisp |
+| 86 | [numcl/numcl](https://github.com/numcl/numcl) | 663 | 34 | 23 | NOASSERTION | 2023-10-23 | Numpy clone in Common Lisp |
 | 87 | [kaveh808/kons-9](https://github.com/kaveh808/kons-9) | 660 | 36 | 33 | MIT | 2023-11-13 | Common Lisp 3D Graphics Project |
 | 88 | [azzamsa/awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies) | 655 | 47 | 6 | — | 2026-10-27 | Awesome Lisp Companies |
 | 89 | [melisgl/mgl](https://github.com/melisgl/mgl) | 651 | 39 | 6 | MIT | 2026-06-27 | Common Lisp machine learning library. |

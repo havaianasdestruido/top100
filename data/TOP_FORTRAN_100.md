@@ -1,18 +1,18 @@
 # Top 100 Fortran repositories on GitHub
 
-Ranked by stars. GitHub reports **46,927** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **46,928** total repositories matching `language:Fortran`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [Reference-LAPACK/lapack](https://github.com/Reference-LAPACK/lapack) | 1,923 | 524 | 152 | NOASSERTION | 2026-11-21 | LAPACK development repository |
 | 2 | [wrf-model/WRF](https://github.com/wrf-model/WRF) | 1,812 | 903 | 278 | NOASSERTION | 2026-11-21 | The official repository for the Weather Research and Forecasting (WRF) model |
 | 3 | [ElmerCSC/elmerfem](https://github.com/ElmerCSC/elmerfem) | 1,785 | 413 | 98 | NOASSERTION | 2026-11-21 | Official git repository of Elmer FEM software |
-| 4 | [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) | 1,367 | 240 | 317 | MIT | 2026-11-21 | Fortran Standard Library |
+| 4 | [fortran-lang/stdlib](https://github.com/fortran-lang/stdlib) | 1,367 | 240 | 316 | MIT | 2026-11-21 | Fortran Standard Library |
 | 5 | [cp2k/cp2k](https://github.com/cp2k/cp2k) | 1,246 | 524 | 139 | GPL-2.0 | 2026-11-21 | Quantum chemistry and solid state physics software package |
-| 6 | [fortran-lang/fpm](https://github.com/fortran-lang/fpm) | 1,082 | 148 | 257 | MIT | 2026-11-20 | Fortran Package Manager (fpm) |
+| 6 | [fortran-lang/fpm](https://github.com/fortran-lang/fpm) | 1,083 | 148 | 257 | MIT | 2026-11-20 | Fortran Package Manager (fpm) |
 | 7 | [OpenFAST/openfast](https://github.com/OpenFAST/openfast) | 991 | 552 | 591 | Apache-2.0 | 2026-11-20 | Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. |
 | 8 | [firemodels/fds](https://github.com/firemodels/fds) | 921 | 700 | 41 | NOASSERTION | 2026-11-20 | Fire Dynamics Simulator |
-| 9 | [grimme-lab/xtb](https://github.com/grimme-lab/xtb) | 888 | 220 | 97 | LGPL-3.0 | 2026-11-20 | Semiempirical Extended Tight-Binding Program Package |
+| 9 | [grimme-lab/xtb](https://github.com/grimme-lab/xtb) | 887 | 220 | 98 | LGPL-3.0 | 2026-11-20 | Semiempirical Extended Tight-Binding Program Package |
 | 10 | [pymc-devs/pymc2](https://github.com/pymc-devs/pymc2) | 876 | 224 | 18 | NOASSERTION | 2020-07-30 | THIS IS THE **OLD** PYMC PROJECT (VERSION 2). PLEASE USE PYMC INSTEAD: |
 | 11 | [mapmeld/fortran-machine](https://github.com/mapmeld/fortran-machine) | 811 | 44 | 2 | BSD-3-Clause | 2021-09-14 | Finally a Fortran MVC web platform |
 | 12 | [QEF/q-e](https://github.com/QEF/q-e) | 706 | 331 | 0 | GPL-2.0 | 2026-07-09 | Mirror of the Quantum ESPRESSO repository. Please do not post Issues or pull requests here. Use gitlab.com/QEF/q-e in... |
@@ -26,12 +26,12 @@ Ranked by stars. GitHub reports **46,927** total repositories matching `language
 | 20 | [OpenCourant/OpenCourant](https://github.com/OpenCourant/OpenCourant) | 446 | 117 | 27 | AGPL-3.0 | 2026-11-19 | Open-source explicit finite element solver for simulating crashes, impacts, explosions, and other dynamic events. |
 | 21 | [dftbplus/dftbplus](https://github.com/dftbplus/dftbplus) | 446 | 194 | 91 | NOASSERTION | 2026-11-20 | DFTB+ general package for performing fast atomistic simulations |
 | 22 | [Foadsf/Cmathtuts](https://github.com/Foadsf/Cmathtuts) | 443 | 47 | 4 | GPL-3.0 | 2026-02-19 | trying to collect all useful tutorials for famous C math and linear algebra libraries such as CBLAS, CLAPACK, GSL... |
-| 23 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 441 | 189 | 205 | MIT | 2026-11-21 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
+| 23 | [MFlowCode/MFC](https://github.com/MFlowCode/MFC) | 441 | 189 | 207 | MIT | 2026-11-21 | Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist \| 200T grid points on 43K+ GPUs |
 | 24 | [wavebitscientific/functional-fortran](https://github.com/wavebitscientific/functional-fortran) | 440 | 41 | 4 | BSD-3-Clause | 2023-02-13 | Functional programming for modern Fortran |
 | 25 | [libprima/prima](https://github.com/libprima/prima) | 420 | 54 | 75 | BSD-3-Clause | 2026-09-11 | PRIMA is a package for solving general nonlinear optimization problems without using derivatives. It provides the ref... |
 | 26 | [scivision/fortran2018-examples](https://github.com/scivision/fortran2018-examples) | 420 | 72 | 0 | MIT | 2026-11-02 | Fortran 2018 standard examples with broad applications |
 | 27 | [MITgcm/MITgcm](https://github.com/MITgcm/MITgcm) | 412 | 299 | 147 | MIT | 2026-11-20 | M.I.T General Circulation Model master code and documentation repository |
-| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 408 | 805 | 303 | NOASSERTION | 2026-11-21 | Collection of builder repositories for BinaryBuilder.jl |
+| 28 | [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) | 408 | 805 | 302 | NOASSERTION | 2026-11-21 | Collection of builder repositories for BinaryBuilder.jl |
 | 29 | [libAtoms/QUIP](https://github.com/libAtoms/QUIP) | 406 | 131 | 119 | — | 2026-08-22 | libAtoms/QUIP molecular dynamics framework: https://libatoms.github.io |
 | 30 | [MODFLOW-ORG/modflow6](https://github.com/MODFLOW-ORG/modflow6) | 391 | 172 | 115 | NOASSERTION | 2026-11-20 | USGS Modular Hydrologic Model |
 | 31 | [FluidityProject/fluidity](https://github.com/FluidityProject/fluidity) | 388 | 120 | 32 | NOASSERTION | 2026-11-16 | Fluidity |
@@ -52,11 +52,11 @@ Ranked by stars. GitHub reports **46,927** total repositories matching `language
 | 46 | [TarletonGroup/CrystalPlasticity](https://github.com/TarletonGroup/CrystalPlasticity) | 332 | 105 | 6 | — | 2026-09-28 | CP UMAT and CZM UEL for Abaqus |
 | 47 | [MPAS-Dev/MPAS-Model](https://github.com/MPAS-Dev/MPAS-Model) | 325 | 438 | 199 | — | 2026-11-18 | Repository for MPAS models and shared framework releases. |
 | 48 | [astrofrog/fortranlib](https://github.com/astrofrog/fortranlib) | 322 | 74 | 2 | BSD-2-Clause | 2026-07-26 | Collection of personal scientific routines in Fortran :book: |
-| 49 | [UnderUk/ewptool](https://github.com/UnderUk/ewptool) | 311 | 59 | 0 | BSD-2-Clause | 2026-07-12 | Productivity tool for populating an IAR Embedded Workbench project |
+| 49 | [UnderUk/ewptool](https://github.com/UnderUk/ewptool) | 313 | 60 | 0 | BSD-2-Clause | 2026-07-12 | Productivity tool for populating an IAR Embedded Workbench project |
 | 50 | [cdslaborg/paramonte](https://github.com/cdslaborg/paramonte) | 307 | 36 | 20 | NOASSERTION | 2026-11-20 | ParaMonte: Parallel Monte Carlo and Machine Learning Library for Python, MATLAB, Fortran, C++, C. |
 | 51 | [ct6502/wavelets](https://github.com/ct6502/wavelets) | 305 | 169 | 4 | MIT | 2022-07-09 | Torrence & Compo Wavelet Analysis Software |
 | 52 | [flexi-framework/flexi](https://github.com/flexi-framework/flexi) | 299 | 77 | 1 | GPL-3.0 | 2026-11-01 | FLEXI: A high order discontinuous Galerkin framework for hyperbolic–parabolic conservation laws |
-| 53 | [vmagnin/gtk-fortran](https://github.com/vmagnin/gtk-fortran) | 289 | 46 | 11 | GPL-3.0 | 2026-11-20 | A GTK / Fortran binding, and its documentation (in the Wiki tab). |
+| 53 | [vmagnin/gtk-fortran](https://github.com/vmagnin/gtk-fortran) | 289 | 46 | 10 | GPL-3.0 | 2026-11-20 | A GTK / Fortran binding, and its documentation (in the Wiki tab). |
 | 54 | [CaNS-World/CaNS](https://github.com/CaNS-World/CaNS) | 280 | 96 | 0 | MIT | 2026-11-20 | A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows |
 | 55 | [sourceryinstitute/OpenCoarrays](https://github.com/sourceryinstitute/OpenCoarrays) | 271 | 58 | 52 | BSD-3-Clause | 2026-11-20 | A parallel application binary interface for Fortran 2018 compilers. |
 | 56 | [Unidata/netcdf-fortran](https://github.com/Unidata/netcdf-fortran) | 271 | 108 | 123 | NOASSERTION | 2026-09-21 | Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library.  Install the netCDF C ... |
