@@ -1,10 +1,10 @@
 # Top 100 MATLAB repositories on GitHub
 
-Ranked by stars. GitHub reports **509,985** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **510,002** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 18,559 | 1,734 | 1 | — | 2026-11-10 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
+| 1 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 18,560 | 1,734 | 1 | — | 2026-11-10 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
 | 2 | [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9,979 | 1,366 | 34 | — | 2021-08-02 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |
 | 3 | [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 7,807 | 1,910 | 361 | NOASSERTION | 2024-06-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit r... |
 | 4 | [PRML/PRMLT](https://github.com/PRML/PRMLT) | 6,205 | 2,118 | 1 | MIT | 2020-03-04 | Matlab code of machine learning algorithms in book PRML |
@@ -15,7 +15,7 @@ Ranked by stars. GitHub reports **509,985** total repositories matching `languag
 | 9 | [kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2,859 | 978 | 48 | MIT | 2022-10-11 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks |
 | 10 | [ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn) | 2,836 | 1,215 | 142 | NOASSERTION | 2018-07-26 | Faster R-CNN |
 | 11 | [googollee/eviltransform](https://github.com/googollee/eviltransform) | 2,596 | 477 | 17 | NOASSERTION | 2024-01-15 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). |
-| 12 | [HuangCongQing/Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) | 2,455 | 533 | 1 | MIT | 2022-12-25 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） |
+| 12 | [HuangCongQing/Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) | 2,456 | 533 | 1 | MIT | 2022-12-25 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） |
 | 13 | [rbgirshick/rcnn](https://github.com/rbgirshick/rcnn) | 2,416 | 968 | 54 | BSD-2-Clause | 2017-04-03 | R-CNN: Regions with Convolutional Neural Network Features |
 | 14 | [dick20/MCM-ICM](https://github.com/dick20/MCM-ICM) | 2,335 | 389 | 2 | — | 2025-07-23 | 2004-2020美赛O奖论文 |
 | 15 | [BIMK/PlatEMO](https://github.com/BIMK/PlatEMO) | 2,229 | 531 | 101 | — | 2026-11-01 | Evolutionary multi-objective optimization platform |
@@ -23,9 +23,9 @@ Ranked by stars. GitHub reports **509,985** total repositories matching `languag
 | 17 | [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 2,028 | 654 | 0 | — | 2020-04-28 | Matlab Coding homework for Machine Learning |
 | 18 | [zhoubolei/CAM](https://github.com/zhoubolei/CAM) | 1,881 | 459 | 21 | MIT | 2022-09-13 | Class Activation Mapping |
 | 19 | [zhihongz/awesome-low-light-image-enhancement](https://github.com/zhihongz/awesome-low-light-image-enhancement) | 1,858 | 238 | 0 | — | 2026-11-02 | This is a resouce list for low light image enhancement |
-| 20 | [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 1,769 | 337 | 264 | BSD-2-Clause | 2026-05-31 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
+| 20 | [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) | 1,770 | 337 | 264 | BSD-2-Clause | 2026-05-31 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
 | 21 | [cszn/DnCNN](https://github.com/cszn/DnCNN) | 1,745 | 550 | 42 | — | 2021-10-09 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) |
-| 22 | [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1,585 | 464 | 94 | LGPL-2.1 | 2026-10-01 | Robotics Toolbox for MATLAB |
+| 22 | [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1,586 | 464 | 94 | LGPL-2.1 | 2026-10-01 | Robotics Toolbox for MATLAB |
 | 23 | [ecmadao/Coding-Guide](https://github.com/ecmadao/Coding-Guide) | 1,452 | 180 | 1 | Apache-2.0 | 2022-07-12 | 自己随手记录的东西 |
 | 24 | [brendenlake/omniglot](https://github.com/brendenlake/omniglot) | 1,424 | 351 | 2 | MIT | 2023-02-01 | Omniglot data set for one-shot learning |
 | 25 | [SPIRIT-org/SPIRIT](https://github.com/SPIRIT-org/SPIRIT) | 1,362 | 61 | 36 | NOASSERTION | 2026-11-17 | Smartphone based on the Raspberry Pi CM 5. |
@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **509,985** total repositories matching `languag
 | 47 | [trekhleb/machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) | 901 | 250 | 0 | MIT | 2025-11-23 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained |
 | 48 | [andrewssobral/lrslibrary](https://github.com/andrewssobral/lrslibrary) | 888 | 377 | 3 | — | 2025-11-22 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos |
 | 49 | [shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D) | 887 | 178 | 23 | — | 2022-02-18 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" |
-| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-20 | Highly comparative time-series analysis |
+| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-21 | Highly comparative time-series analysis |
 | 51 | [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) | 866 | 230 | 32 | — | 2021-06-09 | Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly rec... |
 | 52 | [pdollar/toolbox](https://github.com/pdollar/toolbox) | 861 | 494 | 39 | — | 2019-05-06 | Piotr's Image & Video Matlab Toolbox |
 | 53 | [nanahou/Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) | 842 | 152 | 5 | MIT | 2020-12-01 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s ... |

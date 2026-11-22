@@ -4,29 +4,29 @@ Ranked by stars. GitHub reports **14,323** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [nim-lang/Nim](https://github.com/nim-lang/Nim) | 18,324 | 1,574 | 2,123 | NOASSERTION | 2026-11-21 | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature language... |
-| 2 | [zedeus/nitter](https://github.com/zedeus/nitter) | 14,456 | 1,390 | 153 | AGPL-3.0 | 2026-10-09 | Alternative Twitter front-end |
-| 3 | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | 6,043 | 757 | 0 | Unlicense | 2026-11-21 | Effort free video editing! |
+| 1 | [nim-lang/Nim](https://github.com/nim-lang/Nim) | 18,324 | 1,574 | 2,126 | NOASSERTION | 2026-11-21 | Nim is a statically typed compiled systems programming language. It combines successful concepts from mature language... |
+| 2 | [zedeus/nitter](https://github.com/zedeus/nitter) | 14,455 | 1,388 | 153 | AGPL-3.0 | 2026-10-09 | Alternative Twitter front-end |
+| 3 | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | 6,044 | 757 | 0 | Unlicense | 2026-11-22 | Effort free video editing! |
 | 4 | [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) | 3,090 | 360 | 14 | BSD-2-Clause | 2024-05-13 | My experiments in weaponizing Nim (https://nim-lang.org/) |
 | 5 | [oakes/vim_cubed](https://github.com/oakes/vim_cubed) | 2,729 | 37 | 34 | Unlicense | 2022-04-15 | Vim rendered on a cube for no reason |
 | 6 | [chvancooten/maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies) | 1,838 | 237 | 1 | NOASSERTION | 2023-06-02 | A workshop about Malware Development |
 | 7 | [dom96/jester](https://github.com/dom96/jester) | 1,627 | 123 | 69 | MIT | 2026-07-29 | A sinatra-like web framework for Nim. |
 | 8 | [yglukhov/nimpy](https://github.com/yglukhov/nimpy) | 1,590 | 66 | 34 | MIT | 2026-06-27 | Nim - Python bridge |
-| 9 | [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) | 1,554 | 96 | 20 | CC0-1.0 | 2026-10-13 | A curated list of awesome Nim frameworks, libraries, software and resources. |
+| 9 | [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) | 1,555 | 96 | 20 | CC0-1.0 | 2026-10-13 | A curated list of awesome Nim frameworks, libraries, software and resources. |
 | 10 | [mratsim/Arraymancer](https://github.com/mratsim/Arraymancer) | 1,418 | 103 | 165 | Apache-2.0 | 2026-11-01 | A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via... |
 | 11 | [nim-lang/nimble](https://github.com/nim-lang/nimble) | 1,414 | 221 | 263 | NOASSERTION | 2026-11-21 | Package manager for the Nim programming language. |
 | 12 | [planety/prologue](https://github.com/planety/prologue) | 1,358 | 53 | 44 | Apache-2.0 | 2026-09-07 | Powerful and flexible web framework written in Nim |
-| 13 | [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) | 1,309 | 26 | 145 | AGPL-3.0 | 2026-11-21 | CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages. |
+| 13 | [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) | 1,309 | 26 | 145 | AGPL-3.0 | 2026-11-22 | CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages. |
 | 14 | [yglukhov/nimx](https://github.com/yglukhov/nimx) | 1,194 | 78 | 35 | MIT | 2026-07-25 | GUI library |
 | 15 | [karaxnim/karax](https://github.com/karaxnim/karax) | 1,166 | 93 | 15 | MIT | 2026-07-12 | Karax. Single page applications for Nim. |
-| 16 | [juancarlospaco/faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) | 1,131 | 89 | 0 | MIT | 2026-11-19 | Faster requests on Python 3 |
+| 16 | [juancarlospaco/faster-than-requests](https://github.com/juancarlospaco/faster-than-requests) | 1,132 | 89 | 0 | MIT | 2026-11-21 | Faster requests on Python 3 |
 | 17 | [Arc-Compute/LibVF.IO](https://github.com/Arc-Compute/LibVF.IO) | 916 | 44 | 16 | AGPL-3.0 | 2023-11-24 | A vendor neutral GPU multiplexing tool driven by VFIO & YAML. |
 | 18 | [arturo-lang/arturo](https://github.com/arturo-lang/arturo) | 895 | 39 | 475 | MIT | 2026-11-21 | Simple, expressive & portable programming language for efficient scripting |
 | 19 | [tsoding/boomer](https://github.com/tsoding/boomer) | 889 | 74 | 41 | MIT | 2026-05-24 | Zoomer application for Linux |
 | 20 | [brentp/mosdepth](https://github.com/brentp/mosdepth) | 882 | 108 | 49 | MIT | 2026-10-29 | fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing |
 | 21 | [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim) | 826 | 34 | 9 | MIT | 2024-01-29 | A very low memory-footprint, self hosted API-only torrent search engine. Sonarr + Radarr Compatible, native support f... |
 | 22 | [icyguider/Nimcrypt2](https://github.com/icyguider/Nimcrypt2) | 823 | 127 | 8 | GPL-3.0 | 2023-01-20 | .NET, PE, & Raw Shellcode Packer/Loader Written in Nim |
-| 23 | [treeform/pixie](https://github.com/treeform/pixie) | 814 | 39 | 19 | MIT | 2026-11-16 | Full-featured 2d graphics library for Nim. |
+| 23 | [treeform/pixie](https://github.com/treeform/pixie) | 815 | 39 | 19 | MIT | 2026-11-16 | Full-featured 2d graphics library for Nim. |
 | 24 | [treeform/fidget](https://github.com/treeform/fidget) | 805 | 35 | 49 | MIT | 2026-11-15 | Figma based UI library for nim, with HTML and OpenGL backends. |
 | 25 | [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) | 788 | 54 | 65 | MIT | 2026-04-07 | Cross-platform desktop GUI toolkit written in Nim |
 | 26 | [nim-lang/nimforum](https://github.com/nim-lang/nimforum) | 787 | 71 | 134 | MIT | 2026-07-03 | Lightweight alternative to Discourse written in Nim |
@@ -58,7 +58,7 @@ Ranked by stars. GitHub reports **14,323** total repositories matching `language
 | 52 | [chvancooten/NimPackt-v1](https://github.com/chvancooten/NimPackt-v1) | 490 | 74 | 1 | MIT | 2023-02-24 | Nim-based assembly packer and shellcode loader for opsec & profit |
 | 53 | [khaledh/fusion](https://github.com/khaledh/fusion) | 489 | 11 | 1 | MIT | 2025-06-04 | A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev |
 | 54 | [getenu/enu](https://github.com/getenu/enu) | 485 | 13 | 23 | MIT | 2026-11-21 | A Logo-like 3D environment, implemented in Nim |
-| 55 | [nim-lang/nimony](https://github.com/nim-lang/nimony) | 481 | 60 | 51 | MIT | 2026-11-21 | Nimony is a new Nim implementation that is in heavy development. |
+| 55 | [nim-lang/nimony](https://github.com/nim-lang/nimony) | 481 | 60 | 52 | MIT | 2026-11-21 | Nimony is a new Nim implementation that is in heavy development. |
 | 56 | [dom96/httpbeast](https://github.com/dom96/httpbeast) | 476 | 50 | 19 | MIT | 2024-01-07 | A highly performant, multi-threaded HTTP 1.1 server written in Nim. |
 | 57 | [sinkingsugar/nimtorch](https://github.com/sinkingsugar/nimtorch) | 473 | 19 | 11 | MIT | 2019-06-08 | PyTorch - Python + Nim |
 | 58 | [johnnovak/illwill](https://github.com/johnnovak/illwill) | 472 | 34 | 5 | WTFPL | 2026-05-15 | A curses inspired simple cross-platform console library for Nim |
@@ -82,7 +82,7 @@ Ranked by stars. GitHub reports **14,323** total repositories matching `language
 | 76 | [nimterop/nimterop](https://github.com/nimterop/nimterop) | 374 | 42 | 62 | MIT | 2023-04-03 | Nimterop is a Nim package that aims to make C/C++ interop seamless |
 | 77 | [calebwin/pipelines](https://github.com/calebwin/pipelines) | 367 | 9 | 2 | MIT | 2019-10-18 | An experimental programming language for data flow |
 | 78 | [khchen/wNim](https://github.com/khchen/wNim) | 351 | 23 | 35 | MIT | 2024-07-19 | Nim's Windows GUI Framework |
-| 79 | [nim-works/nimskull](https://github.com/nim-works/nimskull) | 349 | 40 | 142 | NOASSERTION | 2026-11-21 | An in development statically typed systems programming language; with sustainability at its core. We, the community o... |
+| 79 | [nim-works/nimskull](https://github.com/nim-works/nimskull) | 349 | 40 | 140 | NOASSERTION | 2026-11-21 | An in development statically typed systems programming language; with sustainability at its core. We, the community o... |
 | 80 | [radkesvat/FakeTlsTunnel](https://github.com/radkesvat/FakeTlsTunnel) | 348 | 49 | 77 | MIT | 2024-07-05 | Tunneling tool for custom tls handshake, with resistance against MiTM,Active detection and more! |
 | 81 | [andreiverse/grc2](https://github.com/andreiverse/grc2) | 344 | 40 | 12 | GPL-3.0 | 2022-11-19 | grim reaper c2 |
 | 82 | [brentp/somalier](https://github.com/brentp/somalier) | 344 | 52 | 63 | MIT | 2026-11-04 | fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy" |
@@ -93,7 +93,7 @@ Ranked by stars. GitHub reports **14,323** total repositories matching `language
 | 87 | [iftech/nim-libp2p](https://github.com/iftech/nim-libp2p) | 329 | 79 | 112 | Apache-2.0 | 2026-11-21 | libp2p implementation in Nim |
 | 88 | [mrgaturus/npainter](https://github.com/mrgaturus/npainter) | 325 | 7 | 7 | NOASSERTION | 2025-06-20 | fast and simple digital painting software |
 | 89 | [avahe-kellenberger/nimdow](https://github.com/avahe-kellenberger/nimdow) | 324 | 18 | 27 | GPL-2.0 | 2026-02-16 | A window manager written in Nim (In Development) |
-| 90 | [nim-lang/langserver](https://github.com/nim-lang/langserver) | 319 | 54 | 53 | MIT | 2026-11-21 | The Nim language server implementation (based on nimsuggest) |
+| 90 | [nim-lang/langserver](https://github.com/nim-lang/langserver) | 320 | 54 | 54 | MIT | 2026-11-21 | The Nim language server implementation (based on nimsuggest) |
 | 91 | [andreiverse/vaf](https://github.com/andreiverse/vaf) | 318 | 44 | 5 | GPL-3.0 | 2022-05-29 | Vaf is a cross-platform very advanced and fast web fuzzer written in nim |
 | 92 | [treeform/jsony](https://github.com/treeform/jsony) | 300 | 41 | 37 | MIT | 2026-10-28 | A loose, direct to object json parser with hooks. |
 | 93 | [iinsertNameHere/catnap](https://github.com/iinsertNameHere/catnap) | 300 | 14 | 2 | MIT | 2026-11-03 | A small systemfetch written in nim |

@@ -4,11 +4,11 @@ Ranked by stars. GitHub reports **34,471** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,925 | 2,584 | 279 | NOASSERTION | 2026-11-21 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,363 | 3,222 | 756 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,926 | 2,584 | 279 | NOASSERTION | 2026-11-21 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,363 | 3,222 | 757 | Apache-2.0 | 2026-11-20 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,523 | 1,174 | 61 | ISC | 2026-11-20 | Small, fast, modern HTTP server for Erlang/OTP. |
 | 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,013 | 1,092 | 373 | Apache-2.0 | 2026-11-21 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
-| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,552 | 225 | NOASSERTION | 2026-11-19 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
+| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,753 | 1,552 | 227 | NOASSERTION | 2026-11-22 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
 | 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,870 | 966 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,114 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
 | 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,656 | 435 | 183 | Apache-2.0 | 2026-11-20 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |

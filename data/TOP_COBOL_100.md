@@ -1,6 +1,6 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,888** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,887** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,518** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,519** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|

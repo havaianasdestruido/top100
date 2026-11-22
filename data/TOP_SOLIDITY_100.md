@@ -1,14 +1,14 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,603** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,609** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,362 | 12,414 | 339 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,362 | 12,414 | 340 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
 | 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,066 | 2,433 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
 | 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,327 | 74 | 4 | AGPL-3.0 | 2026-11-19 |  |
 | 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,200 | 34 | 1 | AGPL-3.0 | 2026-11-19 | Solidity contracts implementing hash based post quantum signatures |
-| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,849 | 1,491 | 5 | Apache-2.0 | 2026-11-21 | Reproduce DeFi hacked incidents using Foundry. |
+| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,849 | 1,491 | 4 | Apache-2.0 | 2026-11-22 | Reproduce DeFi hacked incidents using Foundry. |
 | 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,823 | 1,456 | 29 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
 | 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,295 | 704 | 130 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
 | 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,400 | 502 | 48 | MIT | 2026-10-20 | Optimized Solidity snippets. |
@@ -24,11 +24,11 @@ Ranked by stars. GitHub reports **302,603** total repositories matching `languag
 | 18 | [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) | 2,059 | 598 | 13 | — | 2023-10-15 | The companion to the Youtube tutorials |
 | 19 | [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,988 | 810 | 24 | WTFPL | 2022-12-07 | An arbitrage bot between Uniswap AMMs |
 | 20 | [SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) | 1,987 | 344 | 2 | — | 2025-04-24 | To learn common smart contract vulnerabilities using Foundry! |
-| 21 | [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | 1,972 | 458 | 6 | GPL-3.0 | 2026-07-08 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. |
+| 21 | [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | 1,973 | 458 | 6 | GPL-3.0 | 2026-07-08 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. |
 | 22 | [LayerZero-Labs/LayerZero-v1](https://github.com/LayerZero-Labs/LayerZero-v1) | 1,950 | 1,240 | 67 | NOASSERTION | 2024-06-18 | An Omnichain Interoperability Protocol |
 | 23 | [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) | 1,826 | 244 | 10 | MIT | 2025-06-19 | Demystifying Exploitable Bugs in Smart Contracts |
 | 24 | [inference-labs-inc/inference-network](https://github.com/inference-labs-inc/inference-network) | 1,812 | 31 | 2 | MIT | 2025-12-11 | Proof of Inference - Trustless AI verification |
-| 25 | [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) | 1,802 | 235 | 19 | MIT | 2026-02-20 | 🚀 Try the Learn EVM Explorer we just launched!!! |
+| 25 | [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) | 1,803 | 235 | 19 | MIT | 2026-02-20 | 🚀 Try the Learn EVM Explorer we just launched!!! |
 | 26 | [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) | 1,711 | 217 | 11 | — | 2025-06-03 | weird erc20 tokens |
 | 27 | [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) | 1,595 | 177 | 2 | MIT | 2025-04-10 |  |
 | 28 | [Ridera-Rwa/Ridera-core](https://github.com/Ridera-Rwa/Ridera-core) | 1,593 | 18 | 2 | MIT | 2025-12-15 | Core protocol repository for Ridera — Mobility RWA on Base.  Includes docs, architecture, smart contracts, and protoc... |
@@ -60,7 +60,7 @@ Ranked by stars. GitHub reports **302,603** total repositories matching `languag
 | 54 | [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 806 | 395 | 14 | MIT | 2024-04-24 |  |
 | 55 | [provable-things/ethereum-api](https://github.com/provable-things/ethereum-api) | 799 | 428 | 18 | MIT | 2024-06-08 | Provable API for Ethereum smart contracts |
 | 56 | [bnb-chain/bsc-genesis-contract](https://github.com/bnb-chain/bsc-genesis-contract) | 781 | 828 | 16 | NOASSERTION | 2026-09-11 | The genesis contracts of BNB Smart Chain. |
-| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 775 | 1,115 | 354 | CC0-1.0 | 2026-11-20 | The Ethereum Request for Comment repository |
+| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 775 | 1,116 | 368 | CC0-1.0 | 2026-11-22 | The Ethereum Request for Comment repository |
 | 58 | [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) | 759 | 1,485 | 5 | MIT | 2024-07-25 |  |
 | 59 | [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) | 750 | 143 | 11 | NOASSERTION | 2022-08-28 | Smart contracts which are formally verified |
 | 60 | [coinbase/build-onchain-apps](https://github.com/coinbase/build-onchain-apps) | 748 | 149 | 37 | MIT | 2025-02-05 | Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️ |
