@@ -1,11 +1,11 @@
 # Top 100 Crystal repositories on GitHub
 
-Ranked by stars. GitHub reports **10,696** total repositories matching `language:Crystal`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,697** total repositories matching `language:Crystal`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [iv-org/invidious](https://github.com/iv-org/invidious) | 26,111 | 2,926 | 481 | AGPL-3.0 | 2026-11-20 | Invidious is an alternative front-end to YouTube |
-| 2 | [crystal-lang/crystal](https://github.com/crystal-lang/crystal) | 20,515 | 1,810 | 2,157 | Apache-2.0 | 2026-11-20 | The Crystal Programming Language |
+| 1 | [iv-org/invidious](https://github.com/iv-org/invidious) | 26,121 | 2,926 | 480 | AGPL-3.0 | 2026-11-20 | Invidious is an alternative front-end to YouTube |
+| 2 | [crystal-lang/crystal](https://github.com/crystal-lang/crystal) | 20,515 | 1,810 | 2,159 | Apache-2.0 | 2026-11-20 | The Crystal Programming Language |
 | 3 | [mint-lang/mint](https://github.com/mint-lang/mint) | 4,271 | 152 | 12 | BSD-3-Clause | 2026-11-10 | 🍃 A refreshing programming language for the front-end web. |
 | 4 | [kemalcr/kemal](https://github.com/kemalcr/kemal) | 3,935 | 207 | 4 | MIT | 2026-11-18 | Fast, Effective, Simple Web Framework |
 | 5 | [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) | 3,736 | 231 | 3 | MIT | 2026-11-21 | The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud |
@@ -13,11 +13,11 @@ Ranked by stars. GitHub reports **10,696** total repositories matching `language
 | 7 | [luckyframework/lucky](https://github.com/luckyframework/lucky) | 2,735 | 174 | 93 | MIT | 2026-11-21 | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that ... |
 | 8 | [amberframework/amber](https://github.com/amberframework/amber) | 2,605 | 205 | 41 | MIT | 2026-11-21 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyp... |
 | 9 | [getmango/Mango](https://github.com/getmango/Mango) | 1,771 | 129 | 78 | MIT | 2025-03-23 | Mango is a self-hosted manga server and web reader |
-| 10 | [owasp-noir/noir](https://github.com/owasp-noir/noir) | 1,507 | 164 | 2 | MIT | 2026-11-21 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
-| 11 | [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) | 1,496 | 362 | 1 | CC0-1.0 | 2026-11-14 | List of All Programming Telegram Group |
+| 10 | [owasp-noir/noir](https://github.com/owasp-noir/noir) | 1,507 | 164 | 2 | MIT | 2026-11-22 | Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface. |
+| 11 | [hendisantika/List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group) | 1,496 | 361 | 1 | CC0-1.0 | 2026-11-14 | List of All Programming Telegram Group |
 | 12 | [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) | 1,488 | 78 | 11 | MIT | 2026-06-22 | copy pasting in terminal with vimium/vimperator like hints. |
 | 13 | [ffwff/lilith](https://github.com/ffwff/lilith) | 1,173 | 26 | 11 | NOASSERTION | 2020-10-01 | x86-64 os made in crystal |
-| 14 | [cloudamqp/lavinmq](https://github.com/cloudamqp/lavinmq) | 1,040 | 68 | 222 | Apache-2.0 | 2026-11-21 | Ultra quick message queue and streaming server |
+| 14 | [cloudamqp/lavinmq](https://github.com/cloudamqp/lavinmq) | 1,040 | 68 | 220 | Apache-2.0 | 2026-11-22 | Ultra quick message queue and streaming server |
 | 15 | [phil294/AHK_X11](https://github.com/phil294/AHK_X11) | 1,022 | 28 | 40 | GPL-2.0 | 2026-01-03 | AutoHotkey for Linux (X11-based systems) |
 | 16 | [oprypin/nightly.link](https://github.com/oprypin/nightly.link) | 1,017 | 41 | 22 | AGPL-3.0 | 2026-10-22 | Downloads the latest "nightly" build/artifact from a continuous testing workflow |
 | 17 | [crystal-lang/shards](https://github.com/crystal-lang/shards) | 796 | 114 | 97 | Apache-2.0 | 2026-11-20 | Dependency manager for the Crystal language |
@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **10,696** total repositories matching `language
 | 26 | [toddsundsted/ktistec](https://github.com/toddsundsted/ktistec) | 436 | 22 | 21 | AGPL-3.0 | 2026-11-21 | ActivityPub (https://www.w3.org/TR/activitypub/) server for individual users and small groups. |
 | 27 | [imdrasil/jennifer.cr](https://github.com/imdrasil/jennifer.cr) | 424 | 57 | 23 | MIT | 2025-01-25 | Crystal ORM using ActiveRecord pattern with flexible query DSL |
 | 28 | [cloudamqp/amqproxy](https://github.com/cloudamqp/amqproxy) | 408 | 50 | 24 | MIT | 2026-11-17 | An intelligent AMQP proxy, with connection and channel pooling/reusing |
-| 29 | [cooperhammond/irs](https://github.com/cooperhammond/irs) | 407 | 26 | 5 | MIT | 2022-02-23 | :guitar: :notes: A music downloader that understands your metadata needs. |
+| 29 | [cooperhammond/irs](https://github.com/cooperhammond/irs) | 408 | 26 | 5 | MIT | 2022-02-23 | :guitar: :notes: A music downloader that understands your metadata needs. |
 | 30 | [stefanwille/crystal-redis](https://github.com/stefanwille/crystal-redis) | 376 | 63 | 11 | MIT | 2023-04-15 | Full featured Redis client for Crystal |
 | 31 | [oprypin/crsfml](https://github.com/oprypin/crsfml) | 356 | 15 | 5 | Zlib | 2025-11-23 | Crystal bindings to SFML multimedia/game library |
 | 32 | [Crecto/crecto](https://github.com/Crecto/crecto) | 353 | 43 | 17 | MIT | 2026-03-05 | Database wrapper and ORM for Crystal, inspired by Ecto |
@@ -64,7 +64,7 @@ Ranked by stars. GitHub reports **10,696** total repositories matching `language
 | 58 | [charly-lang/charly](https://github.com/charly-lang/charly) | 203 | 10 | 14 | MIT | 2020-03-23 | 🐈 The Charly Programming Language \| Written by @KCreate |
 | 59 | [GeopJr/Collision](https://github.com/GeopJr/Collision) | 199 | 19 | 5 | BSD-2-Clause | 2026-05-07 | [MIRROR] Check hashes for your files - A GUI tool to generate, compare and verify MD5, SHA-1, SHA-256, SHA-512, Blake... |
 | 60 | [wezm/read-rust](https://github.com/wezm/read-rust) | 198 | 10 | 2 | MIT | 2025-11-16 | Read Rust allows you to keep up with articles about the Rust programming language. |
-| 61 | [BrightSec/shainet](https://github.com/BrightSec/shainet) | 198 | 21 | 0 | MIT | 2026-11-21 | SHAInet - a pure Crystal machine learning library |
+| 61 | [BrightSec/shainet](https://github.com/BrightSec/shainet) | 198 | 21 | 0 | MIT | 2026-11-22 | SHAInet - a pure Crystal machine learning library |
 | 62 | [segecey/hoop](https://github.com/segecey/hoop) | 196 | 9 | 4 | — | 2018-03-19 | Building native OSX apps. |
 | 63 | [spider-gazelle/spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) | 192 | 9 | 1 | WTFPL | 2026-10-15 | A Rails esque web framework with a focus on speed and extensibility for crystal lang |
 | 64 | [crystallabs/bindgen](https://github.com/crystallabs/bindgen) | 191 | 17 | 1 | GPL-3.0 | 2026-11-12 | Binding and wrapper generator for C/C++ libraries |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **10,696** total repositories matching `language
 | 95 | [hugopl/tijolo](https://github.com/hugopl/tijolo) | 145 | 9 | 3 | MIT | 2024-12-11 | Simple and fast keyboard focused IDE written in Crystal and GTK. |
 | 96 | [crystal-community/msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) | 144 | 18 | 3 | — | 2025-11-24 | MessagePack implementation in Crystal msgpack.org[Crystal] |
 | 97 | [jwaldrip/admiral.cr](https://github.com/jwaldrip/admiral.cr) | 144 | 17 | 3 | MIT | 2021-07-15 | A robust DSL for writing command line interfaces written in Crystal. |
-| 98 | [hahwul/gori](https://github.com/hahwul/gori) | 144 | 20 | 2 | Apache-2.0 | 2026-11-22 | A fast, keyboard-driven HTTP intercepting proxy and pentesting toolkit for the terminal built for humans and AI agent... |
+| 98 | [hahwul/gori](https://github.com/hahwul/gori) | 144 | 20 | 3 | Apache-2.0 | 2026-11-22 | A fast, keyboard-driven HTTP intercepting proxy and pentesting toolkit for the terminal built for humans and AI agent... |
 | 99 | [crystal-lang/crystal_lib](https://github.com/crystal-lang/crystal_lib) | 142 | 31 | 24 | — | 2025-09-18 | Automatic binding generator for native libraries in Crystal |
 | 100 | [onyxframework/http](https://github.com/onyxframework/http) | 142 | 11 | 7 | MIT | 2019-08-25 | An opinionated framework for scalable web 🌎 |

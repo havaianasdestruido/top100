@@ -1,21 +1,21 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,609** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,626** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,362 | 12,414 | 340 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,363 | 12,414 | 340 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
 | 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,066 | 2,433 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
 | 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,327 | 74 | 4 | AGPL-3.0 | 2026-11-19 |  |
 | 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,200 | 34 | 1 | AGPL-3.0 | 2026-11-19 | Solidity contracts implementing hash based post quantum signatures |
-| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,849 | 1,491 | 4 | Apache-2.0 | 2026-11-22 | Reproduce DeFi hacked incidents using Foundry. |
+| 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,850 | 1,490 | 4 | Apache-2.0 | 2026-11-22 | Reproduce DeFi hacked incidents using Foundry. |
 | 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,823 | 1,456 | 29 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
 | 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,295 | 704 | 130 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
 | 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,400 | 502 | 48 | MIT | 2026-10-20 | Optimized Solidity snippets. |
 | 9 | [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,325 | 524 | 2 | MIT | 2024-04-19 | A compilation of patterns and best practices for the smart contract programming language Solidity |
-| 10 | [lens-protocol/core](https://github.com/lens-protocol/core) | 2,836 | 878 | 9 | MIT | 2025-09-18 | The Lens Protocol |
+| 10 | [lens-protocol/core](https://github.com/lens-protocol/core) | 2,837 | 878 | 9 | MIT | 2025-09-18 | The Lens Protocol |
 | 11 | [Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash) | 2,722 | 589 | 0 | MIT | 2022-04-10 | Cash system for AIR. |
-| 12 | [Uniswap/v4-core](https://github.com/Uniswap/v4-core) | 2,561 | 1,346 | 76 | — | 2026-10-23 | 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4 |
+| 12 | [Uniswap/v4-core](https://github.com/Uniswap/v4-core) | 2,561 | 1,347 | 76 | — | 2026-10-23 | 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4 |
 | 13 | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | 2,488 | 395 | 61 | AGPL-3.0 | 2026-10-22 | Guidelines and training material to write secure smart contracts |
 | 14 | [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) | 2,347 | 786 | 77 | AGPL-3.0 | 2026-11-21 | Web3/Solidity based wargame |
 | 15 | [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) | 2,263 | 663 | 2 | MIT | 2026-11-10 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. |
@@ -95,7 +95,7 @@ Ranked by stars. GitHub reports **302,609** total repositories matching `languag
 | 89 | [enzymefinance/protocol](https://github.com/enzymefinance/protocol) | 559 | 237 | 6 | NOASSERTION | 2026-09-25 | Enzyme Protocol Implementation |
 | 90 | [Vectorized/dn404](https://github.com/Vectorized/dn404) | 557 | 158 | 18 | MIT | 2025-02-19 | Implementation of a co-joined ERC20 and ERC721 pair. |
 | 91 | [stakewithus/defi-by-example](https://github.com/stakewithus/defi-by-example) | 553 | 217 | 9 | — | 2024-03-17 |  |
-| 92 | [mevcheb/optimal-sandwich](https://github.com/mevcheb/optimal-sandwich) | 549 | 128 | 1 | — | 2022-01-15 | we do a little bit of mathematics to make a little bit of money |
+| 92 | [mevcheb/optimal-sandwich](https://github.com/mevcheb/optimal-sandwich) | 550 | 128 | 1 | — | 2022-01-15 | we do a little bit of mathematics to make a little bit of money |
 | 93 | [pedrobergamini/flashloaner-contract](https://github.com/pedrobergamini/flashloaner-contract) | 547 | 298 | 5 | — | 2025-12-04 | This repo introduces a simple example of how to arbitrage trade on-chain using flash loans. |
 | 94 | [paradigmxyz/paradigm-ctf-2021](https://github.com/paradigmxyz/paradigm-ctf-2021) | 544 | 92 | 1 | — | 2022-08-17 | Official repository for Paradigm CTF 2021 |
 | 95 | [matter-labs/era-contracts](https://github.com/matter-labs/era-contracts) | 537 | 428 | 53 | MIT | 2026-11-21 | Smart Contract Submodule For zkSync Era |

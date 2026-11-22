@@ -4,19 +4,19 @@ Ranked by stars. GitHub reports **10,640** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 65 | 56 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
+| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 66 | 57 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
 | 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 481 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
-| 4 | [alire-project/alire](https://github.com/alire-project/alire) | 422 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
+| 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
 | 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 340 | 82 | 52 | NOASSERTION | 2026-11-03 | William Whitaker's WORDS, a Latin dictionary |
 | 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-20 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
-| 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 307 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
+| 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
 | 8 | [AdaDoom3/AdaDoom3](https://github.com/AdaDoom3/AdaDoom3) | 288 | 24 | 8 | — | 2023-03-29 | Id Software's Id-tech-4-BFG in the Ada programming language. |
 | 9 | [AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) | 286 | 167 | 24 | BSD-3-Clause | 2026-08-19 | Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT. |
 | 10 | [jrmarino/synth](https://github.com/jrmarino/synth) | 275 | 20 | 14 | ISC | 2026-06-26 | Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools) |
 | 11 | [AdaCore/gnat-llvm](https://github.com/AdaCore/gnat-llvm) | 239 | 33 | 5 | — | 2026-11-19 | LLVM based GNAT compiler |
 | 12 | [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) | 203 | 17 | 0 | — | 2026-11-07 | Repo for GL.iNet MT6000 custom build |
-| 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 8 | MIT | 2026-11-17 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
+| 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 8 | MIT | 2026-11-22 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
 | 14 | [AdaCore/libadalang](https://github.com/AdaCore/libadalang) | 173 | 48 | 21 | NOASSERTION | 2026-11-20 | Ada semantic analysis library. |
 | 15 | [tofgarion/spark-by-example](https://github.com/tofgarion/spark-by-example) | 168 | 19 | 2 | — | 2022-08-16 | SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is a formally verif... |
 | 16 | [AdaCore/aws](https://github.com/AdaCore/aws) | 165 | 49 | 41 | NOASSERTION | 2026-11-19 | AWS is a complete framework to develop Web based applications in Ada. |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **10,640** total repositories matching `language
 | 37 | [simonjwright/FreeRTOS-Ada](https://github.com/simonjwright/FreeRTOS-Ada) | 81 | 18 | 7 | GPL-3.0 | 2025-03-18 | This project contains various GNAT Ada Run Time Systems (RTSs) based on FreeRTOS for MCUs: the Arduino Due, the STM32... |
 | 38 | [Prunt3D/prunt](https://github.com/Prunt3D/prunt) | 81 | 6 | 17 | MIT | 2026-11-16 | An advanced motion control system targetted at 3D printers. |
 | 39 | [wookey-project/ewok-kernel](https://github.com/wookey-project/ewok-kernel) | 79 | 10 | 2 | Apache-2.0 | 2021-05-27 | A secure and high performances microkernel for building secure MCU-based IoTs |
-| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 46 | GPL-3.0 | 2026-11-21 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
+| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 47 | GPL-3.0 | 2026-11-21 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
 | 41 | [OpenAADL/ocarina](https://github.com/OpenAADL/ocarina) | 77 | 33 | 48 | NOASSERTION | 2022-03-23 | AADL model processor: mappings to code (C, Ada); Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL |
 | 42 | [GeneralZDS/FPGA-DCNN-Accelerator](https://github.com/GeneralZDS/FPGA-DCNN-Accelerator) | 74 | 15 | 5 | — | 2019-06-11 | 基于HLS的高效深度卷积神经网络FPGA实现方法 |
 | 43 | [AdaCore/bb-runtimes](https://github.com/AdaCore/bb-runtimes) | 72 | 66 | 7 | NOASSERTION | 2026-11-20 | Source repository for the GNAT Bare Metal BSPs |
