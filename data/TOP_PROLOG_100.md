@@ -1,10 +1,10 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,543** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,586** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,488 | 160 | 11 | Apache-2.0 | 2026-11-21 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,488 | 160 | 7 | Apache-2.0 | 2026-11-22 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,516 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,003 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
@@ -44,7 +44,7 @@ Ranked by stars. GitHub reports **40,543** total repositories matching `language
 | 38 | [stassa/louise](https://github.com/stassa/louise) | 137 | 9 | 3 | NOASSERTION | 2025-02-11 | Polynomial-time Meta-Interpretive Learning |
 | 39 | [openpst/openpst](https://github.com/openpst/openpst) | 133 | 28 | 1 | NOASSERTION | 2017-02-21 | A collection of tools for working with Qualcomm MSM devices |
 | 40 | [motools/musicontology](https://github.com/motools/musicontology) | 133 | 37 | 12 | — | 2013-10-14 | The Music Ontology Specification provides main concepts and properties fo describing music (i.e. artists, albums, tra... |
-| 41 | [jamesnvc/lsp_server](https://github.com/jamesnvc/lsp_server) | 130 | 11 | 13 | BSD-2-Clause | 2026-10-04 | Language Server Protocol server for SWI-Prolog |
+| 41 | [jamesnvc/lsp_server](https://github.com/jamesnvc/lsp_server) | 130 | 11 | 14 | BSD-2-Clause | 2026-10-04 | Language Server Protocol server for SWI-Prolog |
 | 42 | [kovvalsky/LangPro](https://github.com/kovvalsky/LangPro) | 123 | 13 | 1 | BSD-3-Clause | 2026-09-09 | Tableau-based Theorem Prover for Natural Logic and Language |
 | 43 | [JCumin/Brachylog](https://github.com/JCumin/Brachylog) | 118 | 5 | 11 | MIT | 2020-07-28 | A terse declarative logic programming language |
 | 44 | [Anniepoo/swiplwebtut](https://github.com/Anniepoo/swiplwebtut) | 117 | 42 | 15 | — | 2021-02-09 | A tutorial for the swipl web framework |
