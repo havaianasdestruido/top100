@@ -1,6 +1,6 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,468** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,467** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ Ranked by stars. GitHub reports **3,468** total repositories matching `language:
 | 31 | [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) | 182 | 28 | 63 | — | 2026-05-11 | eskk is pure Vim script implementation of input method engine SKK |
 | 32 | [laktak/tome](https://github.com/laktak/tome) | 178 | 4 | 0 | MIT | 2026-08-22 | 🔁 Interactive Script playbooks for your terminal with Vim/Neovim (and Tmux) |
 | 33 | [ciaranm/detectindent](https://github.com/ciaranm/detectindent) | 176 | 47 | 15 | — | 2023-02-26 | Vim script for automatically detecting indent settings |
-| 34 | [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) | 173 | 29 | 43 | NOASSERTION | 2026-05-15 | Vim script parser |
+| 34 | [vim-jp/vim-vimlparser](https://github.com/vim-jp/vim-vimlparser) | 173 | 29 | 42 | NOASSERTION | 2026-11-23 | Vim script parser |
 | 35 | [blueyed/dotfiles](https://github.com/blueyed/dotfiles) | 171 | 31 | 2 | MIT | 2021-09-25 | My dotfiles (Zsh / Vim / Neovim / Git / scripts) - (not much in sync / outdated) |
 | 36 | [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim) | 162 | 20 | 2 | NOASSERTION | 2025-03-11 | Context filetype library for Vim script |
 | 37 | [sophacles/vim-processing](https://github.com/sophacles/vim-processing) | 152 | 12 | 9 | — | 2023-07-03 | Create and run processing sketches in Vim. Development repository for vim script 2115. |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **3,468** total repositories matching `language:
 | 59 | [nachumk/systemverilog.vim](https://github.com/nachumk/systemverilog.vim) | 69 | 22 | 4 | GPL-2.0 | 2023-01-25 | SystemVerilog vim scripts |
 | 60 | [taq/vim-git-branch-info](https://github.com/taq/vim-git-branch-info) | 69 | 11 | 0 | — | 2015-07-31 | A Vim script to return info about the Git branches. |
 | 61 | [vim-scripts/JavaScript-Indent](https://github.com/vim-scripts/JavaScript-Indent) | 68 | 23 | 1 | — | 2017-08-12 | Javascript indenter (HTML indent is included) |
-| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-21 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
+| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-23 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
 | 63 | [ghewgill/vim-scmdiff](https://github.com/ghewgill/vim-scmdiff) | 65 | 12 | 5 | — | 2016-03-23 | Vim script to highlight lines changed from a base version in SCM |
 | 64 | [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) | 64 | 7 | 0 | MIT | 2020-12-25 | :art: Template engine for Vim color schemes, in pure Vim script |
 | 65 | [jayflo/vim-skip](https://github.com/jayflo/vim-skip) | 56 | 3 | 1 | — | 2014-03-17 | simple movement script for vim |

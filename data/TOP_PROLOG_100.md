@@ -1,13 +1,13 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,594** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,606** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,488 | 160 | 7 | Apache-2.0 | 2026-11-22 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,488 | 159 | 7 | Apache-2.0 | 2026-11-22 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,516 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
-| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,003 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
+| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,004 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,029 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
 | 6 | [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) | 625 | 177 | 5 | — | 2022-11-04 | Some simple examples for new Prolog programmers |
 | 7 | [ccurtsinger/stabilizer](https://github.com/ccurtsinger/stabilizer) | 591 | 49 | 8 | Apache-2.0 | 2021-09-29 | Stabilizer: Rigorous Performance Evaluation |
@@ -19,7 +19,7 @@ Ranked by stars. GitHub reports **40,594** total repositories matching `language
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
-| 16 | [dragonwasrobot/learn-prolog-now-exercises](https://github.com/dragonwasrobot/learn-prolog-now-exercises) | 293 | 85 | 10 | — | 2023-07-11 | My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos,... |
+| 16 | [dragonwasrobot/learn-prolog-now-exercises](https://github.com/dragonwasrobot/learn-prolog-now-exercises) | 293 | 84 | 10 | — | 2023-07-11 | My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos,... |
 | 17 | [c-cube/datalog](https://github.com/c-cube/datalog) | 285 | 27 | 2 | BSD-2-Clause | 2026-11-02 | An in-memory datalog implementation for OCaml. |
 | 18 | [andrealani/COOLFluiD](https://github.com/andrealani/COOLFluiD) | 270 | 86 | 12 | LGPL-3.0 | 2026-11-20 | The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at t... |
 | 19 | [SuperDisk/tar.pl](https://github.com/SuperDisk/tar.pl) | 263 | 7 | 0 | — | 2023-01-22 | tar creator+extractor in ~100 lines of prolog |
@@ -66,9 +66,9 @@ Ranked by stars. GitHub reports **40,594** total repositories matching `language
 | 60 | [friguzzi/cplint](https://github.com/friguzzi/cplint) | 89 | 16 | 0 | NOASSERTION | 2026-08-30 | cplint is a suite of programs for reasoning with probabilistic logic programs |
 | 61 | [wouterbeek/prolog_library_collection](https://github.com/wouterbeek/prolog_library_collection) | 87 | 15 | 0 | MIT | 2024-08-31 | A collection of Prolog libraries. |
 | 62 | [OpenSprinkler/OpenSprinkler-Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) | 79 | 46 | 1 | CERN-OHL-S-2.0 | 2026-04-25 | OpenSprinkler Hardware Design files |
-| 63 | [alhassy/PrologCheatSheet](https://github.com/alhassy/PrologCheatSheet) | 78 | 4 | 0 | — | 2020-09-16 | Basics of relational programming with Prolog —PROgramming in LOGic ^_^ |
-| 64 | [xmonader/prolog-rands](https://github.com/xmonader/prolog-rands) | 78 | 34 | 0 | — | 2018-12-26 | random stuff in prolog |
-| 65 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 78 | 12 | 6 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
+| 63 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 79 | 13 | 7 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
+| 64 | [alhassy/PrologCheatSheet](https://github.com/alhassy/PrologCheatSheet) | 78 | 4 | 0 | — | 2020-09-16 | Basics of relational programming with Prolog —PROgramming in LOGic ^_^ |
+| 65 | [xmonader/prolog-rands](https://github.com/xmonader/prolog-rands) | 78 | 34 | 0 | — | 2018-12-26 | random stuff in prolog |
 | 66 | [spectector/spectector](https://github.com/spectector/spectector) | 76 | 9 | 1 | Apache-2.0 | 2021-07-14 | Automatic detection of speculative information flows |
 | 67 | [rachelwiles/GoT-Check](https://github.com/rachelwiles/GoT-Check) | 71 | 13 | 0 | — | 2019-04-15 | :crossed_swords: Game of Thrones character database and family trees in Prolog |
 | 68 | [LHNCBC/SemRep](https://github.com/LHNCBC/SemRep) | 71 | 15 | 8 | — | 2026-09-03 |  |
@@ -90,9 +90,9 @@ Ranked by stars. GitHub reports **40,594** total repositories matching `language
 | 84 | [Ttreintaysiete/chaves](https://github.com/Ttreintaysiete/chaves) | 52 | 4 | 1 | — | 2019-10-31 | Cheap Hacky Audio/Video - Glitch VGA synth based on jonasbers.com/chav/ |
 | 85 | [Wilm0rien/EveOnlineMiningYield](https://github.com/Wilm0rien/EveOnlineMiningYield) | 52 | 8 | 0 | — | 2022-01-22 | formulars and numbers for mining yield in Eve Online |
 | 86 | [triska/clpb](https://github.com/triska/clpb) | 50 | 6 | 1 | — | 2024-12-08 | Boolean Constraint Solving in Prolog |
-| 87 | [sdbtools/void-pi](https://github.com/sdbtools/void-pi) | 50 | 5 | 4 | GPL-2.0 | 2024-07-17 | Void Linux installer implemented in GNU Prolog. |
-| 88 | [hairykiwi/OTM-02](https://github.com/hairykiwi/OTM-02) | 49 | 7 | 1 | — | 2013-09-27 | Open source Time Machine #2 |
-| 89 | [SWI-Prolog/sCASP](https://github.com/SWI-Prolog/sCASP) | 49 | 8 | 10 | Apache-2.0 | 2026-11-11 | Top-down interpreter for ASP programs with Constraints |
+| 87 | [SWI-Prolog/sCASP](https://github.com/SWI-Prolog/sCASP) | 50 | 8 | 10 | Apache-2.0 | 2026-11-11 | Top-down interpreter for ASP programs with Constraints |
+| 88 | [sdbtools/void-pi](https://github.com/sdbtools/void-pi) | 50 | 5 | 4 | GPL-2.0 | 2024-07-17 | Void Linux installer implemented in GNU Prolog. |
+| 89 | [hairykiwi/OTM-02](https://github.com/hairykiwi/OTM-02) | 49 | 7 | 1 | — | 2013-09-27 | Open source Time Machine #2 |
 | 90 | [ridgeworks/clpBNR](https://github.com/ridgeworks/clpBNR) | 49 | 8 | 4 | MIT | 2026-08-25 | CLP(BNR) module for SWI-Prolog |
 | 91 | [ChrisChrisLoLo/pusheenz40](https://github.com/ChrisChrisLoLo/pusheenz40) | 49 | 3 | 0 | GPL-3.0 | 2024-02-05 | A pocket keyboard that uses SMD mouse switches. Low profile and easy to assemble |
 | 92 | [khueue/prolongo](https://github.com/khueue/prolongo) | 47 | 9 | 2 | MIT | 2018-04-04 | MongoDB Driver for Prolog |

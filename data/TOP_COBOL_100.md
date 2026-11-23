@@ -7,15 +7,15 @@ Ranked by stars. GitHub reports **9,900** total repositories matching `language:
 | 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 735 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
 | 2 | [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) | 1,033 | 49 | 11 | MIT | 2024-08-10 | Micro web-framework for COBOL |
 | 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 727 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
-| 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 707 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
+| 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
-| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 299 | 432 | 87 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
-| 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 210 | 113 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
+| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 302 | 432 | 88 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
+| 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 211 | 113 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
 | 8 | [jmsdnns/webbol](https://github.com/jmsdnns/webbol) | 196 | 10 | 6 | — | 2025-10-03 | A minimal static web server written in COBOL |
-| 9 | [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | 168 | 35 | 62 | MIT | 2026-10-27 | An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code |
+| 9 | [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | 169 | 35 | 62 | MIT | 2026-10-27 | An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code |
 | 10 | [IonicaBizau/node.cobol](https://github.com/IonicaBizau/node.cobol) | 165 | 12 | 0 | MIT | 2025-02-14 | :pager: Node.js bridge for COBOL which allows you to run Node.js code from COBOL. |
 | 11 | [lauryndbrown/Cisp](https://github.com/lauryndbrown/Cisp) | 144 | 12 | 3 | MIT | 2017-04-28 | A Common Lisp Interpreter Built in COBOL |
-| 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 127 | 44 | 141 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
+| 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 127 | 44 | 142 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
 | 13 | [neopragma/cobol-unit-test](https://github.com/neopragma/cobol-unit-test) | 123 | 35 | 36 | GPL-3.0 | 2021-03-26 | Unit testing framework and sample code for batch Cobol programs. |
 | 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 119 | 72 | 54 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
 | 15 | [moxon6/cobol-js-emscripten](https://github.com/moxon6/cobol-js-emscripten) | 116 | 5 | 11 | — | 2023-03-04 |  |
@@ -27,14 +27,14 @@ Ranked by stars. GitHub reports **9,900** total repositories matching `language:
 | 21 | [victorqribeiro/perceptronCobol](https://github.com/victorqribeiro/perceptronCobol) | 77 | 7 | 0 | MIT | 2020-09-04 | A perceptron written in COBOL |
 | 22 | [krisds/koopa](https://github.com/krisds/koopa) | 59 | 17 | 2 | NOASSERTION | 2026-10-31 | Koopa (COBOL) Parser Generator |
 | 23 | [navikt/DSF](https://github.com/navikt/DSF) | 57 | 4 | 1 | MIT | 2020-10-05 | Det Sentrale Folketrygdsystemet |
-| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 65 | 97 | Apache-2.0 | 2026-11-20 | Sample Z application showing how to work with mainframe software. |
+| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 65 | 95 | Apache-2.0 | 2026-11-23 | Sample Z application showing how to work with mainframe software. |
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
-| 26 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
-| 27 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
-| 28 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 41 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
+| 26 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 42 | 72 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
+| 27 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
+| 28 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
 | 29 | [etalab/taxe-fonciere](https://github.com/etalab/taxe-fonciere) | 40 | 7 | 1 | CECILL-2.1 | 2021-04-17 | Code source des taxes foncières |
 | 30 | [cloudflare/cobol-worker](https://github.com/cloudflare/cobol-worker) | 40 | 10 | 11 | MIT | 2026-04-23 |  |
-| 31 | [IBM/zOS-Client-Web-Enablement-Toolkit](https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit) | 40 | 15 | 4 | Apache-2.0 | 2025-09-17 |  |
+| 31 | [IBM/zOS-Client-Web-Enablement-Toolkit](https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit) | 40 | 15 | 5 | Apache-2.0 | 2025-09-17 |  |
 | 32 | [shamrice/COBOL-Examples](https://github.com/shamrice/COBOL-Examples) | 38 | 43 | 0 | MIT | 2024-07-30 | A collection of example COBOL programs I wrote demonstrating different syntaxes and features. |
 | 33 | [skills/modernize-your-legacy-code-with-github-copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) | 38 | 24 | 1 | MIT | 2026-04-15 | Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot. |
 | 34 | [qgevans/WOPO](https://github.com/qgevans/WOPO) | 38 | 5 | 3 | BSD-2-Clause | 2024-02-15 | IRC bot in COBOL-74 |
@@ -100,7 +100,7 @@ Ranked by stars. GitHub reports **9,900** total repositories matching `language:
 | 94 | [gdorsi44/cobol-mainframe-and-so-on](https://github.com/gdorsi44/cobol-mainframe-and-so-on) | 11 | 4 | 0 | — | 2023-03-14 | This repository was born during my training taught by Mr Uday Prasad in Open Mainframe Community. |
 | 95 | [xpmatteo/unit-testing-cobol](https://github.com/xpmatteo/unit-testing-cobol) | 11 | 1 | 0 | — | 2016-08-29 | Learning Cobol by practicing a little TDD |
 | 96 | [cchipman21804/EnterpriseCOBOLv6.3](https://github.com/cchipman21804/EnterpriseCOBOLv6.3) | 11 | 1 | 0 | — | 2023-07-17 | various utilities written in Enterprise COBOL v6.3 for z/OS & Unix |
-| 97 | [jcnade/COBOL-AI-LLM-Framework](https://github.com/jcnade/COBOL-AI-LLM-Framework) | 11 | 1 | 1 | MIT | 2026-08-03 |  |
-| 98 | [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account) | 11 | 1 | 0 | — | 2024-06-30 | A small program in COBOL for a Bank Account |
-| 99 | [Armin-AF/COBOL_Tutorial](https://github.com/Armin-AF/COBOL_Tutorial) | 11 | 0 | 0 | — | 2023-08-26 | COBOL_Tutorial is a beginner-friendly GitHub repo that provides a cheatsheet-style tutorial on COBOL programming lang... |
-| 100 | [debinix/openjensen](https://github.com/debinix/openjensen) | 11 | 5 | 0 | GPL-3.0 | 2019-11-28 | Open Cobol (GnuCobol), Ocesql and CGI Project |
+| 97 | [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account) | 11 | 1 | 0 | — | 2024-06-30 | A small program in COBOL for a Bank Account |
+| 98 | [Armin-AF/COBOL_Tutorial](https://github.com/Armin-AF/COBOL_Tutorial) | 11 | 0 | 0 | — | 2023-08-26 | COBOL_Tutorial is a beginner-friendly GitHub repo that provides a cheatsheet-style tutorial on COBOL programming lang... |
+| 99 | [debinix/openjensen](https://github.com/debinix/openjensen) | 11 | 5 | 0 | GPL-3.0 | 2019-11-28 | Open Cobol (GnuCobol), Ocesql and CGI Project |
+| 100 | [J-AugustoManzano/cobol](https://github.com/J-AugustoManzano/cobol) | 11 | 1 | 0 | — | 2023-02-10 |  |
