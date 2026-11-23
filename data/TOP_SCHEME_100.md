@@ -1,13 +1,13 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,123** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,124** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,385 | 1,038 | 153 | Apache-2.0 | 2026-11-18 | Chez Scheme |
+| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,386 | 1,038 | 154 | Apache-2.0 | 2026-11-18 | Chez Scheme |
 | 2 | [opencog/opencog](https://github.com/opencog/opencog) | 2,482 | 739 | 47 | NOASSERTION | 2025-08-26 | A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) |
 | 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,724 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
-| 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,664 | 167 | 12 | — | 2026-10-17 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
+| 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,664 | 167 | 12 | — | 2026-11-23 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
 | 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,446 | 207 | 294 | — | 2026-11-22 | Gambit is an efficient implementation of the Scheme programming language. |
 | 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 80 | NOASSERTION | 2026-11-23 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
 | 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,412 | 168 | 98 | NOASSERTION | 2026-11-22 | Official chibi-scheme repository |
@@ -18,14 +18,14 @@ Ranked by stars. GitHub reports **22,123** total repositories matching `language
 | 12 | [eholk/harlan](https://github.com/eholk/harlan) | 1,189 | 81 | 68 | NOASSERTION | 2015-11-04 | A language for GPU computing. |
 | 13 | [webyrd/Barliman](https://github.com/webyrd/Barliman) | 1,086 | 31 | 4 | MIT | 2026-08-16 | Prototype smart text editor |
 | 14 | [namin/inc](https://github.com/namin/inc) | 977 | 116 | 1 | MIT | 2019-10-09 | an incremental approach to compiler construction |
-| 15 | [shirok/Gauche](https://github.com/shirok/Gauche) | 913 | 90 | 182 | NOASSERTION | 2026-11-21 | Scheme Scripting Engine |
+| 15 | [shirok/Gauche](https://github.com/shirok/Gauche) | 913 | 90 | 182 | NOASSERTION | 2026-11-23 | Scheme Scripting Engine |
 | 16 | [justinethier/cyclone](https://github.com/justinethier/cyclone) | 887 | 49 | 82 | MIT | 2026-03-13 | :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme. We provide modern fea... |
 | 17 | [huangzworks/SICP-answers](https://github.com/huangzworks/SICP-answers) | 877 | 182 | 55 | — | 2022-04-01 | 我的 SICP 解题集 |
 | 18 | [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) | 738 | 75 | 1 | — | 2026-10-16 | :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ... |
 | 19 | [pkrumins/the-little-schemer](https://github.com/pkrumins/the-little-schemer) | 686 | 138 | 4 | — | 2016-07-24 | All the Scheme code examples from the book "The Little Schemer" |
-| 20 | [MoganLab/mogan](https://github.com/MoganLab/mogan) | 585 | 120 | 418 | GPL-3.0 | 2026-11-20 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
-| 21 | [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) | 572 | 65 | 24 | BSD-3-Clause | 2026-11-17 | A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant. |
-| 22 | [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) | 567 | 67 | 17 | MIT | 2026-09-28 | The new nanopass framework; an embedded DSL for writing compilers in Scheme |
+| 20 | [MoganLab/mogan](https://github.com/MoganLab/mogan) | 585 | 120 | 417 | GPL-3.0 | 2026-11-23 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
+| 21 | [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) | 573 | 65 | 24 | BSD-3-Clause | 2026-11-17 | A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant. |
+| 22 | [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) | 568 | 67 | 17 | MIT | 2026-09-28 | The new nanopass framework; an embedded DSL for writing compilers in Scheme |
 | 23 | [cloudkj/layer](https://github.com/cloudkj/layer) | 561 | 18 | 0 | MIT | 2019-04-21 | Neural network inference the Unix way |
 | 24 | [evilbinary/scheme-lib](https://github.com/evilbinary/scheme-lib) | 474 | 45 | 0 | MIT | 2024-02-27 | 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http ... |
 | 25 | [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) | 474 | 41 | 6 | Apache-2.0 | 2022-07-05 | Simple statusline component that shows what scope you are working inside |
@@ -38,8 +38,8 @@ Ranked by stars. GitHub reports **22,123** total repositories matching `language
 | 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 415 | 44 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
 | 34 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
-| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 402 | 31 | 47 | EPL-2.0 | 2026-11-23 | A Clojure compiler implemented on top of Chez Scheme |
-| 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 516 | Apache-2.0 | 2026-11-20 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
+| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 402 | 31 | 39 | EPL-2.0 | 2026-11-23 | A Clojure compiler implemented on top of Chez Scheme |
+| 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 516 | Apache-2.0 | 2026-11-23 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
 | 38 | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) | 369 | 42 | 0 | MIT | 2021-05-01 | A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013) |
 | 39 | [chenyukang/eopl](https://github.com/chenyukang/eopl) | 364 | 66 | 3 | — | 2018-11-06 | my solutions to EOPL3 |
@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **22,123** total repositories matching `language
 | 47 | [Calysto/calysto_scheme](https://github.com/Calysto/calysto_scheme) | 298 | 27 | 0 | BSD-3-Clause | 2026-07-25 | A Scheme kernel for Jupyter that can use Python libraries |
 | 48 | [SystemCrafters/guix-installer](https://github.com/SystemCrafters/guix-installer) | 290 | 43 | 18 | GPL-3.0 | 2026-03-25 | A GNU Guix installer image with the full Linux kernel! |
 | 49 | [yuriy-chumak/ol](https://github.com/yuriy-chumak/ol) | 285 | 14 | 9 | NOASSERTION | 2026-11-17 | Otus Lisp (Ol) is a purely functional multi-platform Scheme dialect with built-in FFI and infix math. |
-| 50 | [uim/uim](https://github.com/uim/uim) | 285 | 76 | 44 | NOASSERTION | 2026-11-22 | A multilingual input method framework |
+| 50 | [uim/uim](https://github.com/uim/uim) | 285 | 76 | 40 | NOASSERTION | 2026-11-23 | A multilingual input method framework |
 | 51 | [abcdw/rde](https://github.com/abcdw/rde) | 270 | 18 | 0 | GPL-3.0 | 2026-05-05 | Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/ |
 | 52 | [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) | 269 | 36 | 12 | LGPL-3.0 | 2026-11-12 | Mirror only, please visit https://gitlab.com/NalaGinrut/artanis |
 | 53 | [fluentpython/lispy](https://github.com/fluentpython/lispy) | 263 | 40 | 0 | MIT | 2024-07-06 | Learning with Peter Norvig's lis.py interpreter |
@@ -67,7 +67,7 @@ Ranked by stars. GitHub reports **22,123** total repositories matching `language
 | 61 | [opencog/learn](https://github.com/opencog/learn) | 205 | 43 | 2 | NOASSERTION | 2026-11-01 | Neuro-symbolic interpretation learning (mostly just language-learning, for now) |
 | 62 | [gwatt/chez-exe](https://github.com/gwatt/chez-exe) | 201 | 46 | 4 | NOASSERTION | 2024-08-09 | Chez Scheme self hosting executable |
 | 63 | [readevalprintlove/black](https://github.com/readevalprintlove/black) | 200 | 17 | 2 | — | 2022-04-11 | Kenichi Asai's reflective programming language Black |
-| 64 | [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) | 199 | 24 | 1 | — | 2026-11-01 | My personal backup of my dotfiles of Debian 10 (Now Updated to Debian 13) on ThinkPad X230 with Openbox and Aspire A5... |
+| 64 | [addy-dclxvi/debian-openbox-fluxbox-dotfiles](https://github.com/addy-dclxvi/debian-openbox-fluxbox-dotfiles) | 199 | 24 | 1 | — | 2026-11-23 | My personal backup of my dotfiles of Debian 10 (Now Updated to Debian 13) on ThinkPad X230 with Openbox and Aspire A5... |
 | 65 | [marcomaggi/vicare](https://github.com/marcomaggi/vicare) | 198 | 34 | 10 | NOASSERTION | 2018-01-30 | A native compiler for Scheme compliant with R6RS |
 | 66 | [guenchi/Darkart](https://github.com/guenchi/Darkart) | 197 | 18 | 3 | MIT | 2026-09-27 | A binary interface let Chez Scheme use Python, Lua, Ruby etc's library |
 | 67 | [felipap/sicp-code](https://github.com/felipap/sicp-code) | 194 | 21 | 0 | MIT | 2019-04-25 | Digitized code from MIT's 1986 SICP video lectures. |

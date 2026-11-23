@@ -1,6 +1,6 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,644** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,647** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,13 +9,13 @@ Ranked by stars. GitHub reports **10,644** total repositories matching `language
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
 | 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 340 | 82 | 52 | NOASSERTION | 2026-11-03 | William Whitaker's WORDS, a Latin dictionary |
-| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-20 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
+| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-23 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
 | 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
 | 8 | [AdaDoom3/AdaDoom3](https://github.com/AdaDoom3/AdaDoom3) | 288 | 24 | 8 | — | 2023-03-29 | Id Software's Id-tech-4-BFG in the Ada programming language. |
 | 9 | [AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) | 286 | 167 | 24 | BSD-3-Clause | 2026-08-19 | Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT. |
 | 10 | [jrmarino/synth](https://github.com/jrmarino/synth) | 275 | 20 | 14 | ISC | 2026-06-26 | Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools) |
 | 11 | [AdaCore/gnat-llvm](https://github.com/AdaCore/gnat-llvm) | 239 | 33 | 5 | — | 2026-11-19 | LLVM based GNAT compiler |
-| 12 | [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) | 203 | 17 | 0 | — | 2026-11-07 | Repo for GL.iNet MT6000 custom build |
+| 12 | [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) | 204 | 17 | 0 | — | 2026-11-07 | Repo for GL.iNet MT6000 custom build |
 | 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 8 | MIT | 2026-11-22 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
 | 14 | [AdaCore/libadalang](https://github.com/AdaCore/libadalang) | 173 | 48 | 21 | NOASSERTION | 2026-11-20 | Ada semantic analysis library. |
 | 15 | [tofgarion/spark-by-example](https://github.com/tofgarion/spark-by-example) | 168 | 19 | 2 | — | 2022-08-16 | SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is a formally verif... |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **10,644** total repositories matching `language
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-15 | Ada-language framework |
 | 61 | [yaml/AdaYaml](https://github.com/yaml/AdaYaml) | 50 | 11 | 5 | MIT | 2026-03-05 | experimental YAML implementation in Ada |
-| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-20 | GNATcoverage: Coverage Analysis Tool |
+| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-23 | GNATcoverage: Coverage Analysis Tool |
 | 63 | [onox/json-ada](https://github.com/onox/json-ada) | 48 | 8 | 5 | Apache-2.0 | 2024-07-28 | An Ada 2012 library for parsing JSON |
 | 64 | [Nikokrock/ada-lua](https://github.com/Nikokrock/ada-lua) | 46 | 8 | 0 | MIT | 2023-12-11 | An Ada binding for Lua. |
 | 65 | [alire-project/ada_spark_workflow](https://github.com/alire-project/ada_spark_workflow) | 46 | 6 | 7 | MIT | 2024-10-26 | A demo of best practices for open-source Ada/SPARK development |
@@ -74,10 +74,10 @@ Ranked by stars. GitHub reports **10,644** total repositories matching `language
 | 68 | [dsanson/Words](https://github.com/dsanson/Words) | 45 | 15 | 0 | — | 2011-08-06 | A Latin-English Dictionary Program |
 | 69 | [JeremyGrosser/rp2040_hal](https://github.com/JeremyGrosser/rp2040_hal) | 45 | 16 | 11 | BSD-3-Clause | 2026-11-16 | Ada drivers for the Raspberry Pi RP2040 SoC |
 | 70 | [AdaCore/training_material](https://github.com/AdaCore/training_material) | 45 | 10 | 0 | CC-BY-4.0 | 2026-11-20 |  |
-| 71 | [mgrojo/ASFML](https://github.com/mgrojo/ASFML) | 44 | 6 | 1 | NOASSERTION | 2026-08-28 | Ada binding to the SFML library |
-| 72 | [zslwyuan/PAAS_V1.0](https://github.com/zslwyuan/PAAS_V1.0) | 44 | 15 | 2 | GPL-3.0 | 2021-09-03 | PAAS: A System Level Simulator for Heterogeneous (CPU-FPGA) Computing Systems |
-| 73 | [JeremyGrosser/pico_examples](https://github.com/JeremyGrosser/pico_examples) | 44 | 11 | 3 | — | 2026-11-16 | Ada examples for the Raspberry Pi Pico |
-| 74 | [ytomino/drake](https://github.com/ytomino/drake) | 44 | 10 | 3 | MIT | 2020-05-02 | Drake: A Runtime Library for gcc-Ada |
+| 71 | [zslwyuan/PAAS_V1.0](https://github.com/zslwyuan/PAAS_V1.0) | 44 | 15 | 2 | GPL-3.0 | 2021-09-03 | PAAS: A System Level Simulator for Heterogeneous (CPU-FPGA) Computing Systems |
+| 72 | [JeremyGrosser/pico_examples](https://github.com/JeremyGrosser/pico_examples) | 44 | 11 | 3 | — | 2026-11-16 | Ada examples for the Raspberry Pi Pico |
+| 73 | [ytomino/drake](https://github.com/ytomino/drake) | 44 | 10 | 3 | MIT | 2020-05-02 | Drake: A Runtime Library for gcc-Ada |
+| 74 | [mgrojo/ASFML](https://github.com/mgrojo/ASFML) | 43 | 6 | 1 | NOASSERTION | 2026-08-28 | Ada binding to the SFML library |
 | 75 | [Apress/beginning-ada-programming](https://github.com/Apress/beginning-ada-programming) | 43 | 13 | 5 | NOASSERTION | 2021-04-08 | Source Code for 'Beginning Ada Programming' by Andrew T. Shvets |
 | 76 | [persan/zeromq-Ada](https://github.com/persan/zeromq-Ada) | 42 | 15 | 2 | MIT | 2026-11-11 | Ada-bindings for 0mq |
 | 77 | [Haggion/kernel](https://github.com/Haggion/kernel) | 42 | 1 | 0 | GPL-3.0 | 2025-10-29 | A kernel for RISCV64 computers written in Ada |

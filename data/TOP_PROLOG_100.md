@@ -1,6 +1,6 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,590** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,594** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ Ranked by stars. GitHub reports **40,590** total repositories matching `language
 | 22 | [Attempto/APE](https://github.com/Attempto/APE) | 231 | 34 | 16 | NOASSERTION | 2024-04-21 | Parser for Attempto Controlled English (ACE) |
 | 23 | [triska/clpz](https://github.com/triska/clpz) | 215 | 15 | 29 | — | 2024-02-05 | Constraint Logic Programming over Integers |
 | 24 | [metagol/metagol](https://github.com/metagol/metagol) | 212 | 28 | 3 | BSD-3-Clause | 2021-09-13 | Metagol - an inductive logic programming system |
-| 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 210 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
+| 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 211 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
 | 26 | [dtonhofer/prolog_notes](https://github.com/dtonhofer/prolog_notes) | 209 | 26 | 3 | NOASSERTION | 2026-01-29 | Some notes taken while working on Prolog |
 | 27 | [Emeryth/iPad3_lcd](https://github.com/Emeryth/iPad3_lcd) | 201 | 50 | 1 | NOASSERTION | 2013-06-01 | A PCB for attaching an iPad retina LCD to a DisplayPort source |
 | 28 | [triska/clpfd](https://github.com/triska/clpfd) | 195 | 13 | 2 | — | 2020-01-07 | Constraint Logic Programming over Finite Domains |
