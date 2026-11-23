@@ -1,10 +1,10 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,642** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,644** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 66 | 57 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
+| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 538 | 66 | 57 | — | 2026-11-17 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
 | 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 481 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **10,642** total repositories matching `language
 | 27 | [PatrikFehrenbach/amass-tools](https://github.com/PatrikFehrenbach/amass-tools) | 106 | 26 | 0 | — | 2020-10-18 | OWASP Amass data source scripts (assetfinder, findomain, github, subfinder) |
 | 28 | [AdaDoom3/TurboAda](https://github.com/AdaDoom3/TurboAda) | 100 | 14 | 2 | — | 2026-10-15 | An Ada ~2022 LLVM compiler |
 | 29 | [AdaCore/langkit](https://github.com/AdaCore/langkit) | 95 | 34 | 9 | NOASSERTION | 2026-11-20 | Language creation framework. |
-| 30 | [docandrew/CuBit](https://github.com/docandrew/CuBit) | 91 | 4 | 5 | GPL-3.0 | 2026-11-22 | General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64 |
+| 30 | [docandrew/CuBit](https://github.com/docandrew/CuBit) | 91 | 4 | 2 | GPL-3.0 | 2026-11-22 | General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64 |
 | 31 | [MayaPosch/Sarge](https://github.com/MayaPosch/Sarge) | 91 | 15 | 0 | BSD-3-Clause | 2025-08-26 | Simple command line argument parser for C++ and Ada. |
 | 32 | [Lucretia/bare_bones](https://github.com/Lucretia/bare_bones) | 88 | 12 | 0 | NOASSERTION | 2016-11-20 | Ada Bare Bones OS development tutorial source code |
 | 33 | [godunko/adawebpack](https://github.com/godunko/adawebpack) | 86 | 10 | 5 | BSD-3-Clause | 2025-02-16 | Ada WASM Runtime and Bindings for Web API |

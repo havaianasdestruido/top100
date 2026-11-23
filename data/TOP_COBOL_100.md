@@ -1,6 +1,6 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,894** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,895** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Ranked by stars. GitHub reports **9,894** total repositories matching `language:
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
 | 26 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
 | 27 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
-| 28 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 41 | 73 | 3 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
+| 28 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 41 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
 | 29 | [etalab/taxe-fonciere](https://github.com/etalab/taxe-fonciere) | 40 | 7 | 1 | CECILL-2.1 | 2021-04-17 | Code source des taxes foncières |
 | 30 | [cloudflare/cobol-worker](https://github.com/cloudflare/cobol-worker) | 40 | 10 | 11 | MIT | 2026-04-23 |  |
 | 31 | [IBM/zOS-Client-Web-Enablement-Toolkit](https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit) | 40 | 15 | 4 | Apache-2.0 | 2025-09-17 |  |

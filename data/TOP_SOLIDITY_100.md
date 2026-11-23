@@ -1,10 +1,10 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,653** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,667** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,363 | 12,414 | 341 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,364 | 12,414 | 341 | MIT | 2026-11-20 | OpenZeppelin Contracts is a library for secure smart contract development. |
 | 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,066 | 2,433 | 26 | NOASSERTION | 2026-10-11 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
 | 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,327 | 74 | 4 | AGPL-3.0 | 2026-11-19 |  |
 | 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,200 | 34 | 1 | AGPL-3.0 | 2026-11-19 | Solidity contracts implementing hash based post quantum signatures |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **302,653** total repositories matching `languag
 | 95 | [matter-labs/era-contracts](https://github.com/matter-labs/era-contracts) | 537 | 428 | 53 | MIT | 2026-11-21 | Smart Contract Submodule For zkSync Era |
 | 96 | [FraxFinance/frax-solidity](https://github.com/FraxFinance/frax-solidity) | 535 | 205 | 13 | MIT | 2026-11-02 | Solidity implementation of the Frax Protocol |
 | 97 | [genyleap/geny-token](https://github.com/genyleap/geny-token) | 535 | 44 | 0 | — | 2025-12-13 | A Token for Empowering Creators, Fueling Boundless Innovation. |
-| 98 | [base/contract-deployments](https://github.com/base/contract-deployments) | 534 | 428 | 8 | MIT | 2026-11-05 |  |
+| 98 | [base/contract-deployments](https://github.com/base/contract-deployments) | 534 | 427 | 8 | MIT | 2026-11-05 |  |
 | 99 | [FhenixProtocol/fhenix-contracts](https://github.com/FhenixProtocol/fhenix-contracts) | 532 | 75 | 37 | MIT | 2025-01-14 | Solidity Contracts that allow developers to use FHE on Fhenix |
 | 100 | [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) | 531 | 121 | 0 | Unlicense | 2026-11-18 | Template to develop ethereum smart contracts |

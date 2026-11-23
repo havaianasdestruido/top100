@@ -1,17 +1,17 @@
 # Top 100 MATLAB repositories on GitHub
 
-Ranked by stars. GitHub reports **510,099** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **510,130** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 18,562 | 1,735 | 1 | — | 2026-11-10 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
+| 1 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 18,563 | 1,735 | 1 | — | 2026-11-10 | This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning." |
 | 2 | [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9,979 | 1,366 | 34 | — | 2021-08-02 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |
 | 3 | [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 7,807 | 1,910 | 361 | NOASSERTION | 2024-06-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit r... |
 | 4 | [PRML/PRMLT](https://github.com/PRML/PRMLT) | 6,205 | 2,118 | 1 | MIT | 2020-03-04 | Matlab code of machine learning algorithms in book PRML |
 | 5 | [personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model) | 5,372 | 790 | 2 | — | 2023-12-01 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学... |
 | 6 | [AaronJackson/vrn](https://github.com/AaronJackson/vrn) | 4,521 | 739 | 7 | MIT | 2022-07-26 | :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" |
 | 7 | [rasmusbergpalm/DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3,869 | 2,249 | 83 | BSD-2-Clause | 2018-10-13 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, ... |
-| 8 | [cycleuser/Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) | 3,463 | 850 | 5 | GPL-3.0 | 2022-03-01 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 |
+| 8 | [cycleuser/Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) | 3,462 | 850 | 5 | GPL-3.0 | 2022-03-01 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 |
 | 9 | [kpzhang93/MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment) | 2,859 | 978 | 48 | MIT | 2022-10-11 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks |
 | 10 | [ShaoqingRen/faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn) | 2,836 | 1,215 | 142 | NOASSERTION | 2018-07-26 | Faster R-CNN |
 | 11 | [googollee/eviltransform](https://github.com/googollee/eviltransform) | 2,596 | 477 | 17 | NOASSERTION | 2024-01-15 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). |
@@ -28,11 +28,11 @@ Ranked by stars. GitHub reports **510,099** total repositories matching `languag
 | 22 | [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1,587 | 464 | 94 | LGPL-2.1 | 2026-10-01 | Robotics Toolbox for MATLAB |
 | 23 | [ecmadao/Coding-Guide](https://github.com/ecmadao/Coding-Guide) | 1,452 | 180 | 1 | Apache-2.0 | 2022-07-12 | 自己随手记录的东西 |
 | 24 | [brendenlake/omniglot](https://github.com/brendenlake/omniglot) | 1,424 | 351 | 2 | MIT | 2023-02-01 | Omniglot data set for one-shot learning |
-| 25 | [SPIRIT-org/SPIRIT](https://github.com/SPIRIT-org/SPIRIT) | 1,362 | 61 | 36 | NOASSERTION | 2026-11-17 | Smartphone based on the Raspberry Pi CM 5. |
+| 25 | [SPIRIT-org/SPIRIT](https://github.com/SPIRIT-org/SPIRIT) | 1,363 | 61 | 36 | NOASSERTION | 2026-11-17 | Smartphone based on the Raspberry Pi CM 5. |
 | 26 | [altmany/export_fig](https://github.com/altmany/export_fig) | 1,356 | 366 | 26 | BSD-3-Clause | 2026-10-29 | A MATLAB toolbox for exporting publication quality figures |
 | 27 | [zuster/EconometricsResources](https://github.com/zuster/EconometricsResources) | 1,337 | 190 | 0 | Apache-2.0 | 2025-11-19 | 经济学相关专业资料集 |
 | 28 | [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) | 1,332 | 454 | 47 | NOASSERTION | 2019-11-30 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper:... |
-| 29 | [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) | 1,326 | 150 | 9 | NOASSERTION | 2026-11-20 | The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflow... |
+| 29 | [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) | 1,327 | 150 | 9 | NOASSERTION | 2026-11-20 | The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflow... |
 | 30 | [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) | 1,257 | 270 | 19 | BSD-2-Clause | 2023-12-13 | Apply and save color schemes in MATLAB with ease. |
 | 31 | [daijifeng001/R-FCN](https://github.com/daijifeng001/R-FCN) | 1,245 | 532 | 30 | NOASSERTION | 2017-05-05 | R-FCN: Object Detection via Region-based Fully Convolutional Networks |
 | 32 | [Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | 1,225 | 157 | 14 | — | 2026-08-05 | Deep Learning-based Image Fusion: A Survey |
@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **510,099** total repositories matching `languag
 | 47 | [trekhleb/machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) | 901 | 250 | 0 | MIT | 2025-11-23 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained |
 | 48 | [andrewssobral/lrslibrary](https://github.com/andrewssobral/lrslibrary) | 888 | 377 | 3 | — | 2025-11-22 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos |
 | 49 | [shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D) | 887 | 178 | 23 | — | 2022-02-18 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" |
-| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-21 | Highly comparative time-series analysis |
+| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-22 | Highly comparative time-series analysis |
 | 51 | [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) | 866 | 230 | 32 | — | 2021-06-09 | Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly rec... |
 | 52 | [pdollar/toolbox](https://github.com/pdollar/toolbox) | 861 | 494 | 39 | — | 2019-05-06 | Piotr's Image & Video Matlab Toolbox |
 | 53 | [nanahou/Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) | 842 | 152 | 5 | MIT | 2020-12-01 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s ... |
@@ -63,7 +63,7 @@ Ranked by stars. GitHub reports **510,099** total repositories matching `languag
 | 57 | [CERN/TIGRE](https://github.com/CERN/TIGRE) | 827 | 274 | 63 | BSD-3-Clause | 2026-11-22 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
 | 58 | [piermorel/gramm](https://github.com/piermorel/gramm) | 827 | 223 | 11 | MIT | 2026-11-18 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to pro... |
 | 59 | [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) | 812 | 96 | 0 | MIT | 2026-11-10 | [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveN... |
-| 60 | [sccn/eeglab](https://github.com/sccn/eeglab) | 811 | 279 | 74 | NOASSERTION | 2026-11-07 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and develop... |
+| 60 | [sccn/eeglab](https://github.com/sccn/eeglab) | 811 | 279 | 75 | NOASSERTION | 2026-11-07 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and develop... |
 | 61 | [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning) | 797 | 312 | 0 | MIT | 2019-08-28 | Coursera Machine Learning By Prof. Andrew Ng |
 | 62 | [shenshikexmu/IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture) | 794 | 263 | 0 | — | 2024-12-12 | calibration for Imu and show gesture |
 | 63 | [cybergalactic/MSS](https://github.com/cybergalactic/MSS) | 784 | 209 | 0 | MIT | 2026-11-19 | The Marine Systems Simulator (MSS) is software that supplements the textbook "Handbook of Marine Craft Hydrodynamics ... |

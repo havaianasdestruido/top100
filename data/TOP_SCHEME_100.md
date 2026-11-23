@@ -1,6 +1,6 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,120** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,123** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,7 +9,7 @@ Ranked by stars. GitHub reports **22,120** total repositories matching `language
 | 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,724 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
 | 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,664 | 167 | 12 | — | 2026-10-17 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
 | 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,446 | 207 | 294 | — | 2026-11-22 | Gambit is an efficient implementation of the Scheme programming language. |
-| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 80 | NOASSERTION | 2026-11-22 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
+| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 80 | NOASSERTION | 2026-11-23 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
 | 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,412 | 168 | 98 | NOASSERTION | 2026-11-22 | Official chibi-scheme repository |
 | 8 | [google/schism](https://github.com/google/schism) | 1,276 | 65 | 24 | Apache-2.0 | 2021-08-30 | A self-hosting Scheme to WebAssembly compiler |
 | 9 | [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) | 1,268 | 120 | 170 | LGPL-2.1 | 2026-07-22 | Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io |
@@ -38,7 +38,7 @@ Ranked by stars. GitHub reports **22,120** total repositories matching `language
 | 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 415 | 44 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
 | 34 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
-| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 402 | 31 | 37 | EPL-2.0 | 2026-11-22 | A Clojure compiler implemented on top of Chez Scheme |
+| 35 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 402 | 31 | 47 | EPL-2.0 | 2026-11-23 | A Clojure compiler implemented on top of Chez Scheme |
 | 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 516 | Apache-2.0 | 2026-11-20 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
 | 38 | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) | 369 | 42 | 0 | MIT | 2021-05-01 | A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013) |
@@ -51,9 +51,9 @@ Ranked by stars. GitHub reports **22,120** total repositories matching `language
 | 45 | [hjcapple/reading-sicp](https://github.com/hjcapple/reading-sicp) | 320 | 43 | 0 | MIT | 2023-12-08 | 《计算机程序的构造和解释》(SICP) 解题集 |
 | 46 | [ufo5260987423/scheme-langserver](https://github.com/ufo5260987423/scheme-langserver) | 300 | 22 | 7 | NOASSERTION | 2026-11-22 | Scheme language server |
 | 47 | [Calysto/calysto_scheme](https://github.com/Calysto/calysto_scheme) | 298 | 27 | 0 | BSD-3-Clause | 2026-07-25 | A Scheme kernel for Jupyter that can use Python libraries |
-| 48 | [SystemCrafters/guix-installer](https://github.com/SystemCrafters/guix-installer) | 291 | 43 | 18 | GPL-3.0 | 2026-03-25 | A GNU Guix installer image with the full Linux kernel! |
+| 48 | [SystemCrafters/guix-installer](https://github.com/SystemCrafters/guix-installer) | 290 | 43 | 18 | GPL-3.0 | 2026-03-25 | A GNU Guix installer image with the full Linux kernel! |
 | 49 | [yuriy-chumak/ol](https://github.com/yuriy-chumak/ol) | 285 | 14 | 9 | NOASSERTION | 2026-11-17 | Otus Lisp (Ol) is a purely functional multi-platform Scheme dialect with built-in FFI and infix math. |
-| 50 | [uim/uim](https://github.com/uim/uim) | 285 | 76 | 45 | NOASSERTION | 2026-11-22 | A multilingual input method framework |
+| 50 | [uim/uim](https://github.com/uim/uim) | 285 | 76 | 44 | NOASSERTION | 2026-11-22 | A multilingual input method framework |
 | 51 | [abcdw/rde](https://github.com/abcdw/rde) | 270 | 18 | 0 | GPL-3.0 | 2026-05-05 | Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/ |
 | 52 | [NalaGinrut/artanis](https://github.com/NalaGinrut/artanis) | 269 | 36 | 12 | LGPL-3.0 | 2026-11-12 | Mirror only, please visit https://gitlab.com/NalaGinrut/artanis |
 | 53 | [fluentpython/lispy](https://github.com/fluentpython/lispy) | 263 | 40 | 0 | MIT | 2024-07-06 | Learning with Peter Norvig's lis.py interpreter |
@@ -88,7 +88,7 @@ Ranked by stars. GitHub reports **22,120** total repositories matching `language
 | 82 | [strint/sicpAns](https://github.com/strint/sicpAns) | 165 | 45 | 13 | — | 2018-03-08 | 《计算机程序的构造和解释》编程题解 |
 | 83 | [manuel-serrano/hop](https://github.com/manuel-serrano/hop) | 165 | 21 | 15 | NOASSERTION | 2026-11-18 | Multitier JavaScript |
 | 84 | [becls/swish](https://github.com/becls/swish) | 161 | 28 | 0 | MIT | 2026-11-05 | Swish Concurrency Engine |
-| 85 | [ebeem/guile-swayer](https://github.com/ebeem/guile-swayer) | 151 | 9 | 3 | MIT | 2026-03-01 | Extensible Guile bindings for SwayWM |
+| 85 | [ebeem/guile-swayer](https://github.com/ebeem/guile-swayer) | 152 | 9 | 3 | MIT | 2026-03-01 | Extensible Guile bindings for SwayWM |
 | 86 | [abrantesasf/sicp-abrantes-study-guide](https://github.com/abrantesasf/sicp-abrantes-study-guide) | 144 | 20 | 0 | MIT | 2020-05-04 | My study guide for SICP |
 | 87 | [ijp/pfds](https://github.com/ijp/pfds) | 140 | 14 | 7 | NOASSERTION | 2019-05-03 | functional data structures for scheme |
 | 88 | [TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd) | 140 | 24 | 2 | MIT | 2018-06-21 | Code from Chapter 10 & Appendix A, implementation, and Chapters 7 & 8, arithmetic |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **22,120** total repositories matching `language
 | 95 | [miniKanren/TheReasonedSchemer](https://github.com/miniKanren/TheReasonedSchemer) | 131 | 24 | 0 | — | 2013-02-05 | Code from 'The Reasoned Schemer' (MIT Press, 2005) by Daniel P. Friedman, William E. Byrd and Oleg Kiselyov. |
 | 96 | [Exafunction/codeium-parse](https://github.com/Exafunction/codeium-parse) | 131 | 8 | 3 | MIT | 2024-10-10 | A command line tool for parsing code syntax |
 | 97 | [FrancoisMalan/DivideScannedImages](https://github.com/FrancoisMalan/DivideScannedImages) | 131 | 23 | 20 | — | 2022-02-15 | GIMP Scheme (.scm) script for splitting separate sub-images from a composite image that has a uniform background. Cre... |
-| 98 | [aconchillo/guile-json](https://github.com/aconchillo/guile-json) | 123 | 35 | 8 | GPL-3.0 | 2025-07-30 | JSON module for Guile |
+| 98 | [aconchillo/guile-json](https://github.com/aconchillo/guile-json) | 124 | 35 | 8 | GPL-3.0 | 2025-07-30 | JSON module for Guile |
 | 99 | [guenchi/Raven](https://github.com/guenchi/Raven) | 121 | 14 | 12 | MIT | 2026-09-27 | Raven is a Package Manager for Chez Scheme |
 | 100 | [buntine/Simply-Scheme-Exercises](https://github.com/buntine/Simply-Scheme-Exercises) | 120 | 40 | 1 | — | 2017-10-25 | All of the exercises (and their solutions!) from the Berkeley textbook Simply Scheme. |

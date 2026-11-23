@@ -1,6 +1,6 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,586** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,590** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -15,7 +15,7 @@ Ranked by stars. GitHub reports **40,586** total repositories matching `language
 | 9 | [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) | 557 | 6 | 2 | — | 2016-02-23 |  |
 | 10 | [imchipwood/dumbpad](https://github.com/imchipwood/dumbpad) | 521 | 64 | 0 | GPL-2.0 | 2026-03-04 | Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro |
 | 11 | [larsyencken/marelle](https://github.com/larsyencken/marelle) | 389 | 23 | 3 | BSD-2-Clause | 2018-09-22 | Test-driven system administration with a little extra logic. |
-| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 386 | 51 | 63 | LGPL-2.1 | 2026-11-20 | Embeddable Lambda Prolog Interpreter |
+| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 386 | 51 | 63 | LGPL-2.1 | 2026-11-22 | Embeddable Lambda Prolog Interpreter |
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
@@ -44,7 +44,7 @@ Ranked by stars. GitHub reports **40,586** total repositories matching `language
 | 38 | [stassa/louise](https://github.com/stassa/louise) | 137 | 9 | 3 | NOASSERTION | 2025-02-11 | Polynomial-time Meta-Interpretive Learning |
 | 39 | [openpst/openpst](https://github.com/openpst/openpst) | 133 | 28 | 1 | NOASSERTION | 2017-02-21 | A collection of tools for working with Qualcomm MSM devices |
 | 40 | [motools/musicontology](https://github.com/motools/musicontology) | 133 | 37 | 12 | — | 2013-10-14 | The Music Ontology Specification provides main concepts and properties fo describing music (i.e. artists, albums, tra... |
-| 41 | [jamesnvc/lsp_server](https://github.com/jamesnvc/lsp_server) | 130 | 11 | 14 | BSD-2-Clause | 2026-10-04 | Language Server Protocol server for SWI-Prolog |
+| 41 | [jamesnvc/lsp_server](https://github.com/jamesnvc/lsp_server) | 131 | 11 | 12 | BSD-2-Clause | 2026-11-22 | Language Server Protocol server for SWI-Prolog |
 | 42 | [kovvalsky/LangPro](https://github.com/kovvalsky/LangPro) | 123 | 13 | 1 | BSD-3-Clause | 2026-09-09 | Tableau-based Theorem Prover for Natural Logic and Language |
 | 43 | [JCumin/Brachylog](https://github.com/JCumin/Brachylog) | 118 | 5 | 11 | MIT | 2020-07-28 | A terse declarative logic programming language |
 | 44 | [Anniepoo/swiplwebtut](https://github.com/Anniepoo/swiplwebtut) | 117 | 42 | 15 | — | 2021-02-09 | A tutorial for the swipl web framework |
