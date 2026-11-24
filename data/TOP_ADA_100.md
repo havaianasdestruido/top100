@@ -4,7 +4,7 @@ Ranked by stars. GitHub reports **10,647** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 538 | 66 | 57 | — | 2026-11-23 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
+| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 66 | 57 | — | 2026-11-23 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
 | 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 481 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **10,647** total repositories matching `language
 | 37 | [simonjwright/FreeRTOS-Ada](https://github.com/simonjwright/FreeRTOS-Ada) | 81 | 18 | 7 | GPL-3.0 | 2025-03-18 | This project contains various GNAT Ada Run Time Systems (RTSs) based on FreeRTOS for MCUs: the Arduino Due, the STM32... |
 | 38 | [Prunt3D/prunt](https://github.com/Prunt3D/prunt) | 81 | 6 | 17 | MIT | 2026-11-16 | An advanced motion control system targetted at 3D printers. |
 | 39 | [wookey-project/ewok-kernel](https://github.com/wookey-project/ewok-kernel) | 79 | 10 | 2 | Apache-2.0 | 2021-05-27 | A secure and high performances microkernel for building secure MCU-based IoTs |
-| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 47 | GPL-3.0 | 2026-11-22 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
+| 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 47 | GPL-3.0 | 2026-11-23 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
 | 41 | [OpenAADL/ocarina](https://github.com/OpenAADL/ocarina) | 77 | 33 | 48 | NOASSERTION | 2022-03-23 | AADL model processor: mappings to code (C, Ada); Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL |
 | 42 | [GeneralZDS/FPGA-DCNN-Accelerator](https://github.com/GeneralZDS/FPGA-DCNN-Accelerator) | 74 | 15 | 5 | — | 2019-06-11 | 基于HLS的高效深度卷积神经网络FPGA实现方法 |
 | 43 | [AdaCore/bb-runtimes](https://github.com/AdaCore/bb-runtimes) | 72 | 66 | 7 | NOASSERTION | 2026-11-20 | Source repository for the GNAT Bare Metal BSPs |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **10,647** total repositories matching `language
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-15 | Ada-language framework |
 | 61 | [yaml/AdaYaml](https://github.com/yaml/AdaYaml) | 50 | 11 | 5 | MIT | 2026-03-05 | experimental YAML implementation in Ada |
-| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-23 | GNATcoverage: Coverage Analysis Tool |
+| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-24 | GNATcoverage: Coverage Analysis Tool |
 | 63 | [onox/json-ada](https://github.com/onox/json-ada) | 48 | 8 | 5 | Apache-2.0 | 2024-07-28 | An Ada 2012 library for parsing JSON |
 | 64 | [Nikokrock/ada-lua](https://github.com/Nikokrock/ada-lua) | 46 | 8 | 0 | MIT | 2023-12-11 | An Ada binding for Lua. |
 | 65 | [alire-project/ada_spark_workflow](https://github.com/alire-project/ada_spark_workflow) | 46 | 6 | 7 | MIT | 2024-10-26 | A demo of best practices for open-source Ada/SPARK development |
