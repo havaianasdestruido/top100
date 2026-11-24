@@ -1,21 +1,21 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,610** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,624** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,490 | 159 | 8 | Apache-2.0 | 2026-11-22 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,490 | 158 | 8 | Apache-2.0 | 2026-11-24 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,705 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,004 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,029 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
 | 6 | [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) | 625 | 177 | 5 | — | 2022-11-04 | Some simple examples for new Prolog programmers |
 | 7 | [ccurtsinger/stabilizer](https://github.com/ccurtsinger/stabilizer) | 591 | 49 | 8 | Apache-2.0 | 2021-09-29 | Stabilizer: Rigorous Performance Evaluation |
-| 8 | [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) | 563 | 148 | 42 | NOASSERTION | 2026-11-19 | SWI-Prolog for SHaring: a SWI-Prolog web IDE |
+| 8 | [SWI-Prolog/swish](https://github.com/SWI-Prolog/swish) | 563 | 149 | 42 | NOASSERTION | 2026-11-24 | SWI-Prolog for SHaring: a SWI-Prolog web IDE |
 | 9 | [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) | 557 | 6 | 2 | — | 2016-02-23 |  |
 | 10 | [imchipwood/dumbpad](https://github.com/imchipwood/dumbpad) | 521 | 64 | 0 | GPL-2.0 | 2026-03-04 | Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro |
 | 11 | [larsyencken/marelle](https://github.com/larsyencken/marelle) | 389 | 23 | 3 | BSD-2-Clause | 2018-09-22 | Test-driven system administration with a little extra logic. |
-| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 386 | 51 | 63 | LGPL-2.1 | 2026-11-22 | Embeddable Lambda Prolog Interpreter |
+| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 63 | LGPL-2.1 | 2026-11-22 | Embeddable Lambda Prolog Interpreter |
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
@@ -28,14 +28,14 @@ Ranked by stars. GitHub reports **40,610** total repositories matching `language
 | 22 | [Attempto/APE](https://github.com/Attempto/APE) | 231 | 34 | 16 | NOASSERTION | 2024-04-21 | Parser for Attempto Controlled English (ACE) |
 | 23 | [triska/clpz](https://github.com/triska/clpz) | 215 | 15 | 29 | — | 2024-02-05 | Constraint Logic Programming over Integers |
 | 24 | [metagol/metagol](https://github.com/metagol/metagol) | 212 | 28 | 3 | BSD-3-Clause | 2021-09-13 | Metagol - an inductive logic programming system |
-| 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 211 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
+| 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 212 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
 | 26 | [dtonhofer/prolog_notes](https://github.com/dtonhofer/prolog_notes) | 209 | 26 | 3 | NOASSERTION | 2026-01-29 | Some notes taken while working on Prolog |
 | 27 | [Emeryth/iPad3_lcd](https://github.com/Emeryth/iPad3_lcd) | 201 | 50 | 1 | NOASSERTION | 2013-06-01 | A PCB for attaching an iPad retina LCD to a DisplayPort source |
 | 28 | [triska/clpfd](https://github.com/triska/clpfd) | 195 | 13 | 2 | — | 2020-01-07 | Constraint Logic Programming over Finite Domains |
 | 29 | [strangeloop/StrangeLoop2014](https://github.com/strangeloop/StrangeLoop2014) | 188 | 59 | 1 | — | 2014-10-25 | Strange Loop 2014 archives |
 | 30 | [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) | 187 | 26 | 3 | NOASSERTION | 2024-12-17 | Online, interactive edition of the "Simply Logical" Prolog textbook |
 | 31 | [eyereasoner/eye](https://github.com/eyereasoner/eye) | 180 | 20 | 25 | MIT | 2026-09-07 | Euler Yet another proof Engine |
-| 32 | [mcsoto/cosmos](https://github.com/mcsoto/cosmos) | 176 | 9 | 2 | — | 2026-11-19 | A new logic programming language. |
+| 32 | [mcsoto/cosmos](https://github.com/mcsoto/cosmos) | 176 | 9 | 2 | — | 2026-11-24 | A new logic programming language. |
 | 33 | [needleful/c_plus_prolog](https://github.com/needleful/c_plus_prolog) | 170 | 3 | 0 | — | 2026-04-11 | C plus Prolog |
 | 34 | [gooofy/zamia-ai](https://github.com/gooofy/zamia-ai) | 169 | 26 | 0 | Apache-2.0 | 2021-05-13 | Free and open source A.I. system based on Python, TensorFlow and Prolog. |
 | 35 | [fnogatz/xsd2json](https://github.com/fnogatz/xsd2json) | 159 | 28 | 23 | MIT | 2026-01-21 | Translate XML Schema into equivalent JSON Schema |
@@ -65,8 +65,8 @@ Ranked by stars. GitHub reports **40,610** total repositories matching `language
 | 59 | [rsennrich/ParZu](https://github.com/rsennrich/ParZu) | 92 | 24 | 1 | GPL-2.0 | 2025-08-27 | The Zurich Dependency Parser for German |
 | 60 | [friguzzi/cplint](https://github.com/friguzzi/cplint) | 89 | 16 | 0 | NOASSERTION | 2026-08-30 | cplint is a suite of programs for reasoning with probabilistic logic programs |
 | 61 | [wouterbeek/prolog_library_collection](https://github.com/wouterbeek/prolog_library_collection) | 87 | 15 | 0 | MIT | 2024-08-31 | A collection of Prolog libraries. |
-| 62 | [OpenSprinkler/OpenSprinkler-Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) | 79 | 46 | 1 | CERN-OHL-S-2.0 | 2026-04-25 | OpenSprinkler Hardware Design files |
-| 63 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 79 | 13 | 7 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
+| 62 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 80 | 13 | 7 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
+| 63 | [OpenSprinkler/OpenSprinkler-Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) | 79 | 46 | 1 | CERN-OHL-S-2.0 | 2026-04-25 | OpenSprinkler Hardware Design files |
 | 64 | [alhassy/PrologCheatSheet](https://github.com/alhassy/PrologCheatSheet) | 78 | 4 | 0 | — | 2020-09-16 | Basics of relational programming with Prolog —PROgramming in LOGic ^_^ |
 | 65 | [xmonader/prolog-rands](https://github.com/xmonader/prolog-rands) | 78 | 34 | 0 | — | 2018-12-26 | random stuff in prolog |
 | 66 | [spectector/spectector](https://github.com/spectector/spectector) | 76 | 9 | 1 | Apache-2.0 | 2021-07-14 | Automatic detection of speculative information flows |
@@ -75,7 +75,7 @@ Ranked by stars. GitHub reports **40,610** total repositories matching `language
 | 69 | [YanaRGeorgieva/Logic-programming](https://github.com/YanaRGeorgieva/Logic-programming) | 65 | 4 | 1 | — | 2023-07-29 |  |
 | 70 | [CarlosGS/Open-Radiation-Detector](https://github.com/CarlosGS/Open-Radiation-Detector) | 65 | 8 | 0 | — | 2023-12-31 | Portable radiation detector based on an ionization chamber |
 | 71 | [GermanRepRap/Ramps-1.4.2](https://github.com/GermanRepRap/Ramps-1.4.2) | 65 | 40 | 2 | GPL-3.0 | 2013-11-28 | forked from ultimachine/Ramps 1.4 |
-| 72 | [kikito/7-languages-in-7-weeks](https://github.com/kikito/7-languages-in-7-weeks) | 62 | 15 | 0 | — | 2017-12-21 | My personal repo for 7LI7W exercises |
+| 72 | [kikito/7-languages-in-7-weeks](https://github.com/kikito/7-languages-in-7-weeks) | 62 | 13 | 0 | — | 2017-12-21 | My personal repo for 7LI7W exercises |
 | 73 | [akiym/akictf2013](https://github.com/akiym/akictf2013) | 62 | 5 | 0 | — | 2020-01-13 | Archive of akictf Challenges |
 | 74 | [ClioPatria/ClioPatria](https://github.com/ClioPatria/ClioPatria) | 61 | 14 | 29 | NOASSERTION | 2025-11-20 | ClioPatria provides an RDF application platform |
 | 75 | [stassa/nests-and-insects](https://github.com/stassa/nests-and-insects) | 60 | 5 | 0 | GPL-3.0 | 2024-02-19 | A Roguelike Tabletop RPG |

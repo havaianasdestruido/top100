@@ -53,7 +53,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 47 | [davidbeckingsale/writegood.vim](https://github.com/davidbeckingsale/writegood.vim) | 94 | 15 | 1 | — | 2018-05-31 | Vim plugin for Matt Might's '3 shell scripts that can improve your writing' |
 | 48 | [vim-scripts/bash-support.vim](https://github.com/vim-scripts/bash-support.vim) | 91 | 27 | 0 | — | 2014-04-23 | BASH IDE -- Write and run BASH-scripts using menus and hotkeys. |
 | 49 | [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) | 91 | 4 | 1 | MIT | 2025-07-06 | Vim wrapper for ShellCheck, a static analysis tool for shell scripts. |
-| 50 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 90 | 12 | 4 | MIT | 2025-11-25 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
+| 50 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 90 | 13 | 5 | MIT | 2025-11-25 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
 | 51 | [mfukar/robotframework-vim](https://github.com/mfukar/robotframework-vim) | 90 | 58 | 4 | — | 2018-02-06 | Some vim scripts for use with the Robot framework. |
 | 52 | [WolfgangMehner/bash-support](https://github.com/WolfgangMehner/bash-support) | 90 | 14 | 2 | — | 2020-11-22 | Edit Bash scripts in Vim/gVim. Insert code snippets, run, check, and debug the code and look up help. |
 | 53 | [vim-scripts/indentpython.vim](https://github.com/vim-scripts/indentpython.vim) | 88 | 21 | 1 | — | 2020-08-07 | An alternative indentation script for python |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 59 | [nachumk/systemverilog.vim](https://github.com/nachumk/systemverilog.vim) | 69 | 22 | 4 | GPL-2.0 | 2023-01-25 | SystemVerilog vim scripts |
 | 60 | [taq/vim-git-branch-info](https://github.com/taq/vim-git-branch-info) | 69 | 11 | 0 | — | 2015-07-31 | A Vim script to return info about the Git branches. |
 | 61 | [vim-scripts/JavaScript-Indent](https://github.com/vim-scripts/JavaScript-Indent) | 68 | 23 | 1 | — | 2017-08-12 | Javascript indenter (HTML indent is included) |
-| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-23 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
+| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-24 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
 | 63 | [ghewgill/vim-scmdiff](https://github.com/ghewgill/vim-scmdiff) | 65 | 12 | 5 | — | 2016-03-23 | Vim script to highlight lines changed from a base version in SCM |
 | 64 | [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) | 64 | 7 | 0 | MIT | 2020-12-25 | :art: Template engine for Vim color schemes, in pure Vim script |
 | 65 | [jayflo/vim-skip](https://github.com/jayflo/vim-skip) | 56 | 3 | 1 | — | 2014-03-17 | simple movement script for vim |

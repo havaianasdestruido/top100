@@ -1,106 +1,106 @@
 # Top 100 C# repositories on GitHub
 
-Ranked by stars. GitHub reports **7,908,303** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **7,910,680** total repositories matching `language:C#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 121,287 | 16,384 | 20 | GPL-3.0 | 2026-11-23 | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
-| 2 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 59,693 | 5,869 | 948 | GPL-2.0 | 2026-11-24 | The Free Software Media System - Server Backend & API |
-| 3 | [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 59,483 | 16,100 | 201 | NOASSERTION | 2025-01-01 | A C# port of shadowsocks |
-| 4 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 56,277 | 8,558 | 1,699 | MIT | 2026-11-23 | PowerShell for every system! |
-| 5 | [files-community/Files](https://github.com/files-community/Files) | 46,775 | 3,049 | 445 | MIT | 2026-11-23 | A modern file manager that helps users organize their files and folders. |
-| 6 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 41,338 | 4,099 | 613 | GPL-3.0 | 2026-11-23 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a ... |
-| 7 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 39,375 | 4,117 | 60 | GPL-3.0 | 2026-11-17 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
-| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,538 | 11,536 | 4,552 | MIT | 2026-11-24 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
-| 9 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 33,620 | 1,016 | 16 | Apache-2.0 | 2026-11-20 | Advanced UX and interoperability extension for Wand (WeMod) app |
-| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 33,543 | 2,297 | 143 | Apache-2.0 | 2026-11-20 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
-| 11 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 32,302 | 1,800 | 342 | MIT | 2026-09-29 | A Swiss Army knife for developers. |
-| 12 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31,865 | 2,907 | 2,024 | MIT | 2026-11-23 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI |
-| 13 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31,095 | 5,835 | 485 | MIT | 2026-10-23 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
-| 14 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 30,390 | 1,730 | 175 | MIT | 2026-11-23 | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, ... |
+| 1 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | 121,345 | 16,391 | 21 | GPL-3.0 | 2026-11-23 | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| 2 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 59,715 | 5,872 | 948 | GPL-2.0 | 2026-11-24 | The Free Software Media System - Server Backend & API |
+| 3 | [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) | 59,484 | 16,098 | 201 | NOASSERTION | 2025-01-01 | A C# port of shadowsocks |
+| 4 | [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 56,285 | 8,558 | 1,700 | MIT | 2026-11-24 | PowerShell for every system! |
+| 5 | [files-community/Files](https://github.com/files-community/Files) | 46,784 | 3,049 | 450 | MIT | 2026-11-24 | A modern file manager that helps users organize their files and folders. |
+| 6 | [ShareX/ShareX](https://github.com/ShareX/ShareX) | 41,350 | 4,102 | 618 | GPL-3.0 | 2026-11-23 | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a ... |
+| 7 | [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) | 39,390 | 4,118 | 60 | GPL-3.0 | 2026-11-17 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
+| 8 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38,541 | 11,519 | 4,554 | MIT | 2026-11-24 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or ... |
+| 9 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 33,619 | 1,047 | 16 | Apache-2.0 | 2026-11-20 | Advanced UX and interoperability extension for Wand (WeMod) app |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 33,556 | 2,300 | 144 | Apache-2.0 | 2026-11-20 | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, an... |
+| 11 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 32,308 | 1,800 | 342 | MIT | 2026-09-29 | A Swiss Army knife for developers. |
+| 12 | [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) | 31,868 | 2,911 | 2,037 | MIT | 2026-11-24 | Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI |
+| 13 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31,095 | 5,834 | 485 | MIT | 2026-10-23 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
+| 14 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 30,748 | 1,752 | 166 | MIT | 2026-11-24 | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, ... |
 | 15 | [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) | 29,646 | 5,728 | 185 | — | 2020-12-20 | .NET debugger and assembly editor |
-| 16 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,797 | 4,866 | 387 | MIT | 2026-11-23 | Integrate cutting-edge LLM technology quickly and easily into your apps |
-| 17 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,989 | 2,389 | 351 | MS-PL | 2026-10-14 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
-| 18 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 27,718 | 1,767 | 1,180 | GPL-3.0 | 2026-11-23 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
-| 19 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 27,226 | 993 | 259 | MIT | 2026-11-23 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
-| 20 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | 27,139 | 3,847 | 165 | MIT | 2026-11-23 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! |
-| 21 | [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) | 25,888 | 1,387 | 241 | GPL-3.0 | 2026-11-16 | Bring macOS “Quick Look” feature to Windows |
-| 22 | [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | 25,551 | 1,368 | 11 | NOASSERTION | 2026-10-15 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics |
+| 16 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28,802 | 4,867 | 387 | MIT | 2026-11-23 | Integrate cutting-edge LLM technology quickly and easily into your apps |
+| 17 | [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) | 27,992 | 2,389 | 351 | MS-PL | 2026-10-14 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
+| 18 | [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 27,729 | 1,768 | 1,178 | GPL-3.0 | 2026-11-23 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
+| 19 | [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | 27,235 | 994 | 262 | MIT | 2026-11-24 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager... |
+| 20 | [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) | 27,146 | 3,849 | 161 | MIT | 2026-11-24 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! |
+| 21 | [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) | 25,893 | 1,387 | 242 | GPL-3.0 | 2026-11-16 | Bring macOS “Quick Look” feature to Windows |
+| 22 | [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) | 25,552 | 1,368 | 11 | NOASSERTION | 2026-10-15 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics |
 | 23 | [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | 24,268 | 10,001 | 71 | — | 2023-11-15 | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powere... |
-| 24 | [dotnet/maui](https://github.com/dotnet/maui) | 23,317 | 2,001 | 1,431 | MIT | 2026-11-24 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tab... |
-| 25 | [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | 22,691 | 990 | 187 | Apache-2.0 | 2026-09-07 | Remove large amounts of unwanted applications quickly. |
-| 26 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22,674 | 5,449 | 333 | Apache-2.0 | 2026-11-23 | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| 24 | [dotnet/maui](https://github.com/dotnet/maui) | 23,318 | 2,003 | 1,313 | MIT | 2026-11-24 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tab... |
+| 25 | [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | 22,703 | 990 | 187 | Apache-2.0 | 2026-09-07 | Remove large amounts of unwanted applications quickly. |
+| 26 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 22,685 | 5,451 | 334 | Apache-2.0 | 2026-11-24 | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 | 27 | [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) | 22,539 | 606 | 237 | — | 2022-06-22 | CodeHub is an iOS application written using Xamarin |
-| 28 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 22,523 | 1,705 | 75 | — | 2026-10-30 | WinUI app for building smaller, customized Windows 11 images. |
-| 29 | [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | 21,468 | 2,952 | 233 | — | 2026-02-27 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
-| 30 | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | 20,878 | 3,414 | 2 | NOASSERTION | 2026-11-23 | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
-| 31 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20,792 | 4,390 | 6,804 | MIT | 2026-11-24 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| 28 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 22,537 | 1,705 | 74 | — | 2026-10-30 | WinUI app for building smaller, customized Windows 11 images. |
+| 29 | [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | 21,469 | 2,953 | 234 | — | 2026-02-27 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
+| 30 | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | 20,880 | 3,415 | 2 | NOASSERTION | 2026-11-23 | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
+| 31 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20,794 | 4,390 | 6,809 | MIT | 2026-11-24 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
 | 32 | [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 20,735 | 4,301 | 9 | MIT | 2026-11-23 | Clean Architecture Solution Template for ASP.NET Core |
-| 33 | [bitwarden/server](https://github.com/bitwarden/server) | 20,709 | 1,843 | 311 | NOASSERTION | 2026-11-24 | Bitwarden infrastructure/backend (API, database, Docker, etc). |
-| 34 | [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 20,487 | 906 | 179 | GPL-3.0 | 2024-08-17 | 🖱️ 纯粹的Windows右键菜单管理程序 |
-| 35 | [lively-community/lively](https://github.com/lively-community/lively) | 20,201 | 1,424 | 412 | GPL-3.0 | 2026-09-30 | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. |
-| 36 | [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) | 19,889 | 4,523 | 24 | NOASSERTION | 2026-11-21 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to... |
-| 37 | [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) | 19,768 | 2,192 | 33 | NOASSERTION | 2026-09-20 | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. Gi... |
-| 38 | [ppy/osu](https://github.com/ppy/osu) | 19,512 | 2,894 | 1,838 | MIT | 2026-11-24 | rhythm is just a *click* away! |
-| 39 | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | 18,551 | 3,147 | 3 | MIT | 2026-11-23 | Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10 |
-| 40 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18,460 | 5,773 | 8,408 | MIT | 2026-11-24 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
-| 41 | [DapperLib/Dapper](https://github.com/DapperLib/Dapper) | 18,417 | 3,648 | 541 | NOASSERTION | 2026-11-20 | Dapper - a simple object mapper for .Net |
-| 42 | [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | 18,320 | 1,239 | 88 | GPL-3.0 | 2026-11-21 | The finest Windows Optimizer |
-| 43 | [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) | 18,290 | 1,371 | 580 | GPL-3.0 | 2026-11-24 | 📦BetterGI · 更好的原神 - 自动拾取 \| 自动剧情 \| 全自动钓鱼(AI) \| 全自动七圣召唤 \| 自动伐木 \| 自动刷本 \| 自动采集/挖矿/锄地 \| 一条龙 \| 全连音游 \| 自动烹饪 \| 桌面分身... |
-| 44 | [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | 17,831 | 3,124 | 1,646 | GPL-3.0 | 2026-11-22 | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C... |
-| 45 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 17,827 | 2,099 | 96 | GPL-3.0 | 2026-11-23 | Smart PVR for newsgroup and bittorrent users. |
-| 46 | [netchx/netch](https://github.com/netchx/netch) | 17,696 | 2,836 | 7 | GPL-3.0 | 2026-11-22 | A simple proxy client |
-| 47 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 16,788 | 2,116 | 13 | MIT | 2026-11-06 | Downloads videos and playlists from YouTube |
-| 48 | [Jackett/Jackett](https://github.com/Jackett/Jackett) | 16,408 | 1,608 | 220 | GPL-2.0 | 2026-11-24 | API Support for your favorite torrent trackers |
-| 49 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 16,303 | 3,488 | 138 | MIT | 2026-11-23 | Google's Material Design in XAML & WPF, for C# & VB.Net. |
-| 50 | [seerge/g-helper](https://github.com/seerge/g-helper) | 16,172 | 701 | 147 | GPL-3.0 | 2026-11-23 | Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, F... |
-| 51 | [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | 16,164 | 2,277 | 256 | MIT | 2023-06-03 | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. |
-| 52 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 16,141 | 1,650 | 128 | MIT | 2026-11-17 | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control... |
-| 53 | [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16,080 | 689 | 332 | MIT | 2026-11-15 | :mag: Quick file search & app launcher for Windows with community-made plugins |
-| 54 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | 15,774 | 965 | 385 | GPL-3.0 | 2026-10-22 | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows... |
-| 55 | [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) | 15,590 | 3,002 | 181 | MIT | 2022-12-08 | AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. |
-| 56 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15,226 | 1,096 | 449 | NOASSERTION | 2026-11-23 | Store securely encrypted backups in the cloud! |
-| 57 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 15,117 | 1,395 | 206 | MIT | 2026-11-23 | the subtitle editor :) |
-| 58 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | 15,113 | 573 | 37 | NOASSERTION | 2026-11-05 | Everything integration for the Windows taskbar. |
-| 59 | [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | 15,074 | 704 | 4 | NOASSERTION | 2026-11-19 | Application designed to optimize, customize and enhance your Windows experience. |
-| 60 | [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) | 15,048 | 771 | 221 | NOASSERTION | 2026-11-23 | 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – bui... |
-| 61 | [Radarr/Radarr](https://github.com/Radarr/Radarr) | 14,869 | 1,270 | 820 | GPL-3.0 | 2026-11-23 | Movie organizer/manager for usenet and torrent users. |
-| 62 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14,822 | 3,456 | 2,365 | MIT | 2026-11-24 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema m... |
-| 63 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14,666 | 3,117 | 782 | NOASSERTION | 2026-11-21 | One framework for creating powerful cross-platform games. |
-| 64 | [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | 14,585 | 715 | 639 | MIT | 2026-11-18 | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing o... |
-| 65 | [abpframework/abp](https://github.com/abpframework/abp) | 14,472 | 3,702 | 298 | LGPL-3.0 | 2026-11-24 | Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise softwa... |
-| 66 | [winsw/winsw](https://github.com/winsw/winsw) | 14,456 | 1,715 | 224 | MIT | 2026-11-23 | A wrapper executable that can run any executable as a Windows service, in a permissive license. |
+| 33 | [bitwarden/server](https://github.com/bitwarden/server) | 20,715 | 1,843 | 308 | NOASSERTION | 2026-11-24 | Bitwarden infrastructure/backend (API, database, Docker, etc). |
+| 34 | [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) | 20,489 | 906 | 179 | GPL-3.0 | 2024-08-17 | 🖱️ 纯粹的Windows右键菜单管理程序 |
+| 35 | [lively-community/lively](https://github.com/lively-community/lively) | 20,206 | 1,425 | 412 | GPL-3.0 | 2026-09-30 | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. |
+| 36 | [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) | 19,890 | 4,523 | 24 | NOASSERTION | 2026-11-21 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to... |
+| 37 | [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) | 19,770 | 2,192 | 33 | NOASSERTION | 2026-09-20 | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. Gi... |
+| 38 | [ppy/osu](https://github.com/ppy/osu) | 19,513 | 2,897 | 1,829 | MIT | 2026-11-24 | rhythm is just a *click* away! |
+| 39 | [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | 18,552 | 3,147 | 3 | MIT | 2026-11-23 | Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10 |
+| 40 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18,462 | 5,773 | 8,393 | MIT | 2026-11-24 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
+| 41 | [DapperLib/Dapper](https://github.com/DapperLib/Dapper) | 18,418 | 3,648 | 542 | NOASSERTION | 2026-11-20 | Dapper - a simple object mapper for .Net |
+| 42 | [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | 18,326 | 1,239 | 87 | GPL-3.0 | 2026-11-24 | The finest Windows Optimizer |
+| 43 | [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) | 18,299 | 1,371 | 581 | GPL-3.0 | 2026-11-24 | 📦BetterGI · 更好的原神 - 自动拾取 \| 自动剧情 \| 全自动钓鱼(AI) \| 全自动七圣召唤 \| 自动伐木 \| 自动刷本 \| 自动采集/挖矿/锄地 \| 一条龙 \| 全连音游 \| 自动烹饪 \| 桌面分身... |
+| 44 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 17,835 | 2,099 | 96 | GPL-3.0 | 2026-11-23 | Smart PVR for newsgroup and bittorrent users. |
+| 45 | [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) | 17,833 | 3,124 | 1,646 | GPL-3.0 | 2026-11-22 | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C... |
+| 46 | [netchx/netch](https://github.com/netchx/netch) | 17,694 | 2,835 | 7 | GPL-3.0 | 2026-11-24 | A simple proxy client |
+| 47 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 16,799 | 2,119 | 11 | MIT | 2026-11-06 | Downloads videos and playlists from YouTube |
+| 48 | [Jackett/Jackett](https://github.com/Jackett/Jackett) | 16,410 | 1,608 | 220 | GPL-2.0 | 2026-11-24 | API Support for your favorite torrent trackers |
+| 49 | [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | 16,304 | 3,488 | 138 | MIT | 2026-11-23 | Google's Material Design in XAML & WPF, for C# & VB.Net. |
+| 50 | [seerge/g-helper](https://github.com/seerge/g-helper) | 16,180 | 701 | 146 | GPL-3.0 | 2026-11-23 | Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, F... |
+| 51 | [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) | 16,165 | 2,277 | 256 | MIT | 2023-06-03 | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. |
+| 52 | [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) | 16,155 | 1,651 | 129 | MIT | 2026-11-17 | Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control... |
+| 53 | [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) | 16,086 | 689 | 332 | MIT | 2026-11-15 | :mag: Quick file search & app launcher for Windows with community-made plugins |
+| 54 | [Tichau/FileConverter](https://github.com/Tichau/FileConverter) | 15,778 | 966 | 385 | GPL-3.0 | 2026-10-22 | File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows... |
+| 55 | [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) | 15,592 | 3,002 | 181 | MIT | 2022-12-08 | AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. |
+| 56 | [duplicati/duplicati](https://github.com/duplicati/duplicati) | 15,227 | 1,097 | 388 | NOASSERTION | 2026-11-24 | Store securely encrypted backups in the cloud! |
+| 57 | [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) | 15,124 | 1,397 | 207 | MIT | 2026-11-24 | the subtitle editor :) |
+| 58 | [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | 15,117 | 573 | 37 | NOASSERTION | 2026-11-05 | Everything integration for the Windows taskbar. |
+| 59 | [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | 15,090 | 704 | 3 | NOASSERTION | 2026-11-24 | Application designed to optimize, customize and enhance your Windows experience. |
+| 60 | [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) | 15,057 | 772 | 222 | NOASSERTION | 2026-11-24 | 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – bui... |
+| 61 | [Radarr/Radarr](https://github.com/Radarr/Radarr) | 14,871 | 1,271 | 822 | GPL-3.0 | 2026-11-23 | Movie organizer/manager for usenet and torrent users. |
+| 62 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14,824 | 3,456 | 2,362 | MIT | 2026-11-24 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema m... |
+| 63 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14,668 | 3,117 | 783 | NOASSERTION | 2026-11-21 | One framework for creating powerful cross-platform games. |
+| 64 | [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | 14,585 | 717 | 640 | MIT | 2026-11-18 | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing o... |
+| 65 | [abpframework/abp](https://github.com/abpframework/abp) | 14,472 | 3,702 | 300 | LGPL-3.0 | 2026-11-24 | Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise softwa... |
+| 66 | [winsw/winsw](https://github.com/winsw/winsw) | 14,455 | 1,716 | 225 | MIT | 2026-11-24 | A wrapper executable that can run any executable as a Windows service, in a permissive license. |
 | 67 | [App-vNext/Polly](https://github.com/App-vNext/Polly) | 14,256 | 1,303 | 8 | BSD-3-Clause | 2026-11-21 | Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Re... |
-| 68 | [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) | 14,230 | 775 | 37 | NOASSERTION | 2026-11-20 | QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clea... |
+| 68 | [QuestPDF/QuestPDF](https://github.com/QuestPDF/QuestPDF) | 14,231 | 776 | 37 | NOASSERTION | 2026-11-20 | QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clea... |
 | 69 | [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 14,149 | 2,200 | 68 | MIT | 2024-06-04 | Full Modular Monolith application with Domain-Driven Design approach. |
-| 70 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,908 | 1,214 | 76 | MIT | 2026-11-10 |  |
-| 71 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | 13,831 | 1,124 | 1 | Apache-2.0 | 2026-11-24 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
-| 72 | [nilaoda/BBDown](https://github.com/nilaoda/BBDown) | 13,818 | 1,768 | 245 | MIT | 2026-05-14 | Bilibili Downloader. 一个命令行式哔哩哔哩下载器. |
-| 73 | [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | 13,159 | 24,473 | 468 | CC-BY-4.0 | 2026-11-23 | Documentation for ASP.NET Core |
+| 70 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 13,909 | 1,214 | 76 | MIT | 2026-11-10 |  |
+| 71 | [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | 13,832 | 1,124 | 1 | Apache-2.0 | 2026-11-24 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
+| 72 | [nilaoda/BBDown](https://github.com/nilaoda/BBDown) | 13,818 | 1,769 | 245 | MIT | 2026-05-14 | Bilibili Downloader. 一个命令行式哔哩哔哩下载器. |
+| 73 | [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) | 13,159 | 24,472 | 470 | CC-BY-4.0 | 2026-11-24 | Documentation for ASP.NET Core |
 | 74 | [Unity-Technologies/UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) | 13,080 | 2,543 | 19 | NOASSERTION | 2026-11-19 | Unity C# reference source code. |
-| 75 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 13,055 | 1,248 | 6 | GPL-3.0 | 2024-02-22 | 一键自动化 下载、安装、激活 Office 的利器。 |
-| 76 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 13,039 | 575 | 18 | NOASSERTION | 2026-11-23 | Free, open-source Windows optimization tool for performance, privacy, and simplicity. |
+| 75 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 13,069 | 576 | 18 | NOASSERTION | 2026-11-23 | Free, open-source Windows optimization tool for performance, privacy, and simplicity. |
+| 76 | [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) | 13,057 | 1,248 | 6 | GPL-3.0 | 2024-02-22 | 一键自动化 下载、安装、激活 Office 的利器。 |
 | 77 | [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) | 12,777 | 1,585 | 111 | — | 2026-11-05 | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
-| 78 | [dotnet/csharplang](https://github.com/dotnet/csharplang) | 12,741 | 1,077 | 290 | — | 2026-11-18 | The official repo for the design of the C# programming language |
-| 79 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | 12,429 | 1,056 | 13 | MIT | 2026-11-14 | Saves Discord chat logs to a file |
-| 80 | [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | 12,216 | 571 | 19 | GPL-2.0 | 2026-11-24 | Driver Store Explorer |
-| 81 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 12,174 | 706 | 167 | GPL-3.0 | 2026-11-23 | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all y... |
-| 82 | [microsoft/garnet](https://github.com/microsoft/garnet) | 12,101 | 725 | 91 | MIT | 2026-11-23 | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scala... |
-| 83 | [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 12,000 | 3,794 | 62 | MIT | 2026-10-26 | ASP.NET Boilerplate - Web Application Framework |
+| 78 | [dotnet/csharplang](https://github.com/dotnet/csharplang) | 12,742 | 1,077 | 290 | — | 2026-11-24 | The official repo for the design of the C# programming language |
+| 79 | [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) | 12,435 | 1,056 | 17 | MIT | 2026-11-14 | Saves Discord chat logs to a file |
+| 80 | [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | 12,219 | 571 | 19 | GPL-2.0 | 2026-11-24 | Driver Store Explorer |
+| 81 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 12,180 | 706 | 167 | GPL-3.0 | 2026-11-24 | Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all y... |
+| 82 | [microsoft/garnet](https://github.com/microsoft/garnet) | 12,101 | 725 | 91 | MIT | 2026-11-24 | Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scala... |
+| 83 | [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | 12,000 | 3,795 | 62 | MIT | 2026-10-26 | ASP.NET Boilerplate - Web Application Framework |
 | 84 | [lucasg/Dependencies](https://github.com/lucasg/Dependencies) | 11,965 | 956 | 142 | MIT | 2024-05-15 | A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. |
 | 85 | [LuckyPennySoftware/MediatR](https://github.com/LuckyPennySoftware/MediatR) | 11,853 | 2,173 | 0 | NOASSERTION | 2026-11-12 | Simple, unambitious mediator implementation in .NET |
-| 86 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11,715 | 694 | 159 | MIT | 2026-11-22 | A .NET library that makes it easier to create beautiful console applications. |
+| 86 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11,715 | 695 | 159 | MIT | 2026-11-22 | A .NET library that makes it easier to create beautiful console applications. |
 | 87 | [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) | 11,671 | 854 | 212 | LGPL-3.0 | 2022-04-15 | Yet Another System Region and Language Simulator |
-| 88 | [chocolatey/choco](https://github.com/chocolatey/choco) | 11,575 | 968 | 533 | NOASSERTION | 2026-11-20 | Chocolatey - the package manager for Windows |
-| 89 | [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | 11,571 | 618 | 122 | NOASSERTION | 2026-11-22 | EarTrumpet - Volume Control for Windows |
-| 90 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11,534 | 1,079 | 165 | MIT | 2026-11-21 | Powerful .NET library for benchmarking |
+| 88 | [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | 11,578 | 617 | 122 | NOASSERTION | 2026-11-22 | EarTrumpet - Volume Control for Windows |
+| 89 | [chocolatey/choco](https://github.com/chocolatey/choco) | 11,575 | 968 | 533 | NOASSERTION | 2026-11-20 | Chocolatey - the package manager for Windows |
+| 90 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11,535 | 1,079 | 165 | MIT | 2026-11-21 | Powerful .NET library for benchmarking |
 | 91 | [mono/mono](https://github.com/mono/mono) | 11,474 | 3,803 | 2,265 | NOASSERTION | 2024-08-27 | Mono open source ECMA CLI, C# and .NET implementation. |
-| 92 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 11,321 | 3,298 | 830 | MIT | 2026-11-10 | Json.NET is a popular high-performance JSON framework for .NET |
-| 93 | [Cysharp/UniTask](https://github.com/Cysharp/UniTask) | 11,318 | 1,017 | 30 | MIT | 2026-10-06 | Provides an efficient allocation free async/await integration for Unity. |
-| 94 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 11,317 | 796 | 51 | MIT | 2026-11-23 | Cross Platform Terminal UI toolkit for .NET |
-| 95 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 11,234 | 1,645 | 834 | GPL-2.0 | 2026-11-21 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. |
-| 96 | [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 11,159 | 1,516 | 13 | MIT | 2026-11-23 | 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题... |
-| 97 | [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) | 11,155 | 2,322 | 3 | NOASSERTION | 2026-11-22 | Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, cr... |
+| 92 | [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | 11,321 | 3,297 | 830 | MIT | 2026-11-10 | Json.NET is a popular high-performance JSON framework for .NET |
+| 93 | [Cysharp/UniTask](https://github.com/Cysharp/UniTask) | 11,320 | 1,015 | 30 | MIT | 2026-10-06 | Provides an efficient allocation free async/await integration for Unity. |
+| 94 | [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) | 11,318 | 796 | 52 | MIT | 2026-11-24 | Cross Platform Terminal UI toolkit for .NET |
+| 95 | [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | 11,236 | 1,645 | 834 | GPL-2.0 | 2026-11-21 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. |
+| 96 | [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) | 11,160 | 1,517 | 13 | MIT | 2026-11-23 | 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题... |
+| 97 | [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp) | 11,155 | 2,324 | 3 | NOASSERTION | 2026-11-22 | Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, cr... |
 | 98 | [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) | 11,095 | 1,341 | 8 | Unlicense | 2026-11-01 | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMO... |
 | 99 | [dotnet/eShop](https://github.com/dotnet/eShop) | 11,034 | 3,931 | 121 | MIT | 2026-11-24 | A reference .NET application implementing an eCommerce site |
-| 100 | [dotnet/orleans](https://github.com/dotnet/orleans) | 10,930 | 2,154 | 666 | MIT | 2026-11-23 | Cloud Native application framework for .NET |
+| 100 | [dotnet/orleans](https://github.com/dotnet/orleans) | 10,932 | 2,154 | 666 | MIT | 2026-11-24 | Cloud Native application framework for .NET |
