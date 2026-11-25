@@ -5,11 +5,11 @@ Ranked by stars. GitHub reports **10,652** total repositories matching `language
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 66 | 57 | — | 2026-11-23 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
-| 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 481 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
+| 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 482 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
-| 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 340 | 82 | 52 | NOASSERTION | 2026-11-03 | William Whitaker's WORDS, a Latin dictionary |
-| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-24 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
+| 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 341 | 82 | 52 | NOASSERTION | 2026-11-03 | William Whitaker's WORDS, a Latin dictionary |
+| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-25 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
 | 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
 | 8 | [AdaDoom3/AdaDoom3](https://github.com/AdaDoom3/AdaDoom3) | 288 | 24 | 8 | — | 2023-03-29 | Id Software's Id-tech-4-BFG in the Ada programming language. |
 | 9 | [AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) | 286 | 167 | 23 | BSD-3-Clause | 2026-08-19 | Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT. |
@@ -54,7 +54,7 @@ Ranked by stars. GitHub reports **10,652** total repositories matching `language
 | 48 | [UnstableDesign/AdaCAD-UI](https://github.com/UnstableDesign/AdaCAD-UI) | 65 | 18 | 61 | — | 2026-03-01 | MIGRATED - AdaCAD is an experimental workspace that applies parametric design to the domain of weave drafting. It sup... |
 | 49 | [cubesatlab/cubedos](https://github.com/cubesatlab/cubedos) | 65 | 13 | 31 | — | 2025-11-17 | A flight software framework in SPARK/Ada |
 | 50 | [Fabien-Chouteau/ACNC](https://github.com/Fabien-Chouteau/ACNC) | 65 | 13 | 0 | GPL-3.0 | 2019-06-21 | A G-code parser and CNC controller (in Ada) |
-| 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 2 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
+| 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 1 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
 | 52 | [AdaCore/VSS](https://github.com/AdaCore/VSS) | 61 | 7 | 0 | NOASSERTION | 2025-09-01 | High level string and text processing library |
 | 53 | [jgrivera67/HiRTOS](https://github.com/jgrivera67/HiRTOS) | 58 | 3 | 5 | Apache-2.0 | 2026-01-29 | HiRTOS: a high-integrity multi-core RTOS kernel and separation kernel written in SPARK Ada |
 | 54 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |

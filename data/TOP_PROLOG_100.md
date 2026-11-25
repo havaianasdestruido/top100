@@ -1,13 +1,13 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,635** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,644** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 11 | Apache-2.0 | 2026-11-24 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 7 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,705 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
-| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,004 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
+| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,005 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,029 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
 | 6 | [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) | 625 | 177 | 5 | — | 2022-11-04 | Some simple examples for new Prolog programmers |
 | 7 | [ccurtsinger/stabilizer](https://github.com/ccurtsinger/stabilizer) | 591 | 49 | 8 | Apache-2.0 | 2021-09-29 | Stabilizer: Rigorous Performance Evaluation |
@@ -15,7 +15,7 @@ Ranked by stars. GitHub reports **40,635** total repositories matching `language
 | 9 | [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) | 557 | 6 | 2 | — | 2016-02-23 |  |
 | 10 | [imchipwood/dumbpad](https://github.com/imchipwood/dumbpad) | 521 | 64 | 0 | GPL-2.0 | 2026-03-04 | Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro |
 | 11 | [larsyencken/marelle](https://github.com/larsyencken/marelle) | 389 | 23 | 3 | BSD-2-Clause | 2018-09-22 | Test-driven system administration with a little extra logic. |
-| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 63 | LGPL-2.1 | 2026-11-24 | Embeddable Lambda Prolog Interpreter |
+| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 63 | LGPL-2.1 | 2026-11-25 | Embeddable Lambda Prolog Interpreter |
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
@@ -54,8 +54,8 @@ Ranked by stars. GitHub reports **40,635** total repositories matching `language
 | 48 | [carloop/hardware](https://github.com/carloop/hardware) | 110 | 25 | 1 | GPL-3.0 | 2019-07-07 | OBD-II CAN adapter for Particle Electron, Photon, and RedBear Duo |
 | 49 | [aartikis/RTEC](https://github.com/aartikis/RTEC) | 109 | 19 | 2 | LGPL-3.0 | 2026-11-03 | RTEC is an Event Calculus implementation optimised for stream reasoning |
 | 50 | [sciguy14/Eagle-Tutorial-Series](https://github.com/sciguy14/Eagle-Tutorial-Series) | 108 | 104 | 2 | GPL-3.0 | 2013-10-10 | These are the supporting materials for my series of tutorials on using the Eagle CAD software for PCB design. |
-| 51 | [aarroyoc/postgresql-prolog](https://github.com/aarroyoc/postgresql-prolog) | 107 | 6 | 2 | Apache-2.0 | 2026-10-31 | A Prolog library to connect to PostgreSQL databases |
-| 52 | [csplib/csplib](https://github.com/csplib/csplib) | 107 | 78 | 12 | — | 2026-09-28 | A benchmark library for constraints |
+| 51 | [csplib/csplib](https://github.com/csplib/csplib) | 108 | 78 | 12 | — | 2026-09-28 | A benchmark library for constraints |
+| 52 | [aarroyoc/postgresql-prolog](https://github.com/aarroyoc/postgresql-prolog) | 107 | 6 | 2 | Apache-2.0 | 2026-10-31 | A Prolog library to connect to PostgreSQL databases |
 | 53 | [stefanrodrigues2/Prolog-Adventure-game](https://github.com/stefanrodrigues2/Prolog-Adventure-game) | 105 | 3 | 0 | — | 2023-08-14 | Text Adventure game in SWI Prolog. |
 | 54 | [brunohorta82/BH_OnOfre](https://github.com/brunohorta82/BH_OnOfre) | 103 | 23 | 2 | MIT | 2021-02-25 | O projeto BH OnOfre, é uma solução IoT baseada em ESP8266 com o objetivo de tornar a automação domiciliar muito mais ... |
 | 55 | [HackerUniverse/Reconcobra](https://github.com/HackerUniverse/Reconcobra) | 99 | 132 | 3 | — | 2020-06-23 | Ultimate Recon Software for Information Gathering |
@@ -70,8 +70,8 @@ Ranked by stars. GitHub reports **40,635** total repositories matching `language
 | 64 | [alhassy/PrologCheatSheet](https://github.com/alhassy/PrologCheatSheet) | 78 | 4 | 0 | — | 2020-09-16 | Basics of relational programming with Prolog —PROgramming in LOGic ^_^ |
 | 65 | [xmonader/prolog-rands](https://github.com/xmonader/prolog-rands) | 78 | 34 | 0 | — | 2018-12-26 | random stuff in prolog |
 | 66 | [spectector/spectector](https://github.com/spectector/spectector) | 76 | 9 | 1 | Apache-2.0 | 2021-07-14 | Automatic detection of speculative information flows |
-| 67 | [rachelwiles/GoT-Check](https://github.com/rachelwiles/GoT-Check) | 71 | 13 | 0 | — | 2019-04-15 | :crossed_swords: Game of Thrones character database and family trees in Prolog |
-| 68 | [LHNCBC/SemRep](https://github.com/LHNCBC/SemRep) | 71 | 15 | 8 | — | 2026-09-03 |  |
+| 67 | [LHNCBC/SemRep](https://github.com/LHNCBC/SemRep) | 72 | 15 | 8 | — | 2026-09-03 |  |
+| 68 | [rachelwiles/GoT-Check](https://github.com/rachelwiles/GoT-Check) | 71 | 13 | 0 | — | 2019-04-15 | :crossed_swords: Game of Thrones character database and family trees in Prolog |
 | 69 | [YanaRGeorgieva/Logic-programming](https://github.com/YanaRGeorgieva/Logic-programming) | 65 | 4 | 1 | — | 2023-07-29 |  |
 | 70 | [CarlosGS/Open-Radiation-Detector](https://github.com/CarlosGS/Open-Radiation-Detector) | 65 | 8 | 0 | — | 2023-12-31 | Portable radiation detector based on an ionization chamber |
 | 71 | [GermanRepRap/Ramps-1.4.2](https://github.com/GermanRepRap/Ramps-1.4.2) | 65 | 40 | 2 | GPL-3.0 | 2013-11-28 | forked from ultimachine/Ramps 1.4 |

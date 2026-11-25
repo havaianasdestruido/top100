@@ -1,6 +1,6 @@
 # Top100 — full content
 
-> Generated 25 November 2026, 02:15 UTC from the live dataset.
+> Generated 25 November 2026, 12:34 UTC from the live dataset.
 
 ## What this is
 
@@ -10,244 +10,244 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 | # | Repository | Language | Stars |
 | --- | --- | --- | --- |
-| 1 | public-apis/public-apis | Python | 501,229 |
-| 2 | morluto/rea | TypeScript | 477,207 |
-| 3 | freeCodeCamp/freeCodeCamp | TypeScript | 459,580 |
-| 4 | EbookFoundation/free-programming-books | Python | 402,223 |
-| 5 | openclaw/openclaw | TypeScript | 395,166 |
-| 6 | donnemartin/system-design-primer | Python | 379,092 |
-| 7 | nilbuild/developer-roadmap | TypeScript | 372,703 |
-| 8 | vinta/awesome-python | Python | 336,949 |
-| 9 | mattpocock/skills | Shell | 332,222 |
-| 10 | obra/superpowers | Shell | 325,862 |
+| 1 | public-apis/public-apis | Python | 501,324 |
+| 2 | morluto/rea | TypeScript | 477,862 |
+| 3 | freeCodeCamp/freeCodeCamp | TypeScript | 459,608 |
+| 4 | EbookFoundation/free-programming-books | Python | 402,255 |
+| 5 | openclaw/openclaw | TypeScript | 395,182 |
+| 6 | donnemartin/system-design-primer | Python | 379,168 |
+| 7 | nilbuild/developer-roadmap | TypeScript | 372,741 |
+| 8 | vinta/awesome-python | Python | 337,034 |
+| 9 | mattpocock/skills | Shell | 332,580 |
+| 10 | obra/superpowers | Shell | 326,241 |
 
 ## Statistics by language
 
 | Language | Leader | Stars | Stars to enter top 100 | Median in top 100 | Repos GitHub reports |
 | --- | --- | --- | --- | --- | --- |
-| TypeScript | morluto/rea | 477,207 | 47,382 | 77,825 | 20,144,649 |
-| Python | public-apis/public-apis | 501,229 | 62,178 | 83,687 | 36,625,020 |
-| JavaScript | affaan-m/ECC | 310,234 | 36,050 | 55,809 | 49,276,638 |
-| Java | NationalSecurityAgency/ghidra | 101,232 | 19,134 | 29,452 | 22,146,474 |
-| C# | 2dust/v2rayN | 121,367 | 10,932 | 16,175 | 7,912,392 |
-| C++ | tensorflow/tensorflow | 201,763 | 20,071 | 32,123 | 7,385,295 |
-| PHP | danielmiessler/SecLists | 74,937 | 9,545 | 12,935 | 6,535,154 |
-| Shell | mattpocock/skills | 332,222 | 11,925 | 20,663 | 3,436,339 |
-| C | torvalds/linux | 256,600 | 14,174 | 22,807 | 4,501,272 |
-| Go | avelino/awesome-go | 195,821 | 30,225 | 41,044 | 2,634,814 |
-| Rust | ultraworkers/claw-code | 194,719 | 27,954 | 40,608 | 1,523,807 |
-| Ruby | rails/rails | 59,101 | 6,142 | 9,934 | 2,974,666 |
-| Kotlin | 2dust/v2rayNG | 66,500 | 8,110 | 13,559 | 2,527,191 |
-| Swift | jaywcjlove/awesome-mac | 119,284 | 8,985 | 15,053 | 1,780,435 |
-| Dart | flutter/flutter | 181,458 | 3,795 | 7,025 | 2,230,272 |
-| HTML | ossu/computer-science | 211,512 | 10,378 | 16,598 | 51,234,753 |
-| CSS | animate-css/animate.css | 83,066 | 5,148 | 8,409 | 11,611,341 |
-| SQL | ben-nour/SQL-tips-and-tricks | 2,310 | 7 | 14 | 4,922 |
-| Scala | twitter/the-algorithm | 74,114 | 1,665 | 2,817 | 261,424 |
-| Lua | Kong/kong | 44,413 | 3,722 | 5,932 | 790,057 |
-| Groovy | gradle/gradle | 18,950 | 383 | 701 | 111,946 |
-| Objective-C | AFNetworking/AFNetworking | 33,314 | 5,913 | 8,235 | 544,079 |
-| Perl | AlDanial/cloc | 23,685 | 985 | 1,699 | 189,387 |
-| Haskell | jgm/pandoc | 47,072 | 1,075 | 1,880 | 165,619 |
-| Assembly | chrislgarry/Apollo-11 | 76,820 | 692 | 1,322 | 221,169 |
-| R | cxli233/FriendsDontLetFriends | 7,219 | 955 | 1,452 | 1,160,282 |
-| Julia | JuliaLang/julia | 49,300 | 576 | 871 | 96,507 |
-| Elixir | anoma/anoma | 33,522 | 1,270 | 1,929 | 134,118 |
-| PowerShell | ChrisTitusTech/winutil | 66,641 | 1,877 | 3,018 | 403,348 |
-| Nix | NixOS/nixpkgs | 26,947 | 652 | 1,048 | 89,174 |
-| Zig | ghostty-org/ghostty | 64,424 | 530 | 1,145 | 41,564 |
-| Clojure | tonsky/FiraCode | 82,221 | 1,155 | 1,865 | 97,981 |
-| Erlang | emqx/emqx | 16,944 | 444 | 892 | 34,488 |
-| OCaml | meta/infer | 15,765 | 420 | 909 | 44,308 |
-| Solidity | OpenZeppelin/openzeppelin-contracts | 27,366 | 531 | 825 | 302,659 |
-| Fortran | Reference-LAPACK/lapack | 1,924 | 188 | 305 | 46,972 |
-| Vim Script | mileszs/ack.vim | 3,072 | 27 | 90 | 3,466 |
-| F# | dotnet/fsharp | 4,357 | 281 | 528 | 35,658 |
+| TypeScript | morluto/rea | 477,862 | 47,382 | 78,451 | 20,165,274 |
+| Python | public-apis/public-apis | 501,324 | 62,255 | 83,773 | 36,660,240 |
+| JavaScript | affaan-m/ECC | 310,474 | 36,068 | 55,810 | 49,292,579 |
+| Java | NationalSecurityAgency/ghidra | 101,289 | 19,133 | 29,453 | 22,150,057 |
+| C# | 2dust/v2rayN | 121,425 | 10,933 | 16,188 | 7,914,146 |
+| C++ | tensorflow/tensorflow | 201,805 | 20,075 | 32,127 | 7,386,964 |
+| PHP | danielmiessler/SecLists | 74,946 | 9,545 | 12,935 | 6,536,464 |
+| Shell | mattpocock/skills | 332,580 | 11,924 | 20,664 | 3,437,376 |
+| C | torvalds/linux | 256,690 | 14,176 | 22,810 | 4,502,664 |
+| Go | avelino/awesome-go | 195,889 | 30,243 | 41,193 | 2,635,543 |
+| Rust | ultraworkers/claw-code | 194,722 | 27,960 | 40,621 | 1,525,244 |
+| Ruby | rails/rails | 59,107 | 6,145 | 9,935 | 2,974,700 |
+| Kotlin | 2dust/v2rayNG | 66,531 | 8,110 | 13,567 | 2,528,852 |
+| Swift | jaywcjlove/awesome-mac | 119,332 | 8,986 | 15,055 | 1,781,104 |
+| Dart | flutter/flutter | 181,499 | 3,793 | 7,025 | 2,231,036 |
+| HTML | ossu/computer-science | 211,533 | 10,378 | 16,597 | 51,264,222 |
+| CSS | animate-css/animate.css | 83,071 | 5,149 | 8,409 | 11,613,523 |
+| SQL | ben-nour/SQL-tips-and-tricks | 2,310 | 7 | 14 | 4,923 |
+| Scala | twitter/the-algorithm | 74,120 | 1,665 | 2,817 | 261,434 |
+| Lua | Kong/kong | 44,416 | 3,721 | 5,932 | 790,360 |
+| Groovy | gradle/gradle | 18,950 | 383 | 701 | 111,956 |
+| Objective-C | AFNetworking/AFNetworking | 33,314 | 5,913 | 8,235 | 544,110 |
+| Perl | AlDanial/cloc | 23,687 | 985 | 1,699 | 189,384 |
+| Haskell | jgm/pandoc | 47,081 | 1,075 | 1,880 | 165,636 |
+| Assembly | chrislgarry/Apollo-11 | 76,824 | 692 | 1,322 | 221,205 |
+| R | cxli233/FriendsDontLetFriends | 7,220 | 956 | 1,454 | 1,160,462 |
+| Julia | JuliaLang/julia | 49,301 | 576 | 871 | 96,521 |
+| Elixir | anoma/anoma | 33,520 | 1,270 | 1,929 | 134,135 |
+| PowerShell | ChrisTitusTech/winutil | 66,665 | 1,877 | 3,019 | 403,595 |
+| Nix | NixOS/nixpkgs | 26,951 | 652 | 1,048 | 89,198 |
+| Zig | ghostty-org/ghostty | 64,445 | 530 | 1,145 | 41,588 |
+| Clojure | tonsky/FiraCode | 82,220 | 1,155 | 1,865 | 97,990 |
+| Erlang | emqx/emqx | 16,945 | 444 | 892 | 34,487 |
+| OCaml | meta/infer | 15,766 | 420 | 909 | 44,311 |
+| Solidity | OpenZeppelin/openzeppelin-contracts | 27,367 | 531 | 825 | 302,723 |
+| Fortran | Reference-LAPACK/lapack | 1,924 | 188 | 305 | 46,975 |
+| Vim Script | mileszs/ack.vim | 3,072 | 27 | 90 | 3,467 |
+| F# | dotnet/fsharp | 4,357 | 281 | 528 | 35,650 |
 | Ada | AdaCore/gnatstudio | 537 | 34 | 63 | 10,652 |
-| COBOL | openmainframeproject/cobol-programming-course | 3,673 | 11 | 25 | 9,906 |
-| Crystal | iv-org/invidious | 26,150 | 142 | 216 | 10,698 |
-| MATLAB | MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | 18,584 | 566 | 866 | 510,536 |
-| Nim | nim-lang/Nim | 18,330 | 275 | 496 | 14,333 |
-| Prolog | terminusdb/terminusdb | 3,491 | 43 | 107 | 40,635 |
-| Scheme | cisco/ChezScheme | 7,387 | 120 | 277 | 22,136 |
-| Common Lisp | atlas-engineer/nyxt | 11,075 | 608 | 1,200 | 34,106 |
+| COBOL | openmainframeproject/cobol-programming-course | 3,673 | 11 | 25 | 9,909 |
+| Crystal | iv-org/invidious | 26,155 | 142 | 216 | 10,701 |
+| MATLAB | MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning | 18,590 | 566 | 866 | 510,632 |
+| Nim | nim-lang/Nim | 18,331 | 275 | 496 | 14,338 |
+| Prolog | terminusdb/terminusdb | 3,491 | 43 | 108 | 40,644 |
+| Scheme | cisco/ChezScheme | 7,387 | 120 | 277 | 22,137 |
+| Common Lisp | atlas-engineer/nyxt | 11,075 | 608 | 1,200 | 34,114 |
 
 ## Top five repositories per language
 
 ### Top 100 TypeScript repositories
 
-1. morluto/rea — 477,207 stars — Reverse engineer anything with agents, from app behavior down to native binaries.
-2. freeCodeCamp/freeCodeCamp — 459,580 stars — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and comp…
-3. openclaw/openclaw — 395,166 stars — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-4. nilbuild/developer-roadmap — 372,703 stars — Interactive roadmaps, guides and other educational content to help developers grow in the…
-5. deepseek-ai/deepseek-harness — 286,589 stars — DeepSeek Harness: Everything is a Plugin.
+1. morluto/rea — 477,862 stars — Reverse engineer anything with agents, from app behavior down to native binaries.
+2. freeCodeCamp/freeCodeCamp — 459,608 stars — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and comp…
+3. openclaw/openclaw — 395,182 stars — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+4. nilbuild/developer-roadmap — 372,741 stars — Interactive roadmaps, guides and other educational content to help developers grow in the…
+5. deepseek-ai/deepseek-harness — 286,862 stars — DeepSeek Harness: Everything is a Plugin.
 - Full list: https://havaianasdestruido.github.io/top100/languages/typescript.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/typescript.jsonl
 
 ### Top 100 Python repositories
 
-1. public-apis/public-apis — 501,229 stars — A collective list of free APIs
-2. EbookFoundation/free-programming-books — 402,223 stars — :books: Freely available programming books
-3. donnemartin/system-design-primer — 379,092 stars — Learn how to design large-scale systems. Prep for the system design interview.  Includes…
-4. vinta/awesome-python — 336,949 stars — The definitive list that answers "I want to do X in Python, which tool should I use?"
-5. practical-tutorials/project-based-learning — 290,421 stars — Curated list of project-based tutorials
+1. public-apis/public-apis — 501,324 stars — A collective list of free APIs
+2. EbookFoundation/free-programming-books — 402,255 stars — :books: Freely available programming books
+3. donnemartin/system-design-primer — 379,168 stars — Learn how to design large-scale systems. Prep for the system design interview.  Includes…
+4. vinta/awesome-python — 337,034 stars — The definitive list that answers "I want to do X in Python, which tool should I use?"
+5. practical-tutorials/project-based-learning — 290,448 stars — Curated list of project-based tutorials
 - Full list: https://havaianasdestruido.github.io/top100/languages/python.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/python.jsonl
 
 ### Top 100 JavaScript repositories
 
-1. affaan-m/ECC — 310,234 stars — The agent harness performance optimization system. Skills, instincts, memory, security, a…
-2. react/react — 252,877 stars — The library for web and native user interfaces.
-3. DietrichGebert/ponytail — 198,099 stars — Makes your AI agent think like the laziest senior dev in the room. The best code is the c…
-4. trekhleb/javascript-algorithms — 196,764 stars — 📝 Algorithms and data structures implemented in JavaScript with explanations and links to…
-5. CyC2018/CS-Notes — 186,579 stars — :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+1. affaan-m/ECC — 310,474 stars — The agent harness performance optimization system. Skills, instincts, memory, security, a…
+2. react/react — 252,932 stars — The library for web and native user interfaces.
+3. DietrichGebert/ponytail — 198,443 stars — Makes your AI agent think like the laziest senior dev in the room. The best code is the c…
+4. trekhleb/javascript-algorithms — 196,769 stars — 📝 Algorithms and data structures implemented in JavaScript with explanations and links to…
+5. CyC2018/CS-Notes — 186,587 stars — :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - Full list: https://havaianasdestruido.github.io/top100/languages/javascript.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/javascript.jsonl
 
 ### Top 100 Java repositories
 
-1. NationalSecurityAgency/ghidra — 101,232 stars — Ghidra is a software reverse engineering (SRE) framework
-2. iluwatar/java-design-patterns — 94,907 stars — Design patterns implemented in Java
-3. macrozheng/mall — 85,079 stars — mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品…
-4. spring-projects/spring-boot — 81,958 stars — Spring Boot helps you to create Spring-powered, production-grade applications and service…
-5. doocs/advanced-java — 79,201 stars — 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java…
+1. NationalSecurityAgency/ghidra — 101,289 stars — Ghidra is a software reverse engineering (SRE) framework
+2. iluwatar/java-design-patterns — 94,909 stars — Design patterns implemented in Java
+3. macrozheng/mall — 85,078 stars — mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品…
+4. spring-projects/spring-boot — 81,972 stars — Spring Boot helps you to create Spring-powered, production-grade applications and service…
+5. doocs/advanced-java — 79,205 stars — 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java…
 - Full list: https://havaianasdestruido.github.io/top100/languages/java.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/java.jsonl
 
 ### Top 100 C# repositories
 
-1. 2dust/v2rayN — 121,367 stars — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-2. jellyfin/jellyfin — 59,726 stars — The Free Software Media System - Server Backend & API
-3. shadowsocks/shadowsocks-windows — 59,485 stars — A C# port of shadowsocks
-4. PowerShell/PowerShell — 56,289 stars — PowerShell for every system!
-5. files-community/Files — 46,794 stars — A modern file manager that helps users organize their files and folders.
+1. 2dust/v2rayN — 121,425 stars — A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+2. jellyfin/jellyfin — 59,743 stars — The Free Software Media System - Server Backend & API
+3. shadowsocks/shadowsocks-windows — 59,484 stars — A C# port of shadowsocks
+4. PowerShell/PowerShell — 56,305 stars — PowerShell for every system!
+5. files-community/Files — 46,802 stars — A modern file manager that helps users organize their files and folders.
 - Full list: https://havaianasdestruido.github.io/top100/languages/csharp.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c#.jsonl
 
 ### Top 100 C++ repositories
 
-1. tensorflow/tensorflow — 201,763 stars — An Open Source Machine Learning Framework for Everyone
-2. ggml-org/llama.cpp — 136,157 stars — LLM inference in C/C++
-3. react/react-native — 126,998 stars — A framework for building native applications using React
-4. electron/electron — 124,076 stars — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-5. godotengine/godot — 120,742 stars — Godot Engine – Multi-platform 2D and 3D game engine
+1. tensorflow/tensorflow — 201,805 stars — An Open Source Machine Learning Framework for Everyone
+2. ggml-org/llama.cpp — 136,219 stars — LLM inference in C/C++
+3. react/react-native — 126,997 stars — A framework for building native applications using React
+4. electron/electron — 124,083 stars — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+5. godotengine/godot — 120,795 stars — Godot Engine – Multi-platform 2D and 3D game engine
 - Full list: https://havaianasdestruido.github.io/top100/languages/cpp.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c++.jsonl
 
 ### Top 100 PHP repositories
 
-1. danielmiessler/SecLists — 74,937 stars — SecLists is the security tester's companion. It's a collection of multiple types of lists…
-2. coollabsio/coolify — 66,444 stars — An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you…
-3. nextcloud/server — 37,628 stars — ☁️ Nextcloud server, a safe home for all your data
-4. laravel/framework — 35,116 stars — Laravel is a web application framework with expressive, elegant syntax.
-5. filamentphp/filament — 32,563 stars — An open-source framework for building polished, maintainable business software with Larav…
+1. danielmiessler/SecLists — 74,946 stars — SecLists is the security tester's companion. It's a collection of multiple types of lists…
+2. coollabsio/coolify — 66,453 stars — An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you…
+3. nextcloud/server — 37,631 stars — ☁️ Nextcloud server, a safe home for all your data
+4. laravel/framework — 35,119 stars — Laravel is a web application framework with expressive, elegant syntax.
+5. filamentphp/filament — 32,565 stars — An open-source framework for building polished, maintainable business software with Larav…
 - Full list: https://havaianasdestruido.github.io/top100/languages/php.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/php.jsonl
 
 ### Top 100 Shell repositories
 
-1. mattpocock/skills — 332,222 stars — Skills for Real Engineers. Straight from my .agents directory.
-2. obra/superpowers — 325,862 stars — An agentic skills framework & software development methodology that works.
-3. ohmyzsh/ohmyzsh — 190,837 stars — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your…
-4. msitarzewski/agency-agents — 170,123 stars — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninja…
-5. d3/d3 — 114,007 stars — Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+1. mattpocock/skills — 332,580 stars — Skills for Real Engineers. Straight from my .agents directory.
+2. obra/superpowers — 326,241 stars — An agentic skills framework & software development methodology that works.
+3. ohmyzsh/ohmyzsh — 190,864 stars — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your…
+4. msitarzewski/agency-agents — 170,188 stars — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninja…
+5. d3/d3 — 114,016 stars — Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - Full list: https://havaianasdestruido.github.io/top100/languages/shell.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/shell.jsonl
 
 ### Top 100 C repositories
 
-1. torvalds/linux — 256,600 stars — Linux kernel source tree
-2. Genymobile/scrcpy — 155,607 stars — Display and control your Android device
-3. microsoft/PowerToys — 141,359 stars — Microsoft PowerToys is a collection of utilities that supercharge productivity and custom…
-4. ventoy/Ventoy — 81,129 stars — A new bootable USB solution.
-5. obsproject/obs-studio — 80,059 stars — OBS Studio - Free and open source software for live streaming and screen recording
+1. torvalds/linux — 256,690 stars — Linux kernel source tree
+2. Genymobile/scrcpy — 155,671 stars — Display and control your Android device
+3. microsoft/PowerToys — 141,375 stars — Microsoft PowerToys is a collection of utilities that supercharge productivity and custom…
+4. ventoy/Ventoy — 81,159 stars — A new bootable USB solution.
+5. obsproject/obs-studio — 80,103 stars — OBS Studio - Free and open source software for live streaming and screen recording
 - Full list: https://havaianasdestruido.github.io/top100/languages/c.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/c.jsonl
 
 ### Top 100 Go repositories
 
-1. avelino/awesome-go — 195,821 stars — A curated list of awesome Go frameworks, libraries and software
-2. ollama/ollama — 188,019 stars — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other mode…
-3. golang/go — 140,066 stars — The Go programming language
-4. kubernetes/kubernetes — 129,283 stars — Production-Grade Container Scheduling and Management
-5. JuliusBrussee/caveman — 122,658 stars — why use many token when few token do trick. Skill + local proxy for coding agents: shorte…
+1. avelino/awesome-go — 195,889 stars — A curated list of awesome Go frameworks, libraries and software
+2. ollama/ollama — 188,082 stars — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other mode…
+3. golang/go — 140,111 stars — The Go programming language
+4. kubernetes/kubernetes — 129,329 stars — Production-Grade Container Scheduling and Management
+5. JuliusBrussee/caveman — 122,741 stars — why use many token when few token do trick. Skill + local proxy for coding agents: shorte…
 - Full list: https://havaianasdestruido.github.io/top100/languages/go.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/go.jsonl
 
 ### Top 100 Rust repositories
 
-1. ultraworkers/claw-code — 194,719 stars — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed an…
-2. farion1231/cc-switch — 156,910 stars — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek H…
-3. openai/codex — 136,340 stars — Lightweight coding agent that runs in your terminal
-4. rustdesk/rustdesk — 131,293 stars — An open-source remote desktop application designed for self-hosting, as an alternative to…
-5. rust-lang/rust — 122,375 stars — Empowering everyone to build reliable and efficient software.
+1. ultraworkers/claw-code — 194,722 stars — An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed an…
+2. farion1231/cc-switch — 157,069 stars — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek H…
+3. openai/codex — 136,403 stars — Lightweight coding agent that runs in your terminal
+4. rustdesk/rustdesk — 131,414 stars — An open-source remote desktop application designed for self-hosting, as an alternative to…
+5. rust-lang/rust — 122,442 stars — Empowering everyone to build reliable and efficient software.
 - Full list: https://havaianasdestruido.github.io/top100/languages/rust.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/rust.jsonl
 
 ### Top 100 Ruby repositories
 
-1. rails/rails — 59,101 stars — Ruby on Rails
-2. maybe-finance/maybe — 54,178 stars — The personal finance app for everyone
-3. jekyll/jekyll — 51,796 stars — :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-4. huginn/huginn — 50,627 stars — Create agents that monitor and act on your behalf.  Your agents are standing by!
-5. mastodon/mastodon — 50,621 stars — Your self-hosted, globally interconnected microblogging community
+1. rails/rails — 59,107 stars — Ruby on Rails
+2. maybe-finance/maybe — 54,182 stars — The personal finance app for everyone
+3. jekyll/jekyll — 51,798 stars — :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+4. huginn/huginn — 50,635 stars — Create agents that monitor and act on your behalf.  Your agents are standing by!
+5. mastodon/mastodon — 50,631 stars — Your self-hosted, globally interconnected microblogging community
 - Full list: https://havaianasdestruido.github.io/top100/languages/ruby.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ruby.jsonl
 
 ### Top 100 Kotlin repositories
 
-1. 2dust/v2rayNG — 66,500 stars — A V2Ray client for Android, support Xray core and v2fly core
-2. topjohnwu/Magisk — 64,282 stars — The Magic Mask for Android
-3. bannedbook/fanqiang — 58,233 stars — 翻墙-科学上网
-4. JetBrains/kotlin — 53,671 stars — The Kotlin Programming Language.
-5. team-spotube/spotube — 50,913 stars — 🎧 Open source music streaming app! Available for both desktop & mobile!
+1. 2dust/v2rayNG — 66,531 stars — A V2Ray client for Android, support Xray core and v2fly core
+2. topjohnwu/Magisk — 64,293 stars — The Magic Mask for Android
+3. bannedbook/fanqiang — 58,250 stars — 翻墙-科学上网
+4. JetBrains/kotlin — 53,704 stars — The Kotlin Programming Language.
+5. team-spotube/spotube — 50,928 stars — 🎧 Open source music streaming app! Available for both desktop & mobile!
 - Full list: https://havaianasdestruido.github.io/top100/languages/kotlin.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/kotlin.jsonl
 
 ### Top 100 Swift repositories
 
-1. jaywcjlove/awesome-mac — 119,284 stars —  This project is dedicated to collecting high-quality macOS software and organizing them…
-2. swiftlang/swift — 70,609 stars — The Swift Programming Language
+1. jaywcjlove/awesome-mac — 119,332 stars —  This project is dedicated to collecting high-quality macOS software and organizing them…
+2. swiftlang/swift — 70,611 stars — The Swift Programming Language
 3. vsouza/awesome-ios — 54,104 stars — A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
-4. apple/container — 52,063 stars — A tool for creating and running Linux containers using lightweight virtual machines on a…
-5. iina/iina — 47,272 stars — The modern video player for macOS.
+4. apple/container — 52,069 stars — A tool for creating and running Linux containers using lightweight virtual machines on a…
+5. iina/iina — 47,285 stars — The modern video player for macOS.
 - Full list: https://havaianasdestruido.github.io/top100/languages/swift.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/swift.jsonl
 
 ### Top 100 Dart repositories
 
-1. flutter/flutter — 181,458 stars — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-2. localsend/localsend — 100,671 stars — An open-source cross-platform alternative to AirDrop
-3. AppFlowy-IO/AppFlowy — 79,514 stars — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative works…
-4. chen08209/FlClash — 65,251 stars — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and…
-5. Solido/awesome-flutter — 62,025 stars — An awesome list that curates the best Flutter libraries, tools, tutorials, articles and m…
+1. flutter/flutter — 181,499 stars — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+2. localsend/localsend — 100,785 stars — An open-source cross-platform alternative to AirDrop
+3. AppFlowy-IO/AppFlowy — 79,533 stars — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative works…
+4. chen08209/FlClash — 65,383 stars — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and…
+5. Solido/awesome-flutter — 62,030 stars — An awesome list that curates the best Flutter libraries, tools, tutorials, articles and m…
 - Full list: https://havaianasdestruido.github.io/top100/languages/dart.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/dart.jsonl
 
 ### Top 100 HTML repositories
 
-1. ossu/computer-science — 211,512 stars — 🎓 Path to a free self-taught education in Computer Science!
-2. ripienaar/free-for-dev — 143,592 stars — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and in…
-3. eternity4719/HowToLiveBetter — 77,439 stars — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论…
-4. PKUFlyingPig/cs-self-learning — 76,853 stars — 计算机自学指南
-5. cathrynlavery/diagram-design — 72,117 stars — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q…
+1. ossu/computer-science — 211,533 stars — 🎓 Path to a free self-taught education in Computer Science!
+2. ripienaar/free-for-dev — 143,620 stars — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and in…
+3. eternity4719/HowToLiveBetter — 77,538 stars — 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论…
+4. PKUFlyingPig/cs-self-learning — 76,860 stars — 计算机自学指南
+5. cathrynlavery/diagram-design — 72,568 stars — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Q…
 - Full list: https://havaianasdestruido.github.io/top100/languages/html.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/html.jsonl
 
 ### Top 100 CSS repositories
 
-1. animate-css/animate.css — 83,066 stars — 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-2. ryanoasis/nerd-fonts — 65,294 stars — Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Sou…
-3. Nutlope/hallmark — 60,599 stars — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+1. animate-css/animate.css — 83,071 stars — 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+2. ryanoasis/nerd-fonts — 65,300 stars — Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Sou…
+3. Nutlope/hallmark — 60,857 stars — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 4. necolas/normalize.css — 53,483 stars — A modern alternative to CSS resets
-5. jgthms/bulma — 50,031 stars — Modern CSS framework based on Flexbox
+5. jgthms/bulma — 50,032 stars — Modern CSS framework based on Flexbox
 - Full list: https://havaianasdestruido.github.io/top100/languages/css.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/css.jsonl
 
 ### Top 100 SQL repositories
 
 1. ben-nour/SQL-tips-and-tricks — 2,310 stars — SQL tips and tricks
-2. cahyadsn/wilayah — 1,348 stars — Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 T…
+2. cahyadsn/wilayah — 1,349 stars — Kode dan Data Wilayah Administrasi & Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 T…
 3. Thomas-George-T/HackerRank-SQL-Challenges-Solutions — 819 stars — The solutions of all SQL hackerrank challenges using MySQL environment
 4. basedosdados/sdk — 433 stars — ⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) | 📖 Docs: https://bas…
 5. brunocampos01/banco-de-dados — 425 stars — Aulas, exercícios e resumos sobre banco de dados
@@ -256,28 +256,28 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 ### Top 100 Scala repositories
 
-1. twitter/the-algorithm — 74,114 stars — Source code for the X Recommendation Algorithm
-2. apache/spark — 44,619 stars — Apache Spark - A unified analytics engine for large-scale data processing
+1. twitter/the-algorithm — 74,120 stars — Source code for the X Recommendation Algorithm
+2. apache/spark — 44,618 stars — Apache Spark - A unified analytics engine for large-scale data processing
 3. lichess-org/lila — 19,017 stars — ♞ lichess.org: the forever free, adless and open source chess server ♞
-4. prisma/prisma1 — 16,364 stars — 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecat…
+4. prisma/prisma1 — 16,363 stars — 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecat…
 5. scala/scala — 14,547 stars — Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scal…
 - Full list: https://havaianasdestruido.github.io/top100/languages/scala.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/scala.jsonl
 
 ### Top 100 Lua repositories
 
-1. Kong/kong — 44,413 stars — 🦍 The API and AI Gateway
-2. nvim-lua/kickstart.nvim — 31,719 stars — A launch point for your personal nvim configuration
-3. koreader/koreader — 31,310 stars — An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, runnin…
-4. NvChad/NvChad — 28,555 stars — Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your…
-5. nagadomi/waifu2x — 28,236 stars — Image Super-Resolution for Anime-Style Art
+1. Kong/kong — 44,416 stars — 🦍 The API and AI Gateway
+2. nvim-lua/kickstart.nvim — 31,721 stars — A launch point for your personal nvim configuration
+3. koreader/koreader — 31,319 stars — An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, runnin…
+4. NvChad/NvChad — 28,556 stars — Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your…
+5. nagadomi/waifu2x — 28,237 stars — Image Super-Resolution for Anime-Style Art
 - Full list: https://havaianasdestruido.github.io/top100/languages/lua.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/lua.jsonl
 
 ### Top 100 Groovy repositories
 
 1. gradle/gradle — 18,950 stars — Adaptable, fast automation for all
-2. bregman-arie/devops-resources — 9,743 stars — DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Ku…
+2. bregman-arie/devops-resources — 9,745 stars — DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Ku…
 3. rundeck/rundeck — 6,386 stars — Enable Self-Service Operations: Give specific users access to your existing tools, servic…
 4. apache/groovy — 5,490 stars — Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 5. jenkinsci/pipeline-examples — 4,282 stars — A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipel…
@@ -288,55 +288,55 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 1. AFNetworking/AFNetworking — 33,314 stars — A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 2. SDWebImage/SDWebImage — 25,609 stars — Asynchronous image downloader with cache support as a UIImageView category
-3. opa334/TrollStore — 22,732 stars — Jailed iOS app that can install IPAs permanently with arbitary entitlements and root help…
-4. MustangYM/WeChatExtension-ForMac — 22,494 stars — A plugin for Mac WeChat
+3. opa334/TrollStore — 22,737 stars — Jailed iOS app that can install IPAs permanently with arbitary entitlements and root help…
+4. MustangYM/WeChatExtension-ForMac — 22,495 stars — A plugin for Mac WeChat
 5. BradLarson/GPUImage — 20,278 stars — An open source iOS framework for GPU-based image and video processing
 - Full list: https://havaianasdestruido.github.io/top100/languages/objective-c.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/objective-c.jsonl
 
 ### Top 100 Perl repositories
 
-1. AlDanial/cloc — 23,685 stars — cloc counts blank lines, comment lines, and physical lines of source code in many program…
-2. brendangregg/FlameGraph — 19,857 stars — Stack trace visualizer
-3. so-fancy/diff-so-fancy — 18,124 stars — Make your diffs human readable for improved code quality and faster defect detection. :ta…
-4. sullo/nikto — 10,875 stars — Nikto web server scanner
+1. AlDanial/cloc — 23,687 stars — cloc counts blank lines, comment lines, and physical lines of source code in many program…
+2. brendangregg/FlameGraph — 19,856 stars — Stack trace visualizer
+3. so-fancy/diff-so-fancy — 18,125 stars — Make your diffs human readable for improved code quality and faster defect detection. :ta…
+4. sullo/nikto — 10,874 stars — Nikto web server scanner
 5. major/MySQLTuner-perl — 9,474 stars — MySQLTuner is a script written in Perl that will assist you with your MySQL configuration…
 - Full list: https://havaianasdestruido.github.io/top100/languages/perl.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/perl.jsonl
 
 ### Top 100 Haskell repositories
 
-1. jgm/pandoc — 47,072 stars — Universal markup converter
+1. jgm/pandoc — 47,081 stars — Universal markup converter
 2. koalaman/shellcheck — 40,382 stars — ShellCheck, a static analysis tool for shell scripts
-3. PostgREST/postgrest — 27,764 stars — REST API for any Postgres database
-4. simplex-chat/simplex-chat — 19,764 stars — SimpleX - the first messaging network operating without user identifiers of any kind - 10…
+3. PostgREST/postgrest — 27,767 stars — REST API for any Postgres database
+4. simplex-chat/simplex-chat — 19,767 stars — SimpleX - the first messaging network operating without user identifiers of any kind - 10…
 5. hadolint/hadolint — 12,549 stars — Dockerfile linter, validate inline bash, written in Haskell
 - Full list: https://havaianasdestruido.github.io/top100/languages/haskell.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/haskell.jsonl
 
 ### Top 100 Assembly repositories
 
-1. chrislgarry/Apollo-11 — 76,820 stars — Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+1. chrislgarry/Apollo-11 — 76,824 stars — Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 2. microsoft/MS-DOS — 32,250 stars — The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-3. vxunderground/MalwareSourceCode — 18,954 stars — Collection of malware source code for a variety of platforms in an array of different pro…
-4. mytechnotalent/Reverse-Engineering — 15,252 stars — A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8…
-5. leachim6/hello-world — 12,051 stars — Hello world in every computer language.  Thanks to everyone who contributes to this, make…
+3. vxunderground/MalwareSourceCode — 18,958 stars — Collection of malware source code for a variety of platforms in an array of different pro…
+4. mytechnotalent/Reverse-Engineering — 15,254 stars — A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8…
+5. leachim6/hello-world — 12,053 stars — Hello world in every computer language.  Thanks to everyone who contributes to this, make…
 - Full list: https://havaianasdestruido.github.io/top100/languages/assembly.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/assembly.jsonl
 
 ### Top 100 R repositories
 
-1. cxli233/FriendsDontLetFriends — 7,219 stars — Friends don't let friends make certain types of data visualization - What are they and wh…
-2. tidyverse/ggplot2 — 7,029 stars — An implementation of the Grammar of Graphics in R
+1. cxli233/FriendsDontLetFriends — 7,220 stars — Friends don't let friends make certain types of data visualization - What are they and wh…
+2. tidyverse/ggplot2 — 7,030 stars — An implementation of the Grammar of Graphics in R
 3. qinwf/awesome-R — 6,547 stars — A curated list of awesome R packages, frameworks and software.
-4. rstudio/shiny — 5,704 stars — Easy interactive web applications with R
+4. rstudio/shiny — 5,705 stars — Easy interactive web applications with R
 5. hadley/r4ds — 5,210 stars — R for data science: a book
 - Full list: https://havaianasdestruido.github.io/top100/languages/r.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/r.jsonl
 
 ### Top 100 Julia repositories
 
-1. JuliaLang/julia — 49,300 stars — The Julia Programming Language
+1. JuliaLang/julia — 49,301 stars — The Julia Programming Language
 2. FluxML/Flux.jl — 4,756 stars — Relax! Flux is the ML library that doesn't make you tensor
 3. SciML/DifferentialEquations.jl — 3,185 stars — Multi-language suite for high-performance solvers of differential equations and scientifi…
 4. JuliaLang/IJulia.jl — 2,911 stars — Julia kernel for Jupyter
@@ -346,81 +346,81 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 ### Top 100 Elixir repositories
 
-1. anoma/anoma — 33,522 stars — Reference implementation of Anoma
-2. plausible/analytics — 29,932 stars — Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alter…
-3. openai/symphony — 28,148 stars — Symphony turns project work into isolated, autonomous implementation runs, allowing teams…
-4. elixir-lang/elixir — 26,745 stars — Simple from zero to scale
-5. phoenixframework/phoenix — 23,225 stars — Peace of mind from prototype to production
+1. anoma/anoma — 33,520 stars — Reference implementation of Anoma
+2. plausible/analytics — 29,935 stars — Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alter…
+3. openai/symphony — 28,154 stars — Symphony turns project work into isolated, autonomous implementation runs, allowing teams…
+4. elixir-lang/elixir — 26,747 stars — Simple from zero to scale
+5. phoenixframework/phoenix — 23,226 stars — Peace of mind from prototype to production
 - Full list: https://havaianasdestruido.github.io/top100/languages/elixir.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/elixir.jsonl
 
 ### Top 100 PowerShell repositories
 
-1. ChrisTitusTech/winutil — 66,641 stars — Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-2. Raphire/Win11Debloat — 63,648 stars — A simple, lightweight PowerShell script that allows you to remove pre-installed apps, dis…
-3. zhaoxuya520/reverse-skill — 45,217 stars — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pac…
-4. cmderdev/cmder — 27,013 stars — Lovely console emulator package for Windows
+1. ChrisTitusTech/winutil — 66,665 stars — Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+2. Raphire/Win11Debloat — 63,687 stars — A simple, lightweight PowerShell script that allows you to remove pre-installed apps, dis…
+3. zhaoxuya520/reverse-skill — 45,244 stars — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pac…
+4. cmderdev/cmder — 27,014 stars — Lovely console emulator package for Windows
 5. ScoopInstaller/Scoop — 24,841 stars — A command-line installer for Windows.
 - Full list: https://havaianasdestruido.github.io/top100/languages/powershell.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/powershell.jsonl
 
 ### Top 100 Nix repositories
 
-1. NixOS/nixpkgs — 26,947 stars — Nix Packages collection & NixOS
-2. nix-community/home-manager — 10,550 stars — Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
-3. zardus/ctf-tools — 9,584 stars — Some setup scripts for security research tools.
-4. nix-darwin/nix-darwin — 6,097 stars — Manage your macOS using Nix
-5. NixOS/nix.dev — 4,063 stars — Official documentation for getting things done with Nix.
+1. NixOS/nixpkgs — 26,951 stars — Nix Packages collection & NixOS
+2. nix-community/home-manager — 10,553 stars — Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
+3. zardus/ctf-tools — 9,585 stars — Some setup scripts for security research tools.
+4. nix-darwin/nix-darwin — 6,098 stars — Manage your macOS using Nix
+5. NixOS/nix.dev — 4,064 stars — Official documentation for getting things done with Nix.
 - Full list: https://havaianasdestruido.github.io/top100/languages/nix.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/nix.jsonl
 
 ### Top 100 Zig repositories
 
-1. ghostty-org/ghostty — 64,424 stars — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platfor…
-2. ziglang/zig — 43,355 stars — Moved to Codeberg
-3. lightpanda-io/browser — 42,497 stars — Lightpanda: the headless browser designed for AI and automation
-4. tigerbeetle/tigerbeetle — 17,454 stars — The financial transactions database designed for mission critical safety and performance.
+1. ghostty-org/ghostty — 64,445 stars — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platfor…
+2. ziglang/zig — 43,385 stars — Moved to Codeberg
+3. lightpanda-io/browser — 42,531 stars — Lightpanda: the headless browser designed for AI and automation
+4. tigerbeetle/tigerbeetle — 17,456 stars — The financial transactions database designed for mission critical safety and performance.
 5. blackboardsh/electrobun — 13,109 stars — Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, o…
 - Full list: https://havaianasdestruido.github.io/top100/languages/zig.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/zig.jsonl
 
 ### Top 100 Clojure repositories
 
-1. tonsky/FiraCode — 82,221 stars — Free monospaced font with programming ligatures
-2. penpot/penpot — 62,709 stars — Penpot: The open-source design platform for Product teams that need scalable collaboratio…
-3. metabase/metabase — 50,508 stars — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets e…
-4. logseq/logseq — 45,694 stars — A privacy-first, open-source platform for knowledge management and collaboration. Downloa…
+1. tonsky/FiraCode — 82,220 stars — Free monospaced font with programming ligatures
+2. penpot/penpot — 62,726 stars — Penpot: The open-source design platform for Product teams that need scalable collaboratio…
+3. metabase/metabase — 50,516 stars — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets e…
+4. logseq/logseq — 45,698 stars — A privacy-first, open-source platform for knowledge management and collaboration. Downloa…
 5. LightTable/LightTable — 11,686 stars — The Light Table IDE ⛺
 - Full list: https://havaianasdestruido.github.io/top100/languages/clojure.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/clojure.jsonl
 
 ### Top 100 Erlang repositories
 
-1. emqx/emqx — 16,944 stars — The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
+1. emqx/emqx — 16,945 stars — The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles
 2. erlang/otp — 12,366 stars — Erlang/OTP
 3. ninenines/cowboy — 7,523 stars — Small, fast, modern HTTP server for Erlang/OTP.
-4. apache/couchdb — 7,014 stars — Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for rel…
+4. apache/couchdb — 7,015 stars — Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for rel…
 5. processone/ejabberd — 6,754 stars — Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - Full list: https://havaianasdestruido.github.io/top100/languages/erlang.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/erlang.jsonl
 
 ### Top 100 OCaml repositories
 
-1. meta/infer — 15,765 stars — A static analyzer for Java, C, C++, and Objective-C
-2. reasonml/reason — 10,341 stars — Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-3. rescript-lang/rescript — 7,487 stars — ReScript is a robustly typed language that compiles to efficient and human-readable JavaS…
-4. meta/pyre-check — 7,178 stars — Performant type-checking for python.
-5. ocaml/ocaml — 6,650 stars — The core OCaml system: compilers, runtime system, base libraries
+1. meta/infer — 15,766 stars — A static analyzer for Java, C, C++, and Objective-C
+2. reasonml/reason — 10,342 stars — Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+3. rescript-lang/rescript — 7,488 stars — ReScript is a robustly typed language that compiles to efficient and human-readable JavaS…
+4. meta/pyre-check — 7,179 stars — Performant type-checking for python.
+5. ocaml/ocaml — 6,651 stars — The core OCaml system: compilers, runtime system, base libraries
 - Full list: https://havaianasdestruido.github.io/top100/languages/ocaml.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ocaml.jsonl
 
 ### Top 100 Solidity repositories
 
-1. OpenZeppelin/openzeppelin-contracts — 27,366 stars — OpenZeppelin Contracts is a library for secure smart contract development.
-2. AmazingAng/WTF-Solidity — 14,069 stars — WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
+1. OpenZeppelin/openzeppelin-contracts — 27,367 stars — OpenZeppelin Contracts is a library for secure smart contract development.
+2. AmazingAng/WTF-Solidity — 14,070 stars — WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy
 3. QuipNetwork/ethereum-sdk — 11,325 stars
-4. QuipNetwork/hashsigs-solidity — 11,199 stars — Solidity contracts implementing hash based post quantum signatures
-5. SunWeb3Sec/DeFiHackLabs — 6,855 stars — Reproduce DeFi hacked incidents using Foundry.
+4. QuipNetwork/hashsigs-solidity — 11,198 stars — Solidity contracts implementing hash based post quantum signatures
+5. SunWeb3Sec/DeFiHackLabs — 6,853 stars — Reproduce DeFi hacked incidents using Foundry.
 - Full list: https://havaianasdestruido.github.io/top100/languages/solidity.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/solidity.jsonl
 
@@ -429,7 +429,7 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 1. Reference-LAPACK/lapack — 1,924 stars — LAPACK development repository
 2. wrf-model/WRF — 1,814 stars — The official repository for the Weather Research and Forecasting (WRF) model
 3. ElmerCSC/elmerfem — 1,789 stars — Official git repository of Elmer FEM software
-4. fortran-lang/stdlib — 1,371 stars — Fortran Standard Library
+4. fortran-lang/stdlib — 1,372 stars — Fortran Standard Library
 5. cp2k/cp2k — 1,248 stars — Quantum chemistry and solid state physics software package
 - Full list: https://havaianasdestruido.github.io/top100/languages/fortran.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/fortran.jsonl
@@ -447,7 +447,7 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 ### Top 100 F# repositories
 
 1. dotnet/fsharp — 4,357 stars — The F# compiler, F# core library, F# language service, and F# tooling integration for Vis…
-2. artempyanykh/marksman — 3,401 stars — Write Markdown with code assist and intelligence in the comfort of your favourite editor.
+2. artempyanykh/marksman — 3,402 stars — Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 3. fable-compiler/Fable — 3,171 stars — F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler
 4. giraffe-fsharp/Giraffe — 2,255 stars — A native functional ASP.NET Core web framework for F# developers.
 5. darklang/dark — 2,183 stars — Darklang main repo, including language, backend, and infra
@@ -457,10 +457,10 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 ### Top 100 Ada repositories
 
 1. AdaCore/gnatstudio — 537 stars — GNAT Studio is a powerful and lightweight IDE for Ada and SPARK.
-2. tsoding/eepers — 481 stars — Simple Turn-based Game
+2. tsoding/eepers — 482 stars — Simple Turn-based Game
 3. pyjarrett/septum — 466 stars — Context-based code search tool
 4. alire-project/alire — 423 stars — Command-line tool from the Alire project and supporting library
-5. mk270/whitakers-words — 340 stars — William Whitaker's WORDS, a Latin dictionary
+5. mk270/whitakers-words — 341 stars — William Whitaker's WORDS, a Latin dictionary
 - Full list: https://havaianasdestruido.github.io/top100/languages/ada.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/ada.jsonl
 
@@ -476,29 +476,29 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 ### Top 100 Crystal repositories
 
-1. iv-org/invidious — 26,150 stars — Invidious is an alternative front-end to YouTube
-2. crystal-lang/crystal — 20,519 stars — The Crystal Programming Language
+1. iv-org/invidious — 26,155 stars — Invidious is an alternative front-end to YouTube
+2. crystal-lang/crystal — 20,520 stars — The Crystal Programming Language
 3. mint-lang/mint — 4,271 stars — 🍃 A refreshing programming language for the front-end web.
 4. kemalcr/kemal — 3,934 stars — Fast, Effective, Simple Web Framework
-5. vitobotta/hetzner-k3s — 3,734 stars — The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Clo…
+5. vitobotta/hetzner-k3s — 3,735 stars — The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Clo…
 - Full list: https://havaianasdestruido.github.io/top100/languages/crystal.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/crystal.jsonl
 
 ### Top 100 MATLAB repositories
 
-1. MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning — 18,584 stars — This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Le…
+1. MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning — 18,590 stars — This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Le…
 2. luanfujun/deep-photo-styletransfer — 9,979 stars — Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
-3. TadasBaltrusaitis/OpenFace — 7,808 stars — OpenFace – a state-of-the art tool intended for facial landmark detection, head pose esti…
+3. TadasBaltrusaitis/OpenFace — 7,807 stars — OpenFace – a state-of-the art tool intended for facial landmark detection, head pose esti…
 4. PRML/PRMLT — 6,205 stars — Matlab code of machine learning algorithms in book PRML
-5. personqianduixue/Math_Model — 5,380 stars — 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳…
+5. personqianduixue/Math_Model — 5,386 stars — 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳…
 - Full list: https://havaianasdestruido.github.io/top100/languages/matlab.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/matlab.jsonl
 
 ### Top 100 Nim repositories
 
-1. nim-lang/Nim — 18,330 stars — Nim is a statically typed compiled systems programming language. It combines successful c…
-2. zedeus/nitter — 14,455 stars — Alternative Twitter front-end
-3. WyattBlue/auto-editor — 6,109 stars — Effort free video editing!
+1. nim-lang/Nim — 18,331 stars — Nim is a statically typed compiled systems programming language. It combines successful c…
+2. zedeus/nitter — 14,456 stars — Alternative Twitter front-end
+3. WyattBlue/auto-editor — 6,124 stars — Effort free video editing!
 4. byt3bl33d3r/OffensiveNim — 3,091 stars — My experiments in weaponizing Nim (https://nim-lang.org/)
 5. oakes/vim_cubed — 2,729 stars — Vim rendered on a cube for no reason
 - Full list: https://havaianasdestruido.github.io/top100/languages/nim.html
@@ -509,7 +509,7 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 1. terminusdb/terminusdb — 3,491 stars — TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, colla…
 2. fossasia/pslab-hardware — 1,705 stars — PSLab Hardware Design and Schematics https://pslab.io
 3. fossasia/pslab-grove-shield — 1,515 stars — PSLab Grove Shield https://pslab.io
-4. stipub/stixfonts — 1,004 stars — OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
+4. stipub/stixfonts — 1,005 stars — OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 5. hackclub/OnBoard — 915 stars — 💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
 - Full list: https://havaianasdestruido.github.io/top100/languages/prolog.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/prolog.jsonl
@@ -519,7 +519,7 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 1. cisco/ChezScheme — 7,387 stars — Chez Scheme
 2. opencog/opencog — 2,484 stars — A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
 3. JeffBezanson/femtolisp — 1,724 stars — a lightweight, robust, scheme-like lisp implementation
-4. addy-dclxvi/i3-starterpack — 1,664 stars — A simple guide (and example of configuration) about how to install i3 & its and essential…
+4. addy-dclxvi/i3-starterpack — 1,663 stars — A simple guide (and example of configuration) about how to install i3 & its and essential…
 5. gambit/gambit — 1,446 stars — Gambit is an efficient implementation of the Scheme programming language.
 - Full list: https://havaianasdestruido.github.io/top100/languages/scheme.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/scheme.jsonl
@@ -528,8 +528,8 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 1. atlas-engineer/nyxt — 11,075 stars — Nyxt - the hacker's browser.
 2. kanaka/mal — 10,774 stars — mal - Make a Lisp
-3. lk-geimfari/awesomo — 9,982 stars — Cool open source projects. Choose your project and get involved in Open Source developmen…
-4. norvig/paip-lisp — 7,527 stars — Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
+3. lk-geimfari/awesomo — 9,983 stars — Cool open source projects. Choose your project and get involved in Open Source developmen…
+4. norvig/paip-lisp — 7,528 stars — Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"
 5. oldratlee/translations — 6,911 stars — 🐼  Chinese translations for classic software development resources
 - Full list: https://havaianasdestruido.github.io/top100/languages/common-lisp.html
 - JSONL: https://raw.githubusercontent.com/havaianasdestruido/top100/main/data/JSONL/common lisp.jsonl
@@ -538,7 +538,7 @@ Top100 publishes the 100 most-starred GitHub repositories for 46 programming lan
 
 ### What are the top GitHub repositories by stars right now?
 
-As of 25 November 2026, the most-starred repositories on GitHub are public-apis/public-apis with 501,229 stars, morluto/rea with 477,207, freeCodeCamp/freeCodeCamp with 459,580, EbookFoundation/free-programming-books with 402,223 and openclaw/openclaw with 395,166. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old.
+As of 25 November 2026, the most-starred repositories on GitHub are public-apis/public-apis with 501,324 stars, morluto/rea with 477,862, freeCodeCamp/freeCodeCamp with 459,608, EbookFoundation/free-programming-books with 402,255 and openclaw/openclaw with 395,182. Top100 rebuilds this ranking every hour from the GitHub Search API, so the table above is never more than an hour old.
 
 ### Where can I find a top 100 GitHub repositories list?
 
@@ -566,7 +566,7 @@ For scheduled scraping, Simon Willison's git-scraping pattern and GitHub's Flat 
 
 ### What is the average number of GitHub stars and how do repos rank by stars?
 
-GitHub ranks repositories by stargazers_count. Across the 4,600 repositories in Top100's lists the median is 2,753 stars and the mean is 16,477, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 62,178 for Python. See the statistics table for the per-language thresholds.
+GitHub ranks repositories by stargazers_count. Across the 4,600 repositories in Top100's lists the median is 2,755 stars and the mean is 16,484, but the distribution is heavily skewed: the bar to enter a top 100 ranges from 7 stars for SQL to 62,255 for Python. See the statistics table for the per-language thresholds.
 
 ### Is the Top100 dataset free to use?
 

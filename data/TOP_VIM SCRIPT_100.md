@@ -1,6 +1,6 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,466** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,467** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 390 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,753 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
 | 6 | [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) | 1,422 | 191 | 0 | — | 2026-07-13 | :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim. |
-| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,359 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
+| 7 | [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) | 1,360 | 54 | 25 | MIT | 2026-10-05 | 🌿 General purpose asynchronous tree viewer written in Pure Vim script |
 | 8 | [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) | 980 | 58 | 5 | MIT | 2026-06-18 | async completion in pure vim script for vim8 and neovim |
 | 9 | [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) | 965 | 37 | 12 | MIT | 2021-01-12 | :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim. |
 | 10 | [lymslive/vimllearn](https://github.com/lymslive/vimllearn) | 886 | 113 | 1 | NOASSERTION | 2023-12-01 | A book for VimL Script language |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 59 | [nachumk/systemverilog.vim](https://github.com/nachumk/systemverilog.vim) | 69 | 22 | 4 | GPL-2.0 | 2023-01-25 | SystemVerilog vim scripts |
 | 60 | [taq/vim-git-branch-info](https://github.com/taq/vim-git-branch-info) | 69 | 11 | 0 | — | 2015-07-31 | A Vim script to return info about the Git branches. |
 | 61 | [vim-scripts/JavaScript-Indent](https://github.com/vim-scripts/JavaScript-Indent) | 68 | 23 | 1 | — | 2017-08-12 | Javascript indenter (HTML indent is included) |
-| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-24 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
+| 62 | [dmitmel/dotfiles](https://github.com/dmitmel/dotfiles) | 67 | 6 | 0 | CC0-1.0 | 2026-11-25 | My dotfiles (configurations and settings) for shells, text editors and other terminal programs, plus a collection of ... |
 | 63 | [ghewgill/vim-scmdiff](https://github.com/ghewgill/vim-scmdiff) | 65 | 12 | 5 | — | 2016-03-23 | Vim script to highlight lines changed from a base version in SCM |
 | 64 | [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) | 64 | 7 | 0 | MIT | 2020-12-25 | :art: Template engine for Vim color schemes, in pure Vim script |
 | 65 | [jayflo/vim-skip](https://github.com/jayflo/vim-skip) | 56 | 3 | 1 | — | 2014-03-17 | simple movement script for vim |

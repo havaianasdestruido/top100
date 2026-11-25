@@ -1,13 +1,13 @@
 # Top 100 Haskell repositories on GitHub
 
-Ranked by stars. GitHub reports **165,619** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **165,636** total repositories matching `language:Haskell`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 47,072 | 4,401 | 1,046 | GPL-2.0 | 2026-11-22 | Universal markup converter |
-| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,382 | 1,978 | 1,066 | GPL-3.0 | 2026-11-25 | ShellCheck, a static analysis tool for shell scripts |
-| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,764 | 1,239 | 409 | MIT | 2026-11-25 | REST API for any Postgres database |
-| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,764 | 1,330 | 1,074 | AGPL-3.0 | 2026-11-25 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
+| 1 | [jgm/pandoc](https://github.com/jgm/pandoc) | 47,081 | 4,402 | 1,043 | GPL-2.0 | 2026-11-25 | Universal markup converter |
+| 2 | [koalaman/shellcheck](https://github.com/koalaman/shellcheck) | 40,382 | 1,978 | 1,067 | GPL-3.0 | 2026-11-25 | ShellCheck, a static analysis tool for shell scripts |
+| 3 | [PostgREST/postgrest](https://github.com/PostgREST/postgrest) | 27,767 | 1,239 | 407 | MIT | 2026-11-25 | REST API for any Postgres database |
+| 4 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 19,767 | 1,330 | 1,077 | AGPL-3.0 | 2026-11-25 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, A... |
 | 5 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12,549 | 514 | 198 | GPL-3.0 | 2026-10-19 | Dockerfile linter, validate inline bash, written in Haskell |
 | 6 | [github/semantic](https://github.com/github/semantic) | 9,040 | 469 | 0 | — | 2025-04-01 | Parsing, analyzing, and comparing source code across many languages |
 | 7 | [purescript/purescript](https://github.com/purescript/purescript) | 8,932 | 575 | 307 | NOASSERTION | 2026-11-15 | A strongly-typed language that compiles to JavaScript |
@@ -26,16 +26,16 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 20 | [xmonad/xmonad](https://github.com/xmonad/xmonad) | 3,618 | 300 | 63 | BSD-3-Clause | 2026-11-19 | The core of xmonad, a small but functional ICCCM-compliant tiling window manager |
 | 21 | [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) | 3,477 | 630 | 708 | NOASSERTION | 2025-02-17 | A Dependently Typed Functional Programming Language |
 | 22 | [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) | 3,417 | 195 | 70 | MIT | 2026-10-04 | A shell script which checks your $HOME for unwanted files and directories. |
-| 23 | [ghc/ghc](https://github.com/ghc/ghc) | 3,284 | 739 | 10 | NOASSERTION | 2026-11-25 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.has... |
-| 24 | [SimulaVR/Simula](https://github.com/SimulaVR/Simula) | 3,213 | 113 | 73 | MIT | 2026-09-24 | Linux VR Desktop |
+| 23 | [ghc/ghc](https://github.com/ghc/ghc) | 3,285 | 739 | 10 | NOASSERTION | 2026-11-25 | Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.has... |
+| 24 | [SimulaVR/Simula](https://github.com/SimulaVR/Simula) | 3,214 | 113 | 73 | MIT | 2026-09-24 | Linux VR Desktop |
 | 25 | [crytic/echidna](https://github.com/crytic/echidna) | 3,201 | 439 | 107 | AGPL-3.0 | 2026-11-24 | Ethereum smart contract fuzzer |
-| 26 | [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) | 3,174 | 762 | 68 | Apache-2.0 | 2026-11-24 | The core component that is used to participate in a Cardano decentralised blockchain. |
-| 27 | [agda/agda](https://github.com/agda/agda) | 2,981 | 434 | 1,054 | NOASSERTION | 2026-11-24 | Agda is a dependently typed programming language / interactive theorem prover. |
+| 26 | [IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node) | 3,174 | 762 | 68 | Apache-2.0 | 2026-11-25 | The core component that is used to participate in a Cardano decentralised blockchain. |
+| 27 | [agda/agda](https://github.com/agda/agda) | 2,981 | 434 | 1,054 | NOASSERTION | 2026-11-25 | Agda is a dependently typed programming language / interactive theorem prover. |
 | 28 | [haskell/haskell-language-server](https://github.com/haskell/haskell-language-server) | 2,967 | 473 | 574 | Apache-2.0 | 2026-11-24 | Official Haskell IDE support via the language server protocol (LSP) |
 | 29 | [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) | 2,878 | 429 | 125 | NOASSERTION | 2026-11-17 | A static website compiler library in Haskell |
 | 30 | [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) | 2,844 | 269 | 113 | GPL-3.0 | 2025-06-13 | Pattern language |
-| 31 | [diku-dk/futhark](https://github.com/diku-dk/futhark) | 2,821 | 212 | 68 | ISC | 2026-11-24 | :boom::computer::boom: A data-parallel functional programming language |
-| 32 | [wireapp/wire-server](https://github.com/wireapp/wire-server) | 2,783 | 335 | 182 | AGPL-3.0 | 2026-11-24 | 🇪🇺 Wire back-end services |
+| 31 | [diku-dk/futhark](https://github.com/diku-dk/futhark) | 2,821 | 213 | 70 | ISC | 2026-11-25 | :boom::computer::boom: A data-parallel functional programming language |
+| 32 | [wireapp/wire-server](https://github.com/wireapp/wire-server) | 2,783 | 335 | 185 | AGPL-3.0 | 2026-11-25 | 🇪🇺 Wire back-end services |
 | 33 | [jaspervdj/patat](https://github.com/jaspervdj/patat) | 2,748 | 66 | 23 | GPL-2.0 | 2026-06-25 | Terminal-based presentations using Pandoc |
 | 34 | [yesodweb/yesod](https://github.com/yesodweb/yesod) | 2,730 | 386 | 139 | MIT | 2026-09-18 | A RESTful Haskell web framework built on WAI. |
 | 35 | [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) | 2,690 | 155 | 9 | Unlicense | 2019-08-06 | Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python |
@@ -45,12 +45,12 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 39 | [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) | 2,585 | 409 | 1,427 | AGPL-3.0 | 2026-11-25 | A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India. |
 | 40 | [dmjio/miso](https://github.com/dmjio/miso) | 2,450 | 173 | 28 | BSD-3-Clause | 2026-11-24 | :ramen: A tasty Haskell web and mobile framework |
 | 41 | [haskell/haskell-ide-engine](https://github.com/haskell/haskell-ide-engine) | 2,349 | 204 | 301 | BSD-3-Clause | 2020-12-23 | The engine for haskell ide-integration. Not an IDE |
-| 42 | [jgm/gitit](https://github.com/jgm/gitit) | 2,280 | 232 | 204 | GPL-2.0 | 2026-11-14 | A wiki using HAppS, pandoc, and git |
+| 42 | [jgm/gitit](https://github.com/jgm/gitit) | 2,281 | 232 | 204 | GPL-2.0 | 2026-11-14 | A wiki using HAppS, pandoc, and git |
 | 43 | [jameysharp/corrode](https://github.com/jameysharp/corrode) | 2,187 | 117 | 80 | GPL-2.0 | 2019-03-10 | C to Rust translator |
-| 44 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2,137 | 91 | 13 | AGPL-3.0 | 2026-11-24 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
+| 44 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2,137 | 91 | 14 | AGPL-3.0 | 2026-11-25 | Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query i... |
 | 45 | [dapphub/dapptools](https://github.com/dapphub/dapptools) | 2,122 | 319 | 171 | — | 2025-02-25 | Dapp, Seth, Hevm, and more |
 | 46 | [ekmett/lens](https://github.com/ekmett/lens) | 2,108 | 274 | 91 | NOASSERTION | 2026-10-14 | Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens |
-| 47 | [haskell-servant/servant](https://github.com/haskell-servant/servant) | 1,969 | 433 | 300 | — | 2026-11-24 | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more! |
+| 47 | [haskell-servant/servant](https://github.com/haskell-servant/servant) | 1,969 | 433 | 302 | — | 2026-11-24 | Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more! |
 | 48 | [tweag/asterius](https://github.com/tweag/asterius) | 1,948 | 56 | 137 | — | 2022-11-14 | DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc |
 | 49 | [fosskers/aura](https://github.com/fosskers/aura) | 1,919 | 123 | 67 | GPL-3.0 | 2026-02-05 | A multilingual package manager for Arch Linux and the AUR. |
 | 50 | [lamdu/lamdu](https://github.com/lamdu/lamdu) | 1,894 | 77 | 26 | GPL-3.0 | 2026-11-23 | lamdu - towards the next generation IDE |
@@ -59,13 +59,13 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 53 | [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) | 1,781 | 74 | 54 | BSD-3-Clause | 2023-10-03 | Command-line Kanban board/task manager with support for Trello boards and GitHub projects |
 | 54 | [olivierverdier/zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) | 1,777 | 391 | 58 | MIT | 2023-11-08 | Informative git prompt for zsh |
 | 55 | [scotty-web/scotty](https://github.com/scotty-web/scotty) | 1,777 | 134 | 33 | BSD-3-Clause | 2026-06-26 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |
-| 56 | [haskell/cabal](https://github.com/haskell/cabal) | 1,751 | 767 | 2,045 | NOASSERTION | 2026-11-22 | Official upstream development repository for Cabal and cabal-install |
+| 56 | [haskell/cabal](https://github.com/haskell/cabal) | 1,751 | 767 | 2,045 | NOASSERTION | 2026-11-25 | Official upstream development repository for Cabal and cabal-install |
 | 57 | [jtdaugherty/brick](https://github.com/jtdaugherty/brick) | 1,742 | 176 | 3 | BSD-3-Clause | 2026-11-24 | A declarative Unix terminal UI library written in Haskell |
-| 58 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) | 1,739 | 61 | 116 | — | 2026-11-17 | Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. |
+| 58 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) | 1,740 | 61 | 116 | — | 2026-11-17 | Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building. |
 | 59 | [google-research/dex-lang](https://github.com/google-research/dex-lang) | 1,709 | 117 | 139 | BSD-3-Clause | 2026-01-05 | Research language for array processing in the Haskell/ML family |
 | 60 | [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn) | 1,645 | 134 | 23 | NOASSERTION | 2016-05-29 | Homomorphic machine learning |
 | 61 | [NixOS/nixfmt](https://github.com/NixOS/nixfmt) | 1,640 | 78 | 26 | MPL-2.0 | 2026-11-24 | The official formatter for Nix code |
-| 62 | [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) | 1,636 | 172 | 399 | NOASSERTION | 2026-11-24 | Haskell to VHDL/Verilog/SystemVerilog compiler |
+| 62 | [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) | 1,636 | 172 | 398 | NOASSERTION | 2026-11-25 | Haskell to VHDL/Verilog/SystemVerilog compiler |
 | 63 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1,635 | 504 | 263 | Apache-2.0 | 2026-11-25 | The Plutus language implementation and tools |
 | 64 | [ndmitchell/hlint](https://github.com/ndmitchell/hlint) | 1,619 | 213 | 317 | NOASSERTION | 2026-11-06 | Haskell source code suggestions |
 | 65 | [tensorflow/haskell](https://github.com/tensorflow/haskell) | 1,599 | 196 | 39 | Apache-2.0 | 2024-08-15 | Haskell bindings for TensorFlow |
@@ -74,11 +74,11 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 68 | [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan) | 1,562 | 64 | 0 | MPL-2.0 | 2023-07-09 | 📜 Haskell course info, plan, video lectures, slides |
 | 69 | [yi-editor/yi](https://github.com/yi-editor/yi) | 1,553 | 196 | 222 | GPL-2.0 | 2024-11-01 | The Haskell-Scriptable Editor |
 | 70 | [erebe/greenclip](https://github.com/erebe/greenclip) | 1,537 | 38 | 9 | BSD-3-Clause | 2025-03-22 | Simple clipboard manager to be integrated with rofi - Static binary available |
-| 71 | [fossas/fossa-cli](https://github.com/fossas/fossa-cli) | 1,532 | 209 | 18 | NOASSERTION | 2026-11-25 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for larg... |
+| 71 | [fossas/fossa-cli](https://github.com/fossas/fossa-cli) | 1,533 | 210 | 17 | NOASSERTION | 2026-11-25 | Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for larg... |
 | 72 | [valderman/haste-compiler](https://github.com/valderman/haste-compiler) | 1,473 | 105 | 63 | BSD-3-Clause | 2019-03-17 | A GHC-based Haskell to JavaScript compiler |
-| 73 | [lettier/gifcurry](https://github.com/lettier/gifcurry) | 1,459 | 60 | 42 | BSD-3-Clause | 2021-08-13 | 😎 The open-source, Haskell-built video editor for GIF makers. |
+| 73 | [lettier/gifcurry](https://github.com/lettier/gifcurry) | 1,460 | 60 | 42 | BSD-3-Clause | 2021-08-13 | 😎 The open-source, Haskell-built video editor for GIF makers. |
 | 74 | [HuwCampbell/grenade](https://github.com/HuwCampbell/grenade) | 1,449 | 81 | 24 | BSD-2-Clause | 2023-12-08 | Deep Learning in Haskell |
-| 75 | [reanimate/reanimate](https://github.com/reanimate/reanimate) | 1,427 | 93 | 31 | Unlicense | 2025-02-06 | Haskell library for building declarative animations based on SVG graphics |
+| 75 | [reanimate/reanimate](https://github.com/reanimate/reanimate) | 1,428 | 94 | 31 | Unlicense | 2025-02-06 | Haskell library for building declarative animations based on SVG graphics |
 | 76 | [google/haskell-trainings](https://github.com/google/haskell-trainings) | 1,408 | 109 | 4 | Apache-2.0 | 2023-04-10 | Haskell 101 and 102: slides and codelabs |
 | 77 | [input-output-hk/plutus-pioneer-program](https://github.com/input-output-hk/plutus-pioneer-program) | 1,365 | 992 | 6 | — | 2026-10-27 | This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Edu... |
 | 78 | [ucsd-progsys/liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell) | 1,344 | 170 | 463 | BSD-3-Clause | 2026-11-23 | Liquid Types For Haskell |
@@ -92,7 +92,7 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 86 | [hasktorch/hasktorch](https://github.com/hasktorch/hasktorch) | 1,215 | 127 | 89 | NOASSERTION | 2026-10-20 | Tensors and neural networks in Haskell |
 | 87 | [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) | 1,204 | 118 | 120 | NOASSERTION | 2026-10-31 | Very low feature GHCi based IDE |
 | 88 | [evincarofautumn/kitten](https://github.com/evincarofautumn/kitten) | 1,177 | 41 | 69 | NOASSERTION | 2023-04-10 | A statically typed concatenative systems programming language. |
-| 89 | [matterhorn-chat/matterhorn](https://github.com/matterhorn-chat/matterhorn) | 1,169 | 83 | 22 | BSD-3-Clause | 2026-11-22 | A feature-rich Unix terminal client for the Mattermost chat system |
+| 89 | [matterhorn-chat/matterhorn](https://github.com/matterhorn-chat/matterhorn) | 1,170 | 83 | 22 | BSD-3-Clause | 2026-11-22 | A feature-rich Unix terminal client for the Mattermost chat system |
 | 90 | [B-Lang-org/bsc](https://github.com/B-Lang-org/bsc) | 1,153 | 187 | 402 | NOASSERTION | 2026-11-06 | Bluespec Compiler (BSC) |
 | 91 | [cachix/cachix](https://github.com/cachix/cachix) | 1,144 | 59 | 122 | — | 2026-11-24 | Command line client for Nix binary cache hosting: |
 | 92 | [hzlmn/haskell-must-watch](https://github.com/hzlmn/haskell-must-watch) | 1,142 | 55 | 0 | MIT | 2017-10-17 | Huge list of  videos, talks, courses for Haskell programming language. |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **165,619** total repositories matching `languag
 | 96 | [grin-compiler/grin](https://github.com/grin-compiler/grin) | 1,081 | 41 | 30 | — | 2025-06-13 | GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support. |
 | 97 | [uber/queryparser](https://github.com/uber/queryparser) | 1,079 | 146 | 23 | MIT | 2022-02-16 | Parsing and analysis of Vertica, Hive, and Presto SQL. |
 | 98 | [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy) | 1,077 | 79 | 46 | BSD-3-Clause | 2026-10-10 | :gemini: higher-order, no-boilerplate monads |
-| 99 | [tweag/ormolu](https://github.com/tweag/ormolu) | 1,075 | 89 | 56 | NOASSERTION | 2026-11-24 | A formatter for Haskell source code |
-| 100 | [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) | 1,075 | 82 | 94 | GPL-2.0 | 2026-11-13 | Pandoc filter for cross-references |
+| 99 | [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) | 1,076 | 82 | 94 | GPL-2.0 | 2026-11-13 | Pandoc filter for cross-references |
+| 100 | [tweag/ormolu](https://github.com/tweag/ormolu) | 1,075 | 89 | 56 | NOASSERTION | 2026-11-24 | A formatter for Haskell source code |

@@ -1,6 +1,6 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,906** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,909** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,7 +9,7 @@ Ranked by stars. GitHub reports **9,906** total repositories matching `language:
 | 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 727 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
-| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 302 | 432 | 93 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
+| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 303 | 434 | 102 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
 | 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 212 | 114 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
 | 8 | [jmsdnns/webbol](https://github.com/jmsdnns/webbol) | 196 | 10 | 6 | — | 2025-10-03 | A minimal static web server written in COBOL |
 | 9 | [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | 169 | 35 | 62 | MIT | 2026-10-27 | An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code |
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **9,906** total repositories matching `language:
 | 21 | [victorqribeiro/perceptronCobol](https://github.com/victorqribeiro/perceptronCobol) | 77 | 7 | 0 | MIT | 2020-09-04 | A perceptron written in COBOL |
 | 22 | [krisds/koopa](https://github.com/krisds/koopa) | 59 | 17 | 2 | NOASSERTION | 2026-10-31 | Koopa (COBOL) Parser Generator |
 | 23 | [navikt/DSF](https://github.com/navikt/DSF) | 57 | 4 | 1 | MIT | 2020-10-05 | Det Sentrale Folketrygdsystemet |
-| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 65 | 95 | Apache-2.0 | 2026-11-24 | Sample Z application showing how to work with mainframe software. |
+| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 65 | 96 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
 | 26 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 42 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
 | 27 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
@@ -40,8 +40,8 @@ Ranked by stars. GitHub reports **9,906** total repositories matching `language:
 | 34 | [qgevans/WOPO](https://github.com/qgevans/WOPO) | 38 | 5 | 3 | BSD-2-Clause | 2024-02-15 | IRC bot in COBOL-74 |
 | 35 | [ShaunLawrie/TicTacTOBOL](https://github.com/ShaunLawrie/TicTacTOBOL) | 33 | 5 | 0 | MIT | 2023-05-25 | ❎ A basic "game" in COBOL for learning |
 | 36 | [ibm-wsc/zCONNEE-Wildfire-Workshop](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop) | 32 | 18 | 0 | — | 2026-11-17 | Collateral related to the Washington System Center z/OS Connect Wildfire Workshops |
-| 37 | [xawt/cobold-cli](https://github.com/xawt/cobold-cli) | 31 | 0 | 0 | MIT | 2026-04-07 | Summon AI from the depths of legacy systems. |
-| 38 | [sentientsergio/COBOL-Legacy-Benchmark-Suite](https://github.com/sentientsergio/COBOL-Legacy-Benchmark-Suite) | 31 | 38 | 2 | — | 2024-10-30 | A production-grade implementation of an Investment Portfolio Management System created for testing LLM translation of... |
+| 37 | [sentientsergio/COBOL-Legacy-Benchmark-Suite](https://github.com/sentientsergio/COBOL-Legacy-Benchmark-Suite) | 32 | 38 | 2 | — | 2024-10-30 | A production-grade implementation of an Investment Portfolio Management System created for testing LLM translation of... |
+| 38 | [xawt/cobold-cli](https://github.com/xawt/cobold-cli) | 31 | 0 | 0 | MIT | 2026-04-07 | Summon AI from the depths of legacy systems. |
 | 39 | [RocketSoftware/cobol-fundamentals-training](https://github.com/RocketSoftware/cobol-fundamentals-training) | 30 | 5 | 1 | — | 2025-05-23 |  |
 | 40 | [RocketSoftwareCOBOLandMainframe/BankDemo](https://github.com/RocketSoftwareCOBOLandMainframe/BankDemo) | 30 | 41 | 2 | NOASSERTION | 2026-11-05 | This project provides tutorials and demonstrations of features in the Rocket® Enterprise Developer and Rocket® Enterp... |
 | 41 | [tanto259/cobol-course](https://github.com/tanto259/cobol-course) | 30 | 7 | 0 | — | 2022-10-18 | :book: A repository containing codes from the Enterprise COBOL for Business Application Programming course |
