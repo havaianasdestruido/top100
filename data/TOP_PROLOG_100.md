@@ -1,10 +1,10 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,624** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,635** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,490 | 158 | 8 | Apache-2.0 | 2026-11-24 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 11 | Apache-2.0 | 2026-11-24 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,705 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,004 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
@@ -15,7 +15,7 @@ Ranked by stars. GitHub reports **40,624** total repositories matching `language
 | 9 | [bitlaw-jp/the-constitution-of-japan](https://github.com/bitlaw-jp/the-constitution-of-japan) | 557 | 6 | 2 | — | 2016-02-23 |  |
 | 10 | [imchipwood/dumbpad](https://github.com/imchipwood/dumbpad) | 521 | 64 | 0 | GPL-2.0 | 2026-03-04 | Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro |
 | 11 | [larsyencken/marelle](https://github.com/larsyencken/marelle) | 389 | 23 | 3 | BSD-2-Clause | 2018-09-22 | Test-driven system administration with a little extra logic. |
-| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 63 | LGPL-2.1 | 2026-11-22 | Embeddable Lambda Prolog Interpreter |
+| 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 63 | LGPL-2.1 | 2026-11-24 | Embeddable Lambda Prolog Interpreter |
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |

@@ -19,7 +19,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 13 | [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) | 745 | 73 | 22 | — | 2026-10-21 | This script implements transparent editing of gpg encrypted files. |
 | 14 | [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease) | 688 | 38 | 5 | — | 2025-11-21 | scriptease.vim: A Vim plugin for Vim plugins |
 | 15 | [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) | 616 | 47 | 11 | — | 2025-08-19 | A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script) |
-| 16 | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) | 444 | 8 | 0 | — | 2016-10-22 | C Compiler written in Vim script |
+| 16 | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) | 445 | 8 | 0 | — | 2016-10-22 | C Compiler written in Vim script |
 | 17 | [dag/vim-fish](https://github.com/dag/vim-fish) | 425 | 59 | 26 | MIT | 2022-03-17 | Vim support for editing fish scripts |
 | 18 | [xolox/vim-misc](https://github.com/xolox/vim-misc) | 363 | 56 | 10 | — | 2021-05-22 | Miscellaneous auto-load Vim scripts |
 | 19 | [hdima/python-syntax](https://github.com/hdima/python-syntax) | 362 | 101 | 23 | MIT | 2022-01-09 | Python syntax highlighting script for Vim |
@@ -51,9 +51,9 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 45 | [mattn/vim-brain](https://github.com/mattn/vim-brain) | 99 | 1 | 0 | — | 2018-12-24 | Neural Networks written in Vim script |
 | 46 | [sunaku/vim-unbundle](https://github.com/sunaku/vim-unbundle) | 96 | 6 | 0 | — | 2022-08-21 | 🎁 Fast, filetype-lazy loader of Vim scripts & plugins |
 | 47 | [davidbeckingsale/writegood.vim](https://github.com/davidbeckingsale/writegood.vim) | 94 | 15 | 1 | — | 2018-05-31 | Vim plugin for Matt Might's '3 shell scripts that can improve your writing' |
-| 48 | [vim-scripts/bash-support.vim](https://github.com/vim-scripts/bash-support.vim) | 91 | 27 | 0 | — | 2014-04-23 | BASH IDE -- Write and run BASH-scripts using menus and hotkeys. |
-| 49 | [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) | 91 | 4 | 1 | MIT | 2025-07-06 | Vim wrapper for ShellCheck, a static analysis tool for shell scripts. |
-| 50 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 90 | 13 | 5 | MIT | 2025-11-25 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
+| 48 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 91 | 13 | 5 | MIT | 2025-11-25 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
+| 49 | [vim-scripts/bash-support.vim](https://github.com/vim-scripts/bash-support.vim) | 91 | 27 | 0 | — | 2014-04-23 | BASH IDE -- Write and run BASH-scripts using menus and hotkeys. |
+| 50 | [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) | 91 | 4 | 1 | MIT | 2025-07-06 | Vim wrapper for ShellCheck, a static analysis tool for shell scripts. |
 | 51 | [mfukar/robotframework-vim](https://github.com/mfukar/robotframework-vim) | 90 | 58 | 4 | — | 2018-02-06 | Some vim scripts for use with the Robot framework. |
 | 52 | [WolfgangMehner/bash-support](https://github.com/WolfgangMehner/bash-support) | 90 | 14 | 2 | — | 2020-11-22 | Edit Bash scripts in Vim/gVim. Insert code snippets, run, check, and debug the code and look up help. |
 | 53 | [vim-scripts/indentpython.vim](https://github.com/vim-scripts/indentpython.vim) | 88 | 21 | 1 | — | 2020-08-07 | An alternative indentation script for python |

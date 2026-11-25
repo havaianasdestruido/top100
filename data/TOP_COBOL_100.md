@@ -1,6 +1,6 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,904** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,906** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -10,14 +10,14 @@ Ranked by stars. GitHub reports **9,904** total repositories matching `language:
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
 | 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 302 | 432 | 93 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
-| 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 211 | 114 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
+| 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 212 | 114 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
 | 8 | [jmsdnns/webbol](https://github.com/jmsdnns/webbol) | 196 | 10 | 6 | — | 2025-10-03 | A minimal static web server written in COBOL |
 | 9 | [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | 169 | 35 | 62 | MIT | 2026-10-27 | An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code |
 | 10 | [IonicaBizau/node.cobol](https://github.com/IonicaBizau/node.cobol) | 165 | 12 | 0 | MIT | 2025-02-14 | :pager: Node.js bridge for COBOL which allows you to run Node.js code from COBOL. |
 | 11 | [lauryndbrown/Cisp](https://github.com/lauryndbrown/Cisp) | 144 | 12 | 3 | MIT | 2017-04-28 | A Common Lisp Interpreter Built in COBOL |
-| 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 127 | 44 | 142 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
+| 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 128 | 44 | 142 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
 | 13 | [neopragma/cobol-unit-test](https://github.com/neopragma/cobol-unit-test) | 123 | 35 | 36 | GPL-3.0 | 2021-03-26 | Unit testing framework and sample code for batch Cobol programs. |
-| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 119 | 72 | 53 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
+| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 120 | 72 | 53 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
 | 15 | [moxon6/cobol-js-emscripten](https://github.com/moxon6/cobol-js-emscripten) | 116 | 5 | 11 | — | 2023-03-04 |  |
 | 16 | [Apress/beg-cobol-for-programmers](https://github.com/Apress/beg-cobol-for-programmers) | 116 | 37 | 0 | NOASSERTION | 2017-03-28 | Source code for 'Beginning COBOL for Programmers' by Michael  Coughlan |
 | 17 | [Martinfx/Cobol](https://github.com/Martinfx/Cobol) | 108 | 37 | 1 | GPL-3.0 | 2019-10-22 | Open library with source code for OpenCobol, GnuCobol AS 400 COBOL, CL, CLP, CLLE, CBLLE |
