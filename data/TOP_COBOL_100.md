@@ -1,6 +1,6 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,909** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,916** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,7 +9,7 @@ Ranked by stars. GitHub reports **9,909** total repositories matching `language:
 | 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 727 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
-| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 303 | 434 | 102 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
+| 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 303 | 434 | 106 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
 | 7 | [uwol/proleap-cobol-parser](https://github.com/uwol/proleap-cobol-parser) | 212 | 114 | 42 | MIT | 2026-03-01 | ProLeap ANTLR4-based parser for COBOL |
 | 8 | [jmsdnns/webbol](https://github.com/jmsdnns/webbol) | 196 | 10 | 6 | — | 2025-10-03 | A minimal static web server written in COBOL |
 | 9 | [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) | 169 | 35 | 62 | MIT | 2026-10-27 | An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code |
@@ -36,7 +36,7 @@ Ranked by stars. GitHub reports **9,909** total repositories matching `language:
 | 30 | [cloudflare/cobol-worker](https://github.com/cloudflare/cobol-worker) | 40 | 10 | 11 | MIT | 2026-04-23 |  |
 | 31 | [IBM/zOS-Client-Web-Enablement-Toolkit](https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit) | 40 | 15 | 5 | Apache-2.0 | 2025-09-17 |  |
 | 32 | [shamrice/COBOL-Examples](https://github.com/shamrice/COBOL-Examples) | 38 | 43 | 0 | MIT | 2024-07-30 | A collection of example COBOL programs I wrote demonstrating different syntaxes and features. |
-| 33 | [skills/modernize-your-legacy-code-with-github-copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) | 38 | 24 | 1 | MIT | 2026-04-15 | Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot. |
+| 33 | [skills/modernize-your-legacy-code-with-github-copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) | 38 | 25 | 1 | MIT | 2026-04-15 | Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot. |
 | 34 | [qgevans/WOPO](https://github.com/qgevans/WOPO) | 38 | 5 | 3 | BSD-2-Clause | 2024-02-15 | IRC bot in COBOL-74 |
 | 35 | [ShaunLawrie/TicTacTOBOL](https://github.com/ShaunLawrie/TicTacTOBOL) | 33 | 5 | 0 | MIT | 2023-05-25 | ❎ A basic "game" in COBOL for learning |
 | 36 | [ibm-wsc/zCONNEE-Wildfire-Workshop](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop) | 32 | 18 | 0 | — | 2026-11-17 | Collateral related to the Washington System Center z/OS Connect Wildfire Workshops |

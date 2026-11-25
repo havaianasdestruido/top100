@@ -1,10 +1,10 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,644** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,657** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 7 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,705 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,005 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
@@ -50,7 +50,7 @@ Ranked by stars. GitHub reports **40,644** total repositories matching `language
 | 44 | [Anniepoo/swiplwebtut](https://github.com/Anniepoo/swiplwebtut) | 117 | 42 | 15 | — | 2021-02-09 | A tutorial for the swipl web framework |
 | 45 | [vangelisv/thea](https://github.com/vangelisv/thea) | 114 | 19 | 19 | — | 2019-08-23 | OWL2 library for Prolog |
 | 46 | [evoldoers/biomake](https://github.com/evoldoers/biomake) | 113 | 9 | 27 | BSD-3-Clause | 2023-11-14 | GNU-Make-like utility for managing builds and complex workflows |
-| 47 | [geohot/twitchcoq](https://github.com/geohot/twitchcoq) | 113 | 19 | 1 | — | 2020-08-01 | It's a poorly named metamath verifier |
+| 47 | [geohot/twitchcoq](https://github.com/geohot/twitchcoq) | 112 | 19 | 1 | — | 2020-08-01 | It's a poorly named metamath verifier |
 | 48 | [carloop/hardware](https://github.com/carloop/hardware) | 110 | 25 | 1 | GPL-3.0 | 2019-07-07 | OBD-II CAN adapter for Particle Electron, Photon, and RedBear Duo |
 | 49 | [aartikis/RTEC](https://github.com/aartikis/RTEC) | 109 | 19 | 2 | LGPL-3.0 | 2026-11-03 | RTEC is an Event Calculus implementation optimised for stream reasoning |
 | 50 | [sciguy14/Eagle-Tutorial-Series](https://github.com/sciguy14/Eagle-Tutorial-Series) | 108 | 104 | 2 | GPL-3.0 | 2013-10-10 | These are the supporting materials for my series of tutorials on using the Eagle CAD software for PCB design. |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **40,644** total repositories matching `language
 | 88 | [sdbtools/void-pi](https://github.com/sdbtools/void-pi) | 50 | 5 | 4 | GPL-2.0 | 2024-07-17 | Void Linux installer implemented in GNU Prolog. |
 | 89 | [hairykiwi/OTM-02](https://github.com/hairykiwi/OTM-02) | 49 | 7 | 1 | — | 2013-09-27 | Open source Time Machine #2 |
 | 90 | [ridgeworks/clpBNR](https://github.com/ridgeworks/clpBNR) | 49 | 8 | 4 | MIT | 2026-08-25 | CLP(BNR) module for SWI-Prolog |
-| 91 | [ChrisChrisLoLo/pusheenz40](https://github.com/ChrisChrisLoLo/pusheenz40) | 49 | 3 | 0 | GPL-3.0 | 2024-02-05 | A pocket keyboard that uses SMD mouse switches. Low profile and easy to assemble |
+| 91 | [ChrisChrisLoLo/pusheenz40](https://github.com/ChrisChrisLoLo/pusheenz40) | 49 | 4 | 0 | GPL-3.0 | 2024-02-05 | A pocket keyboard that uses SMD mouse switches. Low profile and easy to assemble |
 | 92 | [khueue/prolongo](https://github.com/khueue/prolongo) | 47 | 9 | 2 | MIT | 2018-04-04 | MongoDB Driver for Prolog |
 | 93 | [KevenJAntenor/MagicWords](https://github.com/KevenJAntenor/MagicWords) | 47 | 0 | 0 | — | 2025-09-13 |  |
 | 94 | [davepl/vector](https://github.com/davepl/vector) | 46 | 3 | 0 | — | 2026-02-04 |  |
