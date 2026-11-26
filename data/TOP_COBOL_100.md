@@ -1,12 +1,12 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,917** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,920** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 736 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
+| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 735 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
 | 2 | [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) | 1,033 | 49 | 11 | MIT | 2024-08-10 | Micro web-framework for COBOL |
-| 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 727 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
+| 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 728 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
 | 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 303 | 435 | 106 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **9,917** total repositories matching `language:
 | 11 | [lauryndbrown/Cisp](https://github.com/lauryndbrown/Cisp) | 144 | 12 | 3 | MIT | 2017-04-28 | A Common Lisp Interpreter Built in COBOL |
 | 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 128 | 44 | 142 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
 | 13 | [neopragma/cobol-unit-test](https://github.com/neopragma/cobol-unit-test) | 123 | 35 | 36 | GPL-3.0 | 2021-03-26 | Unit testing framework and sample code for batch Cobol programs. |
-| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 120 | 72 | 53 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
+| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 121 | 72 | 53 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
 | 15 | [moxon6/cobol-js-emscripten](https://github.com/moxon6/cobol-js-emscripten) | 116 | 5 | 11 | — | 2023-03-04 |  |
 | 16 | [Apress/beg-cobol-for-programmers](https://github.com/Apress/beg-cobol-for-programmers) | 116 | 37 | 0 | NOASSERTION | 2017-03-28 | Source code for 'Beginning COBOL for Programmers' by Michael  Coughlan |
 | 17 | [Martinfx/Cobol](https://github.com/Martinfx/Cobol) | 108 | 37 | 1 | GPL-3.0 | 2019-10-22 | Open library with source code for OpenCobol, GnuCobol AS 400 COBOL, CL, CLP, CLLE, CBLLE |
@@ -27,7 +27,7 @@ Ranked by stars. GitHub reports **9,917** total repositories matching `language:
 | 21 | [victorqribeiro/perceptronCobol](https://github.com/victorqribeiro/perceptronCobol) | 77 | 7 | 0 | MIT | 2020-09-04 | A perceptron written in COBOL |
 | 22 | [krisds/koopa](https://github.com/krisds/koopa) | 59 | 17 | 2 | NOASSERTION | 2026-10-31 | Koopa (COBOL) Parser Generator |
 | 23 | [navikt/DSF](https://github.com/navikt/DSF) | 57 | 4 | 1 | MIT | 2020-10-05 | Det Sentrale Folketrygdsystemet |
-| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 65 | 98 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
+| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 66 | 98 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
 | 26 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 42 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
 | 27 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |

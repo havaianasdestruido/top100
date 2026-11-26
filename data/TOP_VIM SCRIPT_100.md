@@ -5,7 +5,7 @@ Ranked by stars. GitHub reports **3,468** total repositories matching `language:
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [mileszs/ack.vim](https://github.com/mileszs/ack.vim) | 3,072 | 385 | 85 | NOASSERTION | 2024-03-12 | Vim plugin for the Perl module / CLI script 'ack' |
-| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 160 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
+| 2 | [godlygeek/tabular](https://github.com/godlygeek/tabular) | 2,653 | 159 | 30 | NOASSERTION | 2024-07-03 | Vim script for text filtering and alignment |
 | 3 | [msanders/snipmate.vim](https://github.com/msanders/snipmate.vim) | 2,007 | 722 | 40 | — | 2020-08-20 | snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim. |
 | 4 | [garybernhardt/dotfiles](https://github.com/garybernhardt/dotfiles) | 1,907 | 390 | 0 | — | 2023-05-05 | ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/. |
 | 5 | [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) | 1,753 | 199 | 36 | NOASSERTION | 2020-12-20 | CoffeeScript support for vim |
@@ -31,7 +31,7 @@ Ranked by stars. GitHub reports **3,468** total repositories matching `language:
 | 25 | [kana/vim-vspec](https://github.com/kana/vim-vspec) | 226 | 13 | 12 | — | 2026-08-14 | Vim plugin: Testing framework for Vim script |
 | 26 | [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) | 218 | 20 | 0 | — | 2026-11-16 | vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files |
 | 27 | [jamis/fuzzyfinder_textmate](https://github.com/jamis/fuzzyfinder_textmate) | 209 | 27 | 0 | — | 2008-12-31 | A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained n... |
-| 28 | [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) | 200 | 41 | 2 | GPL-3.0 | 2023-04-01 | Another github v3 api implemented in vim script |
+| 28 | [wsdjeg/GitHub.vim](https://github.com/wsdjeg/GitHub.vim) | 200 | 18 | 2 | GPL-3.0 | 2023-04-01 | Another github v3 api implemented in vim script |
 | 29 | [BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles) | 198 | 9 | 0 | — | 2026-11-21 | My configuration files and personal collection of scripts. |
 | 30 | [Netherdrake/Dotfiles](https://github.com/Netherdrake/Dotfiles) | 187 | 32 | 1 | — | 2026-11-18 | My [NeoVim + Tmux + Fish Shell] Setup /w install scripts |
 | 31 | [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) | 182 | 28 | 63 | — | 2026-05-11 | eskk is pure Vim script implementation of input method engine SKK |

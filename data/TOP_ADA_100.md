@@ -1,6 +1,6 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,653** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,656** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Ranked by stars. GitHub reports **10,653** total repositories matching `language
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 64 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
 | 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 341 | 82 | 51 | NOASSERTION | 2026-11-25 | William Whitaker's WORDS, a Latin dictionary |
 | 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-26 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
-| 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
+| 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-26 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
 | 8 | [AdaDoom3/AdaDoom3](https://github.com/AdaDoom3/AdaDoom3) | 288 | 24 | 8 | — | 2023-03-29 | Id Software's Id-tech-4-BFG in the Ada programming language. |
 | 9 | [AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) | 286 | 166 | 23 | BSD-3-Clause | 2026-08-19 | Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT. |
 | 10 | [jrmarino/synth](https://github.com/jrmarino/synth) | 275 | 20 | 14 | ISC | 2026-06-26 | Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools) |
@@ -31,7 +31,7 @@ Ranked by stars. GitHub reports **10,653** total repositories matching `language
 | 25 | [codelabs-ch/muen](https://github.com/codelabs-ch/muen) | 110 | 16 | 0 | NOASSERTION | 2026-11-24 | Official mirror of the Muen Separation Kernel repository |
 | 26 | [PatrikFehrenbach/amass-tools](https://github.com/PatrikFehrenbach/amass-tools) | 107 | 26 | 0 | — | 2020-10-18 | OWASP Amass data source scripts (assetfinder, findomain, github, subfinder) |
 | 27 | [flyx/OpenGLAda](https://github.com/flyx/OpenGLAda) | 107 | 18 | 4 | MIT | 2026-10-28 | Thick Ada binding for OpenGL and GLFW |
-| 28 | [AdaDoom3/TurboAda](https://github.com/AdaDoom3/TurboAda) | 100 | 14 | 2 | — | 2026-10-15 | An Ada ~2022 LLVM compiler |
+| 28 | [AdaDoom3/TurboAda](https://github.com/AdaDoom3/TurboAda) | 99 | 13 | 2 | — | 2026-10-15 | An Ada ~2022 LLVM compiler |
 | 29 | [AdaCore/langkit](https://github.com/AdaCore/langkit) | 95 | 34 | 9 | NOASSERTION | 2026-11-25 | Language creation framework. |
 | 30 | [docandrew/CuBit](https://github.com/docandrew/CuBit) | 91 | 4 | 2 | GPL-3.0 | 2026-11-23 | General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64 |
 | 31 | [MayaPosch/Sarge](https://github.com/MayaPosch/Sarge) | 91 | 15 | 0 | BSD-3-Clause | 2025-08-26 | Simple command line argument parser for C++ and Ada. |
@@ -46,7 +46,7 @@ Ranked by stars. GitHub reports **10,653** total repositories matching `language
 | 40 | [janverschelde/PHCpack](https://github.com/janverschelde/PHCpack) | 78 | 25 | 47 | GPL-3.0 | 2026-11-25 | The primary source code repository for PHCpack, a software package to solve polynomial systems with homotopy continua... |
 | 41 | [OpenAADL/ocarina](https://github.com/OpenAADL/ocarina) | 77 | 33 | 48 | NOASSERTION | 2022-03-23 | AADL model processor: mappings to code (C, Ada); Petri Nets; scheduling tools (MAST, Cheddar); WCET; REAL |
 | 42 | [GeneralZDS/FPGA-DCNN-Accelerator](https://github.com/GeneralZDS/FPGA-DCNN-Accelerator) | 74 | 15 | 5 | — | 2019-06-11 | 基于HLS的高效深度卷积神经网络FPGA实现方法 |
-| 43 | [AdaCore/bb-runtimes](https://github.com/AdaCore/bb-runtimes) | 72 | 66 | 7 | NOASSERTION | 2026-11-20 | Source repository for the GNAT Bare Metal BSPs |
+| 43 | [AdaCore/bb-runtimes](https://github.com/AdaCore/bb-runtimes) | 72 | 66 | 7 | NOASSERTION | 2026-11-26 | Source repository for the GNAT Bare Metal BSPs |
 | 44 | [AntonMeep/vaniton](https://github.com/AntonMeep/vaniton) | 72 | 14 | 3 | GPL-3.0 | 2023-10-02 | Vanity address generator for The Open Network blockchain wallets |
 | 45 | [AdaCore/svd2ada](https://github.com/AdaCore/svd2ada) | 71 | 42 | 23 | GPL-3.0 | 2026-08-19 | An Ada binding generator from SVD descriptions for bare board ARM devices. |
 | 46 | [serock/pla-util](https://github.com/serock/pla-util) | 70 | 8 | 5 | GPL-3.0 | 2026-11-10 | A power line adapter utility for Linux and macOS |
@@ -57,10 +57,10 @@ Ranked by stars. GitHub reports **10,653** total repositories matching `language
 | 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 1 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
 | 52 | [AdaCore/VSS](https://github.com/AdaCore/VSS) | 61 | 7 | 0 | NOASSERTION | 2025-09-01 | High level string and text processing library |
 | 53 | [jgrivera67/HiRTOS](https://github.com/jgrivera67/HiRTOS) | 58 | 3 | 5 | Apache-2.0 | 2026-01-29 | HiRTOS: a high-integrity multi-core RTOS kernel and separation kernel written in SPARK Ada |
-| 54 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
-| 55 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 5 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
-| 56 | [AdaCore/gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) | 56 | 36 | 14 | NOASSERTION | 2026-11-24 | GNAT Components Collection – Core packages |
-| 57 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 55 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
+| 54 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 58 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
+| 55 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
+| 56 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 5 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
+| 57 | [AdaCore/gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) | 56 | 36 | 14 | NOASSERTION | 2026-11-24 | GNAT Components Collection – Core packages |
 | 58 | [parasail-lang/parasail](https://github.com/parasail-lang/parasail) | 54 | 5 | 2 | Apache-2.0 | 2026-11-20 | Parallel Specification and Implementation Language |
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-25 | Ada-language framework |
@@ -93,10 +93,10 @@ Ranked by stars. GitHub reports **10,653** total repositories matching `language
 | 87 | [pmderodat/ada-toml](https://github.com/pmderodat/ada-toml) | 38 | 8 | 2 | NOASSERTION | 2026-08-14 | TOML parser for Ada |
 | 88 | [kqr/qweyboard](https://github.com/kqr/qweyboard) | 38 | 3 | 3 | ISC | 2017-03-11 | [HOLD] Qweyboard aims to be a Velotype/Veyboard like experience on a regular standard computer keyboard. I really lik... |
 | 89 | [Fabien-Chouteau/Wee-Noise-Maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) | 37 | 3 | 0 | GPL-3.0 | 2024-04-25 | Open source pocket synthesizer |
-| 90 | [DevMajed/RF-Microwave-Engineering](https://github.com/DevMajed/RF-Microwave-Engineering) | 37 | 8 | 0 | — | 2021-02-18 | RF and Microwave design projects using ADS, HFSS, and other tools |
-| 91 | [stcarrez/ada-keystore](https://github.com/stcarrez/ada-keystore) | 37 | 5 | 4 | Apache-2.0 | 2026-11-11 | Ada Keystore - protect your sensitive data with secure storage |
-| 92 | [raph-amiard/ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) | 36 | 6 | 7 | — | 2020-05-31 | Simple audio synthesis library |
-| 93 | [jrcarter/PragmARC](https://github.com/jrcarter/PragmARC) | 36 | 7 | 0 | — | 2026-10-17 | The PragmAda Reusable Components |
+| 90 | [stcarrez/ada-keystore](https://github.com/stcarrez/ada-keystore) | 37 | 5 | 4 | Apache-2.0 | 2026-11-11 | Ada Keystore - protect your sensitive data with secure storage |
+| 91 | [raph-amiard/ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) | 36 | 6 | 7 | — | 2020-05-31 | Simple audio synthesis library |
+| 92 | [jrcarter/PragmARC](https://github.com/jrcarter/PragmARC) | 36 | 7 | 0 | — | 2026-10-17 | The PragmAda Reusable Components |
+| 93 | [DevMajed/RF-Microwave-Engineering](https://github.com/DevMajed/RF-Microwave-Engineering) | 36 | 8 | 0 | — | 2021-02-18 | RF and Microwave design projects using ADS, HFSS, and other tools |
 | 94 | [stcarrez/sql-benchmark](https://github.com/stcarrez/sql-benchmark) | 35 | 2 | 3 | Apache-2.0 | 2022-09-08 | Tool to make SQL benchmark on different drivers, languages and databases |
 | 95 | [Componolit/ada-runtime](https://github.com/Componolit/ada-runtime) | 35 | 4 | 8 | AGPL-3.0 | 2022-08-02 |  |
 | 96 | [jrmarino/AdaBase](https://github.com/jrmarino/AdaBase) | 35 | 4 | 5 | ISC | 2022-10-16 | Thick database bindings to MySQL, PostgreSQL and SQLite for Ada |

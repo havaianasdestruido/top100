@@ -1,11 +1,11 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,660** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,664** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,491 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
-| 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,705 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,492 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,005 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,029 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
@@ -35,7 +35,7 @@ Ranked by stars. GitHub reports **40,660** total repositories matching `language
 | 29 | [strangeloop/StrangeLoop2014](https://github.com/strangeloop/StrangeLoop2014) | 188 | 59 | 1 | — | 2014-10-25 | Strange Loop 2014 archives |
 | 30 | [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) | 187 | 26 | 3 | NOASSERTION | 2024-12-17 | Online, interactive edition of the "Simply Logical" Prolog textbook |
 | 31 | [eyereasoner/eye](https://github.com/eyereasoner/eye) | 180 | 20 | 25 | MIT | 2026-09-07 | Euler Yet another proof Engine |
-| 32 | [mcsoto/cosmos](https://github.com/mcsoto/cosmos) | 176 | 9 | 2 | — | 2026-11-24 | A new logic programming language. |
+| 32 | [mcsoto/cosmos](https://github.com/mcsoto/cosmos) | 176 | 9 | 2 | — | 2026-11-26 | A new logic programming language. |
 | 33 | [needleful/c_plus_prolog](https://github.com/needleful/c_plus_prolog) | 170 | 3 | 0 | — | 2026-04-11 | C plus Prolog |
 | 34 | [gooofy/zamia-ai](https://github.com/gooofy/zamia-ai) | 169 | 26 | 0 | Apache-2.0 | 2021-05-13 | Free and open source A.I. system based on Python, TensorFlow and Prolog. |
 | 35 | [fnogatz/xsd2json](https://github.com/fnogatz/xsd2json) | 159 | 28 | 23 | MIT | 2026-01-21 | Translate XML Schema into equivalent JSON Schema |

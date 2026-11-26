@@ -1,15 +1,15 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,142** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,143** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,388 | 1,038 | 155 | Apache-2.0 | 2026-11-24 | Chez Scheme |
+| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,387 | 1,038 | 151 | Apache-2.0 | 2026-11-26 | Chez Scheme |
 | 2 | [opencog/opencog](https://github.com/opencog/opencog) | 2,485 | 738 | 47 | NOASSERTION | 2025-08-26 | A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) |
 | 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,725 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
 | 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,663 | 167 | 12 | — | 2026-11-23 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
-| 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,445 | 207 | 294 | — | 2026-11-26 | Gambit is an efficient implementation of the Scheme programming language. |
-| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 77 | NOASSERTION | 2026-11-26 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
+| 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,445 | 207 | 295 | — | 2026-11-26 | Gambit is an efficient implementation of the Scheme programming language. |
+| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 74 | NOASSERTION | 2026-11-26 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
 | 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,412 | 167 | 98 | NOASSERTION | 2026-11-24 | Official chibi-scheme repository |
 | 8 | [google/schism](https://github.com/google/schism) | 1,276 | 65 | 24 | Apache-2.0 | 2021-08-30 | A self-hosting Scheme to WebAssembly compiler |
 | 9 | [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) | 1,268 | 120 | 170 | LGPL-2.1 | 2026-07-22 | Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io |
@@ -18,18 +18,18 @@ Ranked by stars. GitHub reports **22,142** total repositories matching `language
 | 12 | [eholk/harlan](https://github.com/eholk/harlan) | 1,189 | 81 | 68 | NOASSERTION | 2015-11-04 | A language for GPU computing. |
 | 13 | [webyrd/Barliman](https://github.com/webyrd/Barliman) | 1,086 | 31 | 4 | MIT | 2026-08-16 | Prototype smart text editor |
 | 14 | [namin/inc](https://github.com/namin/inc) | 978 | 116 | 1 | MIT | 2019-10-09 | an incremental approach to compiler construction |
-| 15 | [shirok/Gauche](https://github.com/shirok/Gauche) | 912 | 91 | 183 | NOASSERTION | 2026-11-25 | Scheme Scripting Engine |
+| 15 | [shirok/Gauche](https://github.com/shirok/Gauche) | 912 | 91 | 183 | NOASSERTION | 2026-11-26 | Scheme Scripting Engine |
 | 16 | [justinethier/cyclone](https://github.com/justinethier/cyclone) | 886 | 49 | 82 | MIT | 2026-03-13 | :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme. We provide modern fea... |
 | 17 | [huangzworks/SICP-answers](https://github.com/huangzworks/SICP-answers) | 877 | 182 | 55 | — | 2022-04-01 | 我的 SICP 解题集 |
 | 18 | [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) | 738 | 75 | 1 | — | 2026-10-16 | :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ... |
 | 19 | [pkrumins/the-little-schemer](https://github.com/pkrumins/the-little-schemer) | 686 | 138 | 4 | — | 2016-07-24 | All the Scheme code examples from the book "The Little Schemer" |
-| 20 | [MoganLab/mogan](https://github.com/MoganLab/mogan) | 585 | 120 | 420 | GPL-3.0 | 2026-11-26 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
+| 20 | [MoganLab/mogan](https://github.com/MoganLab/mogan) | 586 | 119 | 421 | GPL-3.0 | 2026-11-26 | Mogan STEM Suite (based on GNU TeXmacs): Enjoy exploring science and technology! |
 | 21 | [udem-dlteam/ribbit](https://github.com/udem-dlteam/ribbit) | 577 | 66 | 24 | BSD-3-Clause | 2026-11-17 | A portable, compact and extensible Scheme implementation to 25 targets. R4RS compliant. |
 | 22 | [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) | 570 | 67 | 17 | MIT | 2026-09-28 | The new nanopass framework; an embedded DSL for writing compilers in Scheme |
 | 23 | [cloudkj/layer](https://github.com/cloudkj/layer) | 561 | 18 | 0 | MIT | 2019-04-21 | Neural network inference the Unix way |
 | 24 | [evilbinary/scheme-lib](https://github.com/evilbinary/scheme-lib) | 474 | 45 | 0 | MIT | 2024-02-27 | 鸭库 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http ... |
 | 25 | [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) | 474 | 41 | 6 | Apache-2.0 | 2022-07-05 | Simple statusline component that shows what scope you are working inside |
-| 26 | [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) | 471 | 152 | 27 | GPL-3.0 | 2024-04-21 | Debian customizations from Chris Titus Tech |
+| 26 | [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) | 471 | 151 | 27 | GPL-3.0 | 2024-04-21 | Debian customizations from Chris Titus Tech |
 | 27 | [bintracker/bintracker](https://github.com/bintracker/bintracker) | 444 | 10 | 4 | MIT | 2025-05-25 | A hackable Chiptune Audio Workstation. https://bintracker.org |
 | 28 | [the-little-prover/j-bob](https://github.com/the-little-prover/j-bob) | 437 | 69 | 5 | BSD-2-Clause | 2024-02-08 |  |
 | 29 | [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) | 435 | 19 | 6 | Apache-2.0 | 2026-11-25 | Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS... |
@@ -39,7 +39,7 @@ Ranked by stars. GitHub reports **22,142** total repositories matching `language
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 416 | 45 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
 | 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 407 | 31 | 27 | EPL-2.0 | 2026-11-26 | A Clojure compiler implemented on top of Chez Scheme |
 | 35 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
-| 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 513 | Apache-2.0 | 2026-11-25 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
+| 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 513 | Apache-2.0 | 2026-11-26 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
 | 38 | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) | 370 | 42 | 0 | MIT | 2021-05-01 | A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013) |
 | 39 | [chenyukang/eopl](https://github.com/chenyukang/eopl) | 364 | 66 | 3 | — | 2018-11-06 | my solutions to EOPL3 |
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **22,142** total repositories matching `language
 | 56 | [qiao/sicp-solutions](https://github.com/qiao/sicp-solutions) | 247 | 47 | 6 | — | 2020-05-13 | My solutions to Structure and Interpretation of Computer Programs |
 | 57 | [microbit-foundation/microbit-reference-design](https://github.com/microbit-foundation/microbit-reference-design) | 244 | 82 | 10 | — | 2021-03-29 | micro:bit Reference Design |
 | 58 | [lokke-org/lokke](https://github.com/lokke-org/lokke) | 220 | 12 | 8 | NOASSERTION | 2024-03-18 | Lokke: Clojure for Guile |
-| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 214 | 35 | 112 | NOASSERTION | 2026-11-25 | Larceny Scheme implementation |
+| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 214 | 35 | 110 | NOASSERTION | 2026-11-26 | Larceny Scheme implementation |
 | 60 | [samrushing/irken-compiler](https://github.com/samrushing/irken-compiler) | 212 | 15 | 14 | BSD-2-Clause | 2026-11-25 | Irken is a statically typed variant of Scheme.  Or a lisp-like variant of ML. |
 | 61 | [opencog/learn](https://github.com/opencog/learn) | 205 | 43 | 2 | NOASSERTION | 2026-11-26 | Neuro-symbolic interpretation learning (mostly just language-learning, for now) |
 | 62 | [gwatt/chez-exe](https://github.com/gwatt/chez-exe) | 201 | 46 | 4 | NOASSERTION | 2024-08-09 | Chez Scheme self hosting executable |
