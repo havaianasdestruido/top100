@@ -1,6 +1,6 @@
 # Top 100 MATLAB repositories on GitHub
 
-Ranked by stars. GitHub reports **510,846** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **510,909** total repositories matching `language:MATLAB`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -8,7 +8,7 @@ Ranked by stars. GitHub reports **510,846** total repositories matching `languag
 | 2 | [luanfujun/deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) | 9,978 | 1,362 | 34 | — | 2021-08-02 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511 |
 | 3 | [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 7,809 | 1,909 | 361 | NOASSERTION | 2024-06-01 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit r... |
 | 4 | [PRML/PRMLT](https://github.com/PRML/PRMLT) | 6,205 | 2,118 | 1 | MIT | 2020-03-04 | Matlab code of machine learning algorithms in book PRML |
-| 5 | [personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model) | 5,392 | 790 | 2 | — | 2023-12-01 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学... |
+| 5 | [personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model) | 5,391 | 790 | 2 | — | 2023-12-01 | 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学... |
 | 6 | [AaronJackson/vrn](https://github.com/AaronJackson/vrn) | 4,522 | 738 | 7 | MIT | 2022-07-26 | :man:  Code for "Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression" |
 | 7 | [rasmusbergpalm/DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) | 3,869 | 2,250 | 83 | BSD-2-Clause | 2018-10-13 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, ... |
 | 8 | [cycleuser/Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) | 3,463 | 849 | 5 | GPL-3.0 | 2022-03-01 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **510,846** total repositories matching `languag
 | 11 | [googollee/eviltransform](https://github.com/googollee/eviltransform) | 2,598 | 477 | 16 | NOASSERTION | 2024-01-15 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). |
 | 12 | [HuangCongQing/Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) | 2,457 | 532 | 1 | MIT | 2022-12-25 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） |
 | 13 | [rbgirshick/rcnn](https://github.com/rbgirshick/rcnn) | 2,416 | 968 | 54 | BSD-2-Clause | 2017-04-03 | R-CNN: Regions with Convolutional Neural Network Features |
-| 14 | [dick20/MCM-ICM](https://github.com/dick20/MCM-ICM) | 2,348 | 389 | 2 | — | 2025-07-23 | 2004-2020美赛O奖论文 |
+| 14 | [dick20/MCM-ICM](https://github.com/dick20/MCM-ICM) | 2,349 | 389 | 2 | — | 2025-07-23 | 2004-2020美赛O奖论文 |
 | 15 | [BIMK/PlatEMO](https://github.com/BIMK/PlatEMO) | 2,233 | 532 | 101 | — | 2026-11-01 | Evolutionary multi-objective optimization platform |
 | 16 | [zk00006/OpenTLD](https://github.com/zk00006/OpenTLD) | 2,098 | 1,250 | 38 | GPL-3.0 | 2022-05-18 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer... |
 | 17 | [Ayatans/Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework) | 2,028 | 654 | 0 | — | 2020-04-28 | Matlab Coding homework for Machine Learning |
@@ -28,9 +28,9 @@ Ranked by stars. GitHub reports **510,846** total repositories matching `languag
 | 22 | [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) | 1,589 | 464 | 94 | LGPL-2.1 | 2026-10-01 | Robotics Toolbox for MATLAB |
 | 23 | [ecmadao/Coding-Guide](https://github.com/ecmadao/Coding-Guide) | 1,452 | 180 | 1 | Apache-2.0 | 2022-07-12 | 自己随手记录的东西 |
 | 24 | [brendenlake/omniglot](https://github.com/brendenlake/omniglot) | 1,424 | 351 | 2 | MIT | 2023-02-01 | Omniglot data set for one-shot learning |
-| 25 | [SPIRIT-org/SPIRIT](https://github.com/SPIRIT-org/SPIRIT) | 1,364 | 61 | 36 | NOASSERTION | 2026-11-17 | Smartphone based on the Raspberry Pi CM 5. |
+| 25 | [SPIRIT-org/SPIRIT](https://github.com/SPIRIT-org/SPIRIT) | 1,365 | 61 | 36 | NOASSERTION | 2026-11-17 | Smartphone based on the Raspberry Pi CM 5. |
 | 26 | [altmany/export_fig](https://github.com/altmany/export_fig) | 1,356 | 365 | 26 | BSD-3-Clause | 2026-10-29 | A MATLAB toolbox for exporting publication quality figures |
-| 27 | [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) | 1,345 | 152 | 9 | NOASSERTION | 2026-11-25 | The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflow... |
+| 27 | [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) | 1,346 | 152 | 9 | NOASSERTION | 2026-11-25 | The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflow... |
 | 28 | [zuster/EconometricsResources](https://github.com/zuster/EconometricsResources) | 1,340 | 190 | 0 | Apache-2.0 | 2025-11-19 | 经济学相关专业资料集 |
 | 29 | [torrvision/crfasrnn](https://github.com/torrvision/crfasrnn) | 1,332 | 453 | 47 | NOASSERTION | 2019-11-30 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper:... |
 | 30 | [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) | 1,257 | 270 | 19 | BSD-2-Clause | 2023-12-13 | Apply and save color schemes in MATLAB with ease. |
@@ -53,17 +53,17 @@ Ranked by stars. GitHub reports **510,846** total repositories matching `languag
 | 47 | [trekhleb/machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) | 901 | 250 | 0 | MIT | 2025-11-23 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained |
 | 48 | [andrewssobral/lrslibrary](https://github.com/andrewssobral/lrslibrary) | 888 | 377 | 3 | — | 2025-11-22 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos |
 | 49 | [shahroudy/NTURGB-D](https://github.com/shahroudy/NTURGB-D) | 887 | 178 | 23 | — | 2022-02-18 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" |
-| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-25 | Highly comparative time-series analysis |
+| 50 | [benfulcher/hctsa](https://github.com/benfulcher/hctsa) | 866 | 368 | 3 | NOASSERTION | 2026-11-26 | Highly comparative time-series analysis |
 | 51 | [jtkim-kaist/VAD](https://github.com/jtkim-kaist/VAD) | 866 | 230 | 32 | — | 2021-06-09 | Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly rec... |
 | 52 | [pdollar/toolbox](https://github.com/pdollar/toolbox) | 861 | 494 | 39 | — | 2019-05-06 | Piotr's Image & Video Matlab Toolbox |
 | 53 | [nanahou/Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement) | 842 | 152 | 5 | MIT | 2020-12-01 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s ... |
 | 54 | [quguai/Smart-Algorithm](https://github.com/quguai/Smart-Algorithm) | 841 | 155 | 2 | — | 2020-05-10 | 智能算法-遗传算法、蚁群算法、粒子群算法实现。实现版本Java,Python,MatLab多版本实现 |
 | 55 | [pdollar/edges](https://github.com/pdollar/edges) | 837 | 359 | 18 | NOASSERTION | 2019-12-02 | Structured Edge Detection Toolbox |
 | 56 | [schneems/Octave](https://github.com/schneems/Octave) | 830 | 492 | 16 | NOASSERTION | 2021-07-02 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course |
-| 57 | [CERN/TIGRE](https://github.com/CERN/TIGRE) | 830 | 275 | 69 | BSD-3-Clause | 2026-11-25 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
-| 58 | [piermorel/gramm](https://github.com/piermorel/gramm) | 827 | 223 | 10 | MIT | 2026-11-25 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to pro... |
+| 57 | [CERN/TIGRE](https://github.com/CERN/TIGRE) | 830 | 275 | 67 | BSD-3-Clause | 2026-11-26 | TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox |
+| 58 | [piermorel/gramm](https://github.com/piermorel/gramm) | 827 | 223 | 9 | MIT | 2026-11-26 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to pro... |
 | 59 | [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) | 813 | 96 | 0 | MIT | 2026-11-10 | [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveN... |
-| 60 | [sccn/eeglab](https://github.com/sccn/eeglab) | 812 | 280 | 77 | NOASSERTION | 2026-11-26 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and develop... |
+| 60 | [sccn/eeglab](https://github.com/sccn/eeglab) | 813 | 280 | 78 | NOASSERTION | 2026-11-26 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and develop... |
 | 61 | [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning) | 797 | 311 | 0 | MIT | 2019-08-28 | Coursera Machine Learning By Prof. Andrew Ng |
 | 62 | [shenshikexmu/IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture) | 794 | 262 | 0 | — | 2024-12-12 | calibration for Imu and show gesture |
 | 63 | [cybergalactic/MSS](https://github.com/cybergalactic/MSS) | 787 | 209 | 0 | MIT | 2026-11-26 | The Marine Systems Simulator (MSS) is software that supplements the textbook "Handbook of Marine Craft Hydrodynamics ... |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **510,846** total repositories matching `languag
 | 96 | [ravenxrz/Mathematical-Modeling](https://github.com/ravenxrz/Mathematical-Modeling) | 577 | 68 | 0 | Apache-2.0 | 2019-07-17 | 数学建模算法学习 |
 | 97 | [rbgirshick/voc-dpm](https://github.com/rbgirshick/voc-dpm) | 576 | 301 | 19 | MIT | 2017-04-03 | Object detection system using deformable part models (DPMs) and latent SVM (voc-release5). You may want to use the la... |
 | 98 | [scruel/Notes-ML-AndrewNg](https://github.com/scruel/Notes-ML-AndrewNg) | 574 | 161 | 0 | — | 2024-03-18 | Coursera吴恩达机器学习课程笔记及资源整理 |
-| 99 | [yalmip/YALMIP](https://github.com/yalmip/YALMIP) | 569 | 149 | 41 | NOASSERTION | 2026-10-29 | MATLAB toolbox for optimization modeling |
+| 99 | [yalmip/YALMIP](https://github.com/yalmip/YALMIP) | 569 | 150 | 42 | NOASSERTION | 2026-10-29 | MATLAB toolbox for optimization modeling |
 | 100 | [cszn/FFDNet](https://github.com/cszn/FFDNet) | 566 | 134 | 25 | — | 2021-10-09 | FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018) |

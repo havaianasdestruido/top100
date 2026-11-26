@@ -1,6 +1,6 @@
 # Top 100 Vim Script repositories on GitHub
 
-Ranked by stars. GitHub reports **3,468** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **3,467** total repositories matching `language:Vim Script`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|

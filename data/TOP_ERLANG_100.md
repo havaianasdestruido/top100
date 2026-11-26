@@ -1,17 +1,17 @@
 # Top 100 Erlang repositories on GitHub
 
-Ranked by stars. GitHub reports **34,494** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **34,495** total repositories matching `language:Erlang`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,952 | 2,585 | 299 | NOASSERTION | 2026-11-26 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,368 | 3,219 | 752 | Apache-2.0 | 2026-11-26 | Erlang/OTP |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,952 | 2,584 | 298 | NOASSERTION | 2026-11-26 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,368 | 3,219 | 754 | Apache-2.0 | 2026-11-26 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,525 | 1,175 | 61 | ISC | 2026-11-26 | Small, fast, modern HTTP server for Erlang/OTP. |
-| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,018 | 1,093 | 372 | Apache-2.0 | 2026-11-26 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
+| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,019 | 1,093 | 372 | Apache-2.0 | 2026-11-26 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
 | 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,754 | 1,552 | 232 | NOASSERTION | 2026-11-26 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
 | 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,874 | 967 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,115 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
-| 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,660 | 437 | 186 | Apache-2.0 | 2026-11-25 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
+| 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,660 | 437 | 187 | Apache-2.0 | 2026-11-25 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
 | 9 | [processone/tsung](https://github.com/processone/tsung) | 2,629 | 403 | 130 | GPL-2.0 | 2026-03-02 | Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc. |
 | 10 | [lfe/lfe](https://github.com/lfe/lfe) | 2,460 | 145 | 30 | Apache-2.0 | 2026-10-19 | Lisp Flavoured Erlang (LFE) |
 | 11 | [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) | 2,307 | 158 | 10 | NOASSERTION | 2026-09-24 | Delayed Messaging for RabbitMQ |
@@ -25,7 +25,7 @@ Ranked by stars. GitHub reports **34,494** total repositories matching `language
 | 19 | [discoproject/disco](https://github.com/discoproject/disco) | 1,627 | 241 | 140 | BSD-3-Clause | 2018-01-30 | a Map/Reduce framework for distributed computing |
 | 20 | [devinus/poolboy](https://github.com/devinus/poolboy) | 1,597 | 351 | 44 | ISC | 2023-04-18 | A hunky Erlang worker pool factory |
 | 21 | [leo-project/leofs](https://github.com/leo-project/leofs) | 1,595 | 155 | 253 | Apache-2.0 | 2026-01-05 | The LeoFS Storage System |
-| 22 | [zhongwencool/observer_cli](https://github.com/zhongwencool/observer_cli) | 1,538 | 94 | 0 | MIT | 2026-10-07 | Visualize Erlang/Elixir Nodes On The Command Line |
+| 22 | [zhongwencool/observer_cli](https://github.com/zhongwencool/observer_cli) | 1,539 | 94 | 0 | MIT | 2026-10-07 | Visualize Erlang/Elixir Nodes On The Command Line |
 | 23 | [webmachine/webmachine](https://github.com/webmachine/webmachine) | 1,511 | 277 | 7 | Apache-2.0 | 2026-07-24 | A REST-based system for building web applications. |
 | 24 | [alpaca-lang/alpaca](https://github.com/alpaca-lang/alpaca) | 1,468 | 48 | 34 | NOASSERTION | 2020-06-13 | Functional programming inspired by ML for the Erlang VM |
 | 25 | [ferd/recon](https://github.com/ferd/recon) | 1,429 | 277 | 11 | BSD-3-Clause | 2026-04-23 | Collection of functions and scripts to debug Erlang in production. |
@@ -48,7 +48,7 @@ Ranked by stars. GitHub reports **34,494** total repositories matching `language
 | 42 | [2600hz/kazoo](https://github.com/2600hz/kazoo) | 992 | 465 | 29 | MPL-2.0 | 2025-02-11 | The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services |
 | 43 | [nitrogen/nitrogen](https://github.com/nitrogen/nitrogen) | 981 | 160 | 16 | MIT | 2026-07-26 | Nitrogen Web Framework for Erlang (now with websockets!) |
 | 44 | [heroku/logplex](https://github.com/heroku/logplex) | 979 | 92 | 0 | NOASSERTION | 2022-02-14 | [DEPRECATED] Heroku log router |
-| 45 | [rabbitmq/ra](https://github.com/rabbitmq/ra) | 978 | 115 | 43 | NOASSERTION | 2026-11-25 | A Multi-Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raf... |
+| 45 | [rabbitmq/ra](https://github.com/rabbitmq/ra) | 978 | 115 | 44 | NOASSERTION | 2026-11-25 | A Multi-Raft implementation for Erlang and Elixir that strives to be efficient and make it easier to use multiple Raf... |
 | 46 | [ninenines/gun](https://github.com/ninenines/gun) | 949 | 247 | 33 | ISC | 2026-11-26 | HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP. |
 | 47 | [rebar/rebar](https://github.com/rebar/rebar) | 929 | 290 | 2 | Apache-2.0 | 2018-02-01 | Deprecated Erlang build tool that makes it easy to compile and test Erlang applications, port drivers and releases. W... |
 | 48 | [beam-telemetry/telemetry](https://github.com/beam-telemetry/telemetry) | 923 | 78 | 6 | Apache-2.0 | 2026-11-16 | Dynamic dispatching library for metrics and instrumentations. |

@@ -1,20 +1,20 @@
 # Top 100 F# repositories on GitHub
 
-Ranked by stars. GitHub reports **35,665** total repositories matching `language:F#`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **35,673** total repositories matching `language:F#`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [dotnet/fsharp](https://github.com/dotnet/fsharp) | 4,357 | 886 | 1,364 | MIT | 2026-11-26 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
-| 2 | [artempyanykh/marksman](https://github.com/artempyanykh/marksman) | 3,404 | 79 | 139 | MIT | 2026-09-14 | Write Markdown with code assist and intelligence in the comfort of your favourite editor. |
-| 3 | [fable-compiler/Fable](https://github.com/fable-compiler/Fable) | 3,171 | 333 | 156 | MIT | 2026-11-26 | F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler |
+| 1 | [dotnet/fsharp](https://github.com/dotnet/fsharp) | 4,356 | 886 | 1,364 | MIT | 2026-11-26 | The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio |
+| 2 | [artempyanykh/marksman](https://github.com/artempyanykh/marksman) | 3,405 | 79 | 139 | MIT | 2026-09-14 | Write Markdown with code assist and intelligence in the comfort of your favourite editor. |
+| 3 | [fable-compiler/Fable](https://github.com/fable-compiler/Fable) | 3,171 | 333 | 155 | MIT | 2026-11-26 | F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler |
 | 4 | [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe) | 2,255 | 269 | 49 | Apache-2.0 | 2026-11-23 | A native functional ASP.NET Core web framework for F# developers. |
-| 5 | [darklang/dark](https://github.com/darklang/dark) | 2,183 | 116 | 86 | Apache-2.0 | 2026-11-25 | Darklang main repo, including language, backend, and infra |
+| 5 | [darklang/dark](https://github.com/darklang/dark) | 2,183 | 116 | 84 | Apache-2.0 | 2026-11-26 | Darklang main repo, including language, backend, and infra |
 | 6 | [fsharp/fsharp](https://github.com/fsharp/fsharp) | 2,154 | 309 | 1 | MIT | 2022-11-06 | Please file issues or pull requests here: https://github.com/dotnet/fsharp |
 | 7 | [fsprojects/Paket](https://github.com/fsprojects/Paket) | 2,096 | 528 | 679 | MIT | 2026-11-23 | A dependency manager for .NET with support for NuGet packages and Git repositories. |
-| 8 | [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER) | 1,704 | 84 | 37 | NOASSERTION | 2026-11-26 | THE FIRST DLSS 5 MANAGER |
+| 8 | [NODIX-TECH/DLSS-5-MANAGER](https://github.com/NODIX-TECH/DLSS-5-MANAGER) | 1,707 | 84 | 38 | NOASSERTION | 2026-11-26 | THE FIRST DLSS 5 MANAGER |
 | 9 | [fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) | 1,441 | 104 | 7 | CC0-1.0 | 2026-11-07 | A curated list of awesome F# frameworks, libraries, software and resources. |
 | 10 | [yatli/fvim](https://github.com/yatli/fvim) | 1,404 | 37 | 70 | MIT | 2024-10-17 | Cross platform Neovim front-end UI, built with F# + Avalonia |
-| 11 | [bryanedds/Nu](https://github.com/bryanedds/Nu) | 1,377 | 204 | 156 | NOASSERTION | 2026-11-26 | Repository hosting the functional Nu Game Engine and related projects. |
+| 11 | [bryanedds/Nu](https://github.com/bryanedds/Nu) | 1,377 | 204 | 154 | NOASSERTION | 2026-11-26 | Repository hosting the functional Nu Game Engine and related projects. |
 | 12 | [SuaveIO/suave](https://github.com/SuaveIO/suave) | 1,351 | 200 | 7 | NOASSERTION | 2026-10-15 | Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulat... |
 | 13 | [fsprojects/FAKE](https://github.com/fsprojects/FAKE) | 1,328 | 573 | 61 | NOASSERTION | 2026-11-07 | FAKE - F# Make |
 | 14 | [ChrisMarinos/FSharpKoans](https://github.com/ChrisMarinos/FSharpKoans) | 1,323 | 656 | 14 | NOASSERTION | 2024-02-22 | A simple, fun, and interactive way to learn the F# language through testing. |
@@ -37,13 +37,13 @@ Ranked by stars. GitHub reports **35,665** total repositories matching `language
 | 31 | [SaturnFramework/Saturn](https://github.com/SaturnFramework/Saturn) | 726 | 107 | 55 | MIT | 2024-07-31 | Opinionated, web development framework for F# which implements the server-side, functional MVC pattern |
 | 32 | [fsprojects/FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) | 696 | 146 | 10 | Unlicense | 2025-12-20 | Functional programming and other utilities from the original "fsharpx" project |
 | 33 | [fsprojects/Rezoom.SQL](https://github.com/fsprojects/Rezoom.SQL) | 681 | 23 | 18 | MIT | 2026-06-24 | Statically typechecks a common SQL dialect and translates it to various RDBMS backends |
-| 34 | [falcoframework/Falco](https://github.com/falcoframework/Falco) | 643 | 44 | 5 | Apache-2.0 | 2026-11-18 | A functional-first toolkit for building brilliant ASP.NET Core applications using F#. |
+| 34 | [falcoframework/Falco](https://github.com/falcoframework/Falco) | 643 | 44 | 5 | Apache-2.0 | 2026-11-26 | A functional-first toolkit for building brilliant ASP.NET Core applications using F#. |
 | 35 | [swlaschin/Railway-Oriented-Programming-Example](https://github.com/swlaschin/Railway-Oriented-Programming-Example) | 639 | 69 | 8 | — | 2014-06-02 | This repository contains code that demonstrates the "Railway Oriented Programming" concept for error handling in func... |
-| 36 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | 635 | 54 | 277 | Apache-2.0 | 2026-11-25 | WebSharper - Full-stack, functional, reactive web apps and microservices in F# and C# |
+| 36 | [dotnet-websharper/core](https://github.com/dotnet-websharper/core) | 635 | 54 | 279 | Apache-2.0 | 2026-11-26 | WebSharper - Full-stack, functional, reactive web apps and microservices in F# and C# |
 | 37 | [fsprojects/SQLProvider](https://github.com/fsprojects/SQLProvider) | 626 | 148 | 55 | NOASSERTION | 2026-11-24 | A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD opera... |
 | 38 | [DiffSharp/DiffSharp](https://github.com/DiffSharp/DiffSharp) | 616 | 72 | 35 | BSD-2-Clause | 2026-10-13 | DiffSharp: Differentiable Functional Programming |
 | 39 | [fable-hub/Feliz](https://github.com/fable-hub/Feliz) | 615 | 94 | 2 | MIT | 2026-11-23 | A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F... |
-| 40 | [ScottArbeit/Grace](https://github.com/ScottArbeit/Grace) | 589 | 19 | 61 | MIT | 2026-11-26 | Grace Version Control System |
+| 40 | [ScottArbeit/Grace](https://github.com/ScottArbeit/Grace) | 589 | 19 | 60 | MIT | 2026-11-26 | Grace Version Control System |
 | 41 | [fsharp/fslang-design](https://github.com/fsharp/fslang-design) | 563 | 149 | 49 | — | 2026-11-05 | RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit i... |
 | 42 | [stephan-tolksdorf/fparsec](https://github.com/stephan-tolksdorf/fparsec) | 560 | 46 | 31 | — | 2023-11-13 | A parser combinator library for F# |
 | 43 | [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) | 558 | 68 | 9 | MIT | 2026-11-26 | B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and... |

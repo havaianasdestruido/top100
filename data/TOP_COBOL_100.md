@@ -1,12 +1,12 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,920** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,926** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 735 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
 | 2 | [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) | 1,033 | 49 | 11 | MIT | 2024-08-10 | Micro web-framework for COBOL |
-| 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 728 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
+| 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 729 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
 | 5 | [cloudflare/cobweb](https://github.com/cloudflare/cobweb) | 401 | 16 | 4 | MIT | 2026-04-23 | COBOL to WebAssembly compiler |
 | 6 | [aws-samples/aws-mainframe-modernization-carddemo](https://github.com/aws-samples/aws-mainframe-modernization-carddemo) | 303 | 435 | 106 | Apache-2.0 | 2025-10-16 | A comprehensive COBOL mainframe credit card management application designed to showcase AWS mainframe modernization t... |
@@ -27,16 +27,16 @@ Ranked by stars. GitHub reports **9,920** total repositories matching `language:
 | 21 | [victorqribeiro/perceptronCobol](https://github.com/victorqribeiro/perceptronCobol) | 77 | 7 | 0 | MIT | 2020-09-04 | A perceptron written in COBOL |
 | 22 | [krisds/koopa](https://github.com/krisds/koopa) | 59 | 17 | 2 | NOASSERTION | 2026-10-31 | Koopa (COBOL) Parser Generator |
 | 23 | [navikt/DSF](https://github.com/navikt/DSF) | 57 | 4 | 1 | MIT | 2020-10-05 | Det Sentrale Folketrygdsystemet |
-| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 66 | 98 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
+| 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 66 | 99 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
 | 26 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 42 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
-| 27 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 41 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
-| 28 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
+| 27 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
+| 28 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 40 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
 | 29 | [etalab/taxe-fonciere](https://github.com/etalab/taxe-fonciere) | 40 | 7 | 1 | CECILL-2.1 | 2021-04-17 | Code source des taxes foncières |
 | 30 | [cloudflare/cobol-worker](https://github.com/cloudflare/cobol-worker) | 40 | 10 | 11 | MIT | 2026-04-23 |  |
 | 31 | [IBM/zOS-Client-Web-Enablement-Toolkit](https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit) | 40 | 15 | 5 | Apache-2.0 | 2025-09-17 |  |
-| 32 | [shamrice/COBOL-Examples](https://github.com/shamrice/COBOL-Examples) | 38 | 43 | 0 | MIT | 2024-07-30 | A collection of example COBOL programs I wrote demonstrating different syntaxes and features. |
-| 33 | [skills/modernize-your-legacy-code-with-github-copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) | 38 | 25 | 1 | MIT | 2026-04-15 | Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot. |
+| 32 | [skills/modernize-your-legacy-code-with-github-copilot](https://github.com/skills/modernize-your-legacy-code-with-github-copilot) | 39 | 25 | 1 | MIT | 2026-04-15 | Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot. |
+| 33 | [shamrice/COBOL-Examples](https://github.com/shamrice/COBOL-Examples) | 38 | 43 | 0 | MIT | 2024-07-30 | A collection of example COBOL programs I wrote demonstrating different syntaxes and features. |
 | 34 | [qgevans/WOPO](https://github.com/qgevans/WOPO) | 38 | 5 | 3 | BSD-2-Clause | 2024-02-15 | IRC bot in COBOL-74 |
 | 35 | [ShaunLawrie/TicTacTOBOL](https://github.com/ShaunLawrie/TicTacTOBOL) | 33 | 5 | 0 | MIT | 2023-05-25 | ❎ A basic "game" in COBOL for learning |
 | 36 | [ibm-wsc/zCONNEE-Wildfire-Workshop](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop) | 32 | 18 | 0 | — | 2026-11-17 | Collateral related to the Washington System Center z/OS Connect Wildfire Workshops |
