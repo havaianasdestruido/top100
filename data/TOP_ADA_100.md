@@ -1,15 +1,15 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,650** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,653** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 537 | 66 | 57 | — | 2026-11-25 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
+| 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 538 | 67 | 57 | — | 2026-11-25 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
 | 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 482 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
-| 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 65 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
-| 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 341 | 82 | 52 | NOASSERTION | 2026-11-03 | William Whitaker's WORDS, a Latin dictionary |
-| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-25 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
+| 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 64 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
+| 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 341 | 82 | 51 | NOASSERTION | 2026-11-25 | William Whitaker's WORDS, a Latin dictionary |
+| 6 | [AdaCore/spark2014](https://github.com/AdaCore/spark2014) | 333 | 49 | 11 | GPL-3.0 | 2026-11-26 | SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-... |
 | 7 | [AdaCore/ada_language_server](https://github.com/AdaCore/ada_language_server) | 308 | 70 | 30 | GPL-3.0 | 2026-11-20 | Server implementing the Microsoft Language Protocol for Ada and SPARK |
 | 8 | [AdaDoom3/AdaDoom3](https://github.com/AdaDoom3/AdaDoom3) | 288 | 24 | 8 | — | 2023-03-29 | Id Software's Id-tech-4-BFG in the Ada programming language. |
 | 9 | [AdaCore/Ada_Drivers_Library](https://github.com/AdaCore/Ada_Drivers_Library) | 286 | 166 | 23 | BSD-3-Clause | 2026-08-19 | Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT. |
@@ -21,7 +21,7 @@ Ranked by stars. GitHub reports **10,650** total repositories matching `language
 | 15 | [tofgarion/spark-by-example](https://github.com/tofgarion/spark-by-example) | 168 | 19 | 2 | — | 2022-08-16 | SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is a formally verif... |
 | 16 | [AdaCore/aws](https://github.com/AdaCore/aws) | 165 | 49 | 41 | NOASSERTION | 2026-11-19 | AWS is a complete framework to develop Web based applications in Ada. |
 | 17 | [rod-chapman/SPARKNaCl](https://github.com/rod-chapman/SPARKNaCl) | 141 | 15 | 5 | BSD-3-Clause | 2026-10-21 | SPARK 2014 re-implementation of the TweetNaCl crypto library |
-| 18 | [ada-game-framework/sdlada](https://github.com/ada-game-framework/sdlada) | 135 | 39 | 24 | Zlib | 2026-07-17 | Ada 2022 bindings to SDL 2 |
+| 18 | [ada-game-framework/sdlada](https://github.com/ada-game-framework/sdlada) | 135 | 38 | 24 | Zlib | 2026-07-17 | Ada 2022 bindings to SDL 2 |
 | 19 | [AdaCore/RecordFlux](https://github.com/AdaCore/RecordFlux) | 131 | 10 | 186 | Apache-2.0 | 2026-10-01 | Formal specification and generation of verifiable binary parsers, message generators and protocol state machines |
 | 20 | [joular/powerjoular](https://github.com/joular/powerjoular) | 128 | 24 | 3 | GPL-3.0 | 2026-11-22 | PowerJoular monitors power consumption of multiple platforms, processes and applications, on Windows, Linux,  macOS a... |
 | 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 22 | CC-BY-4.0 | 2026-11-20 | Sources for learn.adacore.com |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **10,650** total repositories matching `language
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-25 | Ada-language framework |
 | 61 | [yaml/AdaYaml](https://github.com/yaml/AdaYaml) | 49 | 10 | 5 | MIT | 2026-03-05 | experimental YAML implementation in Ada |
-| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-25 | GNATcoverage: Coverage Analysis Tool |
+| 62 | [AdaCore/gnatcoverage](https://github.com/AdaCore/gnatcoverage) | 48 | 12 | 5 | — | 2026-11-26 | GNATcoverage: Coverage Analysis Tool |
 | 63 | [onox/json-ada](https://github.com/onox/json-ada) | 48 | 8 | 5 | Apache-2.0 | 2024-07-28 | An Ada 2012 library for parsing JSON |
 | 64 | [jrcarter/Ada_GUI](https://github.com/jrcarter/Ada_GUI) | 47 | 4 | 2 | BSD-3-Clause | 2026-08-31 | An Ada-oriented GUI |
 | 65 | [Nikokrock/ada-lua](https://github.com/Nikokrock/ada-lua) | 46 | 8 | 0 | MIT | 2023-12-11 | An Ada binding for Lua. |

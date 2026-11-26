@@ -1,6 +1,6 @@
 # Top 100 SQL repositories on GitHub
 
-Ranked by stars. GitHub reports **4,929** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **4,928** total repositories matching `language:SQL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@ Ranked by stars. GitHub reports **4,929** total repositories matching `language:
 | 32 | [ritakalach/sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions) | 30 | 9 | 1 | — | 2024-07-22 | SQL practice problems and solutions. |
 | 33 | [fab-geocommuns/RNB](https://github.com/fab-geocommuns/RNB) | 29 | 6 | 7 | Apache-2.0 | 2026-06-03 | Construire le Référentiel National des Bâtiments (RNB) en France |
 | 34 | [shivamgarg444/Cyclistic-Case-Study](https://github.com/shivamgarg444/Cyclistic-Case-Study) | 24 | 3 | 0 | — | 2021-06-10 | Case study under capstone project of Google Data Analytics Certificate |
-| 35 | [nataliapaulino/byte-by-byte](https://github.com/nataliapaulino/byte-by-byte) | 21 | 1 | 0 | — | 2025-06-09 | SQL, C#, and programming exercises for learning and practice. |
+| 35 | [nataliapaulino/byte-by-byte](https://github.com/nataliapaulino/byte-by-byte) | 22 | 1 | 0 | — | 2025-06-09 | SQL, C#, and programming exercises for learning and practice. |
 | 36 | [Alexsandro-01/mysql](https://github.com/Alexsandro-01/mysql) | 20 | 2 | 0 | — | 2022-09-03 |  |
 | 37 | [ndleah/northwind](https://github.com/ndleah/northwind) | 20 | 5 | 0 | — | 2021-11-12 | 💼 SQL, company data analysis |
 | 38 | [ndleah/people-data-analysis](https://github.com/ndleah/people-data-analysis) | 19 | 9 | 0 | — | 2021-09-14 | 👥 Employee analysis #DWD |
