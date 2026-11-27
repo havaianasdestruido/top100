@@ -1,11 +1,11 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,657** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,658** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [AdaCore/gnatstudio](https://github.com/AdaCore/gnatstudio) | 538 | 67 | 57 | — | 2026-11-26 | GNAT Studio is a powerful and lightweight IDE for Ada and SPARK. |
-| 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 482 | 29 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
+| 2 | [tsoding/eepers](https://github.com/tsoding/eepers) | 482 | 30 | 5 | MIT | 2024-05-26 | Simple Turn-based Game |
 | 3 | [pyjarrett/septum](https://github.com/pyjarrett/septum) | 466 | 14 | 9 | Apache-2.0 | 2026-09-26 | Context-based code search tool |
 | 4 | [alire-project/alire](https://github.com/alire-project/alire) | 423 | 64 | 379 | GPL-3.0 | 2026-11-16 | Command-line tool from the Alire project and supporting library |
 | 5 | [mk270/whitakers-words](https://github.com/mk270/whitakers-words) | 341 | 82 | 51 | NOASSERTION | 2026-11-25 | William Whitaker's WORDS, a Latin dictionary |
@@ -16,8 +16,8 @@ Ranked by stars. GitHub reports **10,657** total repositories matching `language
 | 10 | [jrmarino/synth](https://github.com/jrmarino/synth) | 275 | 20 | 14 | ISC | 2026-06-26 | Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools) |
 | 11 | [AdaCore/gnat-llvm](https://github.com/AdaCore/gnat-llvm) | 239 | 33 | 5 | — | 2026-11-24 | LLVM based GNAT compiler |
 | 12 | [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) | 205 | 17 | 0 | — | 2026-11-07 | Repo for GL.iNet MT6000 custom build |
-| 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 7 | MIT | 2026-11-26 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
-| 14 | [AdaCore/libadalang](https://github.com/AdaCore/libadalang) | 173 | 48 | 21 | NOASSERTION | 2026-11-25 | Ada semantic analysis library. |
+| 13 | [zertovitch/hac](https://github.com/zertovitch/hac) | 179 | 21 | 7 | MIT | 2026-11-27 | HAC Ada Compiler - a small, quick Ada compiler fully in Ada |
+| 14 | [AdaCore/libadalang](https://github.com/AdaCore/libadalang) | 173 | 48 | 21 | NOASSERTION | 2026-11-27 | Ada semantic analysis library. |
 | 15 | [tofgarion/spark-by-example](https://github.com/tofgarion/spark-by-example) | 168 | 19 | 2 | — | 2022-08-16 | SPARK by Example is an adaptation of ACSL by Example for SPARK 2014, a programming language which is a formally verif... |
 | 16 | [AdaCore/aws](https://github.com/AdaCore/aws) | 165 | 49 | 41 | NOASSERTION | 2026-11-19 | AWS is a complete framework to develop Web based applications in Ada. |
 | 17 | [rod-chapman/SPARKNaCl](https://github.com/rod-chapman/SPARKNaCl) | 141 | 15 | 5 | BSD-3-Clause | 2026-10-21 | SPARK 2014 re-implementation of the TweetNaCl crypto library |
@@ -56,12 +56,12 @@ Ranked by stars. GitHub reports **10,657** total repositories matching `language
 | 50 | [Fabien-Chouteau/ACNC](https://github.com/Fabien-Chouteau/ACNC) | 65 | 13 | 0 | GPL-3.0 | 2019-06-21 | A G-code parser and CNC controller (in Ada) |
 | 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 1 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
 | 52 | [AdaCore/VSS](https://github.com/AdaCore/VSS) | 61 | 7 | 0 | NOASSERTION | 2025-09-01 | High level string and text processing library |
-| 53 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 59 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
+| 53 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 60 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
 | 54 | [jgrivera67/HiRTOS](https://github.com/jgrivera67/HiRTOS) | 58 | 3 | 5 | Apache-2.0 | 2026-01-29 | HiRTOS: a high-integrity multi-core RTOS kernel and separation kernel written in SPARK Ada |
 | 55 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
-| 56 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 5 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
+| 56 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 6 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
 | 57 | [AdaCore/gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) | 56 | 36 | 14 | NOASSERTION | 2026-11-24 | GNAT Components Collection – Core packages |
-| 58 | [parasail-lang/parasail](https://github.com/parasail-lang/parasail) | 54 | 5 | 2 | Apache-2.0 | 2026-11-20 | Parallel Specification and Implementation Language |
+| 58 | [parasail-lang/parasail](https://github.com/parasail-lang/parasail) | 54 | 5 | 2 | Apache-2.0 | 2026-11-27 | Parallel Specification and Implementation Language |
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |
 | 60 | [gabriele-galeotti/SweetAda](https://github.com/gabriele-galeotti/SweetAda) | 53 | 6 | 0 | NOASSERTION | 2026-11-26 | Ada-language framework |
 | 61 | [yaml/AdaYaml](https://github.com/yaml/AdaYaml) | 49 | 10 | 5 | MIT | 2026-03-05 | experimental YAML implementation in Ada |
@@ -73,7 +73,7 @@ Ranked by stars. GitHub reports **10,657** total repositories matching `language
 | 67 | [reznikmm/protobuf](https://github.com/reznikmm/protobuf) | 45 | 7 | 16 | MIT | 2026-09-21 | The Google Protocol Buffers implementation in Ada |
 | 68 | [dsanson/Words](https://github.com/dsanson/Words) | 45 | 15 | 0 | — | 2011-08-06 | A Latin-English Dictionary Program |
 | 69 | [JeremyGrosser/rp2040_hal](https://github.com/JeremyGrosser/rp2040_hal) | 45 | 16 | 11 | BSD-3-Clause | 2026-11-16 | Ada drivers for the Raspberry Pi RP2040 SoC |
-| 70 | [AdaCore/training_material](https://github.com/AdaCore/training_material) | 45 | 10 | 0 | CC-BY-4.0 | 2026-11-23 |  |
+| 70 | [AdaCore/training_material](https://github.com/AdaCore/training_material) | 45 | 10 | 0 | CC-BY-4.0 | 2026-11-27 |  |
 | 71 | [zslwyuan/PAAS_V1.0](https://github.com/zslwyuan/PAAS_V1.0) | 44 | 15 | 2 | GPL-3.0 | 2021-09-03 | PAAS: A System Level Simulator for Heterogeneous (CPU-FPGA) Computing Systems |
 | 72 | [JeremyGrosser/pico_examples](https://github.com/JeremyGrosser/pico_examples) | 44 | 11 | 3 | — | 2026-11-16 | Ada examples for the Raspberry Pi Pico |
 | 73 | [ytomino/drake](https://github.com/ytomino/drake) | 44 | 10 | 3 | MIT | 2020-05-02 | Drake: A Runtime Library for gcc-Ada |
@@ -85,12 +85,12 @@ Ranked by stars. GitHub reports **10,657** total repositories matching `language
 | 79 | [damaki/libkeccak](https://github.com/damaki/libkeccak) | 40 | 4 | 1 | BSD-3-Clause | 2026-06-14 | SHA-3 and other Keccak related algorithms in SPARK/Ada. |
 | 80 | [pchapin/tutorialada](https://github.com/pchapin/tutorialada) | 40 | 7 | 1 | — | 2025-03-26 | An Ada tutorial |
 | 81 | [edgarsmdn/Aspen_Plus_Python](https://github.com/edgarsmdn/Aspen_Plus_Python) | 40 | 14 | 0 | MIT | 2023-04-14 | An example connection between Aspen Plus and Python |
-| 82 | [SMerrony/dashera](https://github.com/SMerrony/dashera) | 39 | 2 | 1 | MIT | 2026-02-21 | DasherA is a Data General DASHER D200/D210 terminal emulator |
-| 83 | [ajxs/cxos](https://github.com/ajxs/cxos) | 38 | 5 | 0 | — | 2020-12-15 | Operating System development experiment in Ada |
-| 84 | [johnperry-math/AoC2023](https://github.com/johnperry-math/AoC2023) | 38 | 1 | 0 | GPL-3.0 | 2025-10-10 | 2023 Advent of Code in Ada |
-| 85 | [AdaCore/Certyflie](https://github.com/AdaCore/Certyflie) | 38 | 18 | 3 | GPL-3.0 | 2018-09-25 |  |
-| 86 | [zertovitch/zip-ada](https://github.com/zertovitch/zip-ada) | 38 | 8 | 1 | — | 2026-10-25 | Zip-Ada: a standalone, portable pure Ada library for .zip archives. Includes LZMA and BZip2 byte stream encoder & dec... |
-| 87 | [pmderodat/ada-toml](https://github.com/pmderodat/ada-toml) | 38 | 8 | 2 | NOASSERTION | 2026-08-14 | TOML parser for Ada |
+| 82 | [pmderodat/ada-toml](https://github.com/pmderodat/ada-toml) | 39 | 8 | 2 | NOASSERTION | 2026-08-14 | TOML parser for Ada |
+| 83 | [SMerrony/dashera](https://github.com/SMerrony/dashera) | 39 | 2 | 1 | MIT | 2026-02-21 | DasherA is a Data General DASHER D200/D210 terminal emulator |
+| 84 | [ajxs/cxos](https://github.com/ajxs/cxos) | 38 | 5 | 0 | — | 2020-12-15 | Operating System development experiment in Ada |
+| 85 | [johnperry-math/AoC2023](https://github.com/johnperry-math/AoC2023) | 38 | 1 | 0 | GPL-3.0 | 2025-10-10 | 2023 Advent of Code in Ada |
+| 86 | [AdaCore/Certyflie](https://github.com/AdaCore/Certyflie) | 38 | 18 | 3 | GPL-3.0 | 2018-09-25 |  |
+| 87 | [zertovitch/zip-ada](https://github.com/zertovitch/zip-ada) | 38 | 8 | 1 | — | 2026-10-25 | Zip-Ada: a standalone, portable pure Ada library for .zip archives. Includes LZMA and BZip2 byte stream encoder & dec... |
 | 88 | [kqr/qweyboard](https://github.com/kqr/qweyboard) | 38 | 3 | 3 | ISC | 2017-03-11 | [HOLD] Qweyboard aims to be a Velotype/Veyboard like experience on a regular standard computer keyboard. I really lik... |
 | 89 | [Fabien-Chouteau/Wee-Noise-Maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) | 37 | 3 | 0 | GPL-3.0 | 2024-04-25 | Open source pocket synthesizer |
 | 90 | [stcarrez/ada-keystore](https://github.com/stcarrez/ada-keystore) | 37 | 5 | 4 | Apache-2.0 | 2026-11-11 | Ada Keystore - protect your sensitive data with secure storage |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **10,657** total repositories matching `language
 | 97 | [Blunk-electronic/M-1](https://github.com/Blunk-electronic/M-1) | 35 | 4 | 2 | GPL-2.0 | 2025-05-05 | An OpenSource Boundary Scan Test System (JTAG / IEEE1149.x) |
 | 98 | [pmunts/muntsos](https://github.com/pmunts/muntsos) | 34 | 3 | 0 | NOASSERTION | 2026-11-27 | MuntsOS Embedded Linux |
 | 99 | [BrentSeidel/Ada-Lisp](https://github.com/BrentSeidel/Ada-Lisp) | 34 | 2 | 1 | GPL-3.0 | 2025-12-14 | Tiny Lisp Interpreter Written in Ada |
-| 100 | [zertovitch/lea](https://github.com/zertovitch/lea) | 33 | 7 | 1 | MIT | 2026-11-26 | LEA is a Lightweight Editor for Ada |
+| 100 | [zertovitch/lea](https://github.com/zertovitch/lea) | 33 | 7 | 2 | MIT | 2026-11-26 | LEA is a Lightweight Editor for Ada |

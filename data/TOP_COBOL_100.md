@@ -1,10 +1,10 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,930** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,934** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 736 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
+| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 737 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
 | 2 | [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) | 1,033 | 49 | 11 | MIT | 2024-08-10 | Micro web-framework for COBOL |
 | 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 729 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
@@ -17,7 +17,7 @@ Ranked by stars. GitHub reports **9,930** total repositories matching `language:
 | 11 | [lauryndbrown/Cisp](https://github.com/lauryndbrown/Cisp) | 144 | 12 | 3 | MIT | 2017-04-28 | A Common Lisp Interpreter Built in COBOL |
 | 12 | [opensourcecobol/opensourcecobol4j](https://github.com/opensourcecobol/opensourcecobol4j) | 128 | 45 | 142 | GPL-3.0 | 2026-11-17 | A new version of opensourcecobol. Translate COBOL to Java. |
 | 13 | [neopragma/cobol-unit-test](https://github.com/neopragma/cobol-unit-test) | 123 | 35 | 36 | GPL-3.0 | 2021-03-26 | Unit testing framework and sample code for batch Cobol programs. |
-| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 121 | 73 | 55 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
+| 14 | [eclipse-che4z/che-che4z-lsp-for-cobol](https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol) | 121 | 73 | 54 | NOASSERTION | 2026-11-19 | COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks |
 | 15 | [moxon6/cobol-js-emscripten](https://github.com/moxon6/cobol-js-emscripten) | 116 | 5 | 11 | — | 2023-03-04 |  |
 | 16 | [Apress/beg-cobol-for-programmers](https://github.com/Apress/beg-cobol-for-programmers) | 116 | 38 | 0 | NOASSERTION | 2017-03-28 | Source code for 'Beginning COBOL for Programmers' by Michael  Coughlan |
 | 17 | [Martinfx/Cobol](https://github.com/Martinfx/Cobol) | 108 | 37 | 1 | GPL-3.0 | 2019-10-22 | Open library with source code for OpenCobol, GnuCobol AS 400 COBOL, CL, CLP, CLLE, CBLLE |
