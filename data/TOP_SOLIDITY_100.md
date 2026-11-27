@@ -1,28 +1,28 @@
 # Top 100 Solidity repositories on GitHub
 
-Ranked by stars. GitHub reports **302,858** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **302,880** total repositories matching `language:Solidity`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,371 | 12,416 | 339 | MIT | 2026-11-26 | OpenZeppelin Contracts is a library for secure smart contract development. |
+| 1 | [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 27,372 | 12,416 | 339 | MIT | 2026-11-26 | OpenZeppelin Contracts is a library for secure smart contract development. |
 | 2 | [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 14,073 | 2,433 | 27 | NOASSERTION | 2026-11-25 | WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy |
 | 3 | [QuipNetwork/ethereum-sdk](https://github.com/QuipNetwork/ethereum-sdk) | 11,323 | 74 | 4 | AGPL-3.0 | 2026-11-19 |  |
 | 4 | [QuipNetwork/hashsigs-solidity](https://github.com/QuipNetwork/hashsigs-solidity) | 11,196 | 34 | 1 | AGPL-3.0 | 2026-11-19 | Solidity contracts implementing hash based post quantum signatures |
 | 5 | [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 6,854 | 1,491 | 6 | Apache-2.0 | 2026-11-23 | Reproduce DeFi hacked incidents using Foundry. |
-| 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,823 | 1,457 | 30 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
-| 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,295 | 704 | 130 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
-| 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,401 | 502 | 47 | MIT | 2026-11-26 | Optimized Solidity snippets. |
+| 6 | [Dapp-Learning-DAO/Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 5,823 | 1,456 | 30 | MIT | 2026-03-30 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organiz... |
+| 7 | [transmissions11/solmate](https://github.com/transmissions11/solmate) | 4,294 | 704 | 130 | NOASSERTION | 2025-07-21 | Modern, opinionated, and gas optimized building blocks for smart contract development. |
+| 8 | [Vectorized/solady](https://github.com/Vectorized/solady) | 3,400 | 502 | 47 | MIT | 2026-11-26 | Optimized Solidity snippets. |
 | 9 | [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) | 3,325 | 524 | 2 | MIT | 2024-04-19 | A compilation of patterns and best practices for the smart contract programming language Solidity |
 | 10 | [lens-protocol/core](https://github.com/lens-protocol/core) | 2,837 | 878 | 9 | MIT | 2025-09-18 | The Lens Protocol |
-| 11 | [Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash) | 2,721 | 589 | 0 | MIT | 2022-04-10 | Cash system for AIR. |
+| 11 | [Aircoin-official/AirCash](https://github.com/Aircoin-official/AirCash) | 2,720 | 589 | 0 | MIT | 2022-04-10 | Cash system for AIR. |
 | 12 | [Uniswap/v4-core](https://github.com/Uniswap/v4-core) | 2,561 | 1,346 | 77 | — | 2026-10-23 | 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4 |
 | 13 | [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) | 2,489 | 394 | 61 | AGPL-3.0 | 2026-10-22 | Guidelines and training material to write secure smart contracts |
 | 14 | [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) | 2,347 | 787 | 76 | AGPL-3.0 | 2026-11-26 | Web3/Solidity based wargame |
 | 15 | [ProjectOpenSea/seaport](https://github.com/ProjectOpenSea/seaport) | 2,265 | 663 | 2 | MIT | 2026-11-23 | Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs. |
-| 16 | [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) | 2,223 | 362 | 10 | Apache-2.0 | 2023-02-24 | Examples of Solidity security issues |
+| 16 | [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) | 2,222 | 362 | 10 | Apache-2.0 | 2023-02-24 | Examples of Solidity security issues |
 | 17 | [libevm/subway](https://github.com/libevm/subway) | 2,206 | 521 | 6 | MIT | 2023-08-02 | A practical example on how to perform sandwich attacks on Ethereum |
 | 18 | [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) | 2,059 | 598 | 13 | — | 2023-10-15 | The companion to the Youtube tutorials |
-| 19 | [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,988 | 810 | 24 | WTFPL | 2022-12-07 | An arbitrage bot between Uniswap AMMs |
+| 19 | [paco0x/amm-arbitrageur](https://github.com/paco0x/amm-arbitrageur) | 1,988 | 809 | 24 | WTFPL | 2022-12-07 | An arbitrage bot between Uniswap AMMs |
 | 20 | [SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs) | 1,986 | 344 | 2 | — | 2025-04-24 | To learn common smart contract vulnerabilities using Foundry! |
 | 21 | [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | 1,976 | 457 | 6 | GPL-3.0 | 2026-07-08 | The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. |
 | 22 | [LayerZero-Labs/LayerZero-v1](https://github.com/LayerZero-Labs/LayerZero-v1) | 1,950 | 1,240 | 67 | NOASSERTION | 2024-06-18 | An Omnichain Interoperability Protocol |
@@ -50,17 +50,17 @@ Ranked by stars. GitHub reports **302,858** total repositories matching `languag
 | 44 | [bacen/pilotord-kit-onboarding](https://github.com/bacen/pilotord-kit-onboarding) | 953 | 235 | 8 | — | 2025-08-28 | Documentação e arquivos de configuração para participação no Piloto do Real Digital |
 | 45 | [Uniswap/permit2](https://github.com/Uniswap/permit2) | 951 | 310 | 44 | MIT | 2024-08-19 | 🔑🔑🔑 next generation token approvals mechanism |
 | 46 | [spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) | 941 | 187 | 1 | — | 2023-04-26 | I'm sharing everything I'm learning to become a Blockchain Engineer |
-| 47 | [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) | 910 | 672 | 58 | MIT | 2026-11-25 | 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4 |
-| 48 | [sky-ecosystem/multicall](https://github.com/sky-ecosystem/multicall) | 871 | 560 | 22 | MIT | 2023-03-26 | Multicall: Aggregate multiple constant function call results into one |
-| 49 | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | 838 | 458 | 36 | AGPL-3.0 | 2023-10-01 | Dai Stablecoin System |
+| 47 | [Uniswap/v4-periphery](https://github.com/Uniswap/v4-periphery) | 910 | 671 | 58 | MIT | 2026-11-25 | 🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4 |
+| 48 | [sky-ecosystem/multicall](https://github.com/sky-ecosystem/multicall) | 870 | 559 | 22 | MIT | 2023-03-26 | Multicall: Aggregate multiple constant function call results into one |
+| 49 | [sky-ecosystem/dss](https://github.com/sky-ecosystem/dss) | 838 | 457 | 37 | AGPL-3.0 | 2023-10-01 | Dai Stablecoin System |
 | 50 | [HashLips/hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 827 | 643 | 57 | MIT | 2022-10-23 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. |
-| 51 | [luyishisi/shisi.eth-in-web3](https://github.com/luyishisi/shisi.eth-in-web3) | 825 | 335 | 1 | BSD-2-Clause | 2026-02-12 | 十四君公众号文章的相关代码资源开源 |
-| 52 | [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) | 824 | 483 | 20 | Apache-2.0 | 2026-11-25 | Official repository for core projects comprising the Celo platform |
+| 51 | [celo-org/celo-monorepo](https://github.com/celo-org/celo-monorepo) | 824 | 483 | 20 | Apache-2.0 | 2026-11-25 | Official repository for core projects comprising the Celo platform |
+| 52 | [luyishisi/shisi.eth-in-web3](https://github.com/luyishisi/shisi.eth-in-web3) | 824 | 334 | 1 | BSD-2-Clause | 2026-02-12 | 十四君公众号文章的相关代码资源开源 |
 | 53 | [xtblock/xtt](https://github.com/xtblock/xtt) | 819 | 60 | 13 | — | 2022-07-05 | XTblock Token - Smart Contracts |
 | 54 | [PatrickAlphaC/nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 806 | 395 | 14 | MIT | 2024-04-24 |  |
 | 55 | [provable-things/ethereum-api](https://github.com/provable-things/ethereum-api) | 797 | 428 | 18 | MIT | 2024-06-08 | Provable API for Ethereum smart contracts |
 | 56 | [bnb-chain/bsc-genesis-contract](https://github.com/bnb-chain/bsc-genesis-contract) | 781 | 826 | 16 | NOASSERTION | 2026-09-11 | The genesis contracts of BNB Smart Chain. |
-| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 776 | 1,118 | 347 | CC0-1.0 | 2026-11-26 | The Ethereum Request for Comment repository |
+| 57 | [ethereum/ERCs](https://github.com/ethereum/ERCs) | 776 | 1,118 | 344 | CC0-1.0 | 2026-11-27 | The Ethereum Request for Comment repository |
 | 58 | [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) | 761 | 1,483 | 5 | MIT | 2024-07-25 |  |
 | 59 | [runtimeverification/verified-smart-contracts](https://github.com/runtimeverification/verified-smart-contracts) | 750 | 143 | 11 | NOASSERTION | 2022-08-28 | Smart contracts which are formally verified |
 | 60 | [coinbase/build-onchain-apps](https://github.com/coinbase/build-onchain-apps) | 748 | 149 | 37 | MIT | 2025-02-05 | Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️ |
@@ -72,7 +72,7 @@ Ranked by stars. GitHub reports **302,858** total repositories matching `languag
 | 66 | [aragon/aragonOS](https://github.com/aragon/aragonOS) | 679 | 238 | 65 | GPL-3.0 | 2023-03-08 | (Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols |
 | 67 | [Giveth/minime](https://github.com/Giveth/minime) | 675 | 286 | 37 | GPL-3.0 | 2024-06-05 | Minimi Token. ERC20 compatible clonable token |
 | 68 | [WTFAcademy/WTF-Dapp](https://github.com/WTFAcademy/WTF-Dapp) | 665 | 133 | 7 | MIT | 2026-11-24 | ⭐ Minimal tutorials to build Dapps \| DEX Development Tutorial \| Uniswap 代码解析 \| 去中心化交易所实战全栈教程 WTFSwap \| DApp 智能合约和... |
-| 69 | [Cyfrin/sc-exploits-minimized](https://github.com/Cyfrin/sc-exploits-minimized) | 661 | 172 | 0 | — | 2026-06-22 | A repo to showcase web3 hacks |
+| 69 | [Cyfrin/sc-exploits-minimized](https://github.com/Cyfrin/sc-exploits-minimized) | 662 | 172 | 0 | — | 2026-06-22 | A repo to showcase web3 hacks |
 | 70 | [safemoonprotocol/Safemoon.sol](https://github.com/safemoonprotocol/Safemoon.sol) | 656 | 849 | 100 | — | 2022-05-27 | safemoon contract |
 | 71 | [0xacme/ERC404](https://github.com/0xacme/ERC404) | 655 | 200 | 13 | — | 2024-02-19 |  |
 | 72 | [Cyfrin/foundry-devops](https://github.com/Cyfrin/foundry-devops) | 654 | 84 | 1 | MIT | 2025-06-13 |  |
@@ -85,7 +85,7 @@ Ranked by stars. GitHub reports **302,858** total repositories matching `languag
 | 79 | [andrecronje/rarity](https://github.com/andrecronje/rarity) | 598 | 123 | 48 | NOASSERTION | 2022-05-19 | d20srd reference implementation codified in solidity |
 | 80 | [argentlabs/argent-contracts](https://github.com/argentlabs/argent-contracts) | 598 | 218 | 21 | GPL-3.0 | 2024-07-29 | Smart Contracts for Argent Wallet |
 | 81 | [aave/flashloan-box](https://github.com/aave/flashloan-box) | 589 | 231 | 25 | AGPL-3.0 | 2023-01-24 | A box containing all you need to get started with developing  Aave v1 flash loans |
-| 82 | [solidquant/mev-templates](https://github.com/solidquant/mev-templates) | 586 | 169 | 3 | — | 2023-11-08 | MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage |
+| 82 | [solidquant/mev-templates](https://github.com/solidquant/mev-templates) | 587 | 169 | 3 | — | 2023-11-08 | MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage |
 | 83 | [HashLips/solidity_smart_contracts](https://github.com/HashLips/solidity_smart_contracts) | 584 | 471 | 37 | MIT | 2022-02-05 | A list of smart contracts coded in solidity |
 | 84 | [ethereum-optimism/cannon](https://github.com/ethereum-optimism/cannon) | 582 | 135 | 5 | MIT | 2023-08-03 | On chain interactive fault prover for Ethereum |
 | 85 | [pcaversaccio/createx](https://github.com/pcaversaccio/createx) | 578 | 85 | 0 | AGPL-3.0 | 2026-11-24 | Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE... |

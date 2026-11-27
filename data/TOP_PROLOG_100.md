@@ -1,10 +1,10 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,673** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,677** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,493 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,494 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,515 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,005 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
@@ -20,7 +20,7 @@ Ranked by stars. GitHub reports **40,673** total repositories matching `language
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
 | 16 | [dragonwasrobot/learn-prolog-now-exercises](https://github.com/dragonwasrobot/learn-prolog-now-exercises) | 293 | 84 | 10 | — | 2023-07-11 | My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos,... |
-| 17 | [c-cube/datalog](https://github.com/c-cube/datalog) | 285 | 27 | 2 | BSD-2-Clause | 2026-11-02 | An in-memory datalog implementation for OCaml. |
+| 17 | [c-cube/datalog](https://github.com/c-cube/datalog) | 286 | 27 | 2 | BSD-2-Clause | 2026-11-02 | An in-memory datalog implementation for OCaml. |
 | 18 | [andrealani/COOLFluiD](https://github.com/andrealani/COOLFluiD) | 270 | 86 | 12 | LGPL-3.0 | 2026-11-20 | The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at t... |
 | 19 | [SuperDisk/tar.pl](https://github.com/SuperDisk/tar.pl) | 263 | 7 | 0 | — | 2023-01-22 | tar creator+extractor in ~100 lines of prolog |
 | 20 | [pebri86/esplay_micro_hardware](https://github.com/pebri86/esplay_micro_hardware) | 262 | 54 | 1 | — | 2019-11-26 | Micro version of esplay hardware, ESP32 based gaming console |
