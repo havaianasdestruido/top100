@@ -1,6 +1,6 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,664** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,665** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Ranked by stars. GitHub reports **10,664** total repositories matching `language
 | 18 | [ada-game-framework/sdlada](https://github.com/ada-game-framework/sdlada) | 135 | 38 | 24 | Zlib | 2026-07-17 | Ada 2022 bindings to SDL 2 |
 | 19 | [AdaCore/RecordFlux](https://github.com/AdaCore/RecordFlux) | 131 | 10 | 186 | Apache-2.0 | 2026-10-01 | Formal specification and generation of verifiable binary parsers, message generators and protocol state machines |
 | 20 | [joular/powerjoular](https://github.com/joular/powerjoular) | 128 | 24 | 3 | GPL-3.0 | 2026-11-22 | PowerJoular monitors power consumption of multiple platforms, processes and applications, on Windows, Linux,  macOS a... |
-| 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 22 | CC-BY-4.0 | 2026-11-20 | Sources for learn.adacore.com |
+| 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 23 | CC-BY-4.0 | 2026-11-28 | Sources for learn.adacore.com |
 | 22 | [Lucretia/tamp](https://github.com/Lucretia/tamp) | 116 | 16 | 0 | — | 2015-05-13 | The Ada Microkernel Project |
 | 23 | [stcarrez/ada-awa](https://github.com/stcarrez/ada-awa) | 114 | 13 | 13 | Apache-2.0 | 2026-11-15 | Ada Web Application - Framework to build high performance secure web applications |
 | 24 | [AdaCore/gtkada](https://github.com/AdaCore/gtkada) | 112 | 22 | 34 | NOASSERTION | 2026-11-25 | Ada bindings for the GTK+ graphical library. |
@@ -56,7 +56,7 @@ Ranked by stars. GitHub reports **10,664** total repositories matching `language
 | 50 | [Fabien-Chouteau/ACNC](https://github.com/Fabien-Chouteau/ACNC) | 65 | 13 | 0 | GPL-3.0 | 2019-06-21 | A G-code parser and CNC controller (in Ada) |
 | 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 4 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
 | 52 | [AdaCore/VSS](https://github.com/AdaCore/VSS) | 61 | 7 | 0 | NOASSERTION | 2025-09-01 | High level string and text processing library |
-| 53 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 60 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
+| 53 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 61 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
 | 54 | [jgrivera67/HiRTOS](https://github.com/jgrivera67/HiRTOS) | 58 | 3 | 5 | Apache-2.0 | 2026-01-29 | HiRTOS: a high-integrity multi-core RTOS kernel and separation kernel written in SPARK Ada |
 | 55 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
 | 56 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 6 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
@@ -101,6 +101,6 @@ Ranked by stars. GitHub reports **10,664** total repositories matching `language
 | 95 | [jrmarino/AdaBase](https://github.com/jrmarino/AdaBase) | 35 | 4 | 5 | ISC | 2022-10-16 | Thick database bindings to MySQL, PostgreSQL and SQLite for Ada |
 | 96 | [AdaCore/ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) | 35 | 14 | 1 | NOASSERTION | 2024-11-05 | Generic Ada Library for Algorithms and Containers |
 | 97 | [Blunk-electronic/M-1](https://github.com/Blunk-electronic/M-1) | 35 | 4 | 2 | GPL-2.0 | 2025-05-05 | An OpenSource Boundary Scan Test System (JTAG / IEEE1149.x) |
-| 98 | [pmunts/muntsos](https://github.com/pmunts/muntsos) | 34 | 3 | 0 | NOASSERTION | 2026-11-27 | MuntsOS Embedded Linux |
+| 98 | [pmunts/muntsos](https://github.com/pmunts/muntsos) | 34 | 3 | 0 | NOASSERTION | 2026-11-28 | MuntsOS Embedded Linux |
 | 99 | [BrentSeidel/Ada-Lisp](https://github.com/BrentSeidel/Ada-Lisp) | 34 | 2 | 1 | GPL-3.0 | 2025-12-14 | Tiny Lisp Interpreter Written in Ada |
 | 100 | [zertovitch/lea](https://github.com/zertovitch/lea) | 33 | 7 | 2 | MIT | 2026-11-26 | LEA is a Lightweight Editor for Ada |

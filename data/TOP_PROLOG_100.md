@@ -1,13 +1,13 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,694** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,706** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,495 | 158 | 6 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,495 | 158 | 11 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
 | 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,514 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
-| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,006 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
+| 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,008 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,030 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
 | 6 | [Anniepoo/prolog-examples](https://github.com/Anniepoo/prolog-examples) | 625 | 177 | 5 | — | 2022-11-04 | Some simple examples for new Prolog programmers |
 | 7 | [ccurtsinger/stabilizer](https://github.com/ccurtsinger/stabilizer) | 591 | 49 | 8 | Apache-2.0 | 2021-09-29 | Stabilizer: Rigorous Performance Evaluation |

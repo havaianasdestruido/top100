@@ -1,10 +1,10 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,150** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,159** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,387 | 1,038 | 153 | Apache-2.0 | 2026-11-26 | Chez Scheme |
+| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,388 | 1,038 | 153 | Apache-2.0 | 2026-11-26 | Chez Scheme |
 | 2 | [opencog/opencog](https://github.com/opencog/opencog) | 2,485 | 738 | 47 | NOASSERTION | 2025-08-26 | A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) |
 | 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,725 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
 | 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,662 | 167 | 12 | — | 2026-11-23 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
@@ -32,12 +32,12 @@ Ranked by stars. GitHub reports **22,150** total repositories matching `language
 | 26 | [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) | 471 | 151 | 27 | GPL-3.0 | 2024-04-21 | Debian customizations from Chris Titus Tech |
 | 27 | [bintracker/bintracker](https://github.com/bintracker/bintracker) | 444 | 10 | 4 | MIT | 2025-05-25 | A hackable Chiptune Audio Workstation. https://bintracker.org |
 | 28 | [the-little-prover/j-bob](https://github.com/the-little-prover/j-bob) | 437 | 69 | 5 | BSD-2-Clause | 2024-02-08 |  |
-| 29 | [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) | 435 | 19 | 6 | Apache-2.0 | 2026-11-25 | Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS... |
+| 29 | [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) | 436 | 19 | 6 | Apache-2.0 | 2026-11-25 | Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS... |
 | 30 | [scheme/scsh](https://github.com/scheme/scsh) | 431 | 47 | 17 | NOASSERTION | 2024-03-10 | A Unix shell embedded in scheme |
 | 31 | [picrin-scheme/picrin](https://github.com/picrin-scheme/picrin) | 422 | 36 | 0 | MIT | 2024-03-26 | lightweight scheme interpreter |
 | 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 416 | 45 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
-| 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 410 | 33 | 34 | EPL-2.0 | 2026-11-28 | A Clojure compiler implemented on top of Chez Scheme |
+| 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 413 | 33 | 36 | EPL-2.0 | 2026-11-28 | A Clojure compiler implemented on top of Chez Scheme |
 | 35 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
 | 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 507 | Apache-2.0 | 2026-11-27 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
@@ -60,9 +60,9 @@ Ranked by stars. GitHub reports **22,150** total repositories matching `language
 | 54 | [appleby/Lisp-In-Small-Pieces](https://github.com/appleby/Lisp-In-Small-Pieces) | 260 | 31 | 0 | — | 2020-10-09 | Programs from the book Lisp in Small Pieces, updated to work on modern schemes |
 | 55 | [siraben/zkeme80](https://github.com/siraben/zkeme80) | 259 | 6 | 5 | MIT | 2026-09-19 | An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly. |
 | 56 | [qiao/sicp-solutions](https://github.com/qiao/sicp-solutions) | 247 | 47 | 6 | — | 2020-05-13 | My solutions to Structure and Interpretation of Computer Programs |
-| 57 | [microbit-foundation/microbit-reference-design](https://github.com/microbit-foundation/microbit-reference-design) | 244 | 82 | 10 | — | 2021-03-29 | micro:bit Reference Design |
+| 57 | [microbit-foundation/microbit-reference-design](https://github.com/microbit-foundation/microbit-reference-design) | 245 | 82 | 10 | — | 2021-03-29 | micro:bit Reference Design |
 | 58 | [lokke-org/lokke](https://github.com/lokke-org/lokke) | 220 | 12 | 8 | NOASSERTION | 2024-03-18 | Lokke: Clojure for Guile |
-| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 214 | 35 | 108 | NOASSERTION | 2026-11-27 | Larceny Scheme implementation |
+| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 214 | 35 | 107 | NOASSERTION | 2026-11-28 | Larceny Scheme implementation |
 | 60 | [samrushing/irken-compiler](https://github.com/samrushing/irken-compiler) | 212 | 15 | 14 | BSD-2-Clause | 2026-11-25 | Irken is a statically typed variant of Scheme.  Or a lisp-like variant of ML. |
 | 61 | [opencog/learn](https://github.com/opencog/learn) | 205 | 43 | 2 | NOASSERTION | 2026-11-26 | Neuro-symbolic interpretation learning (mostly just language-learning, for now) |
 | 62 | [gwatt/chez-exe](https://github.com/gwatt/chez-exe) | 201 | 46 | 4 | NOASSERTION | 2024-08-09 | Chez Scheme self hosting executable |
@@ -73,7 +73,7 @@ Ranked by stars. GitHub reports **22,150** total repositories matching `language
 | 67 | [felipap/sicp-code](https://github.com/felipap/sicp-code) | 194 | 21 | 0 | MIT | 2019-04-25 | Digitized code from MIT's 1986 SICP video lectures. |
 | 68 | [evilbinary/duck-editor](https://github.com/evilbinary/duck-editor) | 193 | 15 | 0 | GPL-2.0 | 2020-06-07 | 基于scheme开发的鸭子编辑器 |
 | 69 | [dustmop/co2](https://github.com/dustmop/co2) | 184 | 6 | 2 | — | 2020-08-10 | Lispy language for creating NES / Famicom software |
-| 70 | [manuel-serrano/bigloo](https://github.com/manuel-serrano/bigloo) | 177 | 27 | 8 | NOASSERTION | 2026-11-25 | a practical Scheme compiler |
+| 70 | [manuel-serrano/bigloo](https://github.com/manuel-serrano/bigloo) | 177 | 27 | 8 | NOASSERTION | 2026-11-28 | a practical Scheme compiler |
 | 71 | [guenchi/Igropyr](https://github.com/guenchi/Igropyr) | 175 | 21 | 0 | Apache-2.0 | 2026-10-22 | A distributed, fault-tolerant, high-concurrency backend framework with continuation-based web programming and a remot... |
 | 72 | [fgalassi/cs61a-sp11](https://github.com/fgalassi/cs61a-sp11) | 171 | 40 | 1 | — | 2020-06-21 | course cs61a at berkeley, spring 2011 |
 | 73 | [michaelballantyne/faster-minikanren](https://github.com/michaelballantyne/faster-minikanren) | 171 | 43 | 3 | MIT | 2026-07-11 | A fast implementation of miniKanren with disequality and absento, compatible with Racket, Chez, and Guile. |

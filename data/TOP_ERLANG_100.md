@@ -4,11 +4,11 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,958 | 2,583 | 295 | NOASSERTION | 2026-11-27 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,960 | 2,583 | 295 | NOASSERTION | 2026-11-27 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
 | 2 | [erlang/otp](https://github.com/erlang/otp) | 12,367 | 3,219 | 758 | Apache-2.0 | 2026-11-27 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,525 | 1,176 | 62 | ISC | 2026-11-27 | Small, fast, modern HTTP server for Erlang/OTP. |
-| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,020 | 1,093 | 372 | Apache-2.0 | 2026-11-27 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
-| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,756 | 1,553 | 230 | NOASSERTION | 2026-11-27 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
+| 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,021 | 1,092 | 372 | Apache-2.0 | 2026-11-27 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
+| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,757 | 1,553 | 230 | NOASSERTION | 2026-11-27 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
 | 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,875 | 968 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,116 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
 | 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,662 | 438 | 191 | Apache-2.0 | 2026-11-27 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
@@ -78,7 +78,7 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 | 72 | [wooga/eredis](https://github.com/wooga/eredis) | 629 | 277 | 28 | MIT | 2023-03-27 | Erlang Redis client |
 | 73 | [josefs/Gradualizer](https://github.com/josefs/Gradualizer) | 618 | 35 | 104 | MIT | 2026-03-24 | A Gradual type system for Erlang |
 | 74 | [saleyn/erlexec](https://github.com/saleyn/erlexec) | 618 | 157 | 0 | NOASSERTION | 2026-11-24 | Execute and control OS processes from Erlang/OTP |
-| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 607 | 47 | 6 | Apache-2.0 | 2026-11-23 | An Erlang implementation of RAFT from WhatsApp |
+| 75 | [WhatsApp/waraft](https://github.com/WhatsApp/waraft) | 607 | 48 | 6 | Apache-2.0 | 2026-11-23 | An Erlang implementation of RAFT from WhatsApp |
 | 76 | [helium/miner](https://github.com/helium/miner) | 606 | 249 | 149 | Apache-2.0 | 2023-05-20 | Miner for the helium blockchain |
 | 77 | [boundary/flake](https://github.com/boundary/flake) | 585 | 69 | 8 | — | 2018-07-09 | A decentralized, k-ordered id generation service in Erlang |
 | 78 | [boundary/folsom](https://github.com/boundary/folsom) | 583 | 159 | 14 | Apache-2.0 | 2018-11-07 | Expose Erlang Events and Metrics |
@@ -99,8 +99,8 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 | 93 | [ferd/erlang-history](https://github.com/ferd/erlang-history) | 493 | 30 | 3 | — | 2018-03-02 | Hacks to add shell history to Erlang's shell |
 | 94 | [joxa/joxa](https://github.com/joxa/joxa) | 472 | 48 | 13 | Apache-2.0 | 2020-01-08 | A Modern Lisp for the Erlang VM |
 | 95 | [mojombo/ernie](https://github.com/mojombo/ernie) | 471 | 51 | 9 | MIT | 2011-12-07 | Ernie is an Erlang/Ruby BERT-RPC Server. |
-| 96 | [zack-bitcoin/amoveo](https://github.com/zack-bitcoin/amoveo) | 469 | 104 | 7 | NOASSERTION | 2026-08-22 | A blockchain for trust-free markets in financial derivatives |
-| 97 | [WhatsApp/erlfmt](https://github.com/WhatsApp/erlfmt) | 468 | 69 | 24 | Apache-2.0 | 2026-11-18 | An automated code formatter for Erlang |
+| 96 | [zack-bitcoin/amoveo](https://github.com/zack-bitcoin/amoveo) | 469 | 103 | 7 | NOASSERTION | 2026-08-22 | A blockchain for trust-free markets in financial derivatives |
+| 97 | [WhatsApp/erlfmt](https://github.com/WhatsApp/erlfmt) | 468 | 70 | 24 | Apache-2.0 | 2026-11-18 | An automated code formatter for Erlang |
 | 98 | [erlware/Erlang-and-OTP-in-Action-Source](https://github.com/erlware/Erlang-and-OTP-in-Action-Source) | 450 | 186 | 6 | MIT | 2016-05-19 | The official "Erlang and OTP in Action" source code - see the README below for more details |
 | 99 | [epgsql/epgsql](https://github.com/epgsql/epgsql) | 448 | 166 | 47 | BSD-3-Clause | 2026-08-16 | Erlang PostgreSQL client library. |
 | 100 | [emqx/emqtt](https://github.com/emqx/emqtt) | 444 | 177 | 37 | Apache-2.0 | 2026-11-23 | Erlang MQTT 5.0 Client |
