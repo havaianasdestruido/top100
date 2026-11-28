@@ -1,16 +1,16 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,159** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,161** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,388 | 1,038 | 153 | Apache-2.0 | 2026-11-26 | Chez Scheme |
+| 1 | [cisco/ChezScheme](https://github.com/cisco/ChezScheme) | 7,388 | 1,037 | 153 | Apache-2.0 | 2026-11-26 | Chez Scheme |
 | 2 | [opencog/opencog](https://github.com/opencog/opencog) | 2,485 | 738 | 47 | NOASSERTION | 2025-08-26 | A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) |
-| 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,725 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
+| 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,726 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
 | 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,662 | 167 | 12 | — | 2026-11-23 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
-| 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,445 | 207 | 295 | — | 2026-11-26 | Gambit is an efficient implementation of the Scheme programming language. |
+| 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,444 | 207 | 295 | — | 2026-11-26 | Gambit is an efficient implementation of the Scheme programming language. |
 | 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 72 | NOASSERTION | 2026-11-27 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
-| 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,412 | 167 | 98 | NOASSERTION | 2026-11-27 | Official chibi-scheme repository |
+| 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,413 | 167 | 98 | NOASSERTION | 2026-11-27 | Official chibi-scheme repository |
 | 8 | [google/schism](https://github.com/google/schism) | 1,276 | 65 | 24 | Apache-2.0 | 2021-08-30 | A self-hosting Scheme to WebAssembly compiler |
 | 9 | [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) | 1,268 | 120 | 170 | LGPL-2.1 | 2026-07-22 | Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io |
 | 10 | [jiacai2050/sicp](https://github.com/jiacai2050/sicp) | 1,235 | 179 | 13 | — | 2020-01-03 | 📖 SICP 读书笔记，习题解答 |
@@ -19,7 +19,7 @@ Ranked by stars. GitHub reports **22,159** total repositories matching `language
 | 13 | [webyrd/Barliman](https://github.com/webyrd/Barliman) | 1,086 | 31 | 4 | MIT | 2026-08-16 | Prototype smart text editor |
 | 14 | [namin/inc](https://github.com/namin/inc) | 978 | 116 | 1 | MIT | 2019-10-09 | an incremental approach to compiler construction |
 | 15 | [shirok/Gauche](https://github.com/shirok/Gauche) | 912 | 91 | 183 | NOASSERTION | 2026-11-26 | Scheme Scripting Engine |
-| 16 | [justinethier/cyclone](https://github.com/justinethier/cyclone) | 886 | 49 | 82 | MIT | 2026-03-13 | :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme. We provide modern fea... |
+| 16 | [justinethier/cyclone](https://github.com/justinethier/cyclone) | 886 | 49 | 83 | MIT | 2026-03-13 | :cyclone: A brand-new compiler that allows practical application development using R7RS Scheme. We provide modern fea... |
 | 17 | [huangzworks/SICP-answers](https://github.com/huangzworks/SICP-answers) | 877 | 182 | 55 | — | 2022-04-01 | 我的 SICP 解题集 |
 | 18 | [Phantas0s/.dotfiles](https://github.com/Phantas0s/.dotfiles) | 738 | 75 | 1 | — | 2026-10-16 | :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ... |
 | 19 | [pkrumins/the-little-schemer](https://github.com/pkrumins/the-little-schemer) | 685 | 138 | 4 | — | 2016-07-24 | All the Scheme code examples from the book "The Little Schemer" |
@@ -35,15 +35,15 @@ Ranked by stars. GitHub reports **22,159** total repositories matching `language
 | 29 | [objecthub/swift-lispkit](https://github.com/objecthub/swift-lispkit) | 436 | 19 | 6 | Apache-2.0 | 2026-11-25 | Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS... |
 | 30 | [scheme/scsh](https://github.com/scheme/scsh) | 431 | 47 | 17 | NOASSERTION | 2024-03-10 | A Unix shell embedded in scheme |
 | 31 | [picrin-scheme/picrin](https://github.com/picrin-scheme/picrin) | 422 | 36 | 0 | MIT | 2024-03-26 | lightweight scheme interpreter |
-| 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
-| 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 416 | 45 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
-| 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 413 | 33 | 36 | EPL-2.0 | 2026-11-28 | A Clojure compiler implemented on top of Chez Scheme |
+| 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 421 | 79 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
+| 33 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 417 | 33 | 20 | EPL-2.0 | 2026-11-28 | A Clojure compiler implemented on top of Chez Scheme |
+| 34 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 416 | 45 | 26 | NOASSERTION | 2026-01-15 | IronScheme |
 | 35 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
 | 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 507 | Apache-2.0 | 2026-11-27 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |
 | 38 | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c) | 370 | 42 | 0 | MIT | 2021-05-01 | A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013) |
 | 39 | [chenyukang/eopl](https://github.com/chenyukang/eopl) | 364 | 66 | 3 | — | 2018-11-06 | my solutions to EOPL3 |
-| 40 | [cosmos72/schemesh](https://github.com/cosmos72/schemesh) | 353 | 19 | 17 | GPL-2.0 | 2026-11-26 | A Unix shell and Lisp REPL, fused together |
+| 40 | [cosmos72/schemesh](https://github.com/cosmos72/schemesh) | 354 | 19 | 16 | GPL-2.0 | 2026-11-28 | A Unix shell and Lisp REPL, fused together |
 | 41 | [wingo/fibers](https://github.com/wingo/fibers) | 352 | 39 | 36 | LGPL-3.0 | 2025-07-18 | Concurrent ML-like concurrency for Guile |
 | 42 | [mochilang/mochi](https://github.com/mochilang/mochi) | 340 | 13 | 155 | MIT | 2026-06-01 | Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syn... |
 | 43 | [akeep/nanopass-framework](https://github.com/akeep/nanopass-framework) | 324 | 41 | 0 | MIT | 2021-05-01 | The new nanopass framework; an embedded DSL for writing compilers in Scheme |
@@ -62,7 +62,7 @@ Ranked by stars. GitHub reports **22,159** total repositories matching `language
 | 56 | [qiao/sicp-solutions](https://github.com/qiao/sicp-solutions) | 247 | 47 | 6 | — | 2020-05-13 | My solutions to Structure and Interpretation of Computer Programs |
 | 57 | [microbit-foundation/microbit-reference-design](https://github.com/microbit-foundation/microbit-reference-design) | 245 | 82 | 10 | — | 2021-03-29 | micro:bit Reference Design |
 | 58 | [lokke-org/lokke](https://github.com/lokke-org/lokke) | 220 | 12 | 8 | NOASSERTION | 2024-03-18 | Lokke: Clojure for Guile |
-| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 214 | 35 | 107 | NOASSERTION | 2026-11-28 | Larceny Scheme implementation |
+| 59 | [larcenists/larceny](https://github.com/larcenists/larceny) | 215 | 35 | 107 | NOASSERTION | 2026-11-28 | Larceny Scheme implementation |
 | 60 | [samrushing/irken-compiler](https://github.com/samrushing/irken-compiler) | 212 | 15 | 14 | BSD-2-Clause | 2026-11-25 | Irken is a statically typed variant of Scheme.  Or a lisp-like variant of ML. |
 | 61 | [opencog/learn](https://github.com/opencog/learn) | 205 | 43 | 2 | NOASSERTION | 2026-11-26 | Neuro-symbolic interpretation learning (mostly just language-learning, for now) |
 | 62 | [gwatt/chez-exe](https://github.com/gwatt/chez-exe) | 201 | 46 | 4 | NOASSERTION | 2024-08-09 | Chez Scheme self hosting executable |
@@ -88,7 +88,7 @@ Ranked by stars. GitHub reports **22,159** total repositories matching `language
 | 82 | [strint/sicpAns](https://github.com/strint/sicpAns) | 165 | 45 | 13 | — | 2018-03-08 | 《计算机程序的构造和解释》编程题解 |
 | 83 | [manuel-serrano/hop](https://github.com/manuel-serrano/hop) | 165 | 21 | 15 | NOASSERTION | 2026-11-18 | Multitier JavaScript |
 | 84 | [becls/swish](https://github.com/becls/swish) | 161 | 28 | 0 | MIT | 2026-11-05 | Swish Concurrency Engine |
-| 85 | [ebeem/guile-swayer](https://github.com/ebeem/guile-swayer) | 152 | 9 | 3 | MIT | 2026-03-01 | Extensible Guile bindings for SwayWM |
+| 85 | [ebeem/guile-swayer](https://github.com/ebeem/guile-swayer) | 151 | 9 | 3 | MIT | 2026-03-01 | Extensible Guile bindings for SwayWM |
 | 86 | [abrantesasf/sicp-abrantes-study-guide](https://github.com/abrantesasf/sicp-abrantes-study-guide) | 144 | 20 | 0 | MIT | 2020-05-04 | My study guide for SICP |
 | 87 | [ijp/pfds](https://github.com/ijp/pfds) | 140 | 14 | 7 | NOASSERTION | 2019-05-03 | functional data structures for scheme |
 | 88 | [TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd) | 140 | 24 | 2 | MIT | 2018-06-21 | Code from Chapter 10 & Appendix A, implementation, and Chapters 7 & 8, arithmetic |

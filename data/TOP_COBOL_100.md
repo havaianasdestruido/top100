@@ -1,10 +1,10 @@
 # Top 100 COBOL repositories on GitHub
 
-Ranked by stars. GitHub reports **9,913** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **9,914** total repositories matching `language:COBOL`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,673 | 737 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
+| 1 | [openmainframeproject/cobol-programming-course](https://github.com/openmainframeproject/cobol-programming-course) | 3,674 | 737 | 26 | CC-BY-4.0 | 2026-10-15 | Training materials and labs for a "Getting Started" level course on COBOL |
 | 2 | [azac/cobol-on-wheelchair](https://github.com/azac/cobol-on-wheelchair) | 1,033 | 49 | 11 | MIT | 2024-08-10 | Micro web-framework for COBOL |
 | 3 | [IonicaBizau/node-cobol](https://github.com/IonicaBizau/node-cobol) | 729 | 88 | 1 | MIT | 2025-02-13 | :tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS. |
 | 4 | [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) | 706 | 64 | 21 | MIT | 2026-06-28 | A Minecraft server written in COBOL |
@@ -30,7 +30,7 @@ Ranked by stars. GitHub reports **9,913** total repositories matching `language:
 | 24 | [IBM/Bank-of-Z](https://github.com/IBM/Bank-of-Z) | 46 | 66 | 99 | Apache-2.0 | 2026-11-25 | Sample Z application showing how to work with mainframe software. |
 | 25 | [continuous-copilot/modernize-legacy-cobol-app](https://github.com/continuous-copilot/modernize-legacy-cobol-app) | 45 | 78 | 0 | MIT | 2025-02-22 | This is a repository to modernizing a legacy software project written in Cobol using GitHub Copilot |
 | 26 | [cicsdev/cics-genapp](https://github.com/cicsdev/cics-genapp) | 42 | 73 | 4 | EPL-2.0 | 2026-07-10 | Sample General Insurance Application (GenApp) for CICS® TS |
-| 27 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 8 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
+| 27 | [moshix/BRICKS_TS](https://github.com/moshix/BRICKS_TS) | 41 | 7 | 0 | NOASSERTION | 2026-11-02 | A CICS compatible transaction server |
 | 28 | [infinityabundance/gnucobol-rs](https://github.com/infinityabundance/gnucobol-rs) | 40 | 2 | 3 | LGPL-3.0 | 2026-08-13 | faithful native rust forensic implementation of gnucobol |
 | 29 | [etalab/taxe-fonciere](https://github.com/etalab/taxe-fonciere) | 40 | 7 | 1 | CECILL-2.1 | 2021-04-17 | Code source des taxes foncières |
 | 30 | [cloudflare/cobol-worker](https://github.com/cloudflare/cobol-worker) | 40 | 10 | 11 | MIT | 2026-04-23 |  |
@@ -102,5 +102,5 @@ Ranked by stars. GitHub reports **9,913** total repositories matching `language:
 | 96 | [cchipman21804/EnterpriseCOBOLv6.3](https://github.com/cchipman21804/EnterpriseCOBOLv6.3) | 11 | 1 | 0 | — | 2023-07-17 | various utilities written in Enterprise COBOL v6.3 for z/OS & Unix |
 | 97 | [DieGit0/Bank-Account](https://github.com/DieGit0/Bank-Account) | 11 | 1 | 0 | — | 2024-06-30 | A small program in COBOL for a Bank Account |
 | 98 | [Armin-AF/COBOL_Tutorial](https://github.com/Armin-AF/COBOL_Tutorial) | 11 | 0 | 0 | — | 2023-08-26 | COBOL_Tutorial is a beginner-friendly GitHub repo that provides a cheatsheet-style tutorial on COBOL programming lang... |
-| 99 | [debinix/openjensen](https://github.com/debinix/openjensen) | 11 | 5 | 0 | GPL-3.0 | 2019-11-28 | Open Cobol (GnuCobol), Ocesql and CGI Project |
+| 99 | [debinix/openjensen](https://github.com/debinix/openjensen) | 11 | 5 | 1 | GPL-3.0 | 2019-11-28 | Open Cobol (GnuCobol), Ocesql and CGI Project |
 | 100 | [J-AugustoManzano/cobol](https://github.com/J-AugustoManzano/cobol) | 11 | 1 | 0 | — | 2023-02-10 |  |

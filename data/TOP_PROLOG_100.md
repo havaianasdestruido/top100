@@ -1,11 +1,11 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,706** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,710** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,495 | 158 | 11 | Apache-2.0 | 2026-11-25 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
-| 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 100 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
+| 1 | [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) | 3,497 | 158 | 8 | Apache-2.0 | 2026-11-28 | TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff,... |
+| 2 | [fossasia/pslab-hardware](https://github.com/fossasia/pslab-hardware) | 1,706 | 99 | 20 | Apache-2.0 | 2026-08-16 | PSLab Hardware Design and Schematics https://pslab.io |
 | 3 | [fossasia/pslab-grove-shield](https://github.com/fossasia/pslab-grove-shield) | 1,514 | 8 | 0 | Apache-2.0 | 2026-04-12 | PSLab Grove Shield https://pslab.io |
 | 4 | [stipub/stixfonts](https://github.com/stipub/stixfonts) | 1,008 | 57 | 114 | OFL-1.1 | 2026-03-19 | OpenType Unicode fonts for Scientific, Technical, and Mathematical texts |
 | 5 | [hackclub/OnBoard](https://github.com/hackclub/OnBoard) | 915 | 1,030 | 23 | — | 2025-05-31 | 💡 Join 1,000 teenagers and make your first PCB with a $100 grant! |
@@ -16,7 +16,7 @@ Ranked by stars. GitHub reports **40,706** total repositories matching `language
 | 10 | [imchipwood/dumbpad](https://github.com/imchipwood/dumbpad) | 521 | 64 | 0 | GPL-2.0 | 2026-03-04 | Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro |
 | 11 | [larsyencken/marelle](https://github.com/larsyencken/marelle) | 389 | 23 | 3 | BSD-2-Clause | 2018-09-22 | Test-driven system administration with a little extra logic. |
 | 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 62 | LGPL-2.1 | 2026-11-25 | Embeddable Lambda Prolog Interpreter |
-| 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
+| 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 356 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
 | 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 295 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
 | 16 | [dragonwasrobot/learn-prolog-now-exercises](https://github.com/dragonwasrobot/learn-prolog-now-exercises) | 293 | 84 | 10 | — | 2023-07-11 | My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos,... |
@@ -27,8 +27,8 @@ Ranked by stars. GitHub reports **40,706** total repositories matching `language
 | 21 | [sebschub/FontPro](https://github.com/sebschub/FontPro) | 250 | 43 | 19 | — | 2017-08-25 | LaTeX support for Adobe's Pro opentype fonts: Minion Pro, Myriad Pro, Cronos Pro and possibly more |
 | 22 | [Attempto/APE](https://github.com/Attempto/APE) | 232 | 34 | 16 | NOASSERTION | 2024-04-21 | Parser for Attempto Controlled English (ACE) |
 | 23 | [triska/clpz](https://github.com/triska/clpz) | 215 | 15 | 29 | — | 2024-02-05 | Constraint Logic Programming over Integers |
-| 24 | [metagol/metagol](https://github.com/metagol/metagol) | 212 | 28 | 3 | BSD-3-Clause | 2021-09-13 | Metagol - an inductive logic programming system |
-| 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 212 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
+| 24 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 214 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
+| 25 | [metagol/metagol](https://github.com/metagol/metagol) | 212 | 28 | 3 | BSD-3-Clause | 2021-09-13 | Metagol - an inductive logic programming system |
 | 26 | [dtonhofer/prolog_notes](https://github.com/dtonhofer/prolog_notes) | 209 | 26 | 3 | NOASSERTION | 2026-01-29 | Some notes taken while working on Prolog |
 | 27 | [Emeryth/iPad3_lcd](https://github.com/Emeryth/iPad3_lcd) | 201 | 50 | 1 | NOASSERTION | 2013-06-01 | A PCB for attaching an iPad retina LCD to a DisplayPort source |
 | 28 | [triska/clpfd](https://github.com/triska/clpfd) | 195 | 13 | 2 | — | 2020-01-07 | Constraint Logic Programming over Finite Domains |
@@ -65,7 +65,7 @@ Ranked by stars. GitHub reports **40,706** total repositories matching `language
 | 59 | [rsennrich/ParZu](https://github.com/rsennrich/ParZu) | 92 | 24 | 1 | GPL-2.0 | 2025-08-27 | The Zurich Dependency Parser for German |
 | 60 | [friguzzi/cplint](https://github.com/friguzzi/cplint) | 89 | 16 | 0 | NOASSERTION | 2026-08-30 | cplint is a suite of programs for reasoning with probabilistic logic programs |
 | 61 | [wouterbeek/prolog_library_collection](https://github.com/wouterbeek/prolog_library_collection) | 87 | 15 | 0 | MIT | 2024-08-31 | A collection of Prolog libraries. |
-| 62 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 81 | 13 | 7 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
+| 62 | [QuantumVillage/EntropyLoop](https://github.com/QuantumVillage/EntropyLoop) | 82 | 13 | 7 | MPL-2.0 | 2026-09-01 | A Fully Open Source, Low Cost Phase-Diffusion Quantum Random Number Generator Using Off the Shelf Parts, Brought to y... |
 | 63 | [OpenSprinkler/OpenSprinkler-Hardware](https://github.com/OpenSprinkler/OpenSprinkler-Hardware) | 79 | 46 | 1 | CERN-OHL-S-2.0 | 2026-04-25 | OpenSprinkler Hardware Design files |
 | 64 | [alhassy/PrologCheatSheet](https://github.com/alhassy/PrologCheatSheet) | 78 | 4 | 0 | — | 2020-09-16 | Basics of relational programming with Prolog —PROgramming in LOGic ^_^ |
 | 65 | [xmonader/prolog-rands](https://github.com/xmonader/prolog-rands) | 78 | 34 | 0 | — | 2018-12-26 | random stuff in prolog |

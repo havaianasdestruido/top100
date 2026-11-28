@@ -1,6 +1,6 @@
 # Top 100 Ada repositories on GitHub
 
-Ranked by stars. GitHub reports **10,665** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **10,673** total repositories matching `language:Ada`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -24,7 +24,7 @@ Ranked by stars. GitHub reports **10,665** total repositories matching `language
 | 18 | [ada-game-framework/sdlada](https://github.com/ada-game-framework/sdlada) | 135 | 38 | 24 | Zlib | 2026-07-17 | Ada 2022 bindings to SDL 2 |
 | 19 | [AdaCore/RecordFlux](https://github.com/AdaCore/RecordFlux) | 131 | 10 | 186 | Apache-2.0 | 2026-10-01 | Formal specification and generation of verifiable binary parsers, message generators and protocol state machines |
 | 20 | [joular/powerjoular](https://github.com/joular/powerjoular) | 128 | 24 | 3 | GPL-3.0 | 2026-11-22 | PowerJoular monitors power consumption of multiple platforms, processes and applications, on Windows, Linux,  macOS a... |
-| 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 23 | CC-BY-4.0 | 2026-11-28 | Sources for learn.adacore.com |
+| 21 | [AdaCore/learn](https://github.com/AdaCore/learn) | 116 | 50 | 21 | CC-BY-4.0 | 2026-11-28 | Sources for learn.adacore.com |
 | 22 | [Lucretia/tamp](https://github.com/Lucretia/tamp) | 116 | 16 | 0 | — | 2015-05-13 | The Ada Microkernel Project |
 | 23 | [stcarrez/ada-awa](https://github.com/stcarrez/ada-awa) | 114 | 13 | 13 | Apache-2.0 | 2026-11-15 | Ada Web Application - Framework to build high performance secure web applications |
 | 24 | [AdaCore/gtkada](https://github.com/AdaCore/gtkada) | 112 | 22 | 34 | NOASSERTION | 2026-11-25 | Ada bindings for the GTK+ graphical library. |
@@ -33,7 +33,7 @@ Ranked by stars. GitHub reports **10,665** total repositories matching `language
 | 27 | [flyx/OpenGLAda](https://github.com/flyx/OpenGLAda) | 107 | 18 | 4 | MIT | 2026-10-28 | Thick Ada binding for OpenGL and GLFW |
 | 28 | [AdaDoom3/TurboAda](https://github.com/AdaDoom3/TurboAda) | 99 | 13 | 2 | — | 2026-10-15 | An Ada ~2022 LLVM compiler |
 | 29 | [AdaCore/langkit](https://github.com/AdaCore/langkit) | 95 | 34 | 9 | NOASSERTION | 2026-11-25 | Language creation framework. |
-| 30 | [docandrew/CuBit](https://github.com/docandrew/CuBit) | 91 | 4 | 2 | GPL-3.0 | 2026-11-23 | General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64 |
+| 30 | [docandrew/CuBit](https://github.com/docandrew/CuBit) | 91 | 4 | 2 | GPL-3.0 | 2026-11-28 | General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64 |
 | 31 | [MayaPosch/Sarge](https://github.com/MayaPosch/Sarge) | 91 | 15 | 0 | BSD-3-Clause | 2025-08-26 | Simple command line argument parser for C++ and Ada. |
 | 32 | [Lucretia/bare_bones](https://github.com/Lucretia/bare_bones) | 88 | 12 | 0 | NOASSERTION | 2016-11-20 | Ada Bare Bones OS development tutorial source code |
 | 33 | [godunko/adawebpack](https://github.com/godunko/adawebpack) | 86 | 9 | 5 | BSD-3-Clause | 2025-02-16 | Ada WASM Runtime and Bindings for Web API |
@@ -54,12 +54,12 @@ Ranked by stars. GitHub reports **10,665** total repositories matching `language
 | 48 | [UnstableDesign/AdaCAD-UI](https://github.com/UnstableDesign/AdaCAD-UI) | 65 | 18 | 61 | — | 2026-03-01 | MIGRATED - AdaCAD is an experimental workspace that applies parametric design to the domain of weave drafting. It sup... |
 | 49 | [cubesatlab/cubedos](https://github.com/cubesatlab/cubedos) | 65 | 13 | 31 | — | 2025-11-17 | A flight software framework in SPARK/Ada |
 | 50 | [Fabien-Chouteau/ACNC](https://github.com/Fabien-Chouteau/ACNC) | 65 | 13 | 0 | GPL-3.0 | 2019-06-21 | A G-code parser and CNC controller (in Ada) |
-| 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 4 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
+| 51 | [ovenpasta/adi2](https://github.com/ovenpasta/adi2) | 62 | 4 | 5 | Apache-2.0 | 2026-11-16 | A modern GUI library for Ada: CSS styling, XML UI, SDL3 |
 | 52 | [AdaCore/VSS](https://github.com/AdaCore/VSS) | 61 | 7 | 0 | NOASSERTION | 2025-09-01 | High level string and text processing library |
 | 53 | [Hazrat-Ali9/Car-Assistant](https://github.com/Hazrat-Ali9/Car-Assistant) | 61 | 0 | 0 | MIT | 2025-05-26 | 🚗 Car Assistant 🤢 Your Smart 🥶 Driving Companion 👽 Powered by Code 🤖 Fuel Tracking 👹Service Reminders 🤡 Trip History ... |
 | 54 | [jgrivera67/HiRTOS](https://github.com/jgrivera67/HiRTOS) | 58 | 3 | 5 | Apache-2.0 | 2026-01-29 | HiRTOS: a high-integrity multi-core RTOS kernel and separation kernel written in SPARK Ada |
-| 55 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
-| 56 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 56 | 6 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
+| 55 | [wee-noise-makers/WNM-PGB1-firmware](https://github.com/wee-noise-makers/WNM-PGB1-firmware) | 57 | 6 | 1 | GPL-3.0 | 2026-06-02 | The open-source pocket groovebox |
+| 56 | [AdaCoreU/Courses](https://github.com/AdaCoreU/Courses) | 57 | 19 | 0 | — | 2020-03-16 | This repository contains course material published to the AdaCore University website |
 | 57 | [AdaCore/gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) | 56 | 36 | 14 | NOASSERTION | 2026-11-24 | GNAT Components Collection – Core packages |
 | 58 | [parasail-lang/parasail](https://github.com/parasail-lang/parasail) | 54 | 5 | 2 | Apache-2.0 | 2026-11-27 | Parallel Specification and Implementation Language |
 | 59 | [lasp/adamant](https://github.com/lasp/adamant) | 53 | 13 | 7 | Apache-2.0 | 2026-11-22 | A model-based flight software framework for Ada |

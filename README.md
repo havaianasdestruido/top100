@@ -35,18 +35,18 @@ Refreshed hourly; these numbers are generated from the live dataset on every bui
 <!-- LEADERS:START -->
 | # | Repository | Language | Stars |
 | --- | --- | --- | --- |
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 501,869 |
-| 2 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 481,561 |
-| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 459,694 |
-| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 402,394 |
-| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 395,371 |
-| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 379,549 |
-| 7 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 372,921 |
-| 8 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 337,632 |
-| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 334,471 |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 328,621 |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 501,896 |
+| 2 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | 481,995 |
+| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 459,699 |
+| 4 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | 402,398 |
+| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 395,369 |
+| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 379,593 |
+| 7 | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | TypeScript | 372,947 |
+| 8 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | 337,703 |
+| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 334,665 |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 328,949 |
 
-Refreshed 28 November 2026, 10:09 UTC — these ten are the most-starred repositories across every language Top100 tracks.
+Refreshed 28 November 2026, 18:50 UTC — these ten are the most-starred repositories across every language Top100 tracks.
 <!-- LEADERS:END -->
 
 See the [statistics table](https://havaianasdestruido.github.io/top100/#statistics) for
