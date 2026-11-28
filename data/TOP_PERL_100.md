@@ -1,23 +1,23 @@
 # Top 100 Perl repositories on GitHub
 
-Ranked by stars. GitHub reports **189,417** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **189,420** total repositories matching `language:Perl`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
 | 1 | [AlDanial/cloc](https://github.com/AlDanial/cloc) | 23,694 | 1,125 | 26 | GPL-2.0 | 2026-11-18 | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
-| 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,861 | 2,109 | 174 | — | 2024-10-20 | Stack trace visualizer |
-| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,128 | 353 | 3 | MIT | 2026-11-20 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
-| 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,887 | 1,485 | 0 | NOASSERTION | 2026-11-15 | Nikto web server scanner |
-| 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,475 | 1,280 | 31 | GPL-3.0 | 2026-11-24 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
+| 2 | [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) | 19,862 | 2,109 | 174 | — | 2024-10-20 | Stack trace visualizer |
+| 3 | [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | 18,128 | 354 | 3 | MIT | 2026-11-20 | Make your diffs human readable for improved code quality and faster defect detection. :tada: |
+| 4 | [sullo/nikto](https://github.com/sullo/nikto) | 10,889 | 1,485 | 0 | NOASSERTION | 2026-11-15 | Nikto web server scanner |
+| 5 | [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | 9,475 | 1,281 | 31 | GPL-3.0 | 2026-11-24 | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations fo... |
 | 6 | [sitaramc/gitolite](https://github.com/sitaramc/gitolite) | 8,600 | 1,001 | 6 | GPL-2.0 | 2026-09-29 | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained acce... |
 | 7 | [astrid-runtime/book](https://github.com/astrid-runtime/book) | 7,448 | 32 | 1 | Apache-2.0 | 2026-11-16 | The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model. |
-| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,327 | 508 | 20 | GPL-3.0 | 2026-11-16 | ExifTool meta information reader/writer |
+| 8 | [exiftool/exiftool](https://github.com/exiftool/exiftool) | 5,330 | 509 | 20 | GPL-3.0 | 2026-11-16 | ExifTool meta information reader/writer |
 | 9 | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) | 4,884 | 1,211 | 137 | BSD-2-Clause | 2024-04-10 | :computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub |
 | 10 | [Jack000/Expose](https://github.com/Jack000/Expose) | 4,424 | 257 | 22 | MIT | 2022-03-16 | A simple static site generator for photoessays |
 | 11 | [sarabander/sicp-pdf](https://github.com/sarabander/sicp-pdf) | 4,417 | 553 | 21 | — | 2024-06-27 | SICP PDF with Texinfo and LaTeX source |
 | 12 | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) | 4,206 | 2,070 | 18 | — | 2017-05-24 | Decrypted content of eqgrp-auction-file.tar.xz |
-| 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,080 | 378 | 16 | PostgreSQL | 2026-11-03 | A fast PostgreSQL Log Analyzer |
-| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 4,049 | 235 | 666 | BSD-3-Clause | 2026-11-27 | A terminal for iOS, with multiple windows |
+| 13 | [darold/pgbadger](https://github.com/darold/pgbadger) | 4,080 | 377 | 16 | PostgreSQL | 2026-11-03 | A fast PostgreSQL Log Analyzer |
+| 14 | [holzschu/a-shell](https://github.com/holzschu/a-shell) | 4,050 | 235 | 658 | BSD-3-Clause | 2026-11-27 | A terminal for iOS, with multiple windows |
 | 15 | [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) | 3,919 | 351 | 167 | GPL-3.0 | 2026-06-05 | These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. ... |
 | 16 | [rsnapshot/rsnapshot](https://github.com/rsnapshot/rsnapshot) | 3,691 | 271 | 55 | GPL-2.0 | 2026-10-10 | a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinf... |
 | 17 | [ddclient/ddclient](https://github.com/ddclient/ddclient) | 3,594 | 402 | 147 | GPL-2.0 | 2026-06-22 | ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services. |
@@ -34,7 +34,7 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 28 | [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) | 2,573 | 251 | 3 | GPL-3.0 | 2025-05-04 | A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds |
 | 29 | [SpiderLabs/owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | 2,487 | 719 | 44 | Apache-2.0 | 2020-06-16 | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) |
 | 30 | [htrgouvea/nipe](https://github.com/htrgouvea/nipe) | 2,415 | 340 | 14 | NOASSERTION | 2026-09-13 | An engine to make Tor network your default gateway |
-| 31 | [Perl/perl5](https://github.com/Perl/perl5) | 2,365 | 664 | 2,388 | NOASSERTION | 2026-11-26 | 🐪 The Perl programming language |
+| 31 | [Perl/perl5](https://github.com/Perl/perl5) | 2,365 | 664 | 2,390 | NOASSERTION | 2026-11-28 | 🐪 The Perl programming language |
 | 32 | [CNSRE/ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | 2,345 | 754 | 75 | MIT | 2018-10-14 |  |
 | 33 | [curl/everything-curl](https://github.com/curl/everything-curl) | 2,276 | 344 | 9 | CC-BY-4.0 | 2026-11-23 | The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. |
 | 34 | [ovh/the-bastion](https://github.com/ovh/the-bastion) | 2,205 | 134 | 49 | NOASSERTION | 2026-11-24 | Authentication, authorization, traceability and auditability for SSH accesses. |
@@ -45,13 +45,13 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 39 | [samyk/slipstream](https://github.com/samyk/slipstream) | 1,988 | 214 | 5 | — | 2023-01-14 | NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the... |
 | 40 | [jondonas/linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | 1,977 | 298 | 0 | GPL-2.0 | 2023-01-28 | Next-Generation Linux Kernel Exploit Suggester |
 | 41 | [tobie/ua-parser](https://github.com/tobie/ua-parser) | 1,959 | 479 | 0 | NOASSERTION | 2016-12-26 | A multi-language port of Browserscope's user agent parser. |
-| 42 | [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) | 1,864 | 311 | 78 | Apache-2.0 | 2026-11-25 | ModSecurity v3 Nginx Connector |
+| 42 | [owasp-modsecurity/ModSecurity-nginx](https://github.com/owasp-modsecurity/ModSecurity-nginx) | 1,864 | 311 | 80 | Apache-2.0 | 2026-11-25 | ModSecurity v3 Nginx Connector |
 | 43 | [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) | 1,831 | 389 | 93 | NOASSERTION | 2026-11-26 | Server for Squeezebox and compatible players. This server is also called Lyrion Music Server. |
 | 44 | [InteliSecureLabs/Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | 1,814 | 395 | 4 | GPL-2.0 | 2014-05-19 | Linux Exploit Suggester; based on operating system release number |
 | 45 | [duckduckgo/duckduckgo](https://github.com/duckduckgo/duckduckgo) | 1,812 | 238 | 0 | NOASSERTION | 2022-10-14 | DuckDuckGo Instant Answer Infrastructure |
 | 46 | [kost/dvcs-ripper](https://github.com/kost/dvcs-ripper) | 1,788 | 313 | 11 | GPL-2.0 | 2024-07-19 | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
 | 47 | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) | 1,775 | 469 | 31 | — | 2023-10-08 | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
-| 48 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,714 | 336 | 471 | GPL-2.0 | 2026-11-27 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
+| 48 | [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) | 1,714 | 337 | 475 | GPL-2.0 | 2026-11-27 | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an im... |
 | 49 | [shanleiguang/vRain](https://github.com/shanleiguang/vRain) | 1,702 | 194 | 10 | MIT | 2026-06-14 | 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator |
 | 50 | [hexsum/Mojo-Webqq](https://github.com/hexsum/Mojo-Webqq) | 1,698 | 315 | 13 | BSD-2-Clause | 2019-04-10 | 【重要通知：WebQQ将在2019年1月1日停止服务，此项目目前已停止维护，感谢大家四年来的一路陪伴】使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其... |
 | 51 | [hadley/ggplot2-book](https://github.com/hadley/ggplot2-book) | 1,686 | 715 | 75 | — | 2025-03-12 | ggplot2: elegant graphics for data analysis |
@@ -59,7 +59,7 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 53 | [backuppc/backuppc](https://github.com/backuppc/backuppc) | 1,628 | 207 | 51 | GPL-3.0 | 2026-05-31 | BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk. |
 | 54 | [AlisamTechnology/ATSCAN](https://github.com/AlisamTechnology/ATSCAN) | 1,597 | 347 | 7 | MIT | 2024-08-10 | Advanced dork Search & Mass Exploit Scanner |
 | 55 | [percona/percona-toolkit](https://github.com/percona/percona-toolkit) | 1,569 | 380 | 41 | GPL-2.0 | 2026-11-23 | Percona Toolkit: a collection of advanced open source command-line tools. |
-| 56 | [OpenKore/openkore](https://github.com/OpenKore/openkore) | 1,555 | 1,233 | 46 | NOASSERTION | 2026-11-27 | A free/open source client and automation tool for Ragnarok Online |
+| 56 | [OpenKore/openkore](https://github.com/OpenKore/openkore) | 1,556 | 1,233 | 48 | NOASSERTION | 2026-11-27 | A free/open source client and automation tool for Ragnarok Online |
 | 57 | [yoshinorim/mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | 1,509 | 505 | 73 | GPL-2.0 | 2026-11-23 | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part |
 | 58 | [mrash/fwknop](https://github.com/mrash/fwknop) | 1,501 | 260 | 126 | GPL-2.0 | 2026-06-01 | Single Packet Authorization > Port Knocking |
 | 59 | [beyondgrep/ack2](https://github.com/beyondgrep/ack2) | 1,462 | 138 | 9 | NOASSERTION | 2019-03-19 | **ack 2 is no longer being maintained.  ack 3 is the latest version.** |
@@ -70,7 +70,7 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 64 | [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) | 1,327 | 163 | 360 | NOASSERTION | 2026-09-20 | LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. |
 | 65 | [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) | 1,325 | 91 | 47 | Artistic-2.0 | 2026-06-15 | Lightweight YouTube client for Linux |
 | 66 | [p0pr0ck5/lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | 1,324 | 306 | 38 | GPL-3.0 | 2024-01-31 | High-performance WAF built on the OpenResty stack |
-| 67 | [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) | 1,309 | 155 | 111 | GPL-3.0 | 2026-08-04 | Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive... |
+| 67 | [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) | 1,310 | 155 | 111 | GPL-3.0 | 2026-08-04 | Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive... |
 | 68 | [cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium) | 1,308 | 112 | 20 | — | 2023-08-25 | Enjoy the mysteries of the sea from the safety of your own terminal! |
 | 69 | [sighook/pixload](https://github.com/sighook/pixload) | 1,306 | 252 | 8 | WTFPL | 2023-11-30 | Image Payload Creating/Injecting tools |
 | 70 | [smxi/inxi](https://github.com/smxi/inxi) | 1,281 | 89 | 15 | GPL-3.0 | 2024-01-12 | inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and doe... |
@@ -88,7 +88,7 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 82 | [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | 1,135 | 136 | 1 | — | 2023-02-01 | Golang - Regular Expression Tutorial |
 | 83 | [k4rthik/git-cal](https://github.com/k4rthik/git-cal) | 1,124 | 62 | 18 | MIT | 2017-02-01 | github like contributions calendar on terminal |
 | 84 | [wireghoul/dotdotpwn](https://github.com/wireghoul/dotdotpwn) | 1,122 | 181 | 3 | GPL-3.0 | 2022-09-28 | DotDotPwn - The Directory Traversal Fuzzer |
-| 85 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,118 | 349 | 114 | NOASSERTION | 2026-11-27 | Server for the MusicBrainz project (website, API, database tools) |
+| 85 | [metabrainz/musicbrainz-server](https://github.com/metabrainz/musicbrainz-server) | 1,118 | 350 | 114 | NOASSERTION | 2026-11-27 | Server for the MusicBrainz project (website, API, database tools) |
 | 86 | [andrewning/sortphotos](https://github.com/andrewning/sortphotos) | 1,107 | 317 | 61 | MIT | 2026-03-06 | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
 | 87 | [arboliva/AirChat](https://github.com/arboliva/AirChat) | 1,085 | 149 | 18 | — | 2021-12-09 | Free Communications For Everyone. |
 | 88 | [fletcher/MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | 1,072 | 507 | 4 | — | 2023-08-12 | This project is now deprecated.  Please use MultiMarkdown-7 instead! |
@@ -103,4 +103,4 @@ Ranked by stars. GitHub reports **189,417** total repositories matching `languag
 | 97 | [skx/sysadmin-util](https://github.com/skx/sysadmin-util) | 1,004 | 112 | 0 | NOASSERTION | 2020-03-30 | Tools for Linux/Unix sysadmins. |
 | 98 | [duncs/clusterssh](https://github.com/duncs/clusterssh) | 990 | 75 | 29 | — | 2026-04-28 | Cluster SSH - Cluster Admin Via SSH |
 | 99 | [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | 985 | 1,717 | 0 | NOASSERTION | 2022-10-14 | DuckDuckGo Instant Answers based on Perl & JavaScript |
-| 100 | [webmin/authentic-theme](https://github.com/webmin/authentic-theme) | 962 | 166 | 2 | MIT | 2026-11-26 | Official theme for the best server management panel of the 21st Century |
+| 100 | [webmin/authentic-theme](https://github.com/webmin/authentic-theme) | 962 | 166 | 2 | MIT | 2026-11-27 | Official theme for the best server management panel of the 21st Century |

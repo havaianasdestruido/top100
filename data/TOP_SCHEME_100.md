@@ -1,6 +1,6 @@
 # Top 100 Scheme repositories on GitHub
 
-Ranked by stars. GitHub reports **22,149** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **22,150** total repositories matching `language:Scheme`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -9,7 +9,7 @@ Ranked by stars. GitHub reports **22,149** total repositories matching `language
 | 3 | [JeffBezanson/femtolisp](https://github.com/JeffBezanson/femtolisp) | 1,725 | 123 | 21 | BSD-3-Clause | 2020-02-26 | a lightweight, robust, scheme-like lisp implementation |
 | 4 | [addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | 1,662 | 167 | 12 | — | 2026-11-23 | A simple guide (and example of configuration) about how to install i3 & its and essentials packages, then make them l... |
 | 5 | [gambit/gambit](https://github.com/gambit/gambit) | 1,445 | 207 | 295 | — | 2026-11-26 | Gambit is an efficient implementation of the Scheme programming language. |
-| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 74 | NOASSERTION | 2026-11-27 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
+| 6 | [part-cw/lambdanative](https://github.com/part-cw/lambdanative) | 1,425 | 91 | 72 | NOASSERTION | 2026-11-27 | LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, macOS, Linux, an... |
 | 7 | [ashinn/chibi-scheme](https://github.com/ashinn/chibi-scheme) | 1,412 | 167 | 98 | NOASSERTION | 2026-11-27 | Official chibi-scheme repository |
 | 8 | [google/schism](https://github.com/google/schism) | 1,276 | 65 | 24 | Apache-2.0 | 2021-08-30 | A self-hosting Scheme to WebAssembly compiler |
 | 9 | [mighty-gerbils/gerbil](https://github.com/mighty-gerbils/gerbil) | 1,268 | 120 | 170 | LGPL-2.1 | 2026-07-22 | Gerbil Scheme public release mirror; development happens at https://gerbil.cons.io |
@@ -37,7 +37,7 @@ Ranked by stars. GitHub reports **22,149** total repositories matching `language
 | 31 | [picrin-scheme/picrin](https://github.com/picrin-scheme/picrin) | 422 | 36 | 0 | MIT | 2024-03-26 | lightweight scheme interpreter |
 | 32 | [theGuildHall/pwnbox](https://github.com/theGuildHall/pwnbox) | 422 | 80 | 4 | — | 2022-09-22 | Instructions on how to create your very own Pwnbox, originally created by HTB |
 | 33 | [IronScheme/IronScheme](https://github.com/IronScheme/IronScheme) | 416 | 45 | 25 | NOASSERTION | 2026-01-15 | IronScheme |
-| 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 409 | 33 | 28 | EPL-2.0 | 2026-11-27 | A Clojure compiler implemented on top of Chez Scheme |
+| 34 | [jolt-lang/jolt](https://github.com/jolt-lang/jolt) | 410 | 33 | 34 | EPL-2.0 | 2026-11-28 | A Clojure compiler implemented on top of Chez Scheme |
 | 35 | [ivanjovanovic/sicp](https://github.com/ivanjovanovic/sicp) | 404 | 71 | 2 | — | 2022-02-11 | Structure and Interpretation of Computer Programs study notes with exercise solutions |
 | 36 | [scality/metalk8s](https://github.com/scality/metalk8s) | 395 | 47 | 507 | Apache-2.0 | 2026-11-27 | An opinionated Kubernetes distribution with a focus on long-term on-prem deployments |
 | 37 | [miniKanren/miniKanren](https://github.com/miniKanren/miniKanren) | 372 | 31 | 4 | MIT | 2018-04-11 | Canonical miniKanren implementation |

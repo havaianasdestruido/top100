@@ -4,19 +4,19 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
-| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,958 | 2,583 | 290 | NOASSERTION | 2026-11-27 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
-| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,367 | 3,221 | 757 | Apache-2.0 | 2026-11-27 | Erlang/OTP |
+| 1 | [emqx/emqx](https://github.com/emqx/emqx) | 16,958 | 2,583 | 295 | NOASSERTION | 2026-11-27 | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles |
+| 2 | [erlang/otp](https://github.com/erlang/otp) | 12,367 | 3,219 | 758 | Apache-2.0 | 2026-11-27 | Erlang/OTP |
 | 3 | [ninenines/cowboy](https://github.com/ninenines/cowboy) | 7,525 | 1,176 | 62 | ISC | 2026-11-27 | Small, fast, modern HTTP server for Erlang/OTP. |
 | 4 | [apache/couchdb](https://github.com/apache/couchdb) | 7,020 | 1,093 | 372 | Apache-2.0 | 2026-11-27 | Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability |
-| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,756 | 1,552 | 229 | NOASSERTION | 2026-11-27 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
-| 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,874 | 968 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
+| 5 | [processone/ejabberd](https://github.com/processone/ejabberd) | 6,756 | 1,553 | 230 | NOASSERTION | 2026-11-27 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
+| 6 | [dgiot/dgiot](https://github.com/dgiot/dgiot) | 4,875 | 968 | 4 | Apache-2.0 | 2026-10-13 | Open Source Industrial IoT Platform \| 300+ protocols \| 6-min deploy \| Modbus OPC UA MQTT \| 12K Stars |
 | 7 | [happi/theBeamBook](https://github.com/happi/theBeamBook) | 4,116 | 267 | 1 | NOASSERTION | 2026-09-25 | A description of the Erlang Runtime System ERTS and the virtual Machine BEAM. |
-| 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,662 | 438 | 190 | Apache-2.0 | 2026-11-27 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
+| 8 | [vernemq/vernemq](https://github.com/vernemq/vernemq) | 3,662 | 438 | 191 | Apache-2.0 | 2026-11-27 | A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mis... |
 | 9 | [processone/tsung](https://github.com/processone/tsung) | 2,629 | 403 | 130 | GPL-2.0 | 2026-03-02 | Tsung is a high-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc. |
-| 10 | [lfe/lfe](https://github.com/lfe/lfe) | 2,460 | 145 | 30 | Apache-2.0 | 2026-10-19 | Lisp Flavoured Erlang (LFE) |
+| 10 | [lfe/lfe](https://github.com/lfe/lfe) | 2,461 | 145 | 30 | Apache-2.0 | 2026-10-19 | Lisp Flavoured Erlang (LFE) |
 | 11 | [rabbitmq/rabbitmq-delayed-message-exchange](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange) | 2,307 | 158 | 10 | NOASSERTION | 2026-09-24 | Delayed Messaging for RabbitMQ |
-| 12 | [atomvm/AtomVM](https://github.com/atomvm/AtomVM) | 2,273 | 173 | 212 | Apache-2.0 | 2026-11-23 | Tiny Erlang VM |
-| 13 | [mochi/mochiweb](https://github.com/mochi/mochiweb) | 1,890 | 459 | 11 | NOASSERTION | 2026-11-13 | MochiWeb is an Erlang library for building lightweight HTTP servers. |
+| 12 | [atomvm/AtomVM](https://github.com/atomvm/AtomVM) | 2,274 | 173 | 212 | Apache-2.0 | 2026-11-23 | Tiny Erlang VM |
+| 13 | [mochi/mochiweb](https://github.com/mochi/mochiweb) | 1,891 | 459 | 11 | NOASSERTION | 2026-11-13 | MochiWeb is an Erlang library for building lightweight HTTP servers. |
 | 14 | [biokoda/actordb](https://github.com/biokoda/actordb) | 1,889 | 71 | 32 | MPL-2.0 | 2022-11-10 | ActorDB distributed SQL database |
 | 15 | [ChicagoBoss/ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) | 1,848 | 283 | 81 | MIT | 2022-01-10 | Erlang web MVC, now featuring Comet |
 | 16 | [erlang/rebar3](https://github.com/erlang/rebar3) | 1,824 | 531 | 232 | Apache-2.0 | 2026-11-15 | Erlang build tool that makes it easy to compile and test Erlang applications and releases. |
@@ -32,7 +32,7 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 | 26 | [ferd/recon](https://github.com/ferd/recon) | 1,429 | 277 | 11 | BSD-3-Clause | 2026-04-23 | Collection of functions and scripts to debug Erlang in production. |
 | 27 | [benoitc/hackney](https://github.com/benoitc/hackney) | 1,417 | 462 | 13 | NOASSERTION | 2026-11-22 | simple HTTP client in Erlang |
 | 28 | [synrc/n2o](https://github.com/synrc/n2o) | 1,340 | 167 | 1 | NOASSERTION | 2026-06-04 | ⭕ N2O: Distributed WebSocket Application Server ISO 20922 |
-| 29 | [erlyaws/yaws](https://github.com/erlyaws/yaws) | 1,313 | 273 | 36 | BSD-3-Clause | 2026-11-27 | Yaws webserver |
+| 29 | [erlyaws/yaws](https://github.com/erlyaws/yaws) | 1,313 | 273 | 34 | BSD-3-Clause | 2026-11-27 | Yaws webserver |
 | 30 | [basho/riak_core](https://github.com/basho/riak_core) | 1,276 | 384 | 89 | Apache-2.0 | 2026-08-14 | Distributed systems infrastructure used by Riak. |
 | 31 | [ninenines/ranch](https://github.com/ninenines/ranch) | 1,244 | 337 | 12 | ISC | 2026-11-27 | Socket acceptor pool for TCP protocols. |
 | 32 | [rvirding/luerl](https://github.com/rvirding/luerl) | 1,197 | 148 | 16 | Apache-2.0 | 2026-10-24 | Lua in Erlang |
@@ -43,7 +43,7 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 | 37 | [ArweaveTeam/arweave](https://github.com/ArweaveTeam/arweave) | 1,083 | 233 | 119 | GPL-2.0 | 2026-11-25 | The Arweave server and App Developer Toolkit. |
 | 38 | [lasp-lang/partisan](https://github.com/lasp-lang/partisan) | 1,059 | 72 | 21 | Apache-2.0 | 2026-11-24 | High-performance, high-scalability distributed computing for the BEAM. |
 | 39 | [basho/rebar](https://github.com/basho/rebar) | 1,052 | 233 | 29 | Apache-2.0 | 2016-11-02 | ATTENTION: Please find the canonical repository here: |
-| 40 | [hamler-lang/hamler](https://github.com/hamler-lang/hamler) | 1,040 | 39 | 33 | BSD-3-Clause | 2022-02-03 | Haskell-style functional programming language running on Erlang VM. |
+| 40 | [hamler-lang/hamler](https://github.com/hamler-lang/hamler) | 1,041 | 39 | 33 | BSD-3-Clause | 2022-02-03 | Haskell-style functional programming language running on Erlang VM. |
 | 41 | [gotthardp/lorawan-server](https://github.com/gotthardp/lorawan-server) | 1,008 | 339 | 175 | MIT | 2023-11-25 | Compact server for private LoRaWAN networks |
 | 42 | [2600hz/kazoo](https://github.com/2600hz/kazoo) | 992 | 465 | 29 | MPL-2.0 | 2025-02-11 | The core of an open-source, distributed, highly scalable platform designed to provide robust telecom services |
 | 43 | [nitrogen/nitrogen](https://github.com/nitrogen/nitrogen) | 981 | 160 | 16 | MIT | 2026-07-26 | Nitrogen Web Framework for Erlang (now with websockets!) |
@@ -94,7 +94,7 @@ Ranked by stars. GitHub reports **34,495** total repositories matching `language
 | 88 | [jlouis/fuse](https://github.com/jlouis/fuse) | 512 | 52 | 8 | MIT | 2022-02-15 | A Circuit Breaker for Erlang |
 | 89 | [ernw/ss7MAPer](https://github.com/ernw/ss7MAPer) | 506 | 207 | 5 | BSD-3-Clause | 2018-04-20 | SS7 MAP (pen-)testing toolkit. DISCONTINUED REPO, please use: https://github.com/0xc0decafe/ss7MAPer/ |
 | 90 | [rabbitmq/khepri](https://github.com/rabbitmq/khepri) | 497 | 25 | 7 | Apache-2.0 | 2026-11-26 | Khepri is a tree-like replicated on-disk database library for Erlang and Elixir. |
-| 91 | [dnsimple/erldns](https://github.com/dnsimple/erldns) | 496 | 107 | 2 | MIT | 2026-11-27 | DNS server, in Erlang. |
+| 91 | [dnsimple/erldns](https://github.com/dnsimple/erldns) | 496 | 107 | 3 | MIT | 2026-11-28 | DNS server, in Erlang. |
 | 92 | [zack-bitcoin/basiccoin](https://github.com/zack-bitcoin/basiccoin) | 495 | 102 | 0 | — | 2018-10-15 | The smallest currency I can make |
 | 93 | [ferd/erlang-history](https://github.com/ferd/erlang-history) | 493 | 30 | 3 | — | 2018-03-02 | Hacks to add shell history to Erlang's shell |
 | 94 | [joxa/joxa](https://github.com/joxa/joxa) | 472 | 48 | 13 | Apache-2.0 | 2020-01-08 | A Modern Lisp for the Erlang VM |

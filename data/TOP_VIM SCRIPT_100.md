@@ -51,7 +51,7 @@ Ranked by stars. GitHub reports **3,466** total repositories matching `language:
 | 45 | [mattn/vim-brain](https://github.com/mattn/vim-brain) | 99 | 1 | 0 | — | 2018-12-24 | Neural Networks written in Vim script |
 | 46 | [sunaku/vim-unbundle](https://github.com/sunaku/vim-unbundle) | 95 | 6 | 0 | — | 2022-08-21 | 🎁 Fast, filetype-lazy loader of Vim scripts & plugins |
 | 47 | [davidbeckingsale/writegood.vim](https://github.com/davidbeckingsale/writegood.vim) | 94 | 15 | 1 | — | 2018-05-31 | Vim plugin for Matt Might's '3 shell scripts that can improve your writing' |
-| 48 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 91 | 13 | 5 | MIT | 2025-11-25 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
+| 48 | [qpkorr/vim-renamer](https://github.com/qpkorr/vim-renamer) | 91 | 13 | 3 | MIT | 2026-11-28 | Git repo for http://www.vim.org/scripts/script.php?script_id=1721 |
 | 49 | [vim-scripts/bash-support.vim](https://github.com/vim-scripts/bash-support.vim) | 91 | 27 | 0 | — | 2014-04-23 | BASH IDE -- Write and run BASH-scripts using menus and hotkeys. |
 | 50 | [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) | 91 | 4 | 1 | MIT | 2025-07-06 | Vim wrapper for ShellCheck, a static analysis tool for shell scripts. |
 | 51 | [mfukar/robotframework-vim](https://github.com/mfukar/robotframework-vim) | 90 | 58 | 4 | — | 2018-02-06 | Some vim scripts for use with the Robot framework. |

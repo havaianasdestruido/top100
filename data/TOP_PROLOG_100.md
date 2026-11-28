@@ -1,6 +1,6 @@
 # Top 100 Prolog repositories on GitHub
 
-Ranked by stars. GitHub reports **40,689** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
+Ranked by stars. GitHub reports **40,694** total repositories matching `language:Prolog`. Generated automatically by the `top-repos` workflow.
 
 | # | Repository | ⭐ Stars | 🍴 Forks | 🐛 Open Issues | License | Last Push | Description |
 |---|---|---|---|---|---|---|---|
@@ -18,14 +18,14 @@ Ranked by stars. GitHub reports **40,689** total repositories matching `language
 | 12 | [LPCIC/elpi](https://github.com/LPCIC/elpi) | 387 | 51 | 62 | LGPL-2.1 | 2026-11-25 | Embeddable Lambda Prolog Interpreter |
 | 13 | [ciao-lang/ciao](https://github.com/ciao-lang/ciao) | 355 | 24 | 49 | LGPL-3.0 | 2025-06-21 | Ciao is a modern Prolog implementation that builds up from a logic-based simple kernel designed to be portable, exten... |
 | 14 | [rollecode/weed](https://github.com/rollecode/weed) | 347 | 33 | 0 | — | 2025-11-08 | Heavily Xchat inspired beautiful irssi theme. |
-| 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 294 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
+| 15 | [Seeker04/plwm](https://github.com/Seeker04/plwm) | 295 | 8 | 36 | MIT | 2026-04-13 | An X11 window manager written in Prolog |
 | 16 | [dragonwasrobot/learn-prolog-now-exercises](https://github.com/dragonwasrobot/learn-prolog-now-exercises) | 293 | 84 | 10 | — | 2023-07-11 | My solutions to the exercises and practical sessions of the book 'Learn Prolog Now!' by Patrick Blackburn, Johan Bos,... |
 | 17 | [c-cube/datalog](https://github.com/c-cube/datalog) | 286 | 27 | 2 | BSD-2-Clause | 2026-11-02 | An in-memory datalog implementation for OCaml. |
 | 18 | [andrealani/COOLFluiD](https://github.com/andrealani/COOLFluiD) | 270 | 86 | 12 | LGPL-3.0 | 2026-11-20 | The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at t... |
 | 19 | [SuperDisk/tar.pl](https://github.com/SuperDisk/tar.pl) | 263 | 7 | 0 | — | 2023-01-22 | tar creator+extractor in ~100 lines of prolog |
 | 20 | [pebri86/esplay_micro_hardware](https://github.com/pebri86/esplay_micro_hardware) | 262 | 54 | 1 | — | 2019-11-26 | Micro version of esplay hardware, ESP32 based gaming console |
 | 21 | [sebschub/FontPro](https://github.com/sebschub/FontPro) | 250 | 43 | 19 | — | 2017-08-25 | LaTeX support for Adobe's Pro opentype fonts: Minion Pro, Myriad Pro, Cronos Pro and possibly more |
-| 22 | [Attempto/APE](https://github.com/Attempto/APE) | 231 | 34 | 16 | NOASSERTION | 2024-04-21 | Parser for Attempto Controlled English (ACE) |
+| 22 | [Attempto/APE](https://github.com/Attempto/APE) | 232 | 34 | 16 | NOASSERTION | 2024-04-21 | Parser for Attempto Controlled English (ACE) |
 | 23 | [triska/clpz](https://github.com/triska/clpz) | 215 | 15 | 29 | — | 2024-02-05 | Constraint Logic Programming over Integers |
 | 24 | [metagol/metagol](https://github.com/metagol/metagol) | 212 | 28 | 3 | BSD-3-Clause | 2021-09-13 | Metagol - an inductive logic programming system |
 | 25 | [QuantumVillage/UncutGem](https://github.com/QuantumVillage/UncutGem) | 212 | 42 | 6 | AGPL-3.0 | 2026-01-20 | A prototype Full Stack fully Open Source NV Center Diamond Magnetometer |
